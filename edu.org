@@ -8373,7 +8373,14 @@ Major Structures of Emac
 
 
 *** Windows::             
-*** Frames::              
+*** Frames::
+    C-x 5 2 (for make-frame)
+    C-x 5 o Move to other frame.
+    C-x 5 0 Delete current frame.
+    C-x 5 f Find file in a new frame
+    C-x 5 r
+    C-x 5 b Make frame and display other buffer in it.
+
 *** International::       
                         
 Advanced Features       
