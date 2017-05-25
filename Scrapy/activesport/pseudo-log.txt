@@ -1,0 +1,436 @@
+"""
+Pseudo-log:
+INFO: "&&Visited on /Bikes and Frames"
+INFO: "&&The second level section /Bikes"
+INFO: "&&The second level section /Frames"
+INFO: "&&The second level section /Scooters"
+INFO: "&&Visited on /Bikes"
+INFO: "The third level is /Balance Bikes"
+INFO: "The third level is /Bmx Bikes"
+INFO: "The third level is /Electric Bikes"
+INFO: "The third level is /Folding Shopping Bikes"
+INFO: "The third level is /Hybrid Commuter City Bikes"
+INFO: "The third level is /Jump -Trials Bikes"
+...More
+
+INFO: "&&Visited on /Balance Bikes"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Bmx Bikes"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Electric Bikes"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Folding Shopping Bikes"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Hybrid Commuter City Bikes"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Jump - Trial Bikes"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Frames"
+INFO: "The third level is /Road"
+INFO: "The third level is /Mountain Hardail"
+INFO: "The third level is /Mountain Full Suspension"
+INFO: "The third level is /Cross"
+INFO: "&&Visited on /Road"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Mountain Hardail"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Mountain Full Suspension"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Cross"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Scooters"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Accessories"
+INFO: "&&The second level section /Bags and Luggage"
+INFO: "&&The second level section /Computers, GPS"
+...More
+INFO: "&&Visited on Bags and Luggage"
+INFO: "The third level is /Backpack"
+INFO: "The third level is /Baskets"
+INFO: "The third level is /Handlebar Bags"
+INFO: "&&Visited on /Backpack"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Baskets"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Handlebar Bags"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on Computers, GPS"
+INFO: "The third level is /Computers Spares"
+INFO: "The third level is /Computers"
+INFO: "&&Visited on /Computers Spares"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Computers"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Components"
+INFO: "&&The second level section /Bar Tape"
+INFO: "&&The second level section /Bottom Bracket"
+INFO: "&&The second level section /Chain"
+INFO: "&&The second level section /Chain Device"
+INFO: "&&The second level section /Derailleurs"
+INFO: "&&The second level section /Fox Spares"
+
+INFO: "&&Visited on /Bar Tape"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Bottom Bracket"
+INFO: "The third level is /Bottom Bracket"
+INFO: "The third level is /Bottom Bracket Spares"
+INFO: "&&Visited on /Bottom Bracket"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Chain"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Chain Device"
+INFO: "The third level is /Chain Device"
+INFO: "The third level is /Chain Device Spares"
+INFO: "&&Visited on /Chain Device"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Chain Device Spares"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Derailleurs"
+INFO: "The third level is /Derailleur Jockey Wheels"
+INFO: "The third level is /Derailleurs Front"
+INFO: "The third level is /Derailleurs Rear"
+INFO: "The third level is /Derailleurs Spares"
+INFO: "&&Visited on /Derailleur Jockey Wheels"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Derailleurs Front"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "&&Visited on /Derailleurs Rear"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Derailleurs Spares"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Fox Spares"
+INFO: "The third level is /Fox Decalc / Stickers"
+INFO: "The third level is /Fox Oil / Lubricants"
+INFO: "The third level is /Fox Rear Shock Spares"
+INFO: "&&Visited on /Fox Decalc / Stickers"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "&&Visited on /Fox Oil / Lubricants"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "&&Visited on /Fox Rear Shock Spares"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+.....More
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "Visited on /Apparel"
+INFO: "&&The second level section /Apparel Care Product"
+INFO: "&&The second level section /Gloves"
+INFO: "&&The second level section /Hats"
+INFO: "&&The second level section /Hoody"
+INFO: "&&The second level section /Jersey"
+
+INFO: "&&Visited on /Apparel Care Products"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Gloves"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Hats"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Hoody"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Jersey"
+INFO: "The third level is /Short Sleeve"
+INFO: "The third level is /Long Sleeve"
+....More
+INFO: "&&Visited on /Short Sleeve"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Long Sleeve"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "Visited on /Tech"
+INFO: "&&The second level section /Crank Brothers Manual"
+INFO: "&&The second level section /Tacx Repair Stands Spare"
+INFO: "&&The second level section /Middleburn Manuals"
+INFO: "&&The second level section /Thule Chairot Trailers"
+INFO: "&&The second level section /Tacx Trainer Spare Parts Manual"
+INFO: "&&The second level section /Hope Manuals"
+
+INFO: "&&Visited on /Crank Brothers Manual"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Tacx Repair Stands Spare"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Middleburn Manual"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+INFO: "&&Visited on /Thule Chariot Trailers"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Tacx Trainer Spare Parts Manual"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+
+
+INFO: "&&Visited on /Hope Manuals"
+INFO: "Going to the item's page"
+INFO: "This is item's page"
+INFO: "The item's parse function"
+[title:]
+INFO: "This is the next item's page"
+INFO: "The item's parse function"
+[title]
+"""
