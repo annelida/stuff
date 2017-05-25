@@ -76,6 +76,7 @@
 (require 'key-chord)
     (key-chord-mode 1)
     (key-chord-define-global "QQ"     'voca-builder/search-popup)
+    (key-chord-define-global "FF"     'other-frame)
 ;;
 (setq elfeed-feeds
       '("http://nullprogram.com/feed/"
