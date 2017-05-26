@@ -20640,6 +20640,10 @@ console.log(min(0, -10));
 
    #+END_SRC
 
+** jQuery scroll to bottom of page/frame
+
+   $(window).scrollTop($(document).height());
+
 * RDBMS
 
 ** MySQL
