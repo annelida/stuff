@@ -8372,7 +8372,10 @@ Major Structures of Emac
      (‘Buffer-menu-backup-unmark’).
 
 
-*** Windows::             
+*** Windows::
+    C-M-v scroll-other-window
+    C-x 4 f find-file-other-window
+    C-x 4 b switch-to-buffer-other-window
 *** Frames::
     C-x 5 2 (for make-frame)
     C-x 5 o Move to other frame.
