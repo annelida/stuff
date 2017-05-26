@@ -20621,6 +20621,25 @@ console.log(min(0, -10));
    |                  |        | rotated                                    |
    | onscroll         | script | Triggers when an element's scrollbar is    |
    |                  |        | being scrolled                             |
+* jQuery
+
+** Include jQuery in JavaScript console
+
+   Run this in your browser's JavaScript console, then jQuery should
+   be available...
+
+   #+BEGIN_SRC js :cmd "nodejs"
+   javascript: (function(e, s) {
+       e.src = s;
+       e.onload = function() {
+           jQuery.noConflict();
+           console.log('jQuery injected');
+       };
+       document.head.appendChild(e);
+   })(document.createElement('script'), '//code.jquery.com/jquery-latest.min.js')
+
+   #+END_SRC
+
 * RDBMS
 
 ** MySQL
