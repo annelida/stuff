@@ -56,6 +56,22 @@ engineering
    cd /home/vikky/Desktop/python-amazon-product-api/
    pip install python-amazon-product-api
    #+END_SRC
+** TODO Technical specification
+   1. Project goal: data gathering product's reviews from
+      http://amazon.com by ASIN using API.
+   2. Data model:
+      - aggregate rating;
+      - product name;
+      - product price
+      - rating;
+      - review header;
+      - review posted date;
+      - review text 1;
+      - review text 2;
+      - review comments;
+      - review author;;
+      - review text 3
+
 
 ** TODO Start collection of data
 ** TODO Compose data model
