@@ -1,0 +1,56 @@
+Details
+
+This code scrapes Amazon.com product reviews from the a single page:
+
+' http://bit.ly/2qJl4Ol ' (link to github)
+
+Your task is to add the following capabilities:
+
+1. Pagination support (scrape past first/single page)
+2. Process multi-threading
+3. Task queue / pipeline
+4. IP rotation ( API provided by http://proxymesh.com/http-client-examples/ )
+
+We modified the original script (attached) to perform several additional functions with the data after it collects it but the scraping function is basically the same.
+
+Please contact me if interested.
+
+Thank you,
+
+- Admin
+
+Proposal:
+
+Hi! Brief code overview disclose to me a main idea: review gathering
+by product ASIN. With now doubt HTML scrapping is a challenging task
+and it would require much more efforts than you're might expected.
+Fortunately there are a plenty of pure Pythonic tools which should
+help you to solve this task in a bit neat way:
+
+1. Scrapy implements a sophisticated HTML web scrapping with all
+required options:
+ - multithreading;
+ - proxificaton;
+ - automation etc.
+
+2. Exactly for convenience in gathering data about the selling
+products Amazon provide a free API http://amzn.to/2r5idkO and it
+habitually used by several Python frameworks:
+ - https://python-amazon-product-api.readthedocs.io/en/latest/
+ - etc.
+ 
+I think that using of a free API in this case is most native (proposed
+by Amazon) effective, because it is already implemented and debugged
+in an existing library (python-amazon-product-api).
+
+Thus I would glad to develop your idea in a week and 50$.
+
+Cheers, Vikky
+
+engineering
+* TODO Amazon credentials
+** TODO Studying necessary library: https://python-amazon-product-api.readthedocs.io/en/latest/
+** TODO Installation python-amazon-product-api
+** TODO Start collection of data
+** TODO Compose data model
+
