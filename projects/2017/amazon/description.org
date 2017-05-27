@@ -51,6 +51,12 @@ engineering
 * TODO Amazon credentials
 ** TODO Studying necessary library: https://python-amazon-product-api.readthedocs.io/en/latest/
 ** TODO Installation python-amazon-product-api
+
+   #+BEGIN_SRC shell :results output
+   cd /home/vikky/Desktop/python-amazon-product-api/
+   pip install python-amazon-product-api
+   #+END_SRC
+
 ** TODO Start collection of data
 ** TODO Compose data model
 
