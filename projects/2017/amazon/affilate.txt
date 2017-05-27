@@ -3,12 +3,14 @@ Hello
 I've just reviewed Amazon affilate program and took an attempt to
 participate there. Unfortunately it is impossible to me to verify
 identity there. Perhaps it is so because my phone is Ukrainian and I
-trying to affilate with US Amazon web store.
+trying to affilate with US Amazon web store. Could you review a
+screenshot below, please?
 
 https://nimbus.everhelper.me/client/notes/share/936063/9kh62ibwnzon8g2dbg2e
 
 Could you try to register on Amazon affilate program by yourself,
-please? This is a link to follow:
+please? It is absolutely costless and in certain circumstances should
+be as a nudge into right direction to you also. This is a link to follow:
 
 https://affiliate-program.amazon.com/
 
@@ -21,14 +23,14 @@ config = {
     'locale': 'us'
 }
 
-If access_key, secret_key you'll get after successful registration, an
+If access_key and secret_key you'll get after successful registration, an
 associate_tag you'll define by yourself during this procedure.
 
 In any case an exhaustive tuturial is there:
 
 http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/GettingStarted.html
 
-Take a closer look at:
+Please, take a closer look at:
 
 http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/GettingStarted.html#BecomingDev
 http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/GettingStarted.html#BecominganAssociate
