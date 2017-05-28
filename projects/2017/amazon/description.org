@@ -50,12 +50,39 @@ Cheers, Vikky
 engineering
 * TODO Amazon credentials
 ** TODO Studying necessary library: https://python-amazon-product-api.readthedocs.io/en/latest/
-** TODO Installation python-amazon-product-api
+** DONE Installation python-amazon-product-api
+   CLOSED: [2017-05-28 Sun 07:28]
 
    #+BEGIN_SRC shell :results output
    cd /home/vikky/Desktop/python-amazon-product-api/
    pip install python-amazon-product-api
    #+END_SRC
+** DONE First API request
+   CLOSED: [2017-05-28 Sun 07:32]
+   #+BEGIN_SRC python :results output
+   import amazonproduct
+
+   config = {
+    'access_key': '...', 'secret_key': '...', 'associate_tag': '...', 'locale': 'us'
+}
+
+   api = amazonproduct.API(cfg=config)
+   items = api.item_search('Books', Publisher="O'Reilly")
+   # get all books from result set and
+   # print author and title
+   for book in items:
+       print '%s: "%s"' % (book.ItemAttributes.Author,
+                           book.ItemAttributes.Title)
+   #+END_SRC
+
+   #+RESULTS:
+   : Drew Conway: "Machine Learning for Hackers: Case Studies and Algorithms to Get You Started"
+   : David Wood: "Programming Internet Email: Mastering Internet Messaging Systems"
+   : Dr. Richard Elwes: "Maths 1001"
+   : Reg Green: "Nicholas Effect : A Boy's Gift to the World"
+   : Ken Getz: "Access Cookbook (O'Reilly Windows)"
+   : Tom Christiansen: "Learning Perl, Second Edition (Nutshell Handbooks)"
+
 ** TODO Technical specification
    1. Project goal: data gathering product's reviews from
       http://amazon.com by ASIN using API.
