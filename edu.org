@@ -18820,21 +18820,27 @@ print iterative_factorial(5)
 
 ** virtualenv
 
-Install virtualenv via pip:
+*** Installation
 
-$ pip install virtualenv
+ Install virtualenv via pip:
 
-Create a virtual environment for a project:
+ $ pip install virtualenv
 
-$ cd my_project_folder
-$ virtualenv venv
+ Create a virtual environment for a project:
+
+ $ cd my_project_folder
+ $ virtualenv venv
 
 
-You can also use a Python interpreter of your choice.
+ You can also use a Python interpreter of your choice.
 
-$ virtualenv -p /usr/bin/python2.7 venv
+ $ virtualenv -p /usr/bin/python2.7 venv
 
-virtualenv -p /usr/bin/python3 venv
+ virtualenv -p /usr/bin/python3 venv
+
+*** Configuration
+    It is resonsble to install virualenv in
+    /usr/local/share/venvs/project_name
 
 ** Selenium
 *** How install chromedriver
