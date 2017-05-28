@@ -134,7 +134,23 @@ engineering
    : 4. 'Fire HD 8 Tablet with Alexa, 8" HD Display, 16 GB, Black - with Special Offers (Previous Generation - 6th)'
    : 5. 'Fire Tablet with Alexa, 7" Display, 8 GB, Black - with Special Offers (Previous Generation - 5th)'
 
+   Reviews
 
+   #+BEGIN_SRC python :results output
+   from amazon.api import AmazonAPI
+   AMAZON_ACCESS_KEY = ' '
+   AMAZON_SECRET_KEY = ' '
+   AMAZON_ASSOC_TAG = ' '
+   amazon = AmazonAPI(AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY,
+                       AMAZON_ASSOC_TAG, region="US")
+   product = amazon.lookup(ItemId='B00EOE0WKQ'
+   print product.reviews
+   #+END_SRC
+
+   #+RESULTS:
+   : (True,
+   : 'https://www.amazon.com/reviews/iframe?akid=AKIAJRXZSV6WYZQHOCYQ&alinkCode=xm2&asin=B00EOE0WKQ&atag=
+   : productconten-20&exp=2017-05-29T06%3A52%3A08Z&v=2&sig=S8hAtzx8vJbZpTeSRi6GJWorc5ySf513kyo9iEd%252BIcc%253D')
 
 ** TODO Technical specification
    1. Project goal: data gathering product's reviews from
