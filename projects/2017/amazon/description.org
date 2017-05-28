@@ -151,7 +151,14 @@ engineering
    : (True,
    : 'https://www.amazon.com/reviews/iframe?akid=AKIAJRXZSV6WYZQHOCYQ&alinkCode=xm2&asin=B00EOE0WKQ&atag=
    : productconten-20&exp=2017-05-29T06%3A52%3A08Z&v=2&sig=S8hAtzx8vJbZpTeSRi6GJWorc5ySf513kyo9iEd%252BIcc%253D')
-
+** TODO Security settings
+   Goal - separate security data from the main code without losing its
+   ability to work.
+   1. Transfer the security data to a separate file like settings.py
+   2. Check ability to work with import credentials from the settings.py
+   3. To achieve invisibility.
+** TODO Separate venv for this project
+*** requirements.txt
 ** TODO Technical specification
    1. Project goal: data gathering product's reviews from
       http://amazon.com by ASIN using API.
