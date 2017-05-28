@@ -107,6 +107,35 @@ engineering
    #+RESULTS:
    : 'Amazon Fire Phone, 32GB (AT&T)'
 
+   Lookup and search operations
+
+   item_search() is the operation that is used most often in requests.
+
+   Use the search index, Toys, and the parameter, Keywords, to return
+   information about all Kindle sold in by Amazon.
+
+   #+BEGIN_SRC python :results output
+   from amazon.api import AmazonAPI
+   AMAZON_ACCESS_KEY = ' '
+   AMAZON_SECRET_KEY = ' '
+   AMAZON_ASSOC_TAG = ' '
+   amazon = AmazonAPI(AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY,
+                       AMAZON_ASSOC_TAG, region="US")
+   products = amazon.search(Keywords='kindle', SearchIndex='All')
+   for i, product in enumerate(products):
+       print "{0}. '{1}'".format(i, product.title)
+   #+END_SRC
+
+   #+RESULTS:
+   : 0. 'Kindle Paperwhite E-reader - Black, 6" High-Resolution Display (300 ppi) with Built-in Light, Wi-Fi - Includes Special Offers'
+   : 1. 'Kindle E-reader - Black, 6" Glare-Free Touchscreen Display, Wi-Fi -  Includes Special Offers'
+   : 2. 'All-New Fire 7 Tablet with Alexa, 7" Display, 8 GB, Black - with Special Offers'
+   : 3. 'Kindle Voyage E-reader, 6" High-Resolution Display (300 ppi) with Adaptive Built-in Light, PagePress Sensors, Wi-Fi - Includes Special Offers'
+   : 4. 'Fire HD 8 Tablet with Alexa, 8" HD Display, 16 GB, Black - with Special Offers (Previous Generation - 6th)'
+   : 5. 'Fire Tablet with Alexa, 7" Display, 8 GB, Black - with Special Offers (Previous Generation - 5th)'
+
+
+
 ** TODO Technical specification
    1. Project goal: data gathering product's reviews from
       http://amazon.com by ASIN using API.
