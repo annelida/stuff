@@ -8345,6 +8345,10 @@ My name is Viktoriia Kosinova. I recently in Upwork. But I am very interested in
 *** Keyboard Macros::     
                         
 Major Structures of Emac
+*** DONE Checking spelling
+    CLOSED: [2017-05-28 Sun 12:58]
+    Ispell
+    Type: Esc x ispell-buffer(word, region ...) Enter
 *** Files::               
 *** Buffers::
     ‘C-x b BUFFER <RET>’  (‘switch-to-buffer’).
