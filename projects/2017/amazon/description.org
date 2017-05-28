@@ -82,6 +82,30 @@ engineering
    : Reg Green: "Nicholas Effect : A Boy's Gift to the World"
    : Ken Getz: "Access Cookbook (O'Reilly Windows)"
    : Tom Christiansen: "Learning Perl, Second Edition (Nutshell Handbooks)"
+** TODO Operations
+   Any operation listed in the API documentation can thus be called
+   with call(). To look up information on an article, one could for
+   instance call ItemLookup:
+
+   #+BEGIN_SRC python :results output
+   api.call(Operation='ItemLookup', ItemId='B000080E6I')
+   #+END_SRC
+
+   Example:
+
+   #+BEGIN_SRC python :results output
+   from amazon.api import AmazonAPI
+   AMAZON_ACCESS_KEY = ' '
+   AMAZON_SECRET_KEY = ' '
+   AMAZON_ASSOC_TAG = ' '
+   amazon = AmazonAPI(AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY,
+                       AMAZON_ASSOC_TAG, region="US")
+   product = amazon.lookup(ItemId='B00EOE0WKQ'
+   print product.title
+   #+END_SRC
+
+   #+RESULTS:
+   : 'Amazon Fire Phone, 32GB (AT&T)'
 
 ** TODO Technical specification
    1. Project goal: data gathering product's reviews from
