@@ -33,6 +33,9 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(Info-default-directory-list (quote ("/usr/share/info/emacs-25/")))
+ '(org-agenda-files
+   (quote
+    ("/home/vikky/Desktop/DVCS/stuff/edu.org" "/home/vikky/Desktop/DVCS/stuff/vocabulary.org" "/home/vikky/Desktop/DVCS/stuff/projects/2017/amazon/description.org")))
  '(org-confirm-babel-evaluate nil)
  '(package-selected-packages
    (quote
@@ -92,7 +95,8 @@
 
 (setq org-agenda-files (list "/home/vikky/Desktop/DVCS/stuff/edu.org"
                              "/home/vikky/Desktop/DVCS/stuff/soft/soft.org"
-			     "/home/vikky/Desktop/DVCS/stuff/vocabulary.org"))
+			     "/home/vikky/Desktop/DVCS/stuff/vocabulary.org"
+			     "/home/vikky/Desktop/DVCS/stuff/projects/2017/amazon/description.org"))
 (define-key global-map "\C-ca" 'org-agenda)
 (setq org-log-done t)
 
