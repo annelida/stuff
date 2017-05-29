@@ -14953,7 +14953,31 @@ Be careful not to fall off!
      : 0.0494728088379
 
 **** 10.11. Quality Control 
-**** 10.12. Batteries Included 
+**** 10.12. Batteries Included
+**** DONE Unittest
+     CLOSED: [2017-05-29 Mon 09:47]
+     unittest is the batteries-included test module in the Python
+     standard library.
+     Creating test cases is accomplished by subclassing unittest.TestCase.
+
+     #+BEGIN_SRC python :results output
+     import unittest
+
+     def fun(x):
+         return x + 1
+
+     class MyTest(unittest.TestCase):
+         def test(self):
+             self.assertEqual(fun(3), 4)
+     if __name__ == "__main__":
+         unittest.main()
+     #+END_SRC
+
+     #+RESULTS:
+     : ----------------------------------------------------------------------
+     : Ran 1 test in 0.002s
+
+     : OK
 
 *** 11. Brief Tour of the Standard Library — Part II
 
