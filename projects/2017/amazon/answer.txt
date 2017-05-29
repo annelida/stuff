@@ -1,0 +1,17 @@
+Hi, Vladimir
+
+Tomorrow, I'll investigate the API data structure and compare the data
+that is extracted by the code you provide and data that extracted
+using Amazon Scraper framework.
+
+Also, I'll measure:
+- the time required for processing one request
+- the speed of processing 100 requests.
+
+In the future this will allow me to understand which of the
+existing methods in this project can be applied to obtain the optimal
+results.
+
+Best regards,
+Vikky.
+
