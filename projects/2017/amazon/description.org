@@ -159,6 +159,26 @@ engineering
    3. To achieve invisibility.
 ** TODO Separate venv for this project
 *** requirements.txt
+    In order to keep your environment consistent, it’s a good idea to
+    “freeze” the current state of the environment packages. To do
+    this, run:
+
+    #+BEGIN_SRC shell :results output
+    pip freeze > requirements.txt
+    #+END_SRC
+
+    This will create a requirements.txt file, which contains a simple
+    list of all the packages in the current environment, and their
+    respective versions.
+
+    Later it will be easier for a different developer (or you, if you
+    need to re-create the environment) to install the same packages
+    using the same versions:
+
+    #+BEGIN_SRC shell :results output
+    pip install -r requirements.txt
+    #+END_SRC
+
 ** TODO Technical specification
    1. Project goal: data gathering product's reviews from
       http://amazon.com by ASIN using API.
