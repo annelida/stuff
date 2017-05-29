@@ -15128,6 +15128,49 @@ Be careful not to fall off!
      : Thread-2: Mon May 29 10:51:22 2017
      : Thread-2: Mon May 29 10:51:26 2017
 
+
+     The simplest way to use a Thread is to instantiate it with a
+     target function and call start() to let it begin working.
+
+     #+BEGIN_SRC python :results output
+     import threading
+
+     def worker():
+         """thread worker function"""
+	 print 'Worker'
+	 return
+
+     def student():
+         """thread student function"""
+	 print 'Student'
+	 return
+
+     threads = []
+     for i in range(5):
+         t1 = threading.Thread(target=worker)
+	 t2 = threading.Thread(target=student)
+         threads.append(t1)
+	 threads.append(t2)
+         t1.start()
+	 t2.start()
+
+     #+END_SRC
+
+     #+RESULTS:
+     #+begin_example
+     Worker
+     Student
+     Worker
+     Student
+     Worker
+     Student
+     Worker
+     Student
+     Worker
+     Student
+#+end_example
+
+
 **** 11.5. Logging 
 **** 11.6. Weak References 
 **** 11.7. Tools for Working with Lists
