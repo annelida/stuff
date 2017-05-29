@@ -1,0 +1,7 @@
+argparse==1.2.1
+bottlenose==1.1.2
+lxml==3.7.3
+python-amazon-simple-product-api==2.2.11
+python-dateutil==2.6.0
+six==1.10.0
+wsgiref==0.1.2
