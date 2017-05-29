@@ -15071,8 +15071,63 @@ Be careful not to fall off!
      : img_1076.jpg --> Ashley_1.jpg
      : img_1077.jpg --> Ashley_2.jpg
 
-**** 11.3. Working with Binary Data Record Layouts 
-**** 11.4. Multi-threading 
+**** 11.3. Working with Binary Data Record Layouts
+**** Multiprocessing
+**** 11.4. Multi-threading
+     Running several threads is similar to running several different
+     programs concurrently. A thread has a beginning, an execution
+     sequence, and a conclusion. It has an instruction pointer that
+     keeps track of where within its context it is currently running.
+
+     - It can be pre-empted (interrupted)
+
+     - It can temporarily be put on hold (also known as sleeping)
+       while other threads are running - this is called yielding.
+
+     To spawn another thread, you need to call following method available in
+     thread module:
+
+     #+BEGIN_SRC python :results output
+     thread.start_new_thread ( function, args[, kwargs] )
+     #+END_SRC
+
+     #+BEGIN_SRC python :results output
+     #!/usr/bin/python
+
+     import thread
+     import time
+
+     # Define a function for the thread
+     def print_time(threadName, delay):
+         count = 0
+	 while count < 5:
+             time.sleep(delay)
+             count += 1
+             print "%s: %s" % (threadName, time.ctime(time.time()))
+     # Create two threads as follows
+     try:
+         thread.start_new_thread(print_time, ("Thread-1", 2, ))
+         thread.start_new_thread(print_time, ("Thread-2", 4, ))
+     except:
+         print "Error: unable to start thread"
+
+     while 1:
+         pass
+
+     #+END_SRC
+
+     #+RESULTS:
+     : Thread-1: Mon May 29 10:51:08 2017
+     : Thread-2: Mon May 29 10:51:10 2017
+     : Thread-1: Mon May 29 10:51:10 2017
+     : Thread-1: Mon May 29 10:51:12 2017
+     : Thread-2: Mon May 29 10:51:14 2017
+     : Thread-1: Mon May 29 10:51:14 2017
+     : Thread-1: Mon May 29 10:51:16 2017
+     : Thread-2: Mon May 29 10:51:18 2017
+     : Thread-2: Mon May 29 10:51:22 2017
+     : Thread-2: Mon May 29 10:51:26 2017
+
 **** 11.5. Logging 
 **** 11.6. Weak References 
 **** 11.7. Tools for Working with Lists
