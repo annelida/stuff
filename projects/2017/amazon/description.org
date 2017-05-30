@@ -197,5 +197,29 @@ engineering
 
 
 ** TODO Start collection of data
+
+** TODO Amazon Scraper
+   Create API instance
+   Search:
+   #+BEGIN_SRC python :results output
+   from __future__ import print_function
+   from amazon_scraper import AmazonScraper
+   from settings import AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG
+   import itertools
+
+   amzn = AmazonScraper(AMAZON_ACCWSS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG, Region='US', MaxQPS=0.9, Timeout=5.0)
+   for p in itertools.islice(amzn.search(Keywords='python', SearchIndex='Books'), 5):
+       print(p.title)
+
+   #+END_SRC
+
+   #+RESULTS:
+   : Python Crash Course: A Hands-On, Project-Based Introduction to Programming
+   : Python: Programming: Your Step By Step Guide To Easily Learn Python in 7 Days (Python for Beginners, Python Programming for Beginners, Learn Python, Python Language)
+   : Python Programming: An In-Depth Guide Into The Essentials Of Python Programming
+   : Automate the Boring Stuff with Python: Practical Programming for Total Beginners
+   : Learning Python, 5th Edition
+
+
 ** TODO Compose data model
 
