@@ -290,6 +290,38 @@ engineering
    : 'B001CJXD48',
    : '0441444822']
 
+   Review API
+
+   #+BEGIN_SRC python :results output
+   from amazon_scraper import AmazonScraper
+   from settings import AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG
+   import itertools
+
+   amzn = AmazonScraper(AMAZON_ACCWSS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG, Region='US', MaxQPS=0.9, Timeout=5.0)
+   p = amzn.lookup(ItemId='B0051QVF7A')
+   rs = p.views()
+   print rs.asin
+   print rs.ids
+   print rs.url
+   #+END_SRC
+
+   #+RESULTS:
+   : 'B0051QVF7A'
+
+   : [u'R2EMBOVES0EMTD',
+   : u'RQJHLAX10U5QD',
+   : u'R39SDRPAAQ5A3R',
+   : u'R20UMQMIV6WNG3',
+   : u'R2DX9VVGZHG3US',
+   : u'R3RYMESPWNE136',
+   : u'RDFYK2Z8TG1L7',
+   : u'R1W08TVN7ZHQQ5',
+   : u'R3QECQ7GY1QT2M',
+   : u'R2VBSN94RC7F6I']
+
+   : 'http://www.amazon.com/product-reviews/B0051QVF7A/ref=cm_cr_pr_top_sort_recent?&sortBy=bySubmissionDateDescending'
+
+
 
 
 ** TODO Compose data model
