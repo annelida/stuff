@@ -235,6 +235,22 @@ engineering
    #+RESULTS:
    : 'The Mirrored Heavens (The Autumn Rain trilogy Book 1)'
 
+   Batch Lookups:
+
+   #+BEGIN_SRC python :results output
+   from amazon_scraper import AmazonScraper
+   from settings import AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG
+   import itertools
+
+   amzn = AmazonScraper(AMAZON_ACCWSS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG, Region='US', MaxQPS=0.9, Timeout=5.0)
+   for p in amzn.lookup(ItemId='B0051QVF7A,B007HCCNJU,B00BTI6HBS'):
+       print(p.title)
+   #+END_SRC
+
+   #+RESULTS:
+   : Kindle, Wi-Fi, 6" E Ink Display - for international shipment
+   : Kindle, 6" E Ink Display, Wi-Fi - Includes Special Offers
+   : (Previous Generation - 5th)
 
 
 ** TODO Compose data model
