@@ -269,6 +269,28 @@ engineering
    #+RESULTS
    : 'Kindle, Wi-Fi, 6" E Ink Display - for international shipment'
 
+   Alternative Bindings::
+
+   #+BEGIN_SRC python :results output
+   from amazon_scraper import AmazonScraper
+   from settings import AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG
+   import itertools
+
+   amzn = AmazonScraper(AMAZON_ACCWSS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG, Region='US', MaxQPS=0.9, Timeout=5.0)
+   p = amzn.lookup(ItemId='B000GRFTPS')
+   print p.alternatives
+   #+END_SRC
+
+   #+RESULTS:
+   : ['B009LA6US6',
+   : '1516985974',
+   : 'B00J5RQGYI',
+   : '178227376X',
+   : '1482998750',
+   : 'B001CJXD48',
+   : '0441444822']
+
+
 
 ** TODO Compose data model
 
