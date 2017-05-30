@@ -220,6 +220,22 @@ engineering
    : Automate the Boring Stuff with Python: Practical Programming for Total Beginners
    : Learning Python, 5th Edition
 
+   Lookup by ASIN:
+
+   #+BEGIN_SRC python :results output
+   from amazon_scraper import AmazonScraper
+   from settings import AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG
+   import itertools
+
+   amzn = AmazonScraper(AMAZON_ACCWSS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG, Region='US', MaxQPS=0.9, Timeout=5.0)
+   p = amzn.lookup(ItemId='B00FLIJJSA')
+   print p.title
+   #+END_SRC
+
+   #+RESULTS:
+   : 'The Mirrored Heavens (The Autumn Rain trilogy Book 1)'
+
+
 
 ** TODO Compose data model
 
