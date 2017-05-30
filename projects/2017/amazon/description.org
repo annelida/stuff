@@ -252,6 +252,23 @@ engineering
    : Kindle, 6" E Ink Display, Wi-Fi - Includes Special Offers
    : (Previous Generation - 5th)
 
+   By URL:
+
+   #+BEGIN_SRC python :results output
+   from amazon_scraper import AmazonScraper
+   from settings import AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG
+   import itertools
+
+   amzn = AmazonScraper(AMAZON_ACCWSS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG, Region='US', MaxQPS=0.9, Timeout=5.0)
+
+   p = amzn.lookup(URL='http://www.amazon.com/Kindle-Wi-Fi-Ink-Display-international/dp/B0051QVF7A/ref=cm_cr_pr_product_top')
+   print p.title
+
+   #+END_SRC
+
+   #+RESULTS
+   : 'Kindle, Wi-Fi, 6" E Ink Display - for international shipment'
+
 
 ** TODO Compose data model
 
