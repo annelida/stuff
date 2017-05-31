@@ -77,6 +77,20 @@ class InitialAmazonScraperTest(unittest.TestCase):
         for name in names:
             self.assertTrue(name in dir(self.product_reviews))
 
+    def test_reviews_content(self):
+        reviews = self.product.reviews()
+        for i in reviews:
+            sample_review = i
+            review_properties = dir(sample_review)
+            break
+        # print(dir(sample_review))
+        review_properties_list = ['api', 'asin', 'date', 'full_review', 'id', 'name', 'rating', 'soup',
+                                  'text', 'title', 'to_dict', 'url', 'user_id', 'user_reviews',
+                                  'user_reviews_url']
+        for i in review_properties_list:
+            self.assertTrue(i in review_properties)
+
+
     def tearDown(self):
         del(self.product)
         del(self.product_reviews)
