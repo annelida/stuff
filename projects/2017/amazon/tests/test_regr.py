@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 import unittest
-from miner import sample_lookup
+from miner import sample_lookup, sample_scraper
 from settings import AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG
+
 
 class CredentialTest(unittest.TestCase):
 
@@ -29,3 +30,21 @@ class InitialAmazonAPITest(unittest.TestCase):
     def tearDown(self):
         del(self.product)
 
+
+class InitialAmazonScraperTest(unittest.TestCase):
+    """How scraper works out from the box"""
+
+    def setUp(self):
+        self.product = sample_scraper('B00EOE0WKQ')
+
+    def test_simple_query_number_properties(self):
+        self.assertEqual(len(dir(self.product)), 39)
+
+    def test_properties_names(self):
+        names = ['alternatives', 'api', 'author_bio', 'author_page_url', 'product',
+                 'ratings', 'reviews', 'reviews_url', 'soup', 'supplemental_text',
+                 'to_dict', 'url']
+        self.assertTrue(dir(names in dir(self.product)))
+
+    def tearDown(self):
+        del(self.product)
