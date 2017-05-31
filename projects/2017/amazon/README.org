@@ -1,0 +1,54 @@
+* The project's main goal
+  Data gathering through Amazon API
+* Initial requirements
+** txt
+** Data Model
+* Used libraries
+** Necessary import
+   #+BEGIN_SRC python :session api :results output
+     #!/usr/bin/env python
+     from amazon_scraper import AmazonScraper
+     from settings import AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG
+   #+END_SRC
+
+   #+RESULTS:
+
+* Appropriate approach
+
+** Item data properties extraction
+   
+** Review data extraction
+*** Data structure
+    #+BEGIN_SRC python :session api :results output :pp
+      amzn = AmazonScraper(AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG, Region='US', MaxQPS=0.9, Timeout=5.0)
+      p = amzn.lookup(ItemId='B0051QVF7A')
+      rs = p.reviews()
+      print(dir(rs))
+    #+END_SRC
+
+    #+RESULTS:
+    : 
+    : >>> >>> ['_URL', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__iter__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_asin', '_soup', 'api', 'asin', 'brief_reviews', 'full_reviews', 'ids', 'next_page_url', 'product', 'soup', 'to_dict', 'url', 'urls']
+*** Data about reviews
+
+    #+BEGIN_SRC python :results output :session api
+      for r in rs.brief_reviews:
+	  print(r.rating)    
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+
+    ... /usr/local/share/venv/amvenv3/lib/python3.4/site-packages/urllib3/connectionpool.py:852: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+      InsecureRequestWarning)
+    1.0
+    0.2
+    1.0
+    0.8
+    0.8
+    1.0
+    1.0
+    0.6
+    0.2
+    0.8
+#+end_example
