@@ -48,6 +48,7 @@ class InitialAmazonScraperTest(unittest.TestCase):
 
     def setUp(self):
         self.product = sample_scraper('B00EOE0WKQ')
+        self.product_reviews = self.product.reviews()
 
     def test_simple_query_number_properties(self):
         self.assertEqual(len(dir(self.product)), 39)
@@ -67,5 +68,12 @@ class InitialAmazonScraperTest(unittest.TestCase):
         for name in names:
             self.assertTrue(name in dir(self.product.product))
 
+    def test_reviews_properties(self):
+        names = ['api', 'asin', 'brief_reviews', 'full_reviews', 'ids', 'next_page_url', 'product',
+                 'soup', 'to_dict', 'url', 'urls']
+        for name in names:
+            self.assertTrue(name in dir(self.product_reviews))
+
     def tearDown(self):
         del(self.product)
+        del(self.product_reviews)
