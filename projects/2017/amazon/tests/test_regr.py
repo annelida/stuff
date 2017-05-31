@@ -51,9 +51,11 @@ class InitialAmazonScraperTest(unittest.TestCase):
         self.product_reviews = self.product.reviews()
 
     def test_simple_query_number_properties(self):
+        """How many properties does this product consist of"""
         self.assertEqual(len(dir(self.product)), 39)
 
     def test_properties_names(self):
+        """All data about the product is available there"""
         names = ['actors', 'api', 'asin', 'author', 'authors', 'availability', 'availability_max_hours',
                  'availability_min_hours', 'availability_type', 'aws_associate_tag', 'binding', 'brand',
                  'browse_nodes', 'color', 'creators', 'detail_page_url', 'directors', 'ean', 'edition',
@@ -69,6 +71,7 @@ class InitialAmazonScraperTest(unittest.TestCase):
             self.assertTrue(name in dir(self.product.product))
 
     def test_reviews_properties(self):
+        """And data about reviews also"""
         names = ['api', 'asin', 'brief_reviews', 'full_reviews', 'ids', 'next_page_url', 'product',
                  'soup', 'to_dict', 'url', 'urls']
         for name in names:
