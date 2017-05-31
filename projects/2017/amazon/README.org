@@ -16,6 +16,58 @@
 * Appropriate approach
 
 ** Item data properties extraction
+   List of possible item's properties:
+
+   price_and_currency
+   offer_id
+   asin
+   ean
+   supplemental_text
+   rating
+   sales_rank
+   alternatives
+   offer_url
+   author
+   authors
+   creators
+   publisher
+   label
+   manufacturer
+   brand
+   isbn
+   eisbn
+   binding
+   pages
+   publication_date
+   release_date
+   edition
+   large_image_url
+   medium_image_url
+   small_image_url
+   tiny_image_url
+   reviews
+   genre
+   actors
+   ean
+   upc
+   color
+   sku
+   mpn
+   model
+   part_number
+   title
+   editorial_review
+   editorial_reviews
+   list_price
+   parent_asin
+   availability
+   detail_page_url
+   supplemental_text
+   languages
+   features
+   get_attribute
+   get_attribute_details
+   get_attributes
    
 ** Review data extraction
 *** Data structure
