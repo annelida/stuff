@@ -56,7 +56,8 @@ class InitialAmazonScraperTest(unittest.TestCase):
         names = ['alternatives', 'api', 'author_bio', 'author_page_url', 'product',
                  'ratings', 'reviews', 'reviews_url', 'soup', 'supplemental_text',
                  'to_dict', 'url']
-        self.assertTrue(dir(names in dir(self.product)))
+        for name in names:
+            self.assertTrue(name in dir(self.product))
 
     def tearDown(self):
         del(self.product)
