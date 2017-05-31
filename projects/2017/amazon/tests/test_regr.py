@@ -11,7 +11,7 @@ class CredentialTest(unittest.TestCase):
         self.assertTrue(AMAZON_ASSOC_TAG, "Amazon associated tag is empty")
     
 
-class InitialTest(unittest.TestCase):
+class InitialAmazonAPITest(unittest.TestCase):
     """Test how it works out from the box"""
 
     def setUp(self):
