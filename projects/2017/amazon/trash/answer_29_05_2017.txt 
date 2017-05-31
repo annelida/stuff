@@ -1,0 +1,26 @@
+Hi,
+
+As I promised yesterday the raw techspec is ready to your review and
+approval. General idea is to gather data out from Amazon API utilizing
+several open-source libraries. As a result you'll get the data array with several properties:
+
+Item properties:
+title
+ratings
+url
+asin
+alternatives
+
+
+Review properties:
+id
+ids
+asin
+ratings
+title
+url
+date posted
+text
+user
+user_id
+user_reviews_url
