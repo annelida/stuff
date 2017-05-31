@@ -79,6 +79,16 @@
     #+RESULTS:
     : 
     : >>> ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattr__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_soup', 'alternatives', 'api', 'author_bio', 'author_page_url', 'product', 'ratings', 'reviews', 'reviews_url', 'soup', 'supplemental_text', 'to_dict', 'url']
+*** Data about item
+
+    #+BEGIN_SRC python :results output :session api
+    p = amzn.lookup(ItemId='B000GRFTPS')
+    print(p.title, p.url, p.large_image_url, p.editorial_review)
+    #+END_SRC
+
+    #+RESULTS:
+    : 
+    : The King In Yellow (Ace SF Classic, M-132) http://www.amazon.com/dp/B000GRFTPS https://images-na.ssl-images-amazon.com/images/I/51kj65-nArL.jpg The King in Yellow is a collection of tales of the supernatural by Robert W. Chambers, named after a fictional play with the same title that recurs as a motif through some of its stories and first published by F. Tennyson Neely in 1895. Described by S.T. Joshi as a classic in the field of the supernatural, it contains 10 stories, the first four of which, "The Repairer of Reputations", "The Mask", "In the Court of the Dragon" and "The Yellow Sign", mention The King in Yellow, a forbidden play which induces despair or madness in those who read it. "The Yellow Sign" inspired a film of the same name released in 2001.
    
 ** Review data extraction
 *** Data structure
