@@ -52,3 +52,35 @@
     0.2
     0.8
 #+end_example
+*** Particular author
+    #+BEGIN_SRC python :results output :session api
+      amzn = AmazonScraper(AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG, Region='US', MaxQPS=0.9, Timeout=5.0)
+      review_id = 'R3MF0NIRI3BT1E'
+      r = amzn.review(Id=review_id)
+      print(r.asin, r.rating, r.title, r.url, r.date, r.text, r.user, r.user_reviews_url)
+      print(dir(r))
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+
+    >>> >>> /usr/local/share/venv/amvenv3/lib/python3.4/site-packages/urllib3/connectionpool.py:852: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+      InsecureRequestWarning)
+    B00492CIC8 1.0 Fantastic device - pick your Kindle! http://www.amazon.com/review/R3MF0NIRI3BT1E 2011-09-29 18:27:14+00:00 Having been a little overwhelmed by the choices between all the new Kindles and which one to get, I ordered this new basic $79 Kindle first to take for a spin. So far, I like what I see. I also own a Kindle 3 so that's the only device I can really compare it to at this time (I think a comparison between other tablets and this Kindle is meaningless, this device is all about content and delivery):
+    1. Form-factor - Compared to the Kindle 3, this Kindle feels more compact, lighter and easier to hold. My hands wrap around this better than K3. Reading books for a few hours at a stretch will be easier on this device compared to the K3. It is the lightest such device I have used compared to all previous Kindles and other tablets.
+    2. Screen - I personally like the fact that there are no keys on the device and that keys come up on the screen when you need them. Delivers a better overall reading experience. However, navigating through the on-screen keyboard with the 5-way controller can be taxing if you need to do a lot of searching, and you might miss the full physical keyboard. I hardly search on the Kindle itself, I search for books on my laptop so this is a non-issue.
+    3. Price! - At $79, you can't go wrong. Compared to buying paperback or hardcover editions, you will recover the cost of this in a matter of a few months because most Kindle content is priced cheaper than print editions (and you get it instantly, and can access it wherever you are). Not to mention all the free Kindle downloads available in the catalog.
+    4. Display - almost the same E-ink display at the K3. No glare no reflection. You can sit in bright sunlight and read it just like a book. Page turns seem a lot faster on this compared to the K3. Screen size of the Kindle 3, this new Kindle, and the Touch is exactly the same in size.
+    5. Wi-Fi - this can be a pro or a con (no 3G) depending on a user's personal preference. If you travel often and would like to be able to download content anywhere without worrying about getting a wi-fi connection, you're better off sticking with the K3 or waiting for the Touch/Fire. For me, 3G is not a major issue.
+    6. Text to Speech and Audiobooks - These two features are lacking in this device. I personally have never used these features on my K3. If you listen to audiobooks or TTS or music on your Kindle, again the K3/Touch/Fire might be better options.
+    7. Storage - this device can store 2GB which they claim is approximately 1400 books. For me, that's a massive storage capacity and it will be years before I get close to that capacity. Again, if you download books occasionally and have a moderate Kindle downloaded content on your device, 2GB is plenty. Of course, think ahead and see how much you would expect to download in the coming 2 years (I am assuming the device will be outdated and replaced within this time-frame).
+    8. Battery life - too early to tell but Kindle battery life tends to be great. Specs state that the battery life of this device is 1 month compared to 2 months for the Touch or K3. 1 month is plenty (Android phones need to be charged every hour!). At least I know that if I'm going on a long flight, this device won't need charging if I charge it up in advance.
+    9. Power adapter - this Kindle does not come with a power adapter, only a USB charging cable. You can either buy it separately for $8-10, or use your existing USB power adapter. Any USB adapter would work with the charging cable (previous Kindle versions, Apple's portable devices, and most HTC phones, come with a standard USB power adapter that would work for this device). There are also plenty of $2-3 adapters available here if you search for USB chargers.
+    Bottom line - the choice between this basic Kindle, the K3 Keyboard, the Touch, and the Fire is really a personal preference. This device itself is meant for the minimalist Kindle user who, like me, reads say a 2-3 books a month, wants a device comfortable to hold, and doesn't need any fancy bells and whistles on the device. I guess it depends on what you use your Kindle for. If it's just the basics, this is the perfect device to get.
+    In my humble opinion, the choices:
+    (i) If you have a DX or an old Kindle version, or if you don't have a Kindle yet and are an average book-reader, this is definitely the one to get - baseline model that is affordable and is a pure e-reader.
+    (ii) If you have  Kindle 3 and don't really need an upgrade, I recommend sticking with the K3, it's a better device than this one in terms of features. If you do need to upgrade, the Touch is probably a better option because of all the additional features, at a small incremental cost.
+    (iii) If you're looking for the loaded full-on Amazon content experience with access to all the apps, streaming audio and video, and playing the "strangely therapeutic" Fruit Ninja, wait for the Fire!
+    I sincerely hope this review helps you decide whether this Kindle is right for you. If you are still unable to make a decision, it may be worthwhile to wait for the Touch and Fire to be released, and see the reviews on those devices before making a final decision. 🎭 FreeSpirit http://www.amazon.com/gp/cdp/member-reviews/A2W0GY64CJSV5D/ref=cm_cr_hreview_mr
+    ['_URL', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_id', '_soup', 'api', 'asin', 'date', 'id', 'product', 'rating', 'soup', 'text', 'title', 'to_dict', 'url', 'user', 'user_id', 'user_reviews', 'user_reviews_url']
+#+end_example
