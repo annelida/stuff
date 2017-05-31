@@ -68,6 +68,17 @@
    get_attribute
    get_attribute_details
    get_attributes
+
+*** Data structure
+    #+BEGIN_SRC python :results output :session api
+    amzn = AmazonScraper(AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG, Region='US', MaxQPS=0.9, Timeout=5.0)
+    p = amzn.lookup(ItemId='B000GRFTPS')
+    print(dir(p))
+    #+END_SRC
+
+    #+RESULTS:
+    : 
+    : >>> ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattr__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_soup', 'alternatives', 'api', 'author_bio', 'author_page_url', 'product', 'ratings', 'reviews', 'reviews_url', 'soup', 'supplemental_text', 'to_dict', 'url']
    
 ** Review data extraction
 *** Data structure
