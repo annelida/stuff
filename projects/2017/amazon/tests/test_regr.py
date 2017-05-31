@@ -19,3 +19,13 @@ class InitialAmazonAPITest(unittest.TestCase):
 
     def test_simple_query_number_properties(self):
         self.assertEqual(len(dir(self.product)), 93)
+
+    def test_properties_names(self):
+        names = ['alternatives', 'api', 'author_bio', 'author_page_url', 'product',
+                 'ratings', 'reviews', 'reviews_url', 'soup', 'supplemental_text',
+                 'to_dict', 'url']
+        self.assertTrue(dir(names in dir(self.product)))
+
+    def tearDown(self):
+        del(self.product)
+
