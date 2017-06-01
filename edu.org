@@ -8326,7 +8326,19 @@ My name is Viktoriia Kosinova. I recently in Upwork. But I am very interested in
     Join two lines by deleting the intervening newline, along with any
     indentation following it (‘delete-indentation’).
 
-*** Registers::           
+*** Registers::
+    ‘M-x view-register <RET> R’
+    ‘C-x r <SPC> R’ (‘point-to-register’)
+    ‘C-x r j R’ (‘jump-to-register’).
+    ‘C-x r s R’(‘copy-to-register’)
+    ‘C-x r i R’ (‘insert-register’).
+    ‘M-x append-to-register <RET> R’
+    ‘M-x prepend-to-register <RET> R’
+    ‘C-x r r R’ (‘copy-rectangle-to-register’)
+    ‘C-x r w R’ (‘window-configuration-to-register’)
+    ‘C-x r f R’ (‘frameset-to-register’)
+    ‘C-u NUMBER C-x r n R’ (‘number-to-register’)
+    ‘C-u NUMBER C-x r + R’ (‘increment-register’)
 *** Display::
 
     Scrolling commands
