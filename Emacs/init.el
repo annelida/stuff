@@ -98,4 +98,7 @@
 			     "/home/vikky/Desktop/DVCS/stuff/projects/2017/amazon/description.org"))
 (define-key global-map "\C-ca" 'org-agenda)
 (setq org-log-done t)
+;;
+(desktop-save-mode 1)
+;;
 
