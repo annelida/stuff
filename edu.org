@@ -19489,7 +19489,8 @@ __package__='spynner'
       : ['A', 'B', 'C', 'c', 'A', 'D']
       : [1, 2, 3]
 
-* TODO Project structuring
+* DONE Project structuring
+  CLOSED: [2017-06-02 Fri 17:58]
 
   Sample repository
 
@@ -19504,6 +19505,30 @@ __package__='spynner'
   docs/index.rst
   tests/test_basic.py
   tests/test_advanced.py
+
+* DONE Relational model
+  CLOSED: [2017-06-02 Fri 17:58]
+  This model organizes data into one or more tables (or "relations")
+  of columns and rows, with a unique key identifying each row. Rows are
+  also called records or tuples.[2] Generally, each table/relation
+  represents one "entity type" (such as customer or product). The rows
+  represent instances of that type of entity (such as "Lee" or "chair")
+  and the columns representing values attributed to that instance (such
+  as address or price).
+
+  Each row in a table has its own unique key. Rows in a table can be
+  linked to rows in other tables by adding a column for the unique key
+  of the linked row (such columns are known as foreign keys).
+
+  Most physical implementations have a unique primary key (PK) for
+  each table. When a new row is written to the table, a new unique value
+  for the primary key is generated; this is the key that the system uses
+  primarily for accessing the table. System performance is optimized for
+  PKs. Other, more natural keys may also be identified and defined as
+  alternate keys (AK). Often several columns are needed to form an AK
+  (this is one reason why a single integer column is usually made the
+  PK). Both PKs and AKs have the ability to uniquely identify a row
+  within a table.
 
 * Git
 ** Cloning and fetch remote repository                                :STUDY:
