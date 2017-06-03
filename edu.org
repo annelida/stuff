@@ -14167,6 +14167,25 @@ ls -l images.jpg
   
 
 * Software development
+
+** Testing
+
+*** Definition
+
+*** Types
+
+*** Appropriate usage
+
+*** Python implementation
+
+**** Unittest
+
+**** Pytest
+
+**** Nose
+
+**** Doctest
+
 ** Python
 
 *** Installing Python Packages
