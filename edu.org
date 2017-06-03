@@ -14978,7 +14978,25 @@ Be careful not to fall off!
      : 0.053190946579
      : 0.0494728088379
 
-**** 10.11. Quality Control 
+**** 10.11. Quality Control
+
+**** TODO Software testing
+     Software testing is an investigation conducted to provide
+     stakeholders with information about the quality of the product or
+     service under test. Test techniques include the process of
+     execution a program or application with the intent of finding
+     software bugs (errors or other defects), and verifying that the
+     software product is fit for use.
+
+     In general, these properties indicate the extent to which the
+     component or system under test:
+
+     - meets the requirements that guided its design and development,
+     - responds correctly to all kinds of inputs,
+     - performs its functions within an acceptable time,
+     - is sufficiently usable,
+     - can be installed and run in its intended environments, and
+       achieves the general result its stakeholders desire.
 **** 10.12. Batteries Included
 **** DONE Unittest
      CLOSED: [2017-05-29 Mon 09:47]
@@ -19506,7 +19524,8 @@ __package__='spynner'
   tests/test_basic.py
   tests/test_advanced.py
 
-* TODO Using setup.py
+* DONE Using setup.py
+  CLOSED: [2017-06-03 Sat 16:46]
   Definitions
 
   Package - a folder/directory that contains __init__.py file.
