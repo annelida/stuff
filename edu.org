@@ -14997,6 +14997,22 @@ Be careful not to fall off!
      - is sufficiently usable,
      - can be installed and run in its intended environments, and
        achieves the general result its stakeholders desire.
+
+     Testing methods
+
+     There are many approaches available in software testing. Reviews,
+     walkthroughs, or inspections are referred to as static testing,
+     whereas actually executing programmed code with a given set of test
+     cases is referred to as dynamic testing. Static testing is often
+     implicit, as proofreading, plus when programming tools/text editors
+     check source code structure or compilers (pre-compilers) check syntax
+     and data flow as static program analysis. Dynamic testing takes place
+     when the program itself is run. Dynamic testing may begin before the
+     program is 100% complete in order to test particular sections of code
+     and are applied to discrete functions or modules. Typical techniques
+     for this are either using stubs/drivers or execution from a debugger
+     environment.
+
 **** 10.12. Batteries Included
 **** DONE Unittest
      CLOSED: [2017-05-29 Mon 09:47]
