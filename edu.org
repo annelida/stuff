@@ -19565,6 +19565,32 @@ __package__='spynner'
 
    #+END_SRC
 
+   Add more stuff to setup.py
+
+   #+BEGIN_SRC python :results output
+   from setuptools import setup
+
+   with open("README", 'r') as f:
+       long_description = f.read()
+
+   setup(
+      name='foo',
+      version='1.0',
+      description='A useful module',
+      license="MIT",
+      long_description=long_description,
+      author='Man Foo',
+      author_email='foomail@foo.com',
+      url="http://www.foopackage.com/",
+      packages=['foo'],  #same as name
+      install_requires=['bar', 'greek'], #external packages as dependencies
+      scripts=[
+               'scripts/cool',
+               'scripts/skype',
+              ]
+   )
+   #+END_SRC
+
 * DONE Relational model
   CLOSED: [2017-06-02 Fri 17:58]
   This model organizes data into one or more tables (or "relations")
