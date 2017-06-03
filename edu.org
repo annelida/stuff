@@ -19506,6 +19506,33 @@ __package__='spynner'
   tests/test_basic.py
   tests/test_advanced.py
 
+* TODO Using setup.py
+  Definitions
+
+  Package - a folder/directory that contains __init__.py file.
+  Module - a valid python file with .py extension.
+  distribution - how one package relates to others.
+
+  Let's say you want to install a package named foo. Then you do,
+
+  #+BEGIN_SRC shell :results output
+  git clone https://github.com/user/foo
+  cd foo
+  python setup.py install
+  #+END_SRC
+
+  Instead, if you don't want to actually install it but still would
+  like to use it. Then do,
+
+  #+BEGIN_SRC shell :results output
+  python setup.py develop
+  #+END_SRC
+
+  This command will create symlinks to the source directory within
+  site-packages instead of copying things. Because of this, it is
+  quite fast (particularly for large packages).
+
+
 * DONE Relational model
   CLOSED: [2017-06-02 Fri 17:58]
   This model organizes data into one or more tables (or "relations")
