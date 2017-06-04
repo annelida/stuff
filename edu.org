@@ -14211,6 +14211,10 @@ ls -l images.jpg
      class SquareTest(unittest.TestCase):
          def test(self):
              self.assertEqual(square(2), 4)
+
+     class Square_negativeTest(unittest.TestCase):
+         def test_negative(self):
+             self.assertEqual(square(-2), 4)
      #+END_SRC
     
 **** Pytest
