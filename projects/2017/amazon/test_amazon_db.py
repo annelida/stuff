@@ -1,13 +1,14 @@
 #!/usr/bin/env python
 import unittest
 import sqlite3
+import os
 
 
 class TestAmazonDatabase(unittest.TestCase):
     """
     Setup a temporary database
     """
-    def setup(self):
+    def setUp(self):
         self.item = [1, 'B00EOE0WKQ', 'Amazon Fire Phone, 32GB (AT&T)']
         self.connection = sqlite3.connect('amazon_data.db')
         self.cursor = self.connection.cursor()
@@ -24,6 +25,9 @@ class TestAmazonDatabase(unittest.TestCase):
         print(self.item)
         #self.assertTrue('amazon_product_data')
 
+    def tearDown(self):
+        """
+        Delete the database
+        """
+        os.remove("amazon_data.db")
 
-#    def tearDown(self):
-        
