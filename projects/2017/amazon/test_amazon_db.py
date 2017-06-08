@@ -36,7 +36,13 @@ class TestAmazonDatabase(unittest.TestCase):
         Tests product table
         """
         print(self.item)
-        # self.assertTrue('amazon_product_data')
+        columns = "PRAGMA table_info(amazon_product_data)"
+        self.cursor.execute(columns)
+        result = self.cursor.fetchall()
+        print(result)
+        template = [(0, u'id', u'INTEGER', 0, None, 1), (1, u'asin',
+                                                         u'VARCHAR(12)', 0, None, 0), (2, u'title', u'TEXT', 0, None, 0)]
+        self.assertListEqual(result, template)
 
     def test_review_table(self):
         print(self.review)
