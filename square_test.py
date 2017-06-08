@@ -5,6 +5,8 @@ from square import square
 class SquareTest(unittest.TestCase):
     def test(self):
         self.assertEqual(square(2), 4)
+        with self.assertRaises(TypeError):
+            square('2')
 
 
 class Square_negativeTest(unittest.TestCase):
