@@ -22300,6 +22300,18 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
 *** join selects together
 
 ** SQlite Version 3
+
+*** Formatting output
+    You can use the following sequence of dot commands to format your
+    output:
+
+    #+BEGIN_EXAMPLE
+    sqlite>.header on
+    sqlite>.mode column
+    sqlite>.timer on
+    sqlite>
+    #+END_EXAMPLE
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
