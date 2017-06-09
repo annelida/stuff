@@ -28,6 +28,7 @@ class TestAmazonDatabase(unittest.TestCase):
             (self.item))
         self.cursor.execute(
             "INSERT INTO amazon_review_data VALUES(?, ?, ?, ?, ?)", (self.review))
+        self.cursor.execute("PRAGMA foreign_keys = ON")
         self.connection.commit()
         # print("Item stored in database: %s" % (self.item))
 
@@ -46,6 +47,7 @@ class TestAmazonDatabase(unittest.TestCase):
 
     def test_review_table(self):
         print(self.review)
+        self.assertTrue("PRAGMA foreign_keys = ON")
 
     def tearDown(self):
         """
