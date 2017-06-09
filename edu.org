@@ -22301,7 +22301,8 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
 
 ** SQlite Version 3
 
-*** Formatting output
+*** DONE Formatting output
+    CLOSED: [2017-06-09 Fri 08:50]
     You can use the following sequence of dot commands to format your
     output:
 
@@ -22310,6 +22311,29 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     sqlite>.mode column
     sqlite>.timer on
     sqlite>
+    #+END_EXAMPLE
+
+*** DONE The sqlite_master Table
+    CLOSED: [2017-06-09 Fri 08:57]
+
+    The master table holds the key information about your database
+    tables and it is called *sqlite_master*. You can see its schema as
+    follows:
+
+    #+BEGIN_EXAMPLE
+    sqlite>.schema sqlite_master
+    #+END_EXAMPLE
+
+    This will produce the following result:
+
+    #+BEGIN_EXAMPLE
+    CREATE TABLE sqlite_master (
+      type text,
+      name text,
+      tbl_name text,
+      rootpage integer,
+      sql text
+    );
     #+END_EXAMPLE
 
 **** Storage Classes and Datatypes
