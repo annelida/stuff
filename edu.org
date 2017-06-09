@@ -22336,6 +22336,17 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     );
     #+END_EXAMPLE
 
+*** DONE SQlite ANZLYZE statement:
+    CLOSED: [2017-06-09 Fri 10:14]
+
+    #+BEGIN_EXAMPLE
+    ANALYZE;
+    or
+    ANALYZE database_name;
+    or
+    ANALYZE database_name.table_name;
+    #+END_EXAMPLE
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
