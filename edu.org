@@ -22446,6 +22446,28 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
 
     #+END_EXAMPLE
 
+*** DONE SQlite - DROP table
+    CLOSED: [2017-06-10 Sat 09:13]
+
+    The SQLite DROP TABLE statement is used to remove a table
+    definition and all associated data, indexes, triggers, constraints and
+    permission specifications for that table.
+
+    Syntax:
+
+    #+BEGIN_EXAMPLE
+    DROP TABLE database_name.table_name;
+    #+END_EXAMPLE
+
+    Example:
+
+    #+BEGIN_EXAMPLE
+    sqlite>.tables
+    COMPANY       test.COMPANY
+    sqlite>DROP TABLE COMPANY;
+    sqlite>
+    #+END_EXAMPLE
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
