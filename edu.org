@@ -22383,6 +22383,69 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     ANALYZE database_name.table_name;
     #+END_EXAMPLE
 
+*** DONE SQlite ALTER TABLE statement
+    CLOSED: [2017-06-10 Sat 08:42]
+
+    The SQLite ALTER TABLE command modifies an existing table without
+    performing a full dump and reload of the data. You can rename a table
+    using ALTER TABLE statement and additional columns can be added in an
+    existing table using ALTER TABLE statement.
+
+    Syntax:
+
+    #+BEGIN_EXAMPLE
+    ALTER TABLE database_name.table_name RENAME TO new_table_name;
+    #+END_EXAMPLE
+
+    The basic syntax of ALTER TABLE to add a new column in an existing
+    table is as follows:
+
+    #+BEGIN_EXAMPLE
+    ALTER TABLE database_name.table_name ADD COLUMN column_def...;
+    #+END_EXAMPLE
+
+    Consider our COMPANY table has the following records:
+
+    #+BEGIN_EXAMPLE
+    ID          NAME        AGE         ADDRESS     SALARY
+    ----------  ----------  ----------  ----------  ----------
+    1           Paul        32          California  20000.0
+    2           Allen       25          Texas       15000.0
+    3           Teddy       23          Norway      20000.0
+    4           Mark        25          Rich-Mond   65000.0
+    5           David       27          Texas       85000.0
+    6           Kim         22          South-Hall  45000.0
+    7           James       24          Houston     10000.0
+    #+END_EXAMPLE
+
+    Rename this table:
+
+    #+BEGIN_EXAMPLE
+    ALTER TABLE COMPANY RENAME TO  OLD_COMPANY;
+    #+END_EXAMPLE
+
+    Adding a new column in OLD_COMPANY table:
+
+    #+BEGIN_EXAMPLE
+    ALTER TABLE OLD_COMPANY ADD COLUMN SEX char(1);
+    #+END_EXAMPLE
+
+    Now, COMPANY table is changed and following would be output from
+    SELECT statement:
+
+    #+BEGIN_EXAMPLE
+    ID          NAME        AGE         ADDRESS     SALARY      SEX
+    ----------  ----------  ----------  ----------  ----------  ---
+    1           Paul        32          California  20000.0
+    2           Allen       25          Texas       15000.0
+    3           Teddy       23          Norway      20000.0
+    4           Mark        25          Rich-Mond   65000.0
+    5           David       27          Texas       85000.0
+    6           Kim         22          South-Hall  45000.0
+    7           James       24          Houston     10000.0
+
+    #+END_EXAMPLE
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
