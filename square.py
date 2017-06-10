@@ -11,6 +11,7 @@ def square(x):
     4
     >>> square(1j)
     (-1 + 0j)
-
+    >>> square('2')
+    TypeError
     """
     return x * x
