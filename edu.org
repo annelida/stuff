@@ -22532,6 +22532,20 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     INSERT INTO COMPANY VALUES (7, 'James', 24, 'Houston', 10000.00 );
     #+END_EXAMPLE
 
+    Populate One Table Using Another Table
+
+    You can populate data into a table through select statement over
+    another table provided another table has a set of fields, which are
+    required to populate the first table. Here is the syntax
+
+    #+BEGIN_EXAMPLE
+    INSERT INTO first_table_name [(column1, column2, ... columnN)]
+       SELECT column1, column2, ...columnN
+       FROM second_table_name
+       [WHERE condition];
+
+    #+END_EXAMPLE
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
