@@ -22468,6 +22468,70 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     sqlite>
     #+END_EXAMPLE
 
+*** TODO SQlite INSERT query
+
+    SQlite INSERT INTO statement is used to add new rows into a table
+    in the database.
+
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    INSERT INTO TABLE_NAME [(column1, column2, column3,...columnN)]
+    VALUES (value1, value2, value3,...valueN);
+    #+END_EXAMPLE
+
+    You may not need to specify the column(s) name in the SQLite query
+    if you are adding values for all the columns of the table. However,
+    make sure the order of the values is in the same order as the columns
+    in the table. The SQLite INSERT INTO syntax would be as follows
+
+    #+BEGIN_EXAMPLE
+    INSERT INTO TABLE_NAME VALUES (value1,value2,value3,...valueN);
+    #+END_EXAMPLE
+
+    Example
+
+    Consider you already have created COMPANY table in your testDB.db
+    as follows
+
+    #+BEGIN_EXAMPLE
+    sqlite> CREATE TABLE COMPANY(
+       ID INT PRIMARY KEY     NOT NULL,
+       NAME           TEXT    NOT NULL,
+       AGE            INT     NOT NULL,
+       ADDRESS        CHAR(50),
+       SALARY         REAL
+    );
+    #+END_EXAMPLE
+
+    #+BEGIN_EXAMPLE
+    INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY)
+    VALUES (1, 'Paul', 32, 'California', 20000.00 );
+
+    INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY)
+    VALUES (2, 'Allen', 25, 'Texas', 15000.00 );
+
+    INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY)
+    VALUES (3, 'Teddy', 23, 'Norway', 20000.00 );
+
+    INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY)
+    VALUES (4, 'Mark', 25, 'Rich-Mond ', 65000.00 );
+
+    INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY)
+    VALUES (5, 'David', 27, 'Texas', 85000.00 );
+
+    INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY)
+    VALUES (6, 'Kim', 22, 'South-Hall', 45000.00 );
+
+    #+END_EXAMPLE
+
+    You can create a record in COMPANY table using the second syntax
+    as follows
+
+    #+BEGIN_EXAMPLE
+    INSERT INTO COMPANY VALUES (7, 'James', 24, 'Houston', 10000.00 );
+    #+END_EXAMPLE
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
