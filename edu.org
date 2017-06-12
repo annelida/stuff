@@ -21230,6 +21230,41 @@ console.log(min(0, -10));
    : number 1
    : string 3
 
+   Context
+
+   JavaScript famous keyword *this* always refers to the current
+   context. Within a function *this* context can change, depending on
+   how the function is called
+
+   #+BEGIN_EXAMPLE
+   $(document).ready(function() {
+      // this refers to window.document
+   });
+
+   $("div").click(function() {
+      // this refers to a div DOM element
+   });
+   #+END_EXAMPLE
+
+   You can specify the context for a function call using the
+   function-built-in methods call() and apply() methods.
+
+   The difference between them is how they pass arguments. Call passes
+   all arguments through as arguments to the function, while apply
+   accepts an array as the arguments.
+
+   #+BEGIN_SRC js :cmd "nodejs"
+   function scope(){
+      console.log(this, arguments.length);
+   }
+   scope.call("foobar", [1,2]);
+   scope.apply("foobar", [1,2]);
+   #+END_SRC
+
+   #+RESULTS:
+   : "foobar", 1
+   : "foobar", 2
+  
 * RDBMS
 
 ** MySQL
