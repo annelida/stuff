@@ -22551,7 +22551,8 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     sqlite>
     #+END_EXAMPLE
 
-*** TODO SQlite INSERT query
+*** DONE SQlite INSERT query
+    CLOSED: [2017-06-12 Mon 10:34]
 
     SQlite INSERT INTO statement is used to add new rows into a table
     in the database.
@@ -22627,6 +22628,52 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
        FROM second_table_name
        [WHERE condition];
 
+    #+END_EXAMPLE
+
+*** TODO SQlite SELECT statement
+
+    Syntax:
+
+    #+BEGIN_EXAMPLE
+    SELECT column1, column2, columnN FROM table_name;
+    #+END_EXAMPLE
+
+    Example:
+
+    Consider COMPANY table is having the following records:
+
+    #+BEGIN_EXAMPLE
+    ID          NAME        AGE         ADDRESS     SALARY
+    ----------  ----------  ----------  ----------  ----------
+    1           Paul        32          California  20000.0
+    2           Allen       25          Texas       15000.0
+    3           Teddy       23          Norway      20000.0
+    4           Mark        25          Rich-Mond   65000.0
+    5           David       27          Texas       85000.0
+    6           Kim         22          South-Hall  45000.0
+    7           James       24          Houston     10000.0
+    #+END_EXAMPLE
+
+    #+BEGIN_EXAMPLE
+    sqlite>.header on
+    sqlite>.mode column
+    sqlite> SELECT * FROM COMPANY;
+    ID          NAME        AGE         ADDRESS     SALARY
+    ----------  ----------  ----------  ----------  ----------
+    1           Paul        32          California  20000.0
+    2           Allen       25          Texas       15000.0
+    3           Teddy       23          Norway      20000.0
+    4           Mark        25          Rich-Mond   65000.0
+    5           David       27          Texas       85000.0
+    6           Kim         22          South-Hall  45000.0
+    7           James       24          Houston     10000.0
+    #+END_EXAMPLE
+
+    If you want to fetch only selected fields of COMPANY table, then
+    use the following query:
+
+    #+BEGIN_EXAMPLE
+    sqlite> SELECT ID, NAME, SALARY FROM COMPANY;
     #+END_EXAMPLE
 
 **** Storage Classes and Datatypes
