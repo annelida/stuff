@@ -21182,6 +21182,34 @@ console.log(min(0, -10));
 </html>
 
    #+END_EXAMPLE
+** Functions
+
+   A function in JavaScript can be either named or anonymous
+
+   #+BEGIN_EXAMPLE
+   function named(){
+      // do some stuff here
+   }
+   #+END_EXAMPLE
+
+   Anonymous function can be defined is similar way as a normal
+   function but it would not have any name. A anonymous function can
+   be assigned to a variable or passed to a method as shown below.
+
+   #+BEGIN_EXAMPLE
+   var handler = function (){
+      // do some stuff here
+   }
+   #+END_EXAMPLE
+
+   JQuery makes a use of anonymous functions very frequently as
+   follows
+
+   #+BEGIN_EXAMPLE
+   $(document).ready(function(){
+     // do some stuff here
+   });
+   #+END_EXAMPLE
 * RDBMS
 
 ** MySQL
