@@ -21210,6 +21210,26 @@ console.log(min(0, -10));
      // do some stuff here
    });
    #+END_EXAMPLE
+
+   Arguments
+
+   JavaScript variable arguments is a kind of array which has length
+   property.
+
+   #+BEGIN_SRC js :cmd "nodejs"
+   function func(x){
+      console.log(typeof x, arguments.length);
+   }
+   func();
+   func(1);
+   func("1", "2", "3");
+   #+END_SRC
+
+   #+RESULTS:
+   : undefined 0
+   : number 1
+   : string 3
+
 * RDBMS
 
 ** MySQL
