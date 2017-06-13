@@ -21357,7 +21357,33 @@ console.log(min(0, -10));
       document.write(myVar);  // ==> local
    }
    #+END_EXAMPLE
-  
+
+   Callback
+
+   A callback is a plain JavaScript function passed to some method as
+   an argument or option. Some callbacks are just events, called to
+   give the user a chance to react when a certain state is triggered.
+
+   #+BEGIN_SRC js :cmd "nodejs"
+   $("body").click(function(event) {
+      console.log("clicked: " + event.target);
+   });
+   #+END_SRC
+
+   Most callbacks provide arguments and a context. In the event-handler
+   example, the callback is called with one argument, an Event.
+
+   Some callbacks are required to return something, others make that return
+   value optional. To prevent a form submission, a submit event handler can
+   return false as follows −
+
+   #+BEGIN_EXAMPLE
+   $("#myform").submit(function() {
+      return false;
+   });
+   #+END_EXAMPLE
+
+
 * RDBMS
 
 ** MySQL
