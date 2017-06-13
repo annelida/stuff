@@ -22795,6 +22795,13 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     sqlite> SELECT ID, NAME, SALARY FROM COMPANY;
     #+END_EXAMPLE
 
+    Setting output column width:
+
+    #+BEGIN_EXAMPLE
+    sqlite>.width 10, 20, 10
+    sqlite>SELECT * FROM COMPANY;
+    #+END_EXAMPLE
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
