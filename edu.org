@@ -22802,6 +22802,19 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     sqlite>SELECT * FROM COMPANY;
     #+END_EXAMPLE
 
+
+    Org-mode SQlite source code block
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    drop table if exists greeting;
+    create table greeting(one varchar(10), two varchar(10));
+    insert into greeting values('Hello', 'world!');
+    select * from greeting;
+    #+END_SRC
+
+    #+RESULTS:
+    | Hello | world! |
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
