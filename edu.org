@@ -15055,6 +15055,21 @@ ls -l images.jpg
       - can be installed and run in its intended environments, and
 	achieves the general result its stakeholders desire.
 
+      Module Tests with __name__
+
+      Every module has a name, which is defined in the built-in
+      attribute __name__. Let's assume that we have written a module
+      "xyz" which we have saved as "xyz.py". If we import this module
+      with "import xyz", the string "xyz" will be assigned to
+      __name__. If we call the file xyz.py as a standalone program,
+      i.e in the following way,
+
+      #+BEGIN_SRC shell :results output
+      python3 xyz.py
+      #+END_SRC
+
+      the value of __name__will be the string '__main__'.
+
       Testing methods
 
       There are many approaches available in software testing. Reviews,
