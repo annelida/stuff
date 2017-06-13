@@ -15070,6 +15070,34 @@ ls -l images.jpg
 
       the value of __name__will be the string '__main__'.
 
+      Testing Fibonacci module with __name__
+
+      #+BEGIN_SRC python :results output
+      def fib(n):
+          """ Calculates the n-th Fibonacci number iteratively """
+	  a, b = 0, 1
+	  for i in range(n):
+              a, b = b, a + b
+	  return a
+
+      def fiblist(n):
+          """ creates a list of Fibonacci numbers up to the n-th generation """
+	  fib = [0,1]
+	  for i in range(1,n):
+              fib += [fib[-1]+fib[-2]]
+	  return fib
+
+     if __name__ == "__main__":
+         if fib(0) == 0 and fib(10) == 55 and fib(50) == 12586269025:
+             print("Test for the fib function was successful!")
+         else:
+             print("The fib function is returning wrong values!")
+
+      #+END_SRC
+
+      This is the simplest and widest used method for unit tests. But it is
+      definitely not the best one.
+
       Testing methods
 
       There are many approaches available in software testing. Reviews,
