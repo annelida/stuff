@@ -15098,6 +15098,33 @@ ls -l images.jpg
       This is the simplest and widest used method for unit tests. But it is
       definitely not the best one.
 
+      doctest Module
+
+      The doctest module searches for pieces of text that look like
+      interactive Python sessions inside of the documentation parts of a
+      module, and then executes (or reexecutes) the commands of those
+      sessions to verify that they work exactly as shown, i.e. that the same
+      results can be achieved.
+
+      #+BEGIN_SRC python :results output
+      def square(x):
+          """Return the square of x.
+
+	  >>> square(2)
+	  4
+	  >>> square(-2)
+	  4
+          """
+
+	  return x * x
+
+      if __name__ == '__main__':
+          import doctest
+	  doctest.testmod()
+      #+END_SRC
+
+      #+RESULTS:
+
       Testing methods
 
       There are many approaches available in software testing. Reviews,
