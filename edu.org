@@ -21334,6 +21334,29 @@ console.log(min(0, -10));
    #+RESULTS:
    : "foobar", 1
    : "foobar", 2
+
+   Scope
+
+   The scope of a variable is the region of your program in which it
+   is defined. JavaScript variable will have only two scopes:
+
+   - Global variables - a global variable has global scope which means
+     it is defined everywhere in your JavaScript code.
+   - Local variables - a local variable will be visible only within a
+     function where it is defined. Function parameters are always
+     local to that function.
+
+   Within the body of a function, a local variable takes precedence
+   over a global variable with the same name
+
+   #+BEGIN_EXAMPLE
+   var myvar = "global";      // ==> Declare a global variable
+
+   function ( ) {
+      var myvar = "local";    // ==> Declare a local variable
+      document.write(myVar);  // ==> local
+   }
+   #+END_EXAMPLE
   
 * RDBMS
 
