@@ -22841,6 +22841,22 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     #+RESULTS:
     : CREATE TABLE greeting(one varchar(10), two varchar(10))
 
+*** Operators in SQlite
+
+    An operator is a reserved word or a character used primarily in an
+    SQlite statement's WHERE clause to perform operation(s), such as
+    comparisons and arithmetic operations.
+
+    Operators are used to specify conditions in an SQlite statement
+    and to serve as conjunctions for multiple conditions in a
+    statement.
+
+    - Arithmetic operators
+    - Comparison operator
+    - Logical operators
+    - Bitwise operators
+
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
