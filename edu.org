@@ -22890,6 +22890,20 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     | 7 | James | 24 | Houston | 10000.0 |
 
 
+    Numeric expression
+
+    There are several built-in functions such as avg(), sum(),
+    count(), etc., to perform what is known as aggregate data calculations
+    against a table or a specific table column.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select count(*) as "records" from company;
+    #+END_SRC
+
+    #+RESULTS:
+    : 7
+
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
