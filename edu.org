@@ -21383,6 +21383,33 @@ console.log(min(0, -10));
    });
    #+END_EXAMPLE
 
+   Closures
+
+   Closures are created whenever a variable that is defined outside
+   the current scope is accessed from within some inner scope.
+
+   #+BEGIN_SRC js :cmd "nodejs"
+   function create() {
+      var counter = 0;
+
+      return {
+         increment: function() {
+            counter++;
+	 },
+
+         print: function() {
+            console.log(counter);
+         }
+      }
+   }
+
+   var c = create();
+   c.increment();
+   c.print()
+   #+END_SRC
+
+   #+RESULTS:
+   : 1
 
 * RDBMS
 
