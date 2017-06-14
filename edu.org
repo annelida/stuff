@@ -22749,7 +22749,8 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
 
     #+END_EXAMPLE
 
-*** TODO SQlite SELECT statement
+*** DONE SQlite SELECT statement
+    CLOSED: [2017-06-14 Wed 08:18]
 
     Syntax:
 
@@ -22814,6 +22815,31 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
 
     #+RESULTS:
     | Hello | world! |
+
+    Schema information
+
+    Because all the *dot commands* are available at SQlite prompt
+    only, so while doing your programming with SQLite, you will use
+    the following statement to list down all the tables created in
+    your database using the following SELECT statement with
+    *sqlite_master* table:
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select tbl_name from sqlite_master where type = 'table';
+    #+END_SRC
+
+    #+RESULTS:
+    : greeting
+
+    You can list down complete information about greeting table as
+    follows:
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select sql from sqlite_master where type = 'table' and tbl_name = 'greeting';
+    #+END_SRC
+
+    #+RESULTS:
+    : CREATE TABLE greeting(one varchar(10), two varchar(10))
 
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
