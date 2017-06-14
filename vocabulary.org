@@ -7927,3 +7927,153 @@ adjective
 
    Not giving attention to someone or something:
    He was wholly inattentive to the needs of his children
+
+
+
+* 14_06_2017
+** admission                                                          :Study:
+ [2017-06-14 Wed 12:02]
+   [ədˈmiSHən]
+   вход
+
+   noun
+    1. вход (entry, entrance, inlet, login, admission, door)
+    2. признание (confession, recognition, acknowledgment, admission, acceptance, avowal)
+    3. принятие (adoption, acceptance, admission, reception, initiation, recipiency)
+    4. допущение (assumption, admission, allowance, sumption)
+    5. доступ (access, approach, entrance, admission, admittance, accession)
+    6. входная плата (admission, entrance fee, cover charge, gate-money)
+    7. впуск (inlet, intake, admission, inflow, induction, admittance)
+    8. подвод (supply, admission, delivery)
+    9. подача (innings, supply, feed, feeding, submission, admission)
+
+   adjective
+    1. вступительный (opening, entrance, introductory, admission, inaugural, prefatory)
+    2. пропускной (admission)
+    3. впускной (inlet, intake, admission)
+
+   If you pay admission, you're paying a fee in order to attend
+   something, like an event or a movie. After you pay admission to the
+   movie theater, you head straight to the popcorn stand.
+
+   The noun admission stems from the Latin word admissionem, meaning "a
+   letting in." It often refers to a fee charged for entry, but it can
+   also describe the process of being granted entry. The university's
+   admission of the new student was welcome news — now he has access to
+   the school's research facilities. An admission can also be a
+   confession that something is true, such as your brother's surly
+   admission that he was the one who popped your bike tire.
+
+   A statement acknowledging the truth of something.
+   Her silence was taken as an admission of guilt/defeat.
+   The admission of “I don’t know” creates an opportunity to learn.
+
+** Externalities                                                      :Study:
+ [2017-06-14 Wed 12:02]
+   noun
+    1. внешность (appearance, exterior, look, outside, externality, outward)
+
+   An externality is an outside factor or condition that can affect
+   something else. A snow storm for example, is an externality that can
+   cause delays at the airport.
+
+   Externality comes from the Latin root word externus meaning "outside"
+   or "outward." An externality is something on the outside that affects
+   other things. Often an externality is a behavior or result of behavior
+   by one party that affects others who have no choice in its happening.
+   For example, factory pollution is an externality that can affect
+   people's health and well-being. It's outside of their control and yet
+   it has an impact on their lives.
+
+   2 Externalities
+    How they react when ‘the plan’ goes off the rails.
+
+   An externality is an outside factor or condition that can affect
+   something else.
+   A snow storm for example, is an externality that can
+   cause delays at the airport.
+** circumstances                                                      :Study:
+ [2017-06-14 Wed 12:02]
+   обстоятельства
+
+   noun
+    1. обстоятельства (circumstances, conditions, condition, circs)
+    2. условия (circumstances, circs)
+    3. материальное положение (circumstances, economic conditions, circs)
+
+   Circumstances are factors or conditions that play a part in
+   determining an outcome. Given the current economic circumstances, a
+   lot of good candidates just can't find jobs.
+
+   The word circumstances first came onto the scene in the early 13th
+   century, meaning “conditions surrounding and accompanying an event.”
+   The Dalai Lama advised that “In the present circumstances, no one can
+   afford to assume that someone else will solve their problems. Every
+   individual has a responsibility to help guide our global family in the
+   right direction.” Wise and timeless words, no matter the present
+   circumstances.
+
+   Circumstances are factors or conditions that play a part in
+   determining an outcome.
+   Given the current economic circumstances, a lot of good candidates just
+   can't find jobs.
+   Some circumstances are out of our hands.
+** to Litter                                                          :Study:
+ [2017-06-14 Wed 12:34]
+   verb
+    1. мусорить (litter, litterbug)
+    2. сорить (litter, drop things on the floor)
+    3. засирать (litter, foul up)
+    4. подстилать (litter)
+    5. разбрасывать (scatter, disperse, throw about, overspread, broadcast, strew)
+    6. разбрасывать в беспорядке (litter, litter up)
+    7. настилать солому (litter)
+    8. подстилать солому (litter, litter down)
+    9. производить детенышей (whelp, litter)
+   10. пороситься (farrow, litter, pig)
+   11. щениться (whelp, pup, cub, litter)
+
+   If everyone decided to litter, or drop trash on the ground, the world
+   would be covered in garbage. Litter doesn't always have to be trashy
+   though. When a cat has kittens, they are born as a litter.
+
+   Don't be confused when you go to England and see the word litter
+   written all over garbage cans. That's just the Brits' way of saying
+   trash. The word litter comes from the Old French litiere meaning
+   "bed." Animals like dogs or cats have their offspring all in one
+   birth, or on the same bed, making what we call a litter, or group of
+   babies.
+
+   3 Littering
+    It’s a space petty crime that hardly gets any attention.
+
+   To drop rubbish on the ground in a public place.
+   Clothes and newspapers littered the floor
+** fathom                                                             :Study:
+[2017-06-14 Wed 12:35]
+  [ˈfaT͟Həm]
+  вникать
+
+  noun
+   1. морская сажень (fathom)
+   2. изобата (fathom)
+
+  verb
+   1. измерять глубину (fathom, bottom, plumb, sound)
+   2. вникать (penetrate, fathom, introspect)
+   3. делать промер лотом (fathom)
+   4. понимать (understand, see, realize, comprehend, appreciate, fathom)
+
+  To fathom something is to understand it thoroughly, and is usually
+  used in the negative, as in "I can't fathom why he doesn't want to go
+  along with us."
+
+  Fathom is from Middle English fadme, from Old English fæthm
+  "outstretched arms." The Old English and modern English noun also
+  refers to a unit of length used to measure the depth of water. To
+  understand something thoroughly is "to get to the bottom of it."
+
+  To discover the meaning of something
+  I can't fathom why he doesn't want to go along with us.
+  The locals could not fathom out the reason behind his new-found prosperity’
+
