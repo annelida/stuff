@@ -22878,6 +22878,17 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     | 6 | Kim   | 22 | South-Hall | 45000.0 |
     | 7 | James | 24 | Houston    | 10000.0 |
 
+*** TODO SQlite expressions
+
+    Boolean expressions
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company where salary = 10000;
+    #+END_SRC
+
+    #+RESULTS:
+    | 7 | James | 24 | Houston | 10000.0 |
+
 
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
