@@ -21411,6 +21411,31 @@ console.log(min(0, -10));
    #+RESULTS:
    : 1
 
+   Built-in functions
+
+   | method        | description                                               |
+   |---------------+-----------------------------------------------------------|
+   | charAt()      | returns the character at the specified index              |
+   | concat()      | combines the text of two strings and returns a new string |
+   | forEach()     | calls a function for each element in the array            |
+   |               |                                                           |
+   | indexOf()     | returns the index within the calling string               |
+   | length()      | return the length of the string                           |
+   |               |                                                           |
+   |               |                                                           |
+   | pop()         | removes the last element from an array and returns        |
+   |               | that element                                              |
+   | push()        | adds one or more elements to the end of an array and      |
+   |               | returns the new length of the array                       |
+   | reverse()     | reverses the order of the elements of an array            |
+   | sort()        | sorts the elements of an array                            |
+   | substr()      | returns the characters in a string beginning at the       |
+   |               | specified location through the specified number of        |
+   |               | characters.                                               |
+   | toLowerCase() | returns the calling string value converted to lower case  |
+   | toString()    | return the string representation of the numbur's value    |
+   | toUpperCase() | returns the calling string value converted to uppercase
+
 * RDBMS
 
 ** MySQL
