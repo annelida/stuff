@@ -23012,6 +23012,36 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     | 4 | Mark  | 25 | Rich-Mond | 65000.0 |
     | 5 | David | 27 | Texas     | 85000.0 |
 
+    SELECT statement with SQL sub-query
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select age from company
+    where exists (select age from company where salary > 65000);
+    #+END_SRC
+
+    #+RESULTS:
+    | 32 |
+    | 25 |
+    | 23 |
+    | 25 |
+    | 27 |
+    | 22 |
+    | 24 |
+
+    Following SELECT statement makes use of SQL sub-query where
+    sub-query finds all the records with AGE field having SALARY > 65000
+    and later WHERE clause is being used along with > operator to list
+    down all the records where AGE from the outside query is greater than
+    the age in the result returned by the sub-query.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company
+    where age > (select age from company where salary > 65000);
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul | 32 | California | 20000.0 |
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
