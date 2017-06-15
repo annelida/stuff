@@ -22930,6 +22930,17 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     #+RESULTS:
     : 7
 
+    SQlite date expressions
+
+    Date expressions return current system date and the time values
+    and these expressions will be used in various data manipulations.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select current_timestamp;
+    #+END_SRC
+
+    #+RESULTS:
+    : 2017-06-15 05:56:30
 
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
