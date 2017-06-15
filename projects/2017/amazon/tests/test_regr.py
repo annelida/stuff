@@ -94,3 +94,11 @@ class InitialAmazonScraperTest(unittest.TestCase):
     def tearDown(self):
         del(self.product)
         del(self.product_reviews)
+
+
+class SampleTest(unittest.TestCase):
+
+    def test_substraction(self):
+        self.assertEqual(5 - 3, 2)
+        self.assertRaises(2 / 0, "ZeroDivisionError")
+
