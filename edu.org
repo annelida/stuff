@@ -21435,6 +21435,74 @@ console.log(min(0, -10));
    | toLowerCase() | returns the calling string value converted to lower case  |
    | toString()    | return the string representation of the numbur's value    |
    | toUpperCase() | returns the calling string value converted to uppercase
+** The document object model
+
+   #+BEGIN_EXAMPLE
+   <html>
+
+   <head>
+      <title>The jQuery Example</title>
+   </head>
+
+   <body>
+      <div>
+         <p>This is a paragraph.</p>
+         <p>This is second paragraph.</p>
+         <p>This is third paragraph.</p>
+      </div>
+   </body>
+
+   </html>
+
+   #+END_EXAMPLE
+
+   The $() factory function
+
+   jQuery selectors start with the dollar sign and parentheses − $().
+   The factory function $() makes use of following three building blocks
+   while selecting elements in a given document
+
+   Tag name: $('p') select all paragraph <p>
+   Tag ID: $('#some-id') select the single element in the document
+   that has an ID of some-id.
+   Tag Class: $('.some-class')selects all elements in the document
+   that have a class of some-class.
+
+   Following is a simple example which makes use of Tag Selector. This would
+   select all the elements with a tag name p and will set their background to
+   "yellow".
+
+   #+BEGIN_SRC shell :results output
+   cd /home/vikky/Desktop/DVCS/stuff/Scripts/
+   cat jq_ex3.html
+   #+END_SRC
+
+   #+RESULTS:
+   #+begin_example
+   <html>
+
+      <head>
+	 <title>The jQuery Example</title>
+	 <script type = "text/javascript" 
+	    src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+	 <script type = "text/javascript" language = "javascript">
+	    $(document).ready(function() {
+	       $("p").css("background-color", "yellow");
+	    });
+	 </script>
+      </head>
+
+      <body>
+	 <div>
+	    <p class = "myclass">This is a paragraph.</p>
+	    <p id = "myid">This is second paragraph.</p>
+	    <p>This is third paragraph.</p>
+	 </div>
+      </body>
+
+   </html>
+#+end_example
 
 * RDBMS
 
