@@ -22968,7 +22968,8 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     #+RESULTS:
     : 2017-06-15 05:56:30
 
-*** SQlite WHERE clause
+*** DONE SQlite WHERE clause
+    CLOSED: [2017-06-16 Fri 08:41]
 
     SQlite WHERE clause is used to specify a condition while fetching
     the data from one table or multiple tables.
@@ -23066,6 +23067,28 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
 
     #+RESULTS:
     | 1 | Paul | 32 | California | 20000.0 |
+
+*** TODO SQlite - AND & OR operators
+    SQlite AND & OR operators are used to compile multiple conditions
+    to narrow down the selected data in an SQlite statement.
+
+    The AND operator allows the existence of multiple conditions in a
+    SQlite statement's WHERE clause.
+
+    #+BEGIN_EXAMPLE
+    SELECT column1, column2, columnN
+    FROM table_name
+    WHERE [condition1 AND [condition2]...AND [conditionN];
+    #+END_EXAMPLE
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company where age >= 25 and salary >= 65000;
+    #+END_SRC
+
+    #+RESULTS:
+    | 4 | Mark  | 25 | Rich-Mond | 65000.0 |
+    | 5 | David | 27 | Texas     | 85000.0 |
+
 
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
