@@ -23112,6 +23112,51 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
     | 5 | David | 27 | Texas      | 85000.0 |
 
+*** DONE SQlite - UPDATE Query
+    CLOSED: [2017-06-16 Fri 09:18]
+
+    The SQLite UPDATE Query is used to modify the existing records in
+    a table. You can use WHERE clause with UPDATE query to update selected
+    rows, otherwise all the rows would be updated.
+
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    UPDATE table_name
+    SET column1 = value1, column2 = value2....., columnN = valueN
+    WHERE [consition];
+    #+END_EXAMPLE
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    update company set address = 'Texas' where id = 6;
+    select * from company;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | California | 20000.0 |
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 5 | David | 27 | Texas      | 85000.0 |
+    | 6 | Kim   | 22 | Texas      | 45000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
+
+    If you want to modify all ADDRESS and SALARY column values in
+    COMPANY table you do not need to use WHERE clause
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    update company set address = 'Texas', salary = 20000.00;
+    select * from company;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | Texas | 20000.0 |
+    | 2 | Allen | 25 | Texas | 20000.0 |
+    | 3 | Teddy | 23 | Texas | 20000.0 |
+    | 4 | Mark  | 25 | Texas | 20000.0 |
+    | 5 | David | 27 | Texas | 20000.0 |
+    | 6 | Kim   | 22 | Texas | 20000.0 |
+    | 7 | James | 24 | Texas | 20000.0 |
 
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
