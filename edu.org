@@ -23439,3 +23439,41 @@ Note that the order of the rules for determining column affinity is important. A
 
      #+BEGIN_EXAMPLE
      
+*** DONE SQlite- DELETE query
+    CLOSED: [2017-06-17 Sat 09:37]
+
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    DELETE FROM table_name
+    WHERE [condition];
+    #+END_EXAMPLE
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | Texas | 20000.0 |
+    | 2 | Allen | 25 | Texas | 20000.0 |
+    | 3 | Teddy | 23 | Texas | 20000.0 |
+    | 4 | Mark  | 25 | Texas | 20000.0 |
+    | 5 | David | 27 | Texas | 20000.0 |
+    | 6 | Kim   | 22 | Texas | 20000.0 |
+    | 7 | James | 24 | Texas | 20000.0 |
+
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    delete from company where id = 7;
+    select * from company;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | Texas | 20000.0 |
+    | 2 | Allen | 25 | Texas | 20000.0 |
+    | 3 | Teddy | 23 | Texas | 20000.0 |
+    | 4 | Mark  | 25 | Texas | 20000.0 |
+    | 5 | David | 27 | Texas | 20000.0 |
+    | 6 | Kim   | 22 | Texas | 20000.0 |
