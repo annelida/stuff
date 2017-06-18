@@ -8162,3 +8162,214 @@ adjective
     Go straight along this road and turn left at the traffic lights.
     I told her straight out that I didn't love her any more.
 
+** hectic
+   беспокойный
+
+   adjective
+    1. беспокойный (restless, troubled, troublesome, hectic, anxious, turbulent)
+    2. лихорадочный (feverish, febrile, fever, hectic, fevered, feverous)
+    3. гектический (hectic)
+    4. чахоточный (consumptive, hectic, tuberculous, chesty, phthisic)
+    5. возбужденный (excited, agitated, energized, overwrought, thrilled, hectic)
+
+   noun
+    1. чахоточный больной (hectic)
+    2. чахоточный румянец (hectic)
+
+    Full of activity, or very busy and fast.
+    The teacher had a hectic workload.
+
+** anxiety
+   [aNGˈzī-itē]
+   тревожность
+
+   noun
+    1. беспокойство (concern, anxiety, worry, trouble, disturbance, unrest)
+    2. тревога (anxiety, alarm, alert, trouble, dismay, worry)
+    3. тревожность (anxiety)
+    4. страх (fear, awe, terror, fright, dread, anxiety)
+    5. забота (care, concern, worry, attention, anxiety, solicitude)
+    6. боязнь (fear, phobia, dread, anxiety)
+    7. опасение (fear, apprehension, anxiety, misgiving, qualm)
+    8. страстное желание (craving, longing, ardent desire, hankering,
+       concupiscence, anxiety)
+
+    An uncomfortable feeling of nervousness or worry about something that
+    is happening or might happen in the future.
+
+    Children normally feel a lot of anxiety about their first day at school.
+
+** overwhelmed
+
+   перегружены
+
+   adjective
+  1. потрясенный (shocked, dazed, overwhelmed, slaphappy)
+  2. ошеломленный (overwhelmed, bemused, dumbfounded, aghast, taken
+     aback, perplexed)
+
+     Bury or drown beneath a huge mass.
+
+     To defeat someone or something by using a lot of force.
+     Government troops have overwhelmed the rebels and seized control of the
+     capital.
+
+
+     To cause someone to feel sudden strong emotion.
+     I was overwhelmed by all the flowers and letters of support I received.
+
+     If water overwhelms a place, it covers it suddenly and completely.
+
+** treatment
+
+     лечение
+
+     noun
+    1. лечение (treatment, therapy, medication, cure, healing, curing)
+    2. обработка (processing, treatment, handling, working, work, cultivation)
+    3. обращение (treatment, handling, circulation, appeal, address, conversion)
+    4. терапия (therapy, treatment, therapeutics)
+    5. уход (care, leave, leaving, departure, maintenance, treatment)
+    6. трактовка (treatment, handling)
+    7. подход (approach, treatment, touch, access, slant, side)
+    8. излечение (cure, treatment, healing)
+    9. пропитка (impregnation, treatment, steep, imbibition)
+   10. обхождение (treatment, usage, handling, deal, address, quarter)
+   11. обогащение (enrichment, dressing, preparation, benefication, separation, treatment)
+   12. пропитывание (impregnation, treatment)
+   13. дробление (crushing, fragmentation, breaking, milling, crush, treatment)
+   14. измельчение (grinding, milling, shredding, breakage,
+       disintegration, treatment)
+
+       The use of drugs, exercises, etc. to cure a person of an illness
+       or injury.
+       Perhaps it's time to try a new course of treatment.
+
+       The way you deal with or behave towards someone or something:
+       Peter gets special treatment because he knows the boss.
+
+** benefits
+
+   выгоды
+
+   noun
+    1. пособие (benefit, pension, gratuity)
+    2. выгода (benefit, profit, advantage, gain, avail, catch)
+    3. польза (use, favor, benefit, good, advantage, profit)
+    4. бенефис (benefit, benefit performance)
+    5. прибыль (profit, income, earnings, gain, return, benefit)
+    6. пенсия (pension, benefit)
+
+   verb
+    1. извлекать (extract, retrieve, derive, recover, benefit, withdraw)
+    2. приносить пользу (benefit, profit, make oneself useful)
+    3. помогать (help, assist, succor, support, aid, serve)
+
+     A helpful or good effect, or something intended to help:
+     The discovery of oil brought many benefits to the town.
+
+     Our purpose in life is to boost your happiness and
+    benefit the lives of others, and often it requires money.
+** wealth
+
+   богатство
+
+   noun
+    1. богатство (wealth, riches, richness, rich, fortune, abundance)
+    2. благосостояние (welfare, wealth, prosperity, well-being, health, weal)
+    3. изобилие (abundance, plenty, galore, fertility, wealth, exuberance)
+    4. сокровища (riches, wealth, gold)
+    5. материальные ценности (wealth, tangibles)
+    6. материальные богатства (wealth)
+
+    A large amount of money or valuable possessions that someone has:
+    During a successful business career, she accumulated a great amount
+    of wealth.
+
+** cohere
+
+   членораздельным
+
+   verb
+    1. быть сцепленным (cohere)
+    2. быть связным (cohere)
+    3. быть объединенным (cohere)
+    4. быть членораздельным (cohere)
+    5. согласовываться (agree, accord, correspond, cohere, square, cotton)
+    6. соответствовать (correspond, match, meet, fit, conform, cohere)
+    7. скоординироваться (cohere)
+
+    To unite or to hold together as a unit.
+
+    The question is does wealth and happiness cohere with each other in anyway?
+
+** uplift
+
+   подъем
+
+   noun
+    1. подъем (rise, lifting, lift, climb, ascent, uplift)
+    2. взброс (uplift, upthrow, upcast)
+    3. духовный подъем (uplift)
+    4. бюстгальтер (bra, brassiere, brasserie, uplift)
+
+   verb
+    1. поднимать (lift, raise, up, pick up, put up, uplift)
+
+     improvement of a person's moral or spiritual condition:
+     Money can uplift your confidence.
+
+** compel
+
+   принуждать
+
+    verb
+    1. принуждать (compel, force, coerce, enforce, oblige, constrain)
+    2. заставлять (force, make, cause, get, compel, lead)
+    3. вынуждать (force, compel, necessitate, drive, constrain, enforce)
+    4. добиваться (achieve, seek, get, obtain, press for, compel)
+    5. подчинять (subordinate, submit, subject, subdue, subjugate,
+       compel)
+
+    To force someone to do something: 
+    Money can compel one to find self-purpose
+
+    To produce a strong feeling or reaction:
+    Over the years her work has compelled universal admiration and trust.
+
+** fearful
+
+   напуганный
+
+   adjective
+    1. страшный (terrible, fearful, horrible, frightful, frightening, dire)
+    2. ужасный (terrible, horrible, awful, appalling, dreadful, fearful)
+    3. напуганный (funky, frightened, fearful, afraid, pop-eyed)
+    4. испуганный (frightened, afraid, scared, startled, fearful, panicked)
+    5. пугливый (fearful, shy, skittish, timid, jittery, scary)
+    6. пугающий (frightening, scaring, fearful)
+    7. робкий (timid, shy, fearful, sheepish, gingerly, bashful)
+    8. полный страха (fearful, apprehensive)
+    9. огромный (huge, enormous, great, vast, immense, fearful)
+   10. исполненный благоговения (fearful)
+
+       Frightened or worried about something:
+       Being broke causes people to be fearful in looking upon another day.
+
+** miserable
+
+   несчастный
+
+   adjective
+    1. несчастный (unhappy, miserable, unfortunate, poor, wretched, pitiable)
+    2. жалкий (pitiful, miserable, pathetic, sorry, wretched, pitiable)
+    3. убогий (poor, miserable, needy, squalid, shabby, poky)
+    4. печальный (sad, sorrowful, mournful, deplorable, dismal, miserable)
+    5. плохой (bad, poor, ill, low, inferior, miserable)
+    6. скудный (scarce, meager, scanty, scant, lean, miserable)
+
+    Unpleasant and causing unhappiness:
+    While some people claim to be miserable and unhappy with life when
+    they were broke, money is not what made them happy.
+
+ 
