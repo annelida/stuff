@@ -23674,3 +23674,47 @@ Note that the order of the rules for determining column affinity is important. A
     #+RESULTS:
     | 4 | Mark | 25 | Rich-Mond  | 20000.0 |
     | 6 | Kim  | 22 | South-Hill | 20000.0 |
+
+*** DONE SQlite - LIMIT clause
+    CLOSED: [2017-06-19 Mon 10:18]
+
+    The SQLite LIMIT clause is used to limit the data amount returned
+    by the SELECT statement.
+
+    #+BEGIN_EXAMPLE
+    SELECT column1, column2, columnN
+    FROM table_name
+    LIMIT [no of rows]
+    #+END_EXAMPLE
+
+    #+BEGIN_EXAMPLE
+    SELECT column1, column2, columnN
+    FROM table_name
+    LIMIT [no of rows] OFFSET [row num]
+    #+END_EXAMPLE
+
+    Examples
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company limit 6;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | Texas      | 20000.0 |
+    | 2 | Allen | 25 | Texas      | 20000.0 |
+    | 3 | Teddy | 23 | Texas      | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 20000.0 |
+    | 5 | David | 27 | Texas      | 20000.0 |
+    | 6 | Kim   | 22 | South-Hill | 20000.0 |
+
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company limit 5 offset 2;
+    #+END_SRC
+
+    #+RESULTS:
+    | 3 | Teddy | 23 | Texas      | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 20000.0 |
+    | 5 | David | 27 | Texas      | 20000.0 |
+    | 6 | Kim   | 22 | South-Hill | 20000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
