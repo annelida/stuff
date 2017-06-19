@@ -23615,3 +23615,62 @@ Note that the order of the rules for determining column affinity is important. A
     | 5 | David | 27 | Texas | 20000.0 |
     | 6 | Kim   | 22 | Texas | 20000.0 |
 
+*** DONE SQlite - GLOB clause
+    CLOSED: [2017-06-19 Mon 09:32]
+
+    SQLite GLOB operator is used to match only text values against a
+    pattern using wildcards. If the search expression can be matched to
+    the pattern expression, the GLOB operator will return true, which
+    is 1. Unlike LIKE operator, GLOB is case sensitive and it follows
+    syntax of UNIX for specifying THE following wildcards.
+
+    - the asterisk sign (*)
+    - the question mark (?)
+
+    The asterisk sign (*) represent zero or multiple numbers or
+    characters. The question mark (?) represent a single number or
+    character.
+
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    SELECT FROM table_name
+    WHERE column GLOB 'XXXX*'
+    or 
+    SELECT FROM table_name
+    WHERE column GLOB '*XXXX*'
+    or
+    SELECT FROM table_name
+    WHERE column GLOB 'XXXX?'
+    or
+    SELECT FROM table_name
+    WHERE column GLOB '?XXXX'
+    or
+    SELECT FROM table_name
+    WHERE column GLOB '?XXXX?'
+    or
+    SELECT FROM table_name
+    WHERE column GLOB '????'
+    #+END_EXAMPLE
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company where age glob '2*';
+    #+END_SRC
+
+    #+RESULTS:
+    | 2 | Allen | 25 | Texas      | 20000.0 |
+    | 3 | Teddy | 23 | Texas      | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 20000.0 |
+    | 5 | David | 27 | Texas      | 20000.0 |
+    | 6 | Kim   | 22 | South-Hill | 20000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company where address glob '*-*';
+    #+END_SRC
+
+    #+RESULTS:
+    | 4 | Mark | 25 | Rich-Mond  | 20000.0 |
+    | 6 | Kim  | 22 | South-Hill | 20000.0 |
