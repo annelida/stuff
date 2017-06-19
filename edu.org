@@ -21609,6 +21609,44 @@ console.log(min(0, -10));
    </html>
 #+end_example
 
+   Set attribute value
+
+   The attr(name, value) method can be used to set the named attribute
+   onto all elements in the wrapped set using the passed value.
+
+   Following is a simple example which set src attributes of an image
+   tag to a correct location:
+
+   #+BEGIN_SRC shell :results output
+   cd /home/vikky/Desktop/DVCS/stuff/Scripts
+   cat jq_ex5.html
+   #+END_SRC
+
+   #+RESULTS:
+   #+begin_example
+   <html>
+
+      <head>
+	 <title>The jQuery Example</title>
+	 <base href="https://www.tutorialspoint.com" />
+	 <script type = "text/javascript"
+	    src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+	 <script type = "text/javascript" language = "javascript">
+	    $(document).ready(function() {
+	       $("#myimg").attr("src", "/jquery/images/jquery.jpg");
+	    });
+	 </script>
+      </head>
+
+      <body>
+	 <div>
+	    <img id = "myimg" src = "/images/jquery.jpg" alt = "Sample image" />
+	 </div>
+      </body>
+
+   </html>
+#+end_example
 
 * RDBMS
 
