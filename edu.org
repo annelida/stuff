@@ -21647,7 +21647,49 @@ console.log(min(0, -10));
 
    </html>
 #+end_example
+** Applying styles
 
+   The addclass( classes ) method can be used to apply defined style
+   sheets onto all the matched elements.
+
+   Following is a simple example which sets class attribute of a para <p> tag
+
+   #+BEGIN_SRC shell :results output
+   cd /home/vikky/Desktop/DVCS/stuff/Scripts
+   cat jq_ex6.html
+   #+END_SRC
+
+   #+RESULTS:
+   #+begin_example
+   <html>
+
+      <head>
+	 <title>The jQuery Example</title>
+	 <script type = "text/javascript" 
+	    src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+	 <script type = "text/javascript" language = "javascript">
+	    $(document).ready(function() {
+	       $("em").addClass("selected");
+	       $("#myid").addClass("highlight");
+	    });
+	 </script>
+
+	 <style>
+	    .selected { color:red; }
+	    .highlight { background:yellow; }
+	 </style>	
+      </head>
+
+      <body>
+	 <em title = "Bold and Brave">This is first paragraph.</em>
+	 <p id = "myid">This is second paragraph.</p>
+      </body>
+
+   </html>
+#+end_example
+
+   
 * RDBMS
 
 ** MySQL
