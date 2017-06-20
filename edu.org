@@ -23370,6 +23370,60 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     | 6 | Kim   | 22 | Texas | 20000.0 |
     | 7 | James | 24 | Texas | 20000.0 |
 
+*** DONE SQlite - ORDER BY Clause
+    CLOSED: [2017-06-20 Tue 08:30]
+
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    SELECT column-list
+    FROM table_name
+    [WHERE condition]
+    [ORDER BY column1, column2, ..columnN] [ASC | DESC];
+    #+END_EXAMPLE
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company order by salary asc;
+    #+END_SRC
+
+    #+RESULTS:
+    | 7 | James | 24 | Houston    | 10000.0 |
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 1 | Paul  | 32 | California | 20000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 5 | David | 27 | Texas      | 85000.0 |
+
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company order by name, salary asc;
+    #+END_SRC
+
+    #+RESULTS:
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 5 | David | 27 | Texas      | 85000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 1 | Paul  | 32 | California | 20000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company order by name desc;
+    #+END_SRC
+
+    #+RESULTS:
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+    | 1 | Paul  | 32 | California | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
+    | 5 | David | 27 | Texas      | 85000.0 |
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+
+    
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
