@@ -23592,6 +23592,46 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     | David | 85000.0 |
     | Allen | 15000.0 |
 
+*** DONE SQlite - HAVING Clause
+    CLOSED: [2017-06-21 Wed 09:54]
+    The HAVING clause enables you to specify conditions that filter
+    which group results appear in the final results.
+
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    SELECT column1, column2
+    FROM table1, table2
+    WHERE [ conditions ]
+    GROUP BY column1, column2
+    HAVING [ conditions ]
+    ORDER BY column1, column2
+    #+END_EXAMPLE
+
+    Following is the example, which would display record for which
+    name count is less than 2:
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company group by name having count(name) < 2;
+    #+END_SRC
+
+    #+RESULTS:
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 5 | David | 27 | Texas      | 85000.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+
+    Following is the example, which would display record for which
+    name count is greater than 2:
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select * from company group by name having count(name) > 2;
+    #+END_SRC
+
+    #+RESULTS:
+    | 9 | James | 44 | Norway | 5000.0 |
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
