@@ -23798,6 +23798,18 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     |                                                        | query result,    |
     |                                                        | returning a list |
     |--------------------------------------------------------+------------------|
+
+*** Connection to database
+
+    #+BEGIN_SRC python :results output
+    import sqlite3
+
+    conn = sqlite3.connect("mydatabase.db")
+    print("Opened database sucessfully")
+    #+END_SRC
+
+    #+RESULTS:
+    : Opened database sucessfully
    
 
 **** Storage Classes and Datatypes
