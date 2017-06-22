@@ -23682,6 +23682,124 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     | Kim   |
     | James |
 
+*** SQlite - Python
+
+    | API                                                    | Description      |
+    |--------------------------------------------------------+------------------|
+    | sqlite3.connect(database [, timeout, other arguments]) | opens a          |
+    |                                                        | connection       |
+    |                                                        | to the SQlite    |
+    |                                                        | database         |
+    |                                                        | file database    |
+    |--------------------------------------------------------+------------------|
+    | connection.cursor([cursorClass])                       | This             |
+    |                                                        | routine          |
+    |                                                        | creates a        |
+    |                                                        | cursor           |
+    |                                                        | which will be    |
+    |                                                        | used             |
+    |                                                        | throughout of    |
+    |                                                        | you database     |
+    |                                                        | programming      |
+    |                                                        | with Python.     |
+    |--------------------------------------------------------+------------------|
+    | cursor.execute(sql [, optional parameters])            | This             |
+    |                                                        | routine          |
+    |                                                        | executes an      |
+    |                                                        | SQL statement    |
+    |--------------------------------------------------------+------------------|
+    | connection.execute(sql [, optional parameters])        | This routine     |
+    |                                                        | is a shortcut    |
+    |                                                        | of the above     |
+    |                                                        | execute          |
+    |                                                        | method           |
+    |                                                        | provided by      |
+    |                                                        | cursor object    |
+    |                                                        | and it           |
+    |                                                        | creates an       |
+    |                                                        | intermediate     |
+    |                                                        | cursor object    |
+    |                                                        | by calling       |
+    |                                                        | the cursor       |
+    |                                                        | method           |
+    |--------------------------------------------------------+------------------|
+    | cursor.executemany(sql, seq_of_parameters)             | This routine     |
+    |                                                        | executes an      |
+    |                                                        | SQL command      |
+    |                                                        | against all      |
+    |                                                        | parameter        |
+    |                                                        | sequences or     |
+    |                                                        | mapping found    |
+    |                                                        | in the           |
+    |                                                        | sequence sql.    |
+    |--------------------------------------------------------+------------------|
+    | connection.executescript(sql_script)                   | this routine     |
+    |                                                        | executes         |
+    |                                                        | multiple         |
+    |                                                        | SQL statement    |
+    |                                                        | at once          |
+    |                                                        | provided in      |
+    |                                                        | the form of      |
+    |--------------------------------------------------------+------------------|
+    | connection.total_changes()                             | This routine     |
+    |                                                        | returns the      |
+    |                                                        | total number     |
+    |                                                        | of database      |
+    |                                                        | rows that        |
+    |                                                        | have been        |
+    |                                                        | modified,        |
+    |                                                        | inserted,        |
+    |                                                        | or deleted       |
+    |                                                        | since the        |
+    |                                                        | database         |
+    |                                                        | connection       |
+    |                                                        | was opened.      |
+    |--------------------------------------------------------+------------------|
+    | connection.commit()                                    | This method      |
+    |                                                        | commits the      |
+    |                                                        | current          |
+    |                                                        | transaction.     |
+    |--------------------------------------------------------+------------------|
+    | connection.rollback()                                  | This method      |
+    |                                                        | roll back        |
+    |                                                        | any changes      |
+    |                                                        | to the           |
+    |                                                        | database         |
+    |                                                        | since the        |
+    |                                                        | last call to     |
+    |                                                        | commit()         |
+    |--------------------------------------------------------+------------------|
+    | connection.close()                                     | This method      |
+    |                                                        | closes the       |
+    |                                                        | database         |
+    |                                                        | connection.      |
+    |--------------------------------------------------------+------------------|
+    | cursor.fetchone()                                      | This method      |
+    |                                                        | fetches the      |
+    |                                                        | next row of a    |
+    |                                                        | query result     |
+    |                                                        | set, returning   |
+    |                                                        | a single         |
+    |                                                        | sequences, or    |
+    |                                                        | None when no     |
+    |                                                        | more data is     |
+    |                                                        | available        |
+    |--------------------------------------------------------+------------------|
+    | cursor.fetchmany([size=cursor.arraysize])              | This routine     |
+    |                                                        | fetches the      |
+    |                                                        | next set of a    |
+    |                                                        | query result,    |
+    |                                                        | returning a      |
+    |                                                        | list.            |
+    |--------------------------------------------------------+------------------|
+    | cursor.fetchall()                                      | This routine     |
+    |                                                        | fetches all      |
+    |                                                        | rows of a        |
+    |                                                        | query result,    |
+    |                                                        | returning a list |
+    |--------------------------------------------------------+------------------|
+   
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
