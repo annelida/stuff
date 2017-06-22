@@ -2215,7 +2215,54 @@
     There is also a group of verbs that can be followed by an infinitive
     or an ‘ing’ form with a change in meaning. These verbs will be covered
     in another section.
+*** DONE Verbs followed by 'ing' or by 'to + infinitive' 2
+    CLOSED: [2017-06-22 Thu 10:21]
 
+    When one verb is followed by another, the second verb can either
+    be an infinitive or an ~ing form. Some verbs can be followed by
+    either an infinitive, or an –ing form but with a change in
+    meaning. These are some of the most common ones.
+
+    like
+
+    - I like watching old films on TV.
+
+    With an ‘ing’ form, ‘like’ means ‘enjoy’
+
+    - I like to wash up as soon as I finish eating.
+
+    I might not enjoy washing up but I think it’s the right thing to do.
+
+    Remember that ‘would like’ can only be followed by an infinitive.
+
+    - I’d like to go to Japan next year, if possible.
+    - I’m trying to learn Japanese but it’s very difficult.
+    - Have you tried using butter instead of oil?
+
+    Try + ‘ing’ means make an experiment. It’s not difficult – it
+    might work, it might not.
+
+    stop
+
+    Stop + ‘ing’ tells us what has stopped. in this example, buying a
+    newspaper.
+
+    - I’ve stopped buying a newspaper every day to try to save money.
+    - The bus stopped to pick up the children.
+
+    remember /forget
+
+    - Don’t forget to post that letter for me.
+    - Did you remember to post that letter for me?
+
+    Remember/forget + to + infinitive means that you remember
+    something you have to do – a duty or a chore.
+
+    - I’ll always remember meeting you for the first time.
+    - I’ll never forget meeting you for the first time.
+
+    Remember/forget + ‘ing’ form means remember something you did in the
+    past – an event or an activity.
 ** Grammar
 *** Pronouns - personal pronouns (I, me, you etc):
 
