@@ -23905,6 +23905,55 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     : >>> ... <sqlite3.Cursor object at 0xb74dcce0>
     : >>> ... <sqlite3.Cursor object at 0xb72a91a0>
     : >>> >>> Records created successfully
+
+*** SELECT operations
+
+    #+BEGIN_SRC python :results output :session db
+    import sqlite3
+
+    conn = sqlite3.connect('mydatabase.db')
+    print "Opened database successfully";
+
+    cursor = conn.execute("SELECT id, name, address, salary from COMPANY")
+    for row in cursor:
+       print "ID = ", row[0]
+       print "NAME = ", row[1]
+       print "ADDRESS = ", row[2]
+       print "SALARY = ", row[3], "\n"
+
+    print "Operation done successfully";
+    conn.close()
+
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    Python 2.7.6 (default, Oct 26 2016, 20:32:47)
+    [GCC 4.8.4] on linux2
+    Type "help", "copyright", "credits" or "license" for more information.
+    python.el: native completion setup loaded
+    >>> Opened database successfully
+    >>> >>> ... ... ... ... ... ID =  1
+    NAME =  Paul
+    ADDRESS =  California
+    SALARY =  20000.0
+
+    ID =  2
+    NAME =  Allen
+    ADDRESS =  Texas
+    SALARY =  15000.0
+
+    ID =  3
+    NAME =  Teddy
+    ADDRESS =  Norway
+    SALARY =  20000.0
+
+    ID =  4
+    NAME =  Mark
+    ADDRESS =  Rich-Mond
+    SALARY =  65000.0
+    Operation done successfully
+#+end_example
    
 
 **** Storage Classes and Datatypes
