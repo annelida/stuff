@@ -21894,6 +21894,51 @@ console.log(min(0, -10));
 
    </html>
 #+end_example
+** Locating descendant elements
+
+   The find( selector ) method can be used to locate all the
+   descendant elements of a particular type of elements. The selector
+   can be written using any selector syntax.
+
+   Following is an example which selects all the <span> elements
+   available inside different <p> elements.
+
+   #+BEGIN_SRC shell :results output
+   cd /home/vikky/Desktop/DVCS/stuff/Scripts
+   cat jq_ex2.html
+   #+END_SRC
+
+   #+RESULTS:
+   #+begin_example
+   <html>
+
+      <head>
+	 <title>The JQuery Example</title>
+	 <script type = "text/javascript" 
+	    src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+	 <script type = "text/javascript" language = "javascript">
+	    $(document).ready(function() {
+	       $("p").find("span").addClass("selected");
+	    });
+	 </script>
+
+	 <style>
+	    .selected { color:red; }
+	 </style>
+      </head>
+
+      <body>
+	 <p>This is 1st paragraph and <span>THIS IS RED</span></p>
+	 <p>This is 2nd paragraph and <span>THIS IS ALSO RED</span></p>
+      </body>
+
+   </html>
+#+end_example
+
+
+
+
 
 * RDBMS
 
