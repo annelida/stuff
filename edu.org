@@ -24057,6 +24057,45 @@ mysql> SELECT artist_name, album_name FROM artist INNER JOIN album ON artist.art
     Operation done successfully
 #+end_example
 
+*** DELETE operation
+
+    Following code shows how to use DELETE statement to delete any
+    record and then fetch and display the remaining record from the
+    COMPANY table.
+
+    #+BEGIN_SRC python :results output :session db
+    conn.execute("DELETE from COMPANY where ID = 2;")
+    conn.commit()
+    print "Total numper of rows deleted :", conn.total_changes
+
+    cursor = conn.execute("SELECT id, name, address, salary from COMPANY")
+    for row in cursor:
+       print "ID = ", row[0]
+       print "NAME = ", row[1]
+       print "ADDRESS = ", row[2]
+       print "SALARY = ", row[3], "\n"
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    <sqlite3.Cursor object at 0xb726f1a0>
+    >>> Total numper of rows deleted : 1
+    >>> >>> ... ... ... ... ... ID =  1
+    NAME =  Paul
+    ADDRESS =  California
+    SALARY =  20000.0 
+
+    ID =  3
+    NAME =  Teddy
+    ADDRESS =  Norway
+    SALARY =  20000.0 
+
+    ID =  4
+    NAME =  Mark
+    ADDRESS =  Rich-Mond 
+    SALARY =  65000.0
+#+end_example
+
 **** Storage Classes and Datatypes
 Each value stored in an SQLite database has one of the following storage classes:
 
