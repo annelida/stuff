@@ -12,7 +12,7 @@ class TestMyDatabase(unittest.TestCase):
         self.conn.execute("DROP TABLE IF EXISTS COMPANY")
         self.conn.execute('''CREATE TABLE COMPANY
                  (ID INT PRIMARY KEY   NOT NULL,
-                 NAME TEXT NOT NULL, AGE INT NOT NULL, ADDRESS CHAR(50),SALARY         REAL);''')
+                 NAME TEXT NOT NULL, AGE INT NOT NULL, ADDRESS CHAR(50), SALARY REAL);''')
         print("Table created successfully")
         self.conn.execute("INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY) \
               VALUES (1, 'Paul', 32, 'California', 20000.00 )")
@@ -28,10 +28,10 @@ class TestMyDatabase(unittest.TestCase):
     def test_search_entries(self):
         cursor = self.conn.execute("SELECT id, name, address, salary from COMPANY")
         for row in cursor:
-            print "ID = ", row[0]
-            print "NAME = ", row[1]
-            print "ADDRESS = ", row[2]
-            print "SALARY = ", row[3], "\n"
+            print("ID = ", row[0])
+            print("NAME = ", row[1])
+            print("ADDRESS = ", row[2])
+            print("SALARY = ", row[3], "\n")
 
         print("Operation done successfully")
 
