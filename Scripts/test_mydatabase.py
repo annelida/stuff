@@ -32,8 +32,14 @@ class TestMyDatabase(unittest.TestCase):
             print("NAME = ", row[1])
             print("ADDRESS = ", row[2])
             print("SALARY = ", row[3], "\n")
+            self.assertTrue('ID', row[0])
+            self.assertTrue('NAME', row[1])
+            self.assertTrue('ADDRESS', row[2])
+            self.assertTrue('SALARY', row[3])
 
         print("Operation done successfully")
+
+
 
 
     def tearDown(self):
