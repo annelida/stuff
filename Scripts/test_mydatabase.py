@@ -7,6 +7,7 @@ class TestMyDatabase(unittest.TestCase):
 
     def setUp(self):
         self.conn = sqlite3.connect("mydatabase.db")
+        self.cursor = self.conn.cursor()
         print("Opened database successfully")
 
         self.conn.execute("DROP TABLE IF EXISTS COMPANY")
@@ -38,6 +39,14 @@ class TestMyDatabase(unittest.TestCase):
             self.assertTrue('SALARY', row[3])
 
         print("Operation done successfully")
+
+    def test_updating_salary(self):
+        self.conn.execute("UPDATE COMPANY set SALARY = 25000.00 where ID = 1")
+        actual = "SELECT * from COMPANY where SALARY = 25000.00"
+        self.cursor.execute(actual)
+        result = self.cursor.fetchall()
+        expected = [(1, 'Paul', 32, 'California', 25000.00)]
+        self.assertListEqual(expected, result)
 
 
 
