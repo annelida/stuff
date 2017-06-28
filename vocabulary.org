@@ -8502,12 +8502,87 @@ adjective
   A small, brown European bird known especially for the beautiful song
   of the male, usually heard during the night
 
-  I heard a Japanese nightingale
+  I heard a Japanese nightingale.
 * infirmity
+  [inˈfərmitē]
+  немощь
+
+  noun
+   1. немощь (infirmity, debility, invalidity)
+   2. слабость (weakness, debility, fragility, failing, feebleness, infirmity)
+   3. дряхлость (decrepitude, senility, infirmity, invalidity,
+      caducity, anility)
+   4. слабохарактерность (infirmity, failing)
+   5. физический недостаток (handicap, disfigurement, infirmity, disfiguration)
+   6. моральный недостаток (infirmity)
+
+   Physical or mental weakness.
+   Old age and infirmity come to men and women alike.
+
 * merely
+
+  просто
+
+  adverb
+   1. просто (just, simply, merely, barely)
+   2. только (only, alone, but, merely, solely, simply)
+   3. единственно (only, solely, alone, merely, exclusively, entirely)
+
+   just; only.
+   I wasn't complaining, I merely said that I was tired.
+
 * avert
+  предотвращать
+
+  verb
+   1. предотвращать (prevent, avert, preclude, stave off)
+   2. отводить (allot, take, divert, avert, withdraw, lead)
+   3. отвращать (turn away, avert, ward off, alienate, forfend, fend off)
+   4. отвлекать (distract, divert, draw away, avert, call off, draw
+      off)
+
+   To prevent something bad from happening:
+   To avert disaster/economic collapse
+   Skillful diplomacy helps to avert war.
+
 * doom
-* forbidding
+
+  гибель
+
+  noun
+   1. гибель (death, doom, ruin, downfall, collapse, perdition)
+   2. судьба (fate, destiny, fortune, lot, luck, doom)
+   3. рок (rock, fate, doom, rock and roll, fatality, star)
+   4. приговор (sentence, judgment, condemnation, doom, adjudication, finding)
+   5. смерть (death, dying, demise, end, passing, doom)
+   6. фатум (doom)
+   7. осуждение (condemnation, conviction, censure, denunciation, disapproval, doom)
+   8. страшный суд (doom)
+   9. статут (statute, doom)
+  10. декрет (decree, ordinance, fiat, decretal, doom)
+
+  verb
+   1. обрекать (doom, foredoom)
+   2. осуждать (condemn, judge, denounce, criticize, convict, doom)
+   3. предопределять (predetermine, ordain, foreordain, predestinate,
+      predestine, doom)
+    
+  Death, destruction, or any very bad situation that cannot be
+  avoided:
+  
+  The plan was doomed to failure from the start.
+  
+  Opponents continue to predict doom upon the existing healthcare
+  system of this great nation.
+
+* to forbid
+ 
+  запрещать
+
+  To refuse to allow something, especially officially, or to prevent a
+  particular plan of action by making it impossible:
+  The law forbids the sale of cigarettes to people under the age of 16
+
 * to engage
 * acquaintance
 * mirth
