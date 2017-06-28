@@ -21991,6 +21991,60 @@ console.log(min(0, -10));
 
    </html>
 #+end_example
+** Apply multiple CSS properties
+
+   You can apply multiply CSS properties using a single jQuery method
+   CSS(key1:val1, key2:val2....).
+
+   Syntax
+
+   #+BEGIN_EXAMPLE
+   selector.css( {key1:val1, key2:val2....keyN:valN} )
+   #+END_EXAMPLE
+
+   Example
+
+   Following is an example which adds font color as well as background
+   color to the second list item.
+
+   #+BEGIN_SRC shell :results output
+   cd /home/vikky/Desktop/DVCS/stuff/Scripts
+   cat jq_ex3.html
+   #+END_SRC
+
+   #+RESULTS:
+   #+begin_example
+   <html>
+
+      <head>
+	 <title>The jQuery Example</title>
+	 <script type = "text/javascript" 
+	    src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+	 <script type = "text/javascript" language = "javascript">
+	    $(document).ready(function() {
+	       $("li").eq(2).css("color", "red");
+	    });
+	 </script>
+      </head>
+
+      <body>
+
+	 <div>
+	    <ul>
+	       <li>list item 1</li>
+	       <li>list item 2</li>
+	       <li>list item 3</li>
+	       <li>list item 4</li>
+	       <li>list item 5</li>
+	       <li>list item 6</li>
+	    </ul>
+	 </div>
+
+      </body>
+
+   </html>
+#+end_example
 
 * RDBMS
 
