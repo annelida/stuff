@@ -48,8 +48,11 @@ class TestMyDatabase(unittest.TestCase):
         expected = [(1, 'Paul', 32, 'California', 25000.00)]
         self.assertListEqual(expected, result)
 
-
-
+    def test_deleting_records(self):
+        self.conn.execute("DELETE from COMPANY where ID = 2")
+        self.cursor.execute("SELECT * from COMPANY where ID = 2")
+        del_records = self.cursor.fetchall()
+        self.assertFalse(del_records)
 
     def tearDown(self):
         os.remove("mydatabase.db")
