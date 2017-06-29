@@ -8584,9 +8584,180 @@ adjective
   The law forbids the sale of cigarettes to people under the age of 16
 
 * to engage
+  заниматься
+
+  verb
+   1. заниматься (do, engage, engage in, be engaged in, practice, work)
+   2. привлекать (attract, engage, draw, invite, appeal, draw on)
+   3. вступать (enter, join, engage, enter into, contract, go into)
+   4. вовлекать (involve, engage, draw, implicate, draw in, entangle)
+   5. включать (include, turn on, switch on, comprise, involve, engage)
+   6. нанимать (hire, employ, engage, take, rent, charter)
+   7. занимать (occupy, take, hold, borrow, engage, take up)
+   8. зацепляться (engage, mesh, hitch, mate, tooth)
+   9. зацеплять (engage, hook, mesh, gear, hitch, mate)
+  10. вступать в бой (engage, set to)
+  11. обручиться (get engaged, engage, be engaged)
+  12. открывать огонь (engage)
+  13. обязывать (oblige, bind, obligate, bound, engage, bind over)
+  14. заказывать заранее (reserve, engage, bespeak)
+  15. завладевать вниманием (engage)
+  16. обязываться (engage)
+
+   To employ someone:
+   I have engaged a secretary to deal with all my paperwork.
+   
 * acquaintance
+  [əˈkwāntns]
+
+  знакомство
+
+  noun
+   1. знакомство (acquaintance, familiarity, knowledge, acquaintanceship, knowing)
+   2. знакомый (friend, acquaintance, contact)
+   3. ознакомление (acquaintance, familiarization)
+
+  adjective
+   1. знакомый (acquainted, acquaintance, au fait)
+
+   A person that you have met but do not know well,
+   Used in some expressions about knowing or meeting people:
+   He gradually lost contact with all his old acquaintances.
+   
 * mirth
-* feasting
-* conclude
+  [mərTH]
+
+  веселье
+
+  noun
+  1. веселье (fun, gladness, gaiety, joy, cheer, mirth)
+  2. радость (joy, gladness, rejoicing, cheer, mirth, joyfulness)
+
+  Laughter, humour, or happiness:
+  The time was filled with parties,hunting, fishing, dancing, mirth,
+  and feasting.
+
+* feast
+  праздник, пир, банкет, наслаждение
+
+  verb
+   1. пировать (feast, revel, banquet, make merry, junket, carouse)
+   2. попировать (feast)
+   3. праздновать (celebrate, feast, rejoice, hold, solemnize, keep)
+   4. угощаться (feast, help oneself)
+   5. наслаждаться (enjoy, relish, delight, savor, revel, take pleasure in)
+   6. угощать (treat, regale, feast, entertain, wine and dine, stand)
+   7. принимать (accept, take, receive, adopt, assume, pass)
+   8. чествовать (honor, celebrate, feast, fete, honour)
+
+   A feast is a huge delicious meal that's served at a party or
+   celebration.
+
+   The wedding was followed by a feast, which continued until the wee
+   hours of the morning.
+
+* to conclude
+  [kənˈklo͞od]
+  заключать
+
+  verb
+   1. заключать (conclude, enclose, infer, include, establish, close)
+   2. делать вывод (conclude, infer, deduce, draw a conclusion, reason, elicit)
+   3. заканчивать (end, finish, complete, close, conclude, finalize)
+   4. заканчиваться (end, close, conclude, let out, be up)
+   5. выводить (deduce, derive, conclude, show, remove, draw)
+   6. решать (decide, solve, resolve, settle, determine, conclude)
+   7. выводить заключение (conclude, infer, educe)
+   8. принимать решение (decide, resolve, arrive at a decision,
+      settle, come to a decision, conclude)
+
+   Bring (something) to an end.
+   They conclude their study in a school.
+
+   Arrive at a judgment or opinion by reasoning.
+   the doctors concluded that Esther had suffered a stroke.
+  
 * impatient
+  [imˈpāSHənt]
+
+  нетерпеливый
+
+  adjective
+   1. нетерпеливый (impatient, eager, petulant)
+   2. нетерпимый (intolerant, bigoted, impatient, insufferable, illiberal)
+   3. раздражительный (irritable, rambunctious, grumpy, irascible, touchy, impatient)
+   4. беспокойный (restless, troubled, troublesome, hectic, anxious, impatient)
+   5. нетерпящий (impatient)
+
+   Wanting something to happen as soon as possible.
+   People are increasingly impatient for change in this country.
+
 * disobedient
+  [ˌdisəˈbēdēənt]
+  непослушный
+
+  adjective
+   1. непослушный (naughty, disobedient, unruly, rebellious, recalcitrant, mischievous)
+   2. непокорный (disobedient, unruly, recalcitrant, insubordinate,
+      unsubmissive, intractable)
+
+   Refusing to do what someone in authority tells you to do.
+   The disobedient soldier was given cleanup duty.
+
+* constraints                                                         :Study:
+[2017-06-29 Thu 08:22]
+
+  ограничения
+
+  noun
+   1. скованность (constraint)
+   2. принуждение (compulsion, coercion, constraint, duress, forcing, enforcement)
+   3. стеснение (constraint, restraint, incommodity, cumber)
+   4. принужденность (constraint)
+   5. напряженность (intensity, tenseness, tightness, tensity, intension, constraint)
+   6. тюремное заключение (imprisonment, jail, confinement, gaol, constraint, bond)
+
+  A constraint is a limit or restriction. Hopefully your school won't
+  cut the sports or music programs due to budget constraints!
+
+  You might notice that constraint is similar to the verb constrict, as
+  in boa constrictor. A constraint tightens around you like a snake and
+  prevents you from doing what you want. Financial constraints prevent
+  you from buying the latest electronic device. Are you tired of living
+  under the constraint of your parents' rules? Sometimes your worries or
+  feelings act as a constraint. You know that someone has become a close
+  friend when you can talk to them without constraint.
+
+  A constraint is a limit or restriction.
+  We protested the constraint on freedom imposed by the communists.
+
+* ensure :Study:
+[2017-06-29 Thu 08:30]
+
+  обеспечивать
+
+  verb
+   1. гарантировать (ensure, guarantee, assure, secure, safeguard, insure)
+   2. обеспечивать (provide, ensure, procure, insure, assure, guarantee)
+   3. застраховать (insure, ensure, indemnify, effect an insurance policy)
+   4. ручаться (vouch, guarantee, warrant, ensure, answer, undertake)
+   5. подстраховаться (insure, ensure)
+   6. застраховывать (insure, ensure)
+   7. страховаться (insure, ensure)
+   8. застраховываться (insure, ensure)
+
+
+  When you ensure that something will happen, you guarantee it. All that
+  homework will ensure that you have no time for fun this afternoon!
+
+  Ensure comes from the Old French en- "make" plus seur "sure," and that
+  is exactly what it means today - "to make sure or certain, to
+  guarantee." If you ensure success or someone's safety, you are
+  guaranteeing it. Make sure you can really come through with something
+  before you ensure it!
+
+  - NOT NULL Constraint - ensure
+
+
+  When you ensure that something will happen, you guarantee it.
+  The airline is taking steps to ensure safety on its aircraft.
