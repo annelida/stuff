@@ -24696,3 +24696,35 @@ Note that the order of the rules for determining column affinity is important. A
     #+END_SRC
 
     #+RESULTS:
+
+    DEFAULT Constraint
+
+    The DEFAULT constraint provides a default value to a column when
+    the INSERT INTO statement does not provide a specific value.
+
+    Example
+
+    For example, the following SQLite statement creates a new table
+    called COMPANY and adds five columns. Here, SALARY column is set
+    to 50000.00 by default, thus in case INSERT INTO statement does not
+    provide a value for this column, then by default, this column
+    would be set to 50000.00.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    drop table if exists company;
+    create table company(
+    id int primary key,
+    name           text not null,
+    age            int  not null,
+    address        char(50),
+    salary         real default 50000.00
+    );
+    insert into company(id, name, age) VALUES(1, 'Allen', 25);
+    select * from company;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Allen | 25 |   | 50000.0 |
+
+    
+
