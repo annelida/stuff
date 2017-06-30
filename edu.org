@@ -24726,5 +24726,37 @@ Note that the order of the rules for determining column affinity is important. A
     #+RESULTS:
     | 1 | Allen | 25 |   | 50000.0 |
 
+
+    UNIQUE constraint
+
+    The UNIQUE constraints prevent two records from having identical
+    values in a particular column. In the COMPANY table, for example,
+    you might want to prevent two or more people from having an
+    identical age.
+
+    Example
+
+    For example, the following SQlite statement creates a new table
+    called COMPANY and adds five columns. Here, AGE column is set to
+    UNIQUE, so that you cannot have two records with the same age.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    drop table if exists company;
+    create table company(
+    id int primary key not null,
+    name           text not null,
+    age            int  not null unique,
+    address        char(50),
+    salary         real default 50000.00
+    );
+    insert into company(id, name, age) VALUES(1, 'Allen', 25);
+    insert into company(id, name, age) VALUES(2, 'Tom', 25);
+    
+    select * from company;
+    #+END_SRC
+
+    #+RESULTS:
+    : Error: near line 10: UNIQUE constraint failed: company.age
+
     
 
