@@ -24646,7 +24646,8 @@ Note that the order of the rules for determining column affinity is important. A
     | 6 | Kim   | 22 | South-Hill | 20000.0 |
     | 7 | James | 24 | Houston    | 10000.0 |
 
-*** TODO SQlite - Constraints
+*** DONE SQlite - Constraints
+    CLOSED: [2017-07-07 Fri 08:38]
     Constraints are the rules enforced on a data columns on table.
     These are used to limit the type of data that can go into table.
     This ensures the accuracy and reliability of the data in the
@@ -24831,6 +24832,59 @@ Note that the order of the rules for determining column affinity is important. A
 
     #+RESULTS:
     : Error: near line 9: CHECK constraint failed: company
+
+*** SQlite - JOINS
+
+    SQLite Joins clause is used to combine records from two or more
+    tables in a database.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    drop table if exists company;
+    create table company(
+    id int primary key not null,
+    name           text not null,
+    age            int  not null,
+    address        char(50),
+    salary         real
+    );
+    insert into company VALUES(1, 'Paul', 32, 'California', 20000.00);
+    insert into company VALUES(2, 'Allen', 25, 'Texas', 15000.00);
+    insert into company VALUES(3, 'Teddy', 23, 'Norway', 20000.00);
+    insert into company VALUES(4, 'Mark', 25, 'Rich-Mond', 65000.00);
+    insert into company VALUES(5, 'David', 27, 'Texas', 85000.00);
+    insert into company VALUES(6, 'Kim', 22, 'South-Hall', 45000.00);
+    insert into company VALUES(7, 'James', 24, 'Houston', 10000.00);
+    select * from company;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | California | 20000.0 |
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 5 | David | 27 | Texas      | 85000.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
+
+    Another table is DEPARTMENT with the following definition −
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    create table department(
+    id int primary key      not null,
+    dept           char(50) not null,
+    emp_id         int      not null
+    );
+    insert into department values (1, 'IT Billing', 1);
+    insert into department values (2, 'Engineering', 2);
+    insert into department values (3, 'Finance', 7);
+    select * from department;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | IT Billing  | 1 |
+    | 2 | Engineering | 2 |
+    | 3 | Finance     | 7 |
+    
 
     
 
