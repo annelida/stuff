@@ -24885,6 +24885,47 @@ Note that the order of the rules for determining column affinity is important. A
     | 2 | Engineering | 2 |
     | 3 | Finance     | 7 |
     
+    The CROSS JOIN
+
+    CROSS JOIN matches every row of the first table with every row of
+    the second table. If the input tables have x and y columns, the
+    resulting table will have x*y columns.
+
+    Syntax:
+
+    #+BEGIN_EXAMPLE
+    SELECT ... FROM table1 CROSS JOIN table2 ...
+    #+END_EXAMPLE
+
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select emp_id, name, dept from company cross join department;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | IT Billing  |
+    | 2 | Paul  | Engineering |
+    | 7 | Paul  | Finance     |
+    | 1 | Allen | IT Billing  |
+    | 2 | Allen | Engineering |
+    | 7 | Allen | Finance     |
+    | 1 | Teddy | IT Billing  |
+    | 2 | Teddy | Engineering |
+    | 7 | Teddy | Finance     |
+    | 1 | Mark  | IT Billing  |
+    | 2 | Mark  | Engineering |
+    | 7 | Mark  | Finance     |
+    | 1 | David | IT Billing  |
+    | 2 | David | Engineering |
+    | 7 | David | Finance     |
+    | 1 | Kim   | IT Billing  |
+    | 2 | Kim   | Engineering |
+    | 7 | Kim   | Finance     |
+    | 1 | James | IT Billing  |
+    | 2 | James | Engineering |
+    | 7 | James | Finance     |
 
     
 
