@@ -24758,5 +24758,79 @@ Note that the order of the rules for determining column affinity is important. A
     #+RESULTS:
     : Error: near line 10: UNIQUE constraint failed: company.age
 
+    PRIMARY KEY Constraint
+
+    The PRIMARY KEY constraint uniquely identifies each record in a
+    database table. There can be more UNIQUE columns, but only one
+    primary key in a table. Primary keys are important when designing
+    the database tables. Primary keys are unique ID.
+
+    We use them to refer to table rows. Primary keys become foreign
+    keys in other tables, when creating relations among tables.
+
+    A primary key is a failed in a table which uniquely identifies
+    each rows/records in a database table. Primary keys must contain
+    unique values. A primary key column cannot have NULL values.
+
+    A table can have only one primary key, which may consist of single
+    or multiple fields. When multiple fields are used as a primary
+    key, they are called a *composite key*.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    create table company(
+    id int primary key not null,
+    name           text not null,
+    age            int  not null,
+    address        char(50),
+    salary         real
+    );
+    #+END_SRC
+
+
+    CHECK constraints
+
+    CHECK constraints enables a condition to check the value being
+    entered into record. If the condition evaluates to false, the
+    record violates the constraint and isn't entered into the table.
+
+    Example
+
+    For example, the following SQlite creates a new table called
+    COMPANY and adds five columns. Here, we add a CHECK with SALARY
+    column, so that you cannot have any SALARY < 5000.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    drop table if exists company;
+    create table company(
+    id int primary key not null,
+    name           text not null,
+    age            int  not null unique,
+    address        char(50),
+    salary         real check(salary > 5000.00)
+    );
+    insert into company(id, name, age, salary) VALUES(1, 'Allen',25, 10000.00);
+    select * from company;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Allen | 25 |   | 10000.0 |
+
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    drop table if exists company;
+    create table company(
+    id int primary key not null,
+    name           text not null,
+    age            int  not null unique,
+    address        char(50),
+    salary         real check(salary > 5000.00)
+    );
+    insert into company(id, name, age, salary) VALUES(1, 'Allen', 25, 2000.00);
+    select * from company;
+    #+END_SRC
+
+    #+RESULTS:
+    : Error: near line 9: CHECK constraint failed: company
+
     
 
