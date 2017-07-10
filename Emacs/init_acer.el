@@ -18,6 +18,8 @@
 ;;
 (require 'org-bullets)
 (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
+;;
+(global-set-key (kbd "C-x g") 'magit-status)
 ;; (org-babel-do-load-languages
 ;;  'org-babel-load-languages
 ;;  '((python . t)
