@@ -105,6 +105,6 @@
 ;; (define-key global-map "\C-ca" 'org-agenda)
 ;; (setq org-log-done t)
 ;; ;;
-;; (desktop-save-mode 1)
+(desktop-save-mode 1)
 ;; ;;
 
