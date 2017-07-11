@@ -8761,3 +8761,59 @@ adjective
 
   When you ensure that something will happen, you guarantee it.
   The airline is taking steps to ensure safety on its aircraft.
+* courteously
+  учтиво
+  polite and showing respect
+
+  The king received him very courteously.
+* inclination
+
+  наклонение
+
+  noun
+ 1. наклон (incline, lean, tilt, slope, inclination, tip)
+   2. склонность (tendency, propensity, inclination, penchant, addiction, bent)
+   3. наклонение (mood, inclination, tilting, declination, nutation)
+   4. влечение (appetence, inclination, affection, affinity, appeal, bent)
+   5. уклон (skew, slope, bias, deviation, gradient, inclination)
+   6. наклонность (bent, inclination, proclivity, strain, affection)
+   7. отклонение (deviation, deflection, rejection, departure, variation, inclination)
+   8. склонение (declension, inclination, depression, gradient)
+   9. откос (slope, escarpment, bank, scarp, escarp, inclination)
+  10. предрасположение (predisposition, disposition, inclination, prepossession)
+  11. скат (slope, ramp, stingray, chute, skate, inclination)
+
+  DEFINITION
+
+  noun
+   1. a person's natural tendency or urge to act or feel in a
+      particular way; a disposition or propensity. "John was a
+      scientist by training and inclination"
+   2. a slope or slant.
+      "changes in inclination of the line on the graph"
+   3. the angle at which a straight line or plane is inclined to
+      another. "Dichroic ratios R, order parameter S, and inclination
+      angle between membrane plans and diglucosamine ring plane."
+      
+      A feeling that you want to do a particular thing
+      
+      The king's daughter took a secret inclination to him.
+      
+      We should be basing our decisions on solid facts, not
+      inclinations and hunches.
+
+* overjoyed
+
+  вне себя от радости
+
+  adjective
+   1. вне себя от радости (overjoyed, wild with joy,
+      delirious with delight)
+   2. счастливый (happy, lucky, fortunate, blissful,
+      blessed, overjoyed)
+   3. очень довольный (overjoyed)
+
+  DEFINITION
+
+  adjective
+   1. extremely happy. "Joanna will be overjoyed to see you"
