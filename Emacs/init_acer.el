@@ -34,24 +34,6 @@
 ;;
 (package-initialize)
 (elpy-enable)
-;;
-;; ^^^ Babel customization
-;; (custom-set-variables
-;; custom-set-variables was added by Custom.
-;; If you edit it by hand, you could mess it up, so be careful.
-;; Your init file should contain only one such instance.
-;; If there is more than one, they won't work right.
-;;  '(Info-default-directory-list (quote ("/usr/share/info/emacs-25/")))
-;;  '(org-agenda-files
-;;    (quote
-;;     ("/home/vikky/Desktop/DVCS/stuff/edu.org" "/home/vikky/Desktop/DVCS/stuff/vocabulary.org" "/home/vikky/Desktop/DVCS/stuff/projects/2017/amazon/description.org")))
-;;  '(org-confirm-babel-evaluate nil)
-;;  '(package-selected-packages
-;;    (quote
-;;     (elfeed voca-builder howdoi ereader swiper org-bullets org magit key-chord google-translate elpy color-theme))))
-;; ;;
-;; (require 'ereader)
-;; ;;
 ;; (setq org-default-notes-file (concat org-directory "/notes.org"))
 ;; (define-key global-map "\C-cc" 'org-capture)
 
