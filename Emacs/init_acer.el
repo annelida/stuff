@@ -107,3 +107,10 @@
 (global-set-key "\C-cT" 'google-translate-query-translate)
 (setq google-translate-default-source-language ' "en")
 (setq google-translate-default-target-language ' "ru")
+;;
+(require 'voca-builder)
+(setq voca-builder/voca-file "/home/vikky/Desktop/DVCS/stuff/vocabulary.org")
+(setq voca-builder/export-file "~/.voca-builder-temp.org")
+(setq voca-builder/current-tag "Study")
+(global-set-key (kbd "<f4>") 'voca-builder/search-popup)
+;;
