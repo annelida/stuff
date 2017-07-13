@@ -62,16 +62,12 @@
 ;;     (key-chord-define-global "QQ"     'voca-builder/search-popup)
 ;;     (key-chord-define-global "FF"     'other-frame)
 ;; ;;
-;; (setq elfeed-feeds
-;;       '("http://nullprogram.com/feed/"
-;;         "http://planet.emacsen.org/atom.xml"
-;; 	"http://emacsrocks.com/atom.xml"
-;; 	"http://0--key.github.io/rss.xml"
-;; 	"http://www.quora.com/rss"
-;; 	"https://www.upwork.com/ab/feed/jobs/rss?proposals=0-4&q=Amazon+API&sort=relevance+desc&api_params=1&securityToken=1461ab4f14c4bbd50764489ba49f4d11ed155685db667cac84e7c2655ee3c6999ac378f96c0b7205e6a0fd7521cd20dc9463c63389b9fc837e65b6bdee91c5c9&userUid=562235792203943936&orgUid=562235792216526849"
-;; 	"https://www.upwork.com/ab/feed/jobs/rss?proposals=0-4&q=Python&sort=relevance+desc&api_params=1&securityToken=1461ab4f14c4bbd50764489ba49f4d11ed155685db667cac84e7c2655ee3c6999ac378f96c0b7205e6a0fd7521cd20dc9463c63389b9fc837e65b6bdee91c5c9&userUid=562235792203943936&orgUid=562235792216526849"
-;; 	"https://www.upwork.com/ab/feed/jobs/rss?proposals=0-4&q=Python+Scrapy&sort=relevance+desc&api_params=1&securityToken=1461ab4f14c4bbd50764489ba49f4d11ed155685db667cac84e7c2655ee3c6999ac378f96c0b7205e6a0fd7521cd20dc9463c63389b9fc837e65b6bdee91c5c9&userUid=562235792203943936&orgUid=562235792216526849"))
-;; (global-set-key (kbd "C-x w") 'elfeed)
+(setq elfeed-feeds
+       '("http://nullprogram.com/feed/"
+         "http://planet.emacsen.org/atom.xml"
+	 "http://emacsrocks.com/atom.xml"
+	 "http://0--key.github.io/rss.xml"))
+(global-set-key (kbd "C-x w") 'elfeed)
 ;;
 (setq org-agenda-files (list "/home/vikky/Desktop/DVCS/stuff/edu.org"
                              "/home/vikky/Desktop/DVCS/stuff/soft/soft.org"
