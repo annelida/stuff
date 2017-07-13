@@ -54,14 +54,11 @@
 ;;  ;; Your init file should contain only one such instance.
 ;;  ;; If there is more than one, they won't work right.
 ;;  )
-;; (package-initialize)
-;; (elpy-enable)
-;; ;;
-;; (require 'key-chord)
-;;     (key-chord-mode 1)
-;;     (key-chord-define-global "QQ"     'voca-builder/search-popup)
-;;     (key-chord-define-global "FF"     'other-frame)
-;; ;;
+;; 
+(require 'key-chord)
+     (key-chord-mode 1)
+     (key-chord-define-global "FF"     'other-frame)
+;;
 (setq elfeed-feeds
        '("http://nullprogram.com/feed/"
          "http://planet.emacsen.org/atom.xml"
@@ -99,7 +96,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (elfeed ereader voca-builder org-bullets magit howdoi google-translate go-autocomplete elpy color-theme))))
+    (key-chord elfeed ereader voca-builder org-bullets magit howdoi google-translate go-autocomplete elpy color-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
