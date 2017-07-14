@@ -24971,5 +24971,28 @@ Note that the order of the rules for determining column affinity is important. A
     | 2 | James | Engineering |
     | 7 | James | Finance     |
 
-    
+    The INNER JOIN
 
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    SELECT ... FROM table1 [INNER] JOIN table2 ON
+    conditional_expression ...
+    #+END_EXAMPLE
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select emp_id, name, dept from company inner join department
+    on company.id = department.emp_id;
+
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | IT Billing  |
+    | 2 | Allen | Engineering |
+    | 7 | James | Finance     |
+
+
+    
+    
