@@ -7931,7 +7931,7 @@ adjective
 
 
 * 14_06_2017
-** admission                                                          :Study:
+** admission							      :Quora:
  [2017-06-14 Wed 12:02]
    [ədˈmiSHən]
    вход
@@ -7968,7 +7968,7 @@ adjective
    Her silence was taken as an admission of guilt/defeat.
    The admission of “I don’t know” creates an opportunity to learn.
 
-** Externalities                                                      :Study:
+** Externalities						      :Quora:
  [2017-06-14 Wed 12:02]
    noun
     1. внешность (appearance, exterior, look, outside, externality, outward)
@@ -7992,7 +7992,7 @@ adjective
    something else.
    A snow storm for example, is an externality that can
    cause delays at the airport.
-** circumstances                                                      :Study:
+** circumstances						      :Quora:
  [2017-06-14 Wed 12:02]
    обстоятельства
 
@@ -8018,7 +8018,7 @@ adjective
    Given the current economic circumstances, a lot of good candidates just
    can't find jobs.
    Some circumstances are out of our hands.
-** to Litter                                                          :Study:
+** to Litter							      :Quora:
  [2017-06-14 Wed 12:34]
    verb
     1. мусорить (litter, litterbug)
@@ -8049,7 +8049,7 @@ adjective
 
    To drop rubbish on the ground in a public place.
    Clothes and newspapers littered the floor
-** fathom                                                             :Study:
+** fathom							      :Quora:
 [2017-06-14 Wed 12:35]
   [ˈfaT͟Həm]
   вникать
@@ -8077,7 +8077,7 @@ adjective
   I can't fathom why he doesn't want to go along with us.
   The locals could not fathom out the reason behind his new-found prosperity’
 
-** selflessness
+** selflessness							      :Quora:
    самоотверженность
 
    Caring more for what other people need and want rather than for what
@@ -8085,7 +8085,7 @@ adjective
 
    Their actions, their selflessness poses a challenge to each of us.
 
-** encounters
+** encounters							      :Quora:
 
    встречи
 
@@ -8106,7 +8106,7 @@ adjective
 
     I had a strange encounter with a French man on my way to work.
 
-** sparingly
+** sparingly							      :Quora:
 
    скудно
 
@@ -8117,7 +8117,7 @@ adjective
   
    Be sparing with the butter as there isn't much left.
 
-** straight
+** straight							      :Quora:
 
    Прямо
 
@@ -8162,7 +8162,7 @@ adjective
     Go straight along this road and turn left at the traffic lights.
     I told her straight out that I didn't love her any more.
 
-** hectic
+** hectic							      :Quora:
    беспокойный
 
    adjective
@@ -8179,7 +8179,7 @@ adjective
     Full of activity, or very busy and fast.
     The teacher had a hectic workload.
 
-** anxiety
+** anxiety							      :Quora:
    [aNGˈzī-itē]
    тревожность
 
@@ -8199,7 +8199,7 @@ adjective
 
     Children normally feel a lot of anxiety about their first day at school.
 
-** overwhelmed
+** overwhelmed							      :Quora:
 
    перегружены
 
@@ -8220,7 +8220,7 @@ adjective
 
      If water overwhelms a place, it covers it suddenly and completely.
 
-** treatment
+** treatment							      :Quora:
 
      лечение
 
@@ -8248,7 +8248,7 @@ adjective
        The way you deal with or behave towards someone or something:
        Peter gets special treatment because he knows the boss.
 
-** benefits
+** benefits							      :Quora:
 
    выгоды
 
@@ -8270,7 +8270,7 @@ adjective
 
      Our purpose in life is to boost your happiness and
     benefit the lives of others, and often it requires money.
-** wealth
+** wealth							      :Quora:
 
    богатство
 
@@ -8286,7 +8286,7 @@ adjective
     During a successful business career, she accumulated a great amount
     of wealth.
 
-** cohere
+** cohere							      :Quora:
 
    членораздельным
 
@@ -8303,7 +8303,7 @@ adjective
 
     The question is does wealth and happiness cohere with each other in anyway?
 
-** uplift
+** uplift							      :Quora:
 
    подъем
 
@@ -8319,7 +8319,7 @@ adjective
      improvement of a person's moral or spiritual condition:
      Money can uplift your confidence.
 
-** compel
+** compel							      :Quora:
 
    принуждать
 
@@ -8337,7 +8337,7 @@ adjective
     To produce a strong feeling or reaction:
     Over the years her work has compelled universal admiration and trust.
 
-** fearful
+** fearful							      :Quora:
 
    напуганный
 
@@ -8356,7 +8356,7 @@ adjective
        Frightened or worried about something:
        Being broke causes people to be fearful in looking upon another day.
 
-** miserable
+** miserable							      :Quora:
 
    несчастный
 
@@ -8374,7 +8374,7 @@ adjective
 
  
 
-* grieved
+* grieved							   :Perrault:
  огорченный
 
  adjective
@@ -8383,7 +8383,7 @@ adjective
  To feel or express great sadness.
  They were grieved by the illness of their aunt.
 
-* bestow
+* bestow							   :Perrault:
 
   даровать
 
@@ -8397,8 +8397,7 @@ adjective
   To give something as an honour or present.
   The king will bestow a title and land to the man who saved the princess.
 
-* accordance
-
+* accordance							   :Perrault:
   соответствие
 
   noun
@@ -8414,9 +8413,7 @@ adjective
    other persons are held legally liable in accordance with current
    Ukrainian law.
 
-* to endow
-
-  наделенный
+* to endow								   наделенный :Perrault:
 
    verb
    1. наделять (endow, allot, vest, endue, gift, indue)
@@ -8429,9 +8426,8 @@ adjective
    The state of Michigan has endowed three institutes to do research
    for industry.
    This hospital was endowed by the citizens of Strasbourg in the 16th
-   century.
-
-* bewitched
+   century
+* bewitched							   :Perrault:
 
   заколдованный
 
@@ -8443,7 +8439,7 @@ adjective
   something.
   Once kids step inside a circus tent, they’re bewitched.
 
-* to slight
+* to slight							   :Perrault:
 
   пренебрегать
 
@@ -8457,7 +8453,7 @@ adjective
   I felt slighted when my boss thanked everyone but me for
   their hard work.
 
-* threat
+* threat							   :Perrault:
 
    noun
   1. угроза (threat, danger, menace, impendence, imminence, denunciation)
@@ -8468,7 +8464,7 @@ adjective
   especially if a particular action or order is not followed:
   Nuclear weapons pose a threat to everyone.
 
-* hid
+* hid								   :Perrault:
 
   спрятать
 
@@ -8494,7 +8490,7 @@ adjective
     others.
     He hid the money in the house.
 
-* nightingale
+* nightingale							   :Perrault:
   [ˈnītiNG-,ˈnītnˌgāl]
 
   соловей
@@ -8503,7 +8499,7 @@ adjective
   of the male, usually heard during the night
 
   I heard a Japanese nightingale.
-* infirmity
+* infirmity							   :Perrault:
   [inˈfərmitē]
   немощь
 
@@ -8519,7 +8515,7 @@ adjective
    Physical or mental weakness.
    Old age and infirmity come to men and women alike.
 
-* merely
+* merely							   :Perrault:
 
   просто
 
@@ -8531,7 +8527,7 @@ adjective
    just; only.
    I wasn't complaining, I merely said that I was tired.
 
-* avert
+* avert								   :Perrault:
   предотвращать
 
   verb
@@ -8545,7 +8541,7 @@ adjective
    To avert disaster/economic collapse
    Skillful diplomacy helps to avert war.
 
-* doom
+* doom								   :Perrault:
 
   гибель
 
@@ -8575,7 +8571,7 @@ adjective
   Opponents continue to predict doom upon the existing healthcare
   system of this great nation.
 
-* to forbid
+* to forbid							   :Perrault:
  
   запрещать
 
@@ -8583,7 +8579,7 @@ adjective
   particular plan of action by making it impossible:
   The law forbids the sale of cigarettes to people under the age of 16
 
-* to engage
+* to engage							   :Perrault:
   заниматься
 
   verb
@@ -8607,7 +8603,7 @@ adjective
    To employ someone:
    I have engaged a secretary to deal with all my paperwork.
    
-* acquaintance
+* acquaintance							   :Perrault:
   [əˈkwāntns]
 
   знакомство
@@ -8624,7 +8620,7 @@ adjective
    Used in some expressions about knowing or meeting people:
    He gradually lost contact with all his old acquaintances.
    
-* mirth
+* mirth								   :Perrault:
   [mərTH]
 
   веселье
@@ -8637,7 +8633,7 @@ adjective
   The time was filled with parties,hunting, fishing, dancing, mirth,
   and feasting.
 
-* feast
+* feast								   :Perrault:
   праздник, пир, банкет, наслаждение
 
   verb
@@ -8656,7 +8652,7 @@ adjective
    The wedding was followed by a feast, which continued until the wee
    hours of the morning.
 
-* to conclude
+* to conclude							   :Perrault:
   [kənˈklo͞od]
   заключать
 
@@ -8677,7 +8673,7 @@ adjective
    Arrive at a judgment or opinion by reasoning.
    the doctors concluded that Esther had suffered a stroke.
   
-* impatient
+* impatient							   :Perrault:
   [imˈpāSHənt]
 
   нетерпеливый
@@ -8692,7 +8688,7 @@ adjective
    Wanting something to happen as soon as possible.
    People are increasingly impatient for change in this country.
 
-* disobedient
+* disobedient							   :Perrault:
   [ˌdisəˈbēdēənt]
   непослушный
 
@@ -8704,7 +8700,7 @@ adjective
    Refusing to do what someone in authority tells you to do.
    The disobedient soldier was given cleanup duty.
 
-* constraints                                                         :Study:
+* constraints							   :Perrault:
 [2017-06-29 Thu 08:22]
 
   ограничения
@@ -8729,9 +8725,8 @@ adjective
   friend when you can talk to them without constraint.
 
   A constraint is a limit or restriction.
-  We protested the constraint on freedom imposed by the communists.
-
-* ensure :Study:
+  We protested the constraint on freedom imposed by the communist
+* ensure							   :Perrault:
 [2017-06-29 Thu 08:30]
 
   обеспечивать
@@ -8761,12 +8756,12 @@ adjective
 
   When you ensure that something will happen, you guarantee it.
   The airline is taking steps to ensure safety on its aircraft.
-* courteously
+* courteously							   :Perrault:
   учтиво
   polite and showing respect
 
   The king received him very courteously.
-* inclination
+* inclination							   :Perrault:
 
   наклонение
 
@@ -8802,7 +8797,7 @@ adjective
       We should be basing our decisions on solid facts, not
       inclinations and hunches.
 
-* overjoyed
+* overjoyed							   :Perrault:
 
   вне себя от радости
 
