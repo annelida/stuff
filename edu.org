@@ -24877,7 +24877,8 @@ Note that the order of the rules for determining column affinity is important. A
     #+RESULTS:
     : Error: near line 9: CHECK constraint failed: company
 
-*** SQlite - JOINS
+*** DONE SQlite - JOINS
+    CLOSED: [2017-07-14 Fri 08:19]
 
     SQLite Joins clause is used to combine records from two or more
     tables in a database.
@@ -24913,6 +24914,7 @@ Note that the order of the rules for determining column affinity is important. A
     Another table is DEPARTMENT with the following definition −
 
     #+BEGIN_SRC sqlite :db test-sqlite.db
+    drop table if exists department;
     create table department(
     id int primary key      not null,
     dept           char(50) not null,
@@ -24921,6 +24923,10 @@ Note that the order of the rules for determining column affinity is important. A
     insert into department values (1, 'IT Billing', 1);
     insert into department values (2, 'Engineering', 2);
     insert into department values (3, 'Finance', 7);
+    insert into department values (4, 'Engineering', 3);
+    insert into department values (5, 'Finance', 4);
+    insert into department values (6, 'Engineering', 5);
+    insert into department values (7, 'Finance', 6);
     select * from department;
     #+END_SRC
 
@@ -24928,6 +24934,10 @@ Note that the order of the rules for determining column affinity is important. A
     | 1 | IT Billing  | 1 |
     | 2 | Engineering | 2 |
     | 3 | Finance     | 7 |
+    | 4 | Engineering | 3 |
+    | 5 | Finance     | 4 |
+    | 6 | Engineering | 5 |
+    | 7 | Finance     | 6 |
     
     The CROSS JOIN
 
