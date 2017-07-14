@@ -25032,6 +25032,50 @@ Note that the order of the rules for determining column affinity is important. A
     |   | Kim   |             |
     | 7 | James | Finance     |
 
+*** TODO SQlite UNION clause
+
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+
+    UNION
+
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+    #+END_EXAMPLE
+
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT EMP_ID, NAME, DEPT FROM COMPANY INNER JOIN DEPARTMENT
+    ON COMPANY.ID = DEPARTMENT.EMP_ID
+         
+    UNION
+         
+    SELECT EMP_ID, NAME, DEPT FROM COMPANY LEFT OUTER JOIN DEPARTMENT
+    ON COMPANY.ID = DEPARTMENT.EMP_ID;
+  
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | IT Billing  |
+    | 2 | Allen | Engineering |
+    | 3 | Teddy | Engineering |
+    | 4 | Mark  | Finance     |
+    | 5 | David | Engineering |
+    | 6 | Kim   | Finance     |
+    | 7 | James | Finance     |
+
+    
+
+
+    
+
 
     
     
