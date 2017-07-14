@@ -24994,5 +24994,34 @@ Note that the order of the rules for determining column affinity is important. A
     | 7 | James | Finance     |
 
 
+    The OUTER JOIN
+
+    OUTER JOIN is an extension of INNER JOIN. OUTER JOINs have a
+    conditions expressed using an ON, USING, or NATURAL keyword.
+
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    SELECT ... FROM table1 LEFT OUTER JOIN table2 ON
+    conditional_expression ...
+    #+END_EXAMPLE
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    select emp_id, name, dept from company left outer join
+    department on company.id = department.emp_id;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | IT Billing  |
+    | 2 | Allen | Engineering |
+    |   | Teddy |             |
+    |   | Mark  |             |
+    |   | David |             |
+    |   | Kim   |             |
+    | 7 | James | Finance     |
+
+
     
     
