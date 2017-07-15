@@ -25032,7 +25032,8 @@ Note that the order of the rules for determining column affinity is important. A
     |   | Kim   |             |
     | 7 | James | Finance     |
 
-*** TODO SQlite UNION clause
+*** DONE SQlite UNION clause
+    CLOSED: [2017-07-15 Sat 09:53]
 
     Syntax
 
@@ -25118,6 +25119,47 @@ Note that the order of the rules for determining column affinity is important. A
     | 5 | David | Engineering |
     | 6 | Kim   | Finance     |
     | 7 | James | Finance     |
+
+*** SQLite - ALIAS Syntax
+
+    You can rename a table or a column temporarily by giving another
+    name, which is known as ALIAS. The use of table aliases means to
+    rename a table in a particular SQLite statement.
+
+    Syntax of table alias
+
+    #+BEGIN_EXAMPLE
+    SELECT column1, column2....
+    FROM table_name AS alias_name
+    WHERE [condition];
+    #+END_EXAMPLE
+
+    Syntax of column alias
+
+    #+BEGIN_EXAMPLE
+    SELECT column_name AS alias_name
+    FROM table_name
+    WHERE [condition];
+    #+END_EXAMPLE
+
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT C.ID, C.NAME, C.AGE, D.DEPT
+    FROM COMPANY AS C, DEPARTMENT AS D
+    WHERE  C.ID = D.EMP_ID;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | IT Billing  |
+    | 2 | Allen | 25 | Engineering |
+    | 7 | James | 24 | Finance     |
+    | 3 | Teddy | 23 | Engineering |
+    | 4 | Mark  | 25 | Finance     |
+    | 5 | David | 27 | Engineering |
+    | 6 | Kim   | 22 | Finance     |
+
+
+    
 
     
 
