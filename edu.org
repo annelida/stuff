@@ -22148,6 +22148,65 @@ console.log(min(0, -10));
    </html>
 #+end_example
 
+   DOM Element replacement
+
+   You can replace a complete DOM element with the specified HTML or
+   DOM elements. The replaceWith( content )method serves this purpose
+   very well.
+
+   Syntax
+
+   selector.replaceWith( content )
+
+   Here content is what you want to have instead of original element.
+
+   Example
+
+   Following is an example which would replace division element with
+   "<h1>JQuery is Great </h1> "
+
+   #+BEGIN_SRC sh :results output
+   cd /home/vikky/Desktop/DVCS/stuff/Scripts
+   cat jq_ex9.html
+   #+END_SRC
+
+   #+RESULTS:
+   #+begin_example
+   <html>
+
+      <head>
+	 <title>The jQuery Example</title>
+	 <script type = "text/javascript" 
+	    src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+	 <script type = "text/javascript" language = "javascript">
+	    $(document).ready(function() {
+	       $("div").click(function () {
+		  $(this).replaceWith("<h1>JQuery is Great</h1>");
+	       });
+	    });
+	 </script>
+
+	 <style>
+	    #division{ margin:10px;padding:12px; border:2px solid #666; width:60px;}
+	 </style>
+      </head>
+
+      <body>
+
+	 <p>Click on the square below:</p>
+	 <span id = "result"> </span>
+
+	 <div id = "division" style = "background-color:blue;">
+	    This is Blue Square!!
+	 </div>
+
+      </body>
+
+   </html>
+#+end_example
+
+   
 * RDBMS
 
 ** MySQL
