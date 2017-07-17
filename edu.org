@@ -25324,6 +25324,33 @@ Note that the order of the rules for determining column affinity is important. A
     - A special SQL function RAISE() may be used within a
       trigger-program to raise an exception.
       
+      Syntax
+      
+      #+BEGIN_EXAMPLE
+      CREATE TRIGGER trigger_name [BEFORE|AFTER] event_name 
+      ON table_name
+      BEGIN
+      -- Trigger logic goes here....
+      END;
+      #+END_EXAMPLE
+
+      Here, event_name could be INSERT, DELETE, and UPDATE database
+      operation on the mentioned table table_name.
+
+      Following is the syntax for creating a trigger on an UPDATE
+      operation on one or more specified columns of a table.
+
+      #+BEGIN_EXAMPLE
+      CREATE TRIGGER trigger_name [BEFORE|AFTER] UPDATE OF column_name 
+      ON table_name
+      BEGIN
+      -- Trigger logic goes here....
+      END;
+      #+END_EXAMPLE
+
+
+
+
       
 
 
