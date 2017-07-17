@@ -25237,7 +25237,8 @@ Note that the order of the rules for determining column affinity is important. A
     | 6 | Kim   | Finance     |
     | 7 | James | Finance     |
 
-*** SQLite - ALIAS Syntax
+*** DONE SQLite - ALIAS Syntax
+    CLOSED: [2017-07-17 Mon 07:31]
 
     You can rename a table or a column temporarily by giving another
     name, which is known as ALIAS. The use of table aliases means to
@@ -25262,6 +25263,23 @@ Note that the order of the rules for determining column affinity is important. A
 
     #+BEGIN_SRC sqlite :db test-sqlite.db
     SELECT C.ID, C.NAME, C.AGE, D.DEPT
+    FROM COMPANY AS C, DEPARTMENT AS D
+    WHERE  C.ID = D.EMP_ID;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | IT Billing  |
+    | 2 | Allen | 25 | Engineering |
+    | 7 | James | 24 | Finance     |
+    | 3 | Teddy | 23 | Engineering |
+    | 4 | Mark  | 25 | Finance     |
+    | 5 | David | 27 | Engineering |
+    | 6 | Kim   | 22 | Finance     |
+
+    Usage of COLUMN ALIAS
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT C.ID AS COMPANY_ID, C.NAME AS COMPANY_NAME, C.AGE, D.DEPT
     FROM COMPANY AS C, DEPARTMENT AS D
     WHERE  C.ID = D.EMP_ID;
     #+END_SRC
