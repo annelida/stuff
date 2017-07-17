@@ -25293,6 +25293,39 @@ Note that the order of the rules for determining column affinity is important. A
     | 5 | David | 27 | Engineering |
     | 6 | Kim   | 22 | Finance     |
 
+*** TODO SQLite Triggers
+
+    SQLite triggers are database callback functions, which are
+    automatically performed/invoked when a specified database event
+    occurs.
+
+    - SQLite trigger may be specified to fire whenever a DELETE,
+      INSERT or UPDATE of a particular database table occurs or
+      whenever an UPDATE occurs on one or more specified columns of a
+      table.
+    - At this time, SQLite supports only FOR EACH ROW triggers, not
+      FOR EACH STATEMENT triggers.
+    - Both the WHEN clause and the trigger action may access elements
+      of the row being inserted, deleted, or updated using references
+      of the form NEW.column-name and OLD.column-name, where
+      column-name is the name of a column from the table that the
+      trigger is associated with.
+    - If a WHEN clause is supplied, the SQL statements specified are
+      only executed for rows for which the WHEN clause is true. If no
+      WHEN clause is supplied, the SQL statements are executed for all rows.
+    - The BEFORE or AFTER keyword determines when the trigger actions
+      will be executed relative to the insertion, modification, or
+      removal of the associated row.
+    - Triggers are automatically dropped when the table that they are
+      associated with is dropped.
+    - The table to be modified must exist in the same database as the
+      table or view to which the trigger is attached and one must use
+      just tablename not database.tablename.
+    - A special SQL function RAISE() may be used within a
+      trigger-program to raise an exception.
+      
+      
+
 
     
 
