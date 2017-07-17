@@ -25375,6 +25375,44 @@ Note that the order of the rules for determining column affinity is important. A
       );
       #+END_SRC
 
+      Now let's create a trigger on COMPANY table
+
+      #+BEGIN_SRC sqlite :db test-sqlite.db
+      CREATE TRIGGER audit_log AFTER INSERT 
+      ON COMPANY
+      BEGIN
+         INSERT INTO AUDIT(EMP_ID, ENTRY_DATE) VALUES (new.ID, datetime('now'));
+      END;
+      #+END_SRC
+
+      Let's start inserting record in COMPANY table which should
+      result in creating an audit log record in AUDIT table.
+
+      #+BEGIN_SRC sqlite :db test-sqlite.db
+      INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY)
+      VALUES (1, 'Paul', 32, 'California', 20000.00 );
+      #+END_SRC
+
+      #+BEGIN_SRC sqlite :db test-sqlite.db
+      SELECT * FROM COMPANY;
+      #+END_SRC
+
+      #+RESULTS:
+      | 1 | Paul | 32 | California | 20000.0 |
+
+      Same time, one record will be created in AUDIT table. This
+      record is the result of a trigger, which we have created on
+      INSERT operation in COMPANY table.
+
+      #+BEGIN_SRC sqlite :db test-sqlite.db
+      SELECT * FROM AUDIT;
+      #+END_SRC
+
+      #+RESULTS:
+      | 1 | 2017-07-17 07:43:59 |
+
+
+
       
 
 
