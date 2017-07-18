@@ -25509,3 +25509,14 @@ Note that the order of the rules for determining column affinity is important. A
     #+RESULTS:
     : salary_index                sqlite_autoindex_company_1
 
+    You can list down all the indexes database wide as follows
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT * FROM sqlite_master WHERE type = 'index';
+    #+END_SRC
+
+    #+RESULTS:
+    | index | sqlite_autoindex_department_1 | department | 5 |                                               |
+    | index | sqlite_autoindex_company_1    | company    | 3 |                                               |
+    | index | salary_index                  | company    | 7 | CREATE INDEX salary_index ON COMPANY (salary) |
+
