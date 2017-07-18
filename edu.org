@@ -25411,6 +25411,18 @@ Note that the order of the rules for determining column affinity is important. A
       #+RESULTS:
       | 1 | 2017-07-17 07:43:59 |
 
+      Listing triggers
+
+      You can list down all the triggers from sqlite_master table:
+
+      #+BEGIN_SRC sqlite :db test-sqlite.db
+      SELECT name FROM sqlite_master
+      WHERE type = 'trigger'
+      #+END_SRC
+
+      #+RESULTS:
+      : audit_log
+
 
 
       
