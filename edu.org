@@ -25423,6 +25423,14 @@ Note that the order of the rules for determining column affinity is important. A
       #+RESULTS:
       : audit_log
 
+      Dropping triggers
+
+      #+BEGIN_SRC sqlite :db test-sqlite.db
+      DROP TRIGGER audit_log;
+      #+END_SRC
+
+      #+RESULTS:
+
 
 
       
