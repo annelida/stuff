@@ -25293,7 +25293,8 @@ Note that the order of the rules for determining column affinity is important. A
     | 5 | David | 27 | Engineering |
     | 6 | Kim   | 22 | Finance     |
 
-*** TODO SQLite Triggers
+*** DONE SQLite Triggers
+    CLOSED: [2017-07-18 Tue 07:58]
 
     SQLite triggers are database callback functions, which are
     automatically performed/invoked when a specified database event
@@ -25451,3 +25452,60 @@ Note that the order of the rules for determining column affinity is important. A
 
     
     
+
+*** TODO SQLite - Indexes
+
+    Indexes are special lookup tables that the database search engine
+    can use to speed up data retrieval. Simply put, an index is a
+    pointer to data in a table. An index in a database is very similar
+    to an index in the back of a book.
+
+    The CREATE INDEX Command
+
+    #+BEGIN_EXAMPLE
+    CREATE INDEX index_name ON table_name;
+    #+END_EXAMPLE
+
+    Single-Column indexes
+
+    #+BEGIN_EXAMPLE
+    CREATE INDEX index_name
+    ON table_name (column_name);
+    #+END_EXAMPLE
+
+    Unique indexes
+    A unique index does not allow any duplicate values to be inserted
+    into the tables.
+
+    #+BEGIN_EXAMPLE
+    CREATE UNIQUE INDEX index_name
+    on table_name (column_name);
+    #+END_EXAMPLE
+
+    Composite indexes
+
+    A composite index is an index on two or more columns of a table.
+
+    #+BEGIN_EXAMPLE
+    CREATE INDEX index_name
+    on table_name (column1, column2);
+    #+END_EXAMPLE
+
+    Implicit indexes
+
+    Implicit indexes are indexes that are automatically created by the
+    database server when an object is created.
+
+    Example
+
+    Following is an example where we will create an index in COMPANY
+    table for salary column
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    CREATE INDEX salary_index ON COMPANY (salary);
+    .indices COMPANY 
+    #+END_SRC
+
+    #+RESULTS:
+    : salary_index                sqlite_autoindex_company_1
+
