@@ -8908,3 +8908,135 @@ adjective
  
 
  
+* doubtful							   :Perrault:
+
+  сомнительный
+
+  adjective
+   1. сомнительный (doubtful, dubious, questionable, uncertain, equivocal, precarious)
+   2. сомневающийся (doubting, hesitant, doubtful, dubious, uncertain, insecure of)
+   3. недостоверный (apocryphal, doubtful, corrupt)
+   4. подозрительный (suspicious, suspect, fishy, distrustful, dubious, doubtful)
+   5. неопределенный (uncertain, vague, indefinite, ambiguous, indeterminate, doubtful)
+   6. неясный (unclear, obscure, vague, dim, indistinct, doubtful)
+   7. полный сомнений (doubtful)
+   8. колеблющийся (oscillating, hesitant, vibrating, vacillating, wavering, doubtful)
+   9. вызывающий подозрения (doubtful)
+
+   If you are doubtful about something, you are uncertain about it:
+   The doctor was very doubtful that the patient could recover, even with treatment.
+
+* virtue							   :Perrault:
+
+  добродетель
+
+  noun
+   1. добродетель (virtue, goodness, honor, honour)
+   2. достоинство (dignity, virtue, merit, denomination, quality, meritoriousness)
+   3. сила (force, power, strength, intensity, might, virtue)
+   4. целомудрие (chastity, virtue, pudicity)
+   5. хорошее качество (goodness, virtue)
+   6. действие (act, action, effect, force, influence, virtue)
+   7. свойство (property, characteristic, feature, attribute, affinity,
+      virtue)
+
+   Behavior showing high moral standards.
+   Honesty is not the only virtue a bank teller must have.
+
+* shrewdness 							   :Perrault:
+  проницательность
+
+  noun
+   1. проницательность (insight, discernment, acumen, perspicacity, shrewdness, vision)
+   2. догадливость (shrewdness)
+   3. тонкость (subtlety, fineness, thinness, finesse, delicacy,
+      shrewdness)
+
+   Having or showing sharp powers of judgment; sharp-witted.
+   A shrewd businessman knows when the time is right to close the deal.
+
+* to mortify 							   :Perrault:
+
+  смирять
+
+  verb
+   1. смирять (humble, subdue, mortify, tame, restrain oneself)
+   2. подавлять (suppress, repress, inhibit, put down, overwhelm, mortify)
+   3. обижать (offend, hurt, insult, wrong, mortify, huff)
+   4. укрощать (tame, subdue, mortify, pacify, break in, manage)
+   5. унижать (humiliate, degrade, stoop, put down, demean, mortify)
+   6. умерщвлять плоть (mortify)
+   7. омертвевать (necrose, mortify, die)
+   8. гангренизироваться (mortify)
+
+   To make someone very embarrassed.
+   The class bully began to mortify  the shy girl by making
+   fun of her old clothes.
+
+* chagrin							   :Perrault:
+  огорчение
+
+  noun
+   1. огорчение (chagrin, grief, upset, pain, affliction, concern)
+   2. досада (annoyance, vexation, chagrin, nuisance, disappointment, shame)
+   3. разочарование (disappointment, disillusionment, frustration, disenchantment, disillusion, chagrin)
+
+  verb
+   1. огорчать (grieve, upset, afflict, distress, pain, chagrin)
+   2. досаждать (annoy, plague, molest, vex, torment, chagrin)
+
+   Disappointment or anger, especially when caused by a failure or
+   mistake:
+
+   My children have never shown an interest in music, much to my
+   chagrin.
+
+* wit								   :Perrault:
+
+  остроумие
+
+  noun
+   1. остроумие (wit, cuteness, wittiness, esprit, repartee, smartness)
+   2. ум (mind, intelligence, intellect, wit, brain, wits)
+   3. остряк (wit, punster, witling, ramp)
+   4. разум (mind, reason, intellect, understanding, sense, wit)
+
+  verb
+   1. знать (know, be aware of, have, know of, be familiar with, wit)
+   2. ведать (manage, be in charge of, deal, wit)
+
+   Mental sharpness and inventiveness; keen intelligence.
+
+   The author’s wit makes the novel a humorous and smart read.
+
+* awkward							   :Perrault:
+* outshone							   :Perrault:
+* willingly							   :Perrault:
+* boast								   :Perrault:
+ 
+* trial :Study:
+[2017-07-17 Mon 09:04]
+
+When you run a series of tests on something, it's called a trial. If
+you invent a computer game and want to run it through a trial before
+releasing it, you might hire a bunch of teenagers to play it.
+
+A trial is also a court hearing to legally determine the result of a
+particular case. If your cousin is arrested for stealing her
+neighbor's dog, she may be put on trial. This term can also be used
+more generically, especially to talk about something being tried in
+the court of public opinion. The fate of music education is on trial
+in many school districts facing budget cuts.
+
+Let us consider a case where we want to keep audit trial
+
+* ridiculous							   :Perrault:
+* to toil							   :Perrault:
+* lamenting							   :Perrault:
+* fate								   :Perrault:
+* prosperity							   :Perrault:
+* prudence							   :Perrault:
+* circumspection						   :Perrault:
+* rashly							   :Perrault:
+* abusive							   :Perrault:
+ 
