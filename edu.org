@@ -25587,3 +25587,13 @@ Note that the order of the rules for determining column affinity is important. A
 
     #+RESULTS:
 
+    When should indexes be avoided
+
+    - Small tables;
+    - Tables that have frequent, large batch update or insert
+      operations;
+    - Columns that contain a high number of NULL values.
+    - Columns that are frequently manipulated;
+
+
+
