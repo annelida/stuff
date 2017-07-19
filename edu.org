@@ -25578,3 +25578,12 @@ Note that the order of the rules for determining column affinity is important. A
     | index | sqlite_autoindex_company_1    | company    | 3 |                                               |
     | index | salary_index                  | company    | 7 | CREATE INDEX salary_index ON COMPANY (salary) |
 
+
+    DROP INDEX index_name
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    DROP INDEX salary_index;
+    #+END_SRC
+
+    #+RESULTS:
+
