@@ -25511,7 +25511,8 @@ Note that the order of the rules for determining column affinity is important. A
     
     
 
-*** TODO SQLite - Indexes
+*** DONE SQLite - Indexes
+    CLOSED: [2017-07-19 Wed 07:50]
 
     Indexes are special lookup tables that the database search engine
     can use to speed up data retrieval. Simply put, an index is a
@@ -25594,6 +25595,39 @@ Note that the order of the rules for determining column affinity is important. A
       operations;
     - Columns that contain a high number of NULL values.
     - Columns that are frequently manipulated;
+    
 
 
+
+
+    
+*** TODO INDEXED BY Clause
+
+    Syntax
+
+    Following is the syntax for INDEXED BY clause and it can be used
+    with DELETE, UPDATE or SELECT statement.
+
+    #+BEGIN_EXAMPLE
+    SELECT|DELETE|UPDATE column1, column2...
+    INDEXED BY (index_name)
+    table_name
+    WHERE (CONDITION);
+    #+END_EXAMPLE
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    CREATE INDEX salary_index ON COMPANY(salary);
+    SELECT * FROM COMPANY INDEXED BY salary_index WHERE salary > 5000;
+    #+END_SRC
+
+    #+RESULTS:
+    | 7 | James | 24 | Houston    | 10000.0 |
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 1 | Paul  | 32 | California | 20000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 5 | David | 27 | Texas      | 85000.0 |
 
