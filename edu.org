@@ -22318,13 +22318,27 @@ console.log(min(0, -10));
 	 <div class = "div" style = "background-color:blue;"></div>
 	 <div class = "div" style = "background-color:green;"></div>
 	 <div class = "div" style = "background-color:red;"></div>
-
+   
       </body>
 
    </html>
 #+end_example
+** jQuery - Events Handling
 
-   
+   We have the ability to create dynamic web pages by using events.
+   Events are actions that can be detected by your Web Application.
+
+   Following are the examples events −
+
+   - A mouse click
+   - A web page loading
+   - Taking mouse over an element
+   - Submitting an HTML form
+   - A keystroke on your keyboard
+
+   When these events are triggered you can then use a custom
+   function to do pretty much whatever you want with the event.
+   These custom functions call Event Handlers.
    
 * RDBMS
 
