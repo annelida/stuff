@@ -25693,7 +25693,8 @@ Note that the order of the rules for determining column affinity is important. A
     | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
     | 5 | David | 27 | Texas      | 85000.0 |
 
-*** TODO SQLite - ALTER TABLE command
+*** DONE SQLite - ALTER TABLE command
+    CLOSED: [2017-07-20 Thu 07:48]
 
     SQLite ALTER TABLE command modifies an existing table without
     performing a full dump and reload of the data. You can rename a
@@ -25731,4 +25732,36 @@ Note that the order of the rules for determining column affinity is important. A
     | 5 | David | 27 | Texas      | 85000.0 |   |
     | 6 | Kim   | 22 | South-Hall | 45000.0 |   |
     | 7 | James | 24 | Houston    | 10000.0 |   |
+
+*** TODO SQLite - Views
+
+    A view is nothing more than a SQLite statement that is stored in
+    the database with an associated name.
+
+    Syntax
+
+    #+BEGIN_EXAMPLE
+    CREATE [TEMP | TEMPORARY] VIEW view_name AS
+    SELECT column1, column2....
+    FROM table_name
+    WHERE [condition];
+    #+END_EXAMPLE
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    CREATE VIEW COMPANY_VIEW AS
+    SELECT ID, NAME, AGE
+    FROM COMPANY;
+    SELECT * FROM COMPANY_VIEW;
+    #+END_SRC
+
+    #+RESULTS:x
+    | 1 | Paul  | 32 |
+    | 2 | Allen | 25 |
+    | 3 | Teddy | 23 |
+    | 4 | Mark  | 25 |
+    | 5 | David | 27 |
+    | 6 | Kim   | 22 |
+    | 7 | James | 24 |
 
