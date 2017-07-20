@@ -25662,7 +25662,8 @@ Note that the order of the rules for determining column affinity is important. A
 
 
     
-*** TODO INDEXED BY Clause
+*** DONE INDEXED BY Clause
+    CLOSED: [2017-07-20 Thu 07:26]
 
     Syntax
 
@@ -25691,4 +25692,43 @@ Note that the order of the rules for determining column affinity is important. A
     | 6 | Kim   | 22 | South-Hall | 45000.0 |
     | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
     | 5 | David | 27 | Texas      | 85000.0 |
+
+*** TODO SQLite - ALTER TABLE command
+
+    SQLite ALTER TABLE command modifies an existing table without
+    performing a full dump and reload of the data. You can rename a
+    table using ALTER TABLE statement and additional columns can be
+    added in an existing table using ALTER TABLE statement.
+
+    Syntax
+
+    To RENAME an existing table:
+
+    #+BEGIN_EXAMPLE
+    ALTER TABLE database_name.table_name RENAME TO new_table_name;
+    #+END_EXAMPLE
+
+    Basic syntax to add a new column in an existing table.
+
+    #+BEGIN_EXAMPLE
+    ALTER TABLE database_name.table_name ADD COLUMN column_def...;
+    #+END_EXAMPLE
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    ALTER TABLE COMPANY ADD COLUMN SEX char(1);
+    SELECT * FROM COMPANY;
+    #+END_SRC
+
+    #+RESULTS:
+    ID   NAME   AGE    ADDRESS     SALARY    SEX
+    ---- -----  -----  ----------  --------  ----
+    | 1 | Paul  | 32 | California | 20000.0 |   |
+    | 2 | Allen | 25 | Texas      | 15000.0 |   |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |   |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |   |
+    | 5 | David | 27 | Texas      | 85000.0 |   |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |   |
+    | 7 | James | 24 | Houston    | 10000.0 |   |
 
