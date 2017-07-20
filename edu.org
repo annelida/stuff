@@ -25765,3 +25765,11 @@ Note that the order of the rules for determining column affinity is important. A
     | 6 | Kim   | 22 |
     | 7 | James | 24 |
 
+    Dropping views
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    DROP VIEW COMPANY_VIEW;
+    #+END_SRC
+
+    #+RESULTS:
+
