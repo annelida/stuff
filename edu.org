@@ -25747,7 +25747,8 @@ Note that the order of the rules for determining column affinity is important. A
     | 6 | Kim   | 22 | South-Hall | 45000.0 |   |
     | 7 | James | 24 | Houston    | 10000.0 |   |
 
-*** TODO SQLite - Views
+*** DONE SQLite - Views
+    CLOSED: [2017-07-21 Fri 07:33]
 
     A view is nothing more than a SQLite statement that is stored in
     the database with an associated name.
@@ -25787,3 +25788,23 @@ Note that the order of the rules for determining column affinity is important. A
 
     #+RESULTS:
 
+*** TODO SQLite - Transaction
+
+    A transaction is a unit of work that is performed against a
+    database. Transaction are units or sequences of work accomplished
+    in a logical order, whether in a manual fashion by user or
+    automatically by some sort of a database program.
+
+    Properties of transactions
+
+    - Atomicity - ensures that all operations within the work unit are
+      completed successfully; otherwise, the transaction is aborted at
+      the point of failure and previous operations are rolled back to
+      their former state.
+    - Consistency - ensures that the database properly changes states
+      upon a successfully committed transaction.
+    - Isolation - enables transactions to operate independently of and
+      transparent to each other.
+    - Durability - ensures that the result or effect of a committed
+      transaction persists in case of a system failure.
+    
