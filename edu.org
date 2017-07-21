@@ -22390,6 +22390,18 @@ console.log(min(0, -10));
    event; when a user clicks inside this division thereafter, the
    alert will be shown.
 
+   The full syntax of the bind() command is as follows
+
+   #+BEGIN_EXAMPLE
+   selector.bind( eventType[, eventData], handler)
+   #+END_EXAMPLE
+
+   eventType - a string containing a JavaScript event type, such as
+   click or submit.
+   eventData - this is optional parameter is a map of data that will
+   be passed to the event handler.
+   handler - a function to execute each time the event is triggered.
+
    
 * RDBMS
 
