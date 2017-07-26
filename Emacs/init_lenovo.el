@@ -15,6 +15,18 @@
   (add-to-list 'package-archives '("gnu" . "http://elpa.gnu.org/packages/")))
 ;;
 (global-set-key (kbd "C-x g") 'magit-status)
+;;
+(org-babel-do-load-languages
+ 'org-babel-load-languages
+ '((python . t)
+   (emacs-lisp . t)
+   (sh . t)
+   (js . t)
+   (ditaa . t)
+   (plantuml . t)
+   (sqlite . t)
+   ))
+;;
 ;; (package-initialize)
 ;; ;;
 ;;(org-babel-do-load-languages
