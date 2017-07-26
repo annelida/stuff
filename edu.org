@@ -11337,9 +11337,25 @@ In [13]: print 'Hello %s' %(name,)
 Hello Antony
    
 * Unix
-** How Linux works
+** TODO How Linux works
 Chapter 1 The Big Picture
-1.1 Levels and Layers of Abstraction in a Linux System
+*** DONE 1.1 Levels and Layers of Abstraction in a Linux System
+    CLOSED: [2017-07-26 Wed 10:47]
+    A Linux system has three main levels.
+
+    The hardware is at the base. Hardware includes the memory as well
+    as one or more central processing units (CPUs) to perform
+    computation and to read from and write to memory. Devices such as
+    disks and network interfaces are also part of the hardware.
+
+    The next level up is the kernel, which is the core of the
+    operation system. The kernel is software residing in memory that
+    tells the CPU what to do. The kernel manages the hardware and acts
+    primarily as an between the hardware and any running program.
+
+    Processes - the running programs that the kernel manages -
+    collectively make up the system's upper level called user space.
+    
 1.2 Hardware: Understanding Main Memory
 1.3 The Kernel
 1.4 User Space
