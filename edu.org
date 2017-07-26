@@ -11368,7 +11368,25 @@ Chapter 1 The Big Picture
     memory;
     it reads its instructions and data from the memory and writes data
     back out to the memory.
-1.3 The Kernel
+*** DONE 1.3 The Kernel
+    CLOSED: [2017-07-26 Wed 16:26]
+    The kernel is incharge of managing tasks in four general system
+    areas:
+    - Processes.The kernel is responsible for determining which
+      processes are allowed to use the CPU.
+    - Device drivers.The kernel acts as an interface between hardware
+      (such as a disk) and processes. It’s usually the kernel’s job to
+      operate the hardware.
+    - System calls and support.
+      Processes normally use system calls to communicate with the
+      kernel. 
+    - Memory.The kernel needs to keep track of all memory—what is
+      currently allocated to a particular process, what might be shared
+      between processes, and what is free.oDevice drivers.The kernel
+      acts as an interface between hardware (such as a disk) and
+      processes.
+      It’s usually the kernel’s job to operate the hardware.
+
 1.4 User Space
 1.5 Users
 1.6 Looking Forward
