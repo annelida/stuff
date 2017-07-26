@@ -92,13 +92,12 @@
 ;; 	"https://www.upwork.com/ab/feed/jobs/rss?proposals=0-4&q=Python&sort=relevance+desc&api_params=1&securityToken=1461ab4f14c4bbd50764489ba49f4d11ed155685db667cac84e7c2655ee3c6999ac378f96c0b7205e6a0fd7521cd20dc9463c63389b9fc837e65b6bdee91c5c9&userUid=562235792203943936&orgUid=562235792216526849"
 ;; 	"https://www.upwork.com/ab/feed/jobs/rss?proposals=0-4&q=Python+Scrapy&sort=relevance+desc&api_params=1&securityToken=1461ab4f14c4bbd50764489ba49f4d11ed155685db667cac84e7c2655ee3c6999ac378f96c0b7205e6a0fd7521cd20dc9463c63389b9fc837e65b6bdee91c5c9&userUid=562235792203943936&orgUid=562235792216526849"))
 ;; (global-set-key (kbd "C-x w") 'elfeed)
-
-;; (setq org-agenda-files (list "/home/vikky/Desktop/DVCS/stuff/edu.org"
-;;                              "/home/vikky/Desktop/DVCS/stuff/soft/soft.org"
-;; 			     "/home/vikky/Desktop/DVCS/stuff/vocabulary.org"
-;; 			     "/home/vikky/Desktop/DVCS/stuff/projects/2017/amazon/description.org"))
-;; (define-key global-map "\C-ca" 'org-agenda)
-;; (setq org-log-done t)
+;;
+(setq org-agenda-files (list "/home/vikky/Desktop/DVCS/stuff/edu.org"
+ 			     "/home/vikky/Desktop/DVCS/stuff/vocabulary.org"
+ 			     "/home/vikky/Desktop/DVCS/stuff/projects/2017/amazon/description.org"))
+(define-key global-map "\C-ca" 'org-agenda)
+(setq org-log-done t)
 ;;
 (desktop-save-mode 1)
 ;;
