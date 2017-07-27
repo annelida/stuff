@@ -11439,8 +11439,46 @@ Hello Antony
      Fortunately  for  the  kernel,  there  is  help.  Modern  CPUs
      include  a memory  management  unit  (MMU)that enables  a  memory
      access  scheme  called virtual  memory.
-	
 
+**** DONE Device drivers and management
+     CLOSED: [2017-07-27 Thu 09:47]
+
+     The kernel’s role with devices is pretty simple.
+     A device is typically accessible only in kernel mode because
+     improper  access  (such  as  a  user  process  asking  to  turn
+     off  the  power)  could  crash  the  machine.  Another problem is
+     that different devices rarely have the same programming
+     interface, even if the devices do the same thing, such as two
+     different network cards. Therefore, device drivers have
+     traditionally been part of the kernel, and they strive to present
+     a uniform interface to user processes.
+
+**** DONE System calls and support
+     CLOSED: [2017-07-27 Thu 10:00]
+
+     There  are  several  other  kinds  of  kernel  features
+     available to  user  processes.  For  example, system  calls
+     (or syscalls)  perform  specific  tasks  that  a  user  process
+     alone  cannot  do  well  or  at  all.  For  example,  the  acts
+     of opening, reading, and writing files all involve system calls.
+
+     Two system calls, fork()and exec(), are important to
+     understanding how processes start up
+
+     - fork() When a process calls fork(), the kernel creates a nearly
+       identical copy of the process;
+     - exec() When a process calls exec(program), the kernel starts
+       program, replacing the current process.
+       
+     All user processes on a Linux system start as a result of fork(),
+     and most of the time,  you also run exec()to start a new program
+     instead of running a copy of an existing process. A very simple
+     example is any program that you run at the command line, such as
+     the ls command to show the contents of a directory. When you
+     enter ls into a terminal window, the shell that’s running inside
+     the terminal window calls fork()to create a copy of the shell,
+     and then the new copy of the shell calls exec(ls)to run ls.
+	
 1.4 User Space
 1.5 Users
 1.6 Looking Forward
