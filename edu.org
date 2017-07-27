@@ -11493,8 +11493,28 @@ Hello Antony
     user often  controls  directly.  Components  also  use  other
     components.
     Generally, if one component wants to use another, the second
-    component is either at the same service level or below.
-1.5 Users
+    component is either at the same service level or below
+*** DONE 1.5 Users
+    CLOSED: [2017-07-27 Thu 11:08]
+    The Linux kernel supports the traditional concept of a Unix user.
+    A user is an entity that can run processes and own  files.
+    A  user  is  associated  with  a username.  For  example,  a
+    system could  have a  user  named billyjoe. However, the kernel
+    does not manage the usernames; instead, it identifies users by
+    simple numeric identifiers called userids.
+    Users exist primarily to support permissions and boundaries.
+    Every user-space process has a user owner, and processes  are
+    said  to  run as the  owner. A  user  may  terminate  or  modify
+    the  behavior  of  its  own  processes (within certain limits),
+    but it cannot interfere with other users’ processes. In addition,
+    users may own files and choose whether they share them with other
+    users.
+    The most important user to know about is root. The root user is an
+    exception to the preceding rules because root may terminate and
+    alter another user’s processes and read any file on the local
+    system. For this reason, root is known as the superuser. A  person
+    who  can  operate  as  root  is  said  to  have root  accessand
+    is  an  administrator  on  a  traditional Unix system.
 1.6 Looking Forward
 Chapter 2 Basic Commands and Directory Hierarchy
 2.1 The Bourne Shell: /bin/sh
