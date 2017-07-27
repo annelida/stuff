@@ -11338,7 +11338,7 @@ Hello Antony
    
 * Unix
 ** TODO How Linux works
-Chapter 1 The Big Picture
+   Chapter 1 The Big Picture
 *** DONE 1.1 Levels and Layers of Abstraction in a Linux System
     CLOSED: [2017-07-26 Wed 10:47]
     A Linux system has three main levels.
@@ -11386,6 +11386,38 @@ Chapter 1 The Big Picture
       acts as an interface between hardware (such as a disk) and
       processes.
       It’s usually the kernel’s job to operate the hardware.
+**** DONE 1.3.1 Process management
+     CLOSED: [2017-07-27 Thu 08:10]
+
+     Process management describes the starting, pausing, resuming, and
+     terminating of processes. The concepts behind  starting  and
+     terminating processes  are  fairly  straightforward,  but
+     describing  how a  process  uses  the CPU in its normal course of
+     operation is a bit more complex.
+     Consider a system with a one-core CPU. Many processes may be able
+     to use the CPU, but only one process may actually use the CPU at
+     any given time. In practice, each process uses the CPU for a
+     small fraction of a second, then pauses; then another process
+     uses the CPU for another small fraction of a second; then another
+     process  takes  a  turn,  and  so  on. The  act  of  one  process
+     giving  up  control  of  the  CPU  to  another  process  is
+     called a context switch.
+
+     1. The CPU (the actual hardware) interrupts the current process
+        based on an internal timer, switches into kernel mode, and hands
+        control back to the kernel.
+     2. The kernel records the current state of the CPU and memory,
+        which will be essential to resuming the process that was just
+	interrupted.
+     3. The kernel performs any tasks that might have come up during
+        the preceding time slice (such as collecting data from input 
+	and output, or I/O, operations).
+     4. The kernel is now ready to let another process run. The kernel
+	analyzes the list of processes that are ready to run and chooses one.
+     5. The kernel prepares the memory for this new process, and then
+        prepares the CPU.
+     6. The kernel tells the CPU how long the time slice for the new
+        process will last.
 
 1.4 User Space
 1.5 Users
@@ -26159,3 +26191,4 @@ Note that the order of the rules for determining column affinity is important. A
 
 
     
+
