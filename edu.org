@@ -11478,8 +11478,22 @@ Hello Antony
      enter ls into a terminal window, the shell that’s running inside
      the terminal window calls fork()to create a copy of the shell,
      and then the new copy of the shell calls exec(ls)to run ls.
-	
-1.4 User Space
+
+*** DONE 1.4 User Space
+    CLOSED: [2017-07-27 Thu 10:44]
+    The  main  memory  that  the  kernel  allocates  for  user
+    processes is  called user  space. Because a process is simply a
+    state (or image) in memory, user space also refers to the memory
+    for the entire collection of running processes.
+
+    The bottom level tends to consist of small components that perform
+    single, uncomplicated tasks. The middle level has larger
+    components such as mail, print, and database services. Finally,
+    components at the top level perform  complicated  tasks  that  the
+    user often  controls  directly.  Components  also  use  other
+    components.
+    Generally, if one component wants to use another, the second
+    component is either at the same service level or below.
 1.5 Users
 1.6 Looking Forward
 Chapter 2 Basic Commands and Directory Hierarchy
