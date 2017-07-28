@@ -29,6 +29,9 @@
 ;;
 (package-initialize)
 ;; 
+(require 'org-bullets)
+(add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
+;;
 ;;  '(org-confirm-babel-evaluate nil)
 ;;  '(package-selected-packages
 ;;    (quote
