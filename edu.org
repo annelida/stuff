@@ -11590,6 +11590,26 @@ Chapter 2 Basic Commands and Directory Hierarchy
      sshd:x:118:65534::/run/sshd:/usr/sbin/nologin
      andrewkosinov:x:1002:1002:Andrew Kosinov,,,:/home/andrewkosinov:/bin/bash
 #+end_example
+**** DONE 2.2.3 Standard input and standard output
+     CLOSED: [2017-07-28 Fri 08:58]
+
+     o see an input stream at work, enter cat(with no filenames) and
+     press ENTER. This time, you won’t get your shell prompt back
+     because catis still running. Now type anything and press ENTER at
+     the end of each line. The catcommand repeats any line that you
+     type. Once you’re sufficiently bored, press CTRL-D on an empty
+     line to terminate catand return to the shell prompt.
+
+     Pressing CTRL-Don an empty line stops the current standard input
+     entry from the terminal (and often terminates a program). Don’t
+     confuse this with CTRL-C, which terminates a program regardless
+     of its input or output.
+
+     Standard input and output are often abbreviated as stdin and
+     stdout. Many commands operate as catdoes; if you don’t specify an
+     input file, the command reads from stdin. Output is a little
+     different. Some commands (like cat) send output only to stdout,
+     but others have the option to send output directly to files.
 
 2.3 Basic Commands
 2.4 Navigating Directories
