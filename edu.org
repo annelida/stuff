@@ -11526,7 +11526,11 @@ Chapter 2 Basic Commands and Directory Hierarchy
     the “Bourne-again” shell. The bash shell is the default shell on
     most Linux distributions, and /bin/sh is normally a link to bash on
     a Linux system.
-2.2 Using the Shell
+*** DONE 2.2 Using the Shell
+    CLOSED: [2017-07-28 Fri 07:53]
+    When you install Linux, you should create at least one regular
+    user in addition to the root user; this will be your personal
+    account. 
 2.3 Basic Commands
 2.4 Navigating Directories
 2.5 Intermediate Commands
