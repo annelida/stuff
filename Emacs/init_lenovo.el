@@ -32,17 +32,16 @@
 (require 'org-bullets)
 (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
 ;;
-;;  '(org-confirm-babel-evaluate nil)
-;;  '(package-selected-packages
-;;    (quote
-;;     (elfeed voca-builder howdoi ereader swiper org-bullets org magit key-chord google-translate elpy color-theme))))
-;; (add-to-list 'load-path "/home/vikky/Desktop/DVCS/stuff/voca-builder/voca-builder.el/")
-;; ;;
-;; (require 'voca-builder)
-;; (setq voca-builder/voca-file "/home/vikky/Desktop/DVCS/stuff/vocabulary.org")
-;; (setq voca-builder/export-file "~/.voca-builder-temp.org")
-;; (setq voca-builder/current-tag "Study")
-;; ;;
+(require 'voca-builder)
+(setq voca-builder/voca-file "/home/vikky/Desktop/DVCS/stuff/vocabulary.org")
+(setq voca-builder/export-file "~/.voca-builder-temp.org")
+(setq voca-builder/current-tag "Study")
+;; 
+(require 'key-chord)
+    (key-chord-mode 1)
+    (key-chord-define-global "QQ"     'voca-builder/search-popup)
+    (key-chord-define-global "FF"     'other-frame)
+;;
 ;; (require 'ereader)
 ;; ;; end of custom vars
 ;; ;; use org-bullets-mode for utf8 symbols as org bullets
