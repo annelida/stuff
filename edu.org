@@ -11611,7 +11611,33 @@ Chapter 2 Basic Commands and Directory Hierarchy
      different. Some commands (like cat) send output only to stdout,
      but others have the option to send output directly to files.
 
-2.3 Basic Commands
+*** TODO 2.3 Basic Commands
+
+    ls
+
+    The lscommand  lists  the  contents  of  a  directory.  The
+    default  is  the  current  directory.  Use ls -lfor  a detailed (long)
+    listing and ls -Fto display file type information. (For more on the
+    file types and permissions displayed in the left column below,
+    here is a sample long listing; it includes the owner of the file
+    (column 3), the group (column 4), the file size (column 5), and
+    the modification date/time (between column 5 and the filename):
+
+    #+BEGIN_SRC sh :results output
+    ls -l
+    #+END_SRC
+
+    #+RESULTS:
+    : total 1232
+    : -rw-r--r-- 1 vikky vikky 842241 Jul 28 14:55 edu.org
+    : drwxr-xr-x 2 vikky vikky   4096 Jul 27 16:43 Emacs
+    : -rw-r--r-- 1 vikky vikky   1065 Jul 25 12:40 LICENSE
+    : drwxr-xr-x 3 vikky vikky   4096 Jul 25 12:40 projects
+    : drwxr-xr-x 6 vikky vikky   4096 Jul 25 12:40 Scrapy
+    : drwxr-xr-x 2 vikky vikky   4096 Jul 25 12:40 Scripts
+    : -rw-r--r-- 1 vikky vikky   9869 Jul 25 12:40 tribute_page.html
+    : -rw-r--r-- 1 vikky vikky 384983 Jul 25 12:40 vocabulary.org
+
 2.4 Navigating Directories
 2.5 Intermediate Commands
 2.6 Changing Your Password and Shell
