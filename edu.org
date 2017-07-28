@@ -11517,7 +11517,15 @@ Hello Antony
     is  an  administrator  on  a  traditional Unix system.
 1.6 Looking Forward
 Chapter 2 Basic Commands and Directory Hierarchy
-2.1 The Bourne Shell: /bin/sh
+*** DONE 2.1 The Bourne Shell: /bin/sh
+    CLOSED: [2017-07-28 Fri 07:49]
+    There are many different Unix shells, but all derive several of
+    their features from the Bourne shell (/bin/sh), a standard shell
+    developed at Bell Labs for early versions of Unix.
+    Linux uses an enhanced version of the Bourne shell called bash or
+    the “Bourne-again” shell. The bash shell is the default shell on
+    most Linux distributions, and /bin/sh is normally a link to bash on
+    a Linux system.
 2.2 Using the Shell
 2.3 Basic Commands
 2.4 Navigating Directories
