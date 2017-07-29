@@ -11655,7 +11655,19 @@ Chapter 2 Basic Commands and Directory Hierarchy
 
     A path not beginning with /is called a relative path. Most of the
     time, you’ll work with relative pathnames, because you’ll already
-    be in the directory you need to be in or somewhere close by. 
+    be in the directory you need to be in or somewhere close by.
+
+    rmdir command
+
+    The rmdir command removes the directory dir:
+    $ rm dir
+    If dir isn’t empty, this command fails.
+    You can use rm -rf dir to delete a directory and its contents, but be
+    careful!
+    The -r option specifies recursive delete to repeatedly delete
+    everything inside dir, and -f forces the delete operation.
+    Don’t use the -rf flags  with  globs  such  as  a  star  (*).
+    
     
 2.5 Intermediate Commands
 2.6 Changing Your Password and Shell
