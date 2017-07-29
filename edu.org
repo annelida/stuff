@@ -11638,7 +11638,8 @@ Chapter 2 Basic Commands and Directory Hierarchy
     : -rw-r--r-- 1 vikky vikky   9869 Jul 25 12:40 tribute_page.html
     : -rw-r--r-- 1 vikky vikky 384983 Jul 25 12:40 vocabulary.org
     
-*** TODO 2.4 Navigating Directories
+*** DONE 2.4 Navigating Directories
+    CLOSED: [2017-07-29 Sat 09:47]
 
     Unix has a directory hierarchy that starts at /, sometimes called
     the root directory. The directory separator is the slash (/).
@@ -11668,8 +11669,39 @@ Chapter 2 Basic Commands and Directory Hierarchy
     everything inside dir, and -f forces the delete operation.
     Don’t use the -rf flags  with  globs  such  as  a  star  (*).
     
-    
-2.5 Intermediate Commands
+*** TODO 2.5 Intermediate Commands
+
+    grep
+
+    The grep command prints the lines from a file  or input stream that
+    match an expression.
+
+    To print the lines in the /etc/passwdfile that contain the text root,
+    enter this:
+
+    #+BEGIN_SRC sh :results output
+    grep root /etc/passwd
+    #+END_SRC
+
+    #+RESULTS:
+    : root:x:0:0:root:/root:/bin/bash
+
+    The grep command is extraordinarily handy when operating on
+    multiple files at once because it prints the filename in addition
+    to the matching line. For example, if you want to check every file
+    in /etc that contains the word root, you could use this command
+
+    #+BEGIN_SRC sh :results output
+    grep root /etc/*
+    #+END_SRC
+
+    Two  of  the  most  important grepoptions  are -i(for
+    case-insensitive  matches) and -v(which  inverts  the search, that
+    is, prints all lines that don’t match).
+
+    There is also a more powerful variant called egrep (synonym grep
+    -E). 
+
 2.6 Changing Your Password and Shell
 2.7 Dot Files
 2.8 Environment and Shell Variables
