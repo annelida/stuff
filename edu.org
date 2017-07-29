@@ -11637,8 +11637,26 @@ Chapter 2 Basic Commands and Directory Hierarchy
     : drwxr-xr-x 2 vikky vikky   4096 Jul 25 12:40 Scripts
     : -rw-r--r-- 1 vikky vikky   9869 Jul 25 12:40 tribute_page.html
     : -rw-r--r-- 1 vikky vikky 384983 Jul 25 12:40 vocabulary.org
+    
+*** TODO 2.4 Navigating Directories
 
-2.4 Navigating Directories
+    Unix has a directory hierarchy that starts at /, sometimes called
+    the root directory. The directory separator is the slash (/).
+    When  you  refer  to  a  file  or  directory,  you  specify  a
+    path or pathname.  When  a  path  starts  with /(such  as
+    /usr/lib), it’s a full or absolute path.
+
+    A path component identified by two dots (..) specifies the parent
+    of a directory. For example, if you’re working in /usr/lib, the
+    path ..would refer to /usr. Similarly, ../bin would refer to
+    /usr/bin.One dot (.) refers to the current directory; for example,
+    if you’re in /usr/lib, the path . is still /usr/lib, and ./X11 is
+    /usr/lib/X11.
+
+    A path not beginning with /is called a relative path. Most of the
+    time, you’ll work with relative pathnames, because you’ll already
+    be in the directory you need to be in or somewhere close by. 
+    
 2.5 Intermediate Commands
 2.6 Changing Your Password and Shell
 2.7 Dot Files
