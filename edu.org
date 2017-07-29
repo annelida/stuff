@@ -11611,7 +11611,8 @@ Chapter 2 Basic Commands and Directory Hierarchy
      different. Some commands (like cat) send output only to stdout,
      but others have the option to send output directly to files.
 
-*** TODO 2.3 Basic Commands
+*** DONE 2.3 Basic Commands
+    CLOSED: [2017-07-29 Sat 11:45]
 
     ls
 
@@ -11700,7 +11701,61 @@ Chapter 2 Basic Commands and Directory Hierarchy
     is, prints all lines that don’t match).
 
     There is also a more powerful variant called egrep (synonym grep
-    -E). 
+    -E).
+
+    less
+
+    The lesscommand comes in handy when a file is really big orwhen a
+    command’s output is long and scrolls off the top of the screen
+
+    To page through a big file like /usr/share/dict/words, use the
+    command less/usr/share/dict/words. When  running less, you’ll see
+    the contents of the file one screenful at a time. Press the
+    spacebar  to  go forward in the file and the b key to skip back
+    one screenful. To quit, type q
+
+    #+BEGIN_SRC sh :results output
+    grep ie /usr/share/dict/words | less
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    Addie
+    Addie's
+    Adrienne
+    Adrienne's
+    .....
+    .....
+    tie's
+    tiebreaker
+    tiebreaker's
+    tiebreakers
+    tied
+    tieing
+    tier
+    tier's
+    yielded
+    yielding
+    yieldings
+    yields
+    yuckier
+    yuckiest
+    yummier
+    yummiest
+    yuppie
+    yuppie's
+    yuppies
+    zanier
+    zanies
+    zaniest
+    zippier
+    zippiest
+    zombie
+    zombie's
+    zombies
+    zwieback
+    zwieback's
+#+end_example
 
 2.6 Changing Your Password and Shell
 2.7 Dot Files
