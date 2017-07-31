@@ -11824,6 +11824,19 @@ Chapter 2 Basic Commands and Directory Hierarchy
     #+RESULTS:
     : file1.txt: ASCII text
 
+    find and locate
+
+    It’s frustrating when you know that a certain file is in a
+    directory tree somewhere but you just don’t know where. Run find to
+    find file in dir
+
+    #+BEGIN_SRC sh :results output
+    find /home/vikky -name file1.txt -print
+    #+END_SRC
+
+    #+RESULTS:
+    : /home/vikky/Desktop/test/file1.txt
+
 2.6 Changing Your Password and Shell
 2.7 Dot Files
 2.8 Environment and Shell Variables
