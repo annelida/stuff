@@ -11891,6 +11891,37 @@ Chapter 2 Basic Commands and Directory Hierarchy
     #+RESULTS:
     : root:x:0:0:root:/root:/bin/bash
 
+    sort
+
+    The sort command quickly puts the lines of a text file in
+    alphanumeric order. If the file’s lines start with numbers and you
+    want to sort innumerical order, use the -n option. The -r option
+    reverses the order of the sort
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    sort file2.txt
+    #+END_SRC
+
+    #+RESULTS:
+    : Four
+    : One
+    : Three
+    : Two
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    sort -r file4.txt
+    #+END_SRC
+
+    #+RESULTS:
+    : 6. Corn
+    : 5. Potato
+    : 4. Pumpkin
+    : 3. Tomato
+    : 2. Mellon
+    : 1. Apple
+
 2.6 Changing Your Password and Shell
 2.7 Dot Files 
 2.8 Environment and Shell Variables
