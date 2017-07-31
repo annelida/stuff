@@ -11880,8 +11880,19 @@ Chapter 2 Basic Commands and Directory Hierarchy
     andrewkosinov:x:1002:1002:Andrew Kosinov,,,:/home/andrewkosinov:/bin/bash
 #+end_example
 
+    To change the number of lines to display, use the -n option, where
+    n is the number of lines you want to see (for example, head -5
+    /etc/passwd). To print lines starting at line n, use tail +n.
+
+    #+BEGIN_SRC sh :results output
+    head -1 /etc/passwd
+    #+END_SRC
+
+    #+RESULTS:
+    : root:x:0:0:root:/root:/bin/bash
+
 2.6 Changing Your Password and Shell
-2.7 Dot Files
+2.7 Dot Files 
 2.8 Environment and Shell Variables
 2.9 The Command Path
 2.10 Special Characters
