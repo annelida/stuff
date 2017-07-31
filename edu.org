@@ -11757,6 +11757,27 @@ Chapter 2 Basic Commands and Directory Hierarchy
     zwieback's
 #+end_example
 
+    pwd
+
+    The pwd (print working directory) program simply outputs the name
+    of the current working directory. You may be wondering why you
+    need this when most Linux distributions set up accounts with the
+    current working directory in the prompt. There are two reasons:
+
+    - First, not all prompts include the current working directory,
+      and  you may even want to get rid of it in your own prompt
+      because it takes up a lot of space. If you do so, you need pwd.
+    - Second, the symbolic links sometimes obscure the true full
+      path of the current working directory. You’ll use pwd -P 
+      to eliminate this confusion.
+
+    #+BEGIN_SRC sh :results output
+    pwd
+    #+END_SRC
+
+    #+RESULTS:
+    : /home/vikky/Desktop/DVCS/stuff
+
 2.6 Changing Your Password and Shell
 2.7 Dot Files
 2.8 Environment and Shell Variables
