@@ -11837,6 +11837,49 @@ Chapter 2 Basic Commands and Directory Hierarchy
     #+RESULTS:
     : /home/vikky/Desktop/test/file1.txt
 
+    head and tail
+
+    To quickly view a portion of a file or stream of data, use the
+    headand tail commands. For example, head /etc/passwd shows the first
+    10 lines of the password file, and tail /etc/passwd shows the last
+    10 lines
+
+    #+BEGIN_SRC sh :results output
+    head /etc/passwd
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    root:x:0:0:root:/root:/bin/bash
+    daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+    bin:x:2:2:bin:/bin:/usr/sbin/nologin
+    sys:x:3:3:sys:/dev:/usr/sbin/nologin
+    sync:x:4:65534:sync:/bin:/bin/sync
+    games:x:5:60:games:/usr/games:/usr/sbin/nologin
+    man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+    lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+    mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+    news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+#+end_example
+
+    #+BEGIN_SRC sh :results output
+    tail /etc/passwd
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    speech-dispatcher:x:112:29:Speech Dispatcher,,,:/var/run/speech-dispatcher:/bin/false
+    pulse:x:113:116:PulseAudio daemon,,,:/var/run/pulse:/bin/false
+    avahi:x:114:119:Avahi mDNS daemon,,,:/var/run/avahi-daemon:/bin/false
+    colord:x:115:120:colord colour management daemon,,,:/var/lib/colord:/bin/false
+    saned:x:116:121::/var/lib/saned:/bin/false
+    Debian-gdm:x:117:122:Gnome Display Manager:/var/lib/gdm3:/bin/false
+    alioth:x:1000:1000:Anton Kosinov,,,:/home/alioth:/bin/bash
+    vikky:x:1001:1001:Viktoria Kosinov,,,:/home/vikky:/bin/bash
+    sshd:x:118:65534::/run/sshd:/usr/sbin/nologin
+    andrewkosinov:x:1002:1002:Andrew Kosinov,,,:/home/andrewkosinov:/bin/bash
+#+end_example
+
 2.6 Changing Your Password and Shell
 2.7 Dot Files
 2.8 Environment and Shell Variables
