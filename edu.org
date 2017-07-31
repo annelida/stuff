@@ -11811,6 +11811,19 @@ Chapter 2 Basic Commands and Directory Hierarchy
     #+RESULTS:
     : Four
 
+    file
+
+    If you see a file and are unsure of its format, try using the
+    file command to see if the system can guess
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    file file1.txt
+    #+END_SRC
+
+    #+RESULTS:
+    : file1.txt: ASCII text
+
 2.6 Changing Your Password and Shell
 2.7 Dot Files
 2.8 Environment and Shell Variables
