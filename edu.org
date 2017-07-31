@@ -11778,6 +11778,39 @@ Chapter 2 Basic Commands and Directory Hierarchy
     #+RESULTS:
     : /home/vikky/Desktop/DVCS/stuff
 
+    diff
+
+    To see the differences between two text files, use diff
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    cat file1.txt
+    #+END_SRC
+
+    #+RESULTS:
+    : One
+    : Two
+    : Three
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    cat file2.txt
+    #+END_SRC
+
+    #+RESULTS:
+    : One
+    : Two
+    : Three
+    : Four
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    diff file1.txt file2.txt
+    #+END_SRC
+
+    #+RESULTS:
+    : Four
+
 2.6 Changing Your Password and Shell
 2.7 Dot Files
 2.8 Environment and Shell Variables
