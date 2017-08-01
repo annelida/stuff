@@ -42,12 +42,7 @@
     (key-chord-define-global "QQ"     'voca-builder/search-popup)
     (key-chord-define-global "FF"     'other-frame)
 ;;
-;; (require 'ereader)
-;; ;; end of custom vars
-;; ;; use org-bullets-mode for utf8 symbols as org bullets
-;; (require 'org-bullets)
-;; (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
-;; ;;
+;;
 ;; (setq org-default-notes-file (concat org-directory "/notes.org"))
 ;; (define-key global-map "\C-cc" 'org-capture)
 
@@ -68,24 +63,14 @@
 ;;  ;; Your init file should contain only one such instance.
 ;;  ;; If there is more than one, they won't work right.
 ;;  )
-;; (package-initialize)
-;; (elpy-enable)
-;; ;;
-;; (require 'key-chord)
-;;     (key-chord-mode 1)
-;;     (key-chord-define-global "QQ"     'voca-builder/search-popup)
-;;     (key-chord-define-global "FF"     'other-frame)
-;; ;;
-;; (setq elfeed-feeds
-;;       '("http://nullprogram.com/feed/"
-;;         "http://planet.emacsen.org/atom.xml"
-;; 	"http://emacsrocks.com/atom.xml"
-;; 	"http://0--key.github.io/rss.xml"
-;; 	"http://www.quora.com/rss"
-;; 	"https://www.upwork.com/ab/feed/jobs/rss?proposals=0-4&q=Amazon+API&sort=relevance+desc&api_params=1&securityToken=1461ab4f14c4bbd50764489ba49f4d11ed155685db667cac84e7c2655ee3c6999ac378f96c0b7205e6a0fd7521cd20dc9463c63389b9fc837e65b6bdee91c5c9&userUid=562235792203943936&orgUid=562235792216526849"
-;; 	"https://www.upwork.com/ab/feed/jobs/rss?proposals=0-4&q=Python&sort=relevance+desc&api_params=1&securityToken=1461ab4f14c4bbd50764489ba49f4d11ed155685db667cac84e7c2655ee3c6999ac378f96c0b7205e6a0fd7521cd20dc9463c63389b9fc837e65b6bdee91c5c9&userUid=562235792203943936&orgUid=562235792216526849"
-;; 	"https://www.upwork.com/ab/feed/jobs/rss?proposals=0-4&q=Python+Scrapy&sort=relevance+desc&api_params=1&securityToken=1461ab4f14c4bbd50764489ba49f4d11ed155685db667cac84e7c2655ee3c6999ac378f96c0b7205e6a0fd7521cd20dc9463c63389b9fc837e65b6bdee91c5c9&userUid=562235792203943936&orgUid=562235792216526849"))
-;; (global-set-key (kbd "C-x w") 'elfeed)
+;;
+(setq elfeed-feeds
+       '("http://nullprogram.com/feed/"
+         "http://planet.emacsen.org/atom.xml"
+	 "http://emacsrocks.com/atom.xml"
+	 "http://0--key.github.io/rss.xml"
+	 "http://www.quora.com/rss"))
+(global-set-key (kbd "C-x w") 'elfeed)
 ;;
 (setq org-agenda-files (list "/home/vikky/Desktop/DVCS/stuff/edu.org"
  			     "/home/vikky/Desktop/DVCS/stuff/vocabulary.org"
