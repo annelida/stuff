@@ -12186,6 +12186,19 @@ Chapter 17 Building on the Basics
 17.4 Distributed and On-Demand Computing
 17.5 Embedded Systems
 17.6 Final Remarks
+** TODO Disks and disks partitions in Linux
+   Hard drive naming convention
+
+   A hard drive in Linux, you'll typically see something like
+   /dev/sda, /dev/cdb, /dev/sdc, ...etc. The "dev" is short for
+   device, and, in this case, a block storage device. The "sd" is
+   short for SCSI mass-storage driver. (SCSI stands for Small Computer
+   System Interface.)
+
+   The first hard drive detected by a Linux system carries the sda
+   label.
+   In numerical terms, it is hard drive 0 (zero; counting begins from 0,
+   not 1). The second hard drive is sdb, the third drive, sdc, etc. 
 ** Installing software on Linux
 
 *** DONE What is software?
