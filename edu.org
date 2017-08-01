@@ -11670,7 +11670,8 @@ Chapter 2 Basic Commands and Directory Hierarchy
     everything inside dir, and -f forces the delete operation.
     Don’t use the -rf flags  with  globs  such  as  a  star  (*).
     
-*** TODO 2.5 Intermediate Commands
+*** DONE 2.5 Intermediate Commands
+    CLOSED: [2017-08-01 Tue 07:12]
 
     grep
 
@@ -11922,7 +11923,15 @@ Chapter 2 Basic Commands and Directory Hierarchy
     : 2. Mellon
     : 1. Apple
 
-2.6 Changing Your Password and Shell
+*** DONE 2.6 Changing Your Password and Shell
+    CLOSED: [2017-08-01 Tue 07:16]
+    Use  the passwd command to change your password. You’ll be asked
+    for your old password and then prompted for your new password twice.
+    Choose a password that does not include real words in any language and
+    don’t try to combine words.One of the easiest ways to create a good
+    password is to pick a sentence, produce an acronym from it, and then
+    modify the acronym with a number or some punctuation. Then all you
+    need to do is remember the sentence.
 2.7 Dot Files 
 2.8 Environment and Shell Variables
 2.9 The Command Path
