@@ -12198,7 +12198,25 @@ Chapter 17 Building on the Basics
    The first hard drive detected by a Linux system carries the sda
    label.
    In numerical terms, it is hard drive 0 (zero; counting begins from 0,
-   not 1). The second hard drive is sdb, the third drive, sdc, etc. 
+   not 1). The second hard drive is sdb, the third drive, sdc, etc.
+
+   Partition tables
+
+   In simple terms, a partition table describes the layout of
+   partitions of a hard drive. There are two partition table
+   standards - MBR (Master Boot Record) and GPT (GUID PArtition
+   Table).
+
+   The MBR partitioning scheme is what you’ll find on older computers.
+   Newer computers support both schemes, so it’s still possible to use an
+   MBR partitioning scheme on those computers. MBR’s major limitations led
+   to the development of GPT. Those limitations are:
+
+   1. It does not allow the configuration of more than four main
+      partitions. Those partitions are called primary partitions.
+   2. Disk partitions are limited to 2TB.
+   
+
 ** Installing software on Linux
 
 *** DONE What is software?
