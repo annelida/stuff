@@ -11980,7 +11980,44 @@ Chapter 2 Basic Commands and Directory Hierarchy
     as.[^.]*or.??* to get all dot files except the current and parent
     directories.
 
-2.8 Environment and Shell Variables
+*** DONE 2.8 Environment and Shell Variables
+    CLOSED: [2017-08-01 Tue 07:56]
+
+    The  shell  can  store  temporary  variables,  called shell
+    variables,  containing  the  values  of  text  strings.  Shell
+    variables are very useful for keeping track of values in scripts, and
+    some shell variables control the way the shell behaves. (For example,
+    the bashshell reads the PS1variable before displaying the prompt.
+
+    To assign a value to a shell variable, use the equal sign (=).
+    Here’s a simple example:
+
+    #+BEGIN_EXAMPLE
+    $ STUFF=blah
+    #+END_EXAMPLE
+
+    to access  this  variable,  use $STUFF (for example, try running
+    echo $STUFF).
+    An environment variable is like a shell variable, but it’s
+    not specific to the shell. All processes on Unix systems have
+    environment variable storage.
+
+    Assign an environment variable with the shell’s exportcommand. For
+    example, if you’d like to make the $STUFFshell variable into an
+    environment variable, use the following:
+
+    #+BEGIN_EXAMPLE
+    $ STUFF=blah$
+    $ export STUFF
+    #+END_EXAMPLE
+
+    Environment  variables  are  useful  because  many  programs  read
+    them  for  configuration  and  options.  For example, you can put
+    your favorite less command-line options in the LESS environment
+    variable, and less will use those options when you run it. (Many
+    manual pages contain a section marked ENVIRONMENT that describes
+    these variables. 
+    
 2.9 The Command Path
 2.10 Special Characters
 2.11 Command-Line Editing
