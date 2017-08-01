@@ -11932,7 +11932,54 @@ Chapter 2 Basic Commands and Directory Hierarchy
     password is to pick a sentence, produce an acronym from it, and then
     modify the acronym with a number or some punctuation. Then all you
     need to do is remember the sentence.
-2.7 Dot Files 
+    
+*** DONE 2.7 Dot Files
+    CLOSED: [2017-08-01 Tue 07:24]
+    Change to your home directory, take a look around with ls, and
+    then run ls -a. Do you see the difference in the output? When you
+    run ls without the -a, you won’t see the configuration files called
+    dot files. These are files and directories whose names begin with
+    a dot (.). Common dot files are .bashrc and .login, and there are
+    dot directories, too, such as .ssh.
+    #+BEGIN_SRC sh :results output
+    ls
+    #+END_SRC
+
+    #+RESULTS:
+    : edu.org
+    : Emacs
+    : LICENSE
+    : projects
+    : Scrapy
+    : Scripts
+    : tribute_page.html
+    : vocabulary.org
+
+    #+BEGIN_SRC sh :results output
+    ls -a
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    .
+    ..
+    edu.org
+    Emacs
+    .git
+    .gitignore
+    LICENSE
+    projects
+    Scrapy
+    Scripts
+    tribute_page.html
+    vocabulary.org
+#+end_example
+
+    You can run into problems with globs because.*matches.and..(the
+    current and parent directories). You may wish to use a pattern such
+    as.[^.]*or.??* to get all dot files except the current and parent
+    directories.
+
 2.8 Environment and Shell Variables
 2.9 The Command Path
 2.10 Special Characters
