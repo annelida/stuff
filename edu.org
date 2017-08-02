@@ -12627,7 +12627,47 @@ Chapter 17 Building on the Basics
    1. It does not allow the configuration of more than four main
       partitions. Those partitions are called primary partitions.
    2. Disk partitions are limited to 2TB.
-   
+      
+   Checking Free Disk Space
+
+   Both Linux and UNIX-like systems offers two commands for checking out free disk
+   space:
+
+   (a) df command : Report file system disk space usage.
+
+   (b) du command : Estimate file space usage.
+
+   Type df -h or df -k to list free disk space:
+
+   #+BEGIN_SRC sh :results output
+   df -h
+   #+END_SRC
+
+   #+RESULTS:
+   #+begin_example
+   Filesystem      Size  Used Avail Use% Mounted on
+   udev            1.5G     0  1.5G   0% /dev
+   tmpfs           301M   32M  269M  11% /run
+   /dev/sda1       110G   18G   86G  18% /
+   tmpfs           1.5G   36M  1.5G   3% /dev/shm
+   tmpfs           5.0M   12K  5.0M   1% /run/lock
+   tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+   tmpfs           301M   24K  301M   1% /run/user/117
+   tmpfs           301M   52K  301M   1% /run/user/1000
+   tmpfs           301M   28K  301M   1% /run/user/1002
+   tmpfs           301M   48K  301M   1% /run/user/1001
+#+end_example
+
+   du command example
+
+   du shows how much space one ore more files or directories is using, enter:
+
+   #+BEGIN_SRC sh :results output
+   du -sh
+   #+END_SRC
+
+   #+RESULTS:
+   : 38M	.
 
 ** Installing software on Linux
 
