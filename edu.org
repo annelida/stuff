@@ -12018,7 +12018,44 @@ Chapter 2 Basic Commands and Directory Hierarchy
     manual pages contain a section marked ENVIRONMENT that describes
     these variables. 
     
-2.9 The Command Path
+*** DONE 2.9 The Command Path
+    CLOSED: [2017-08-02 Wed 08:14]
+
+    PATH is a special environment variable that contains the command
+    path (or path for short). A command path is a list of system
+    directories that the shell searches when trying to locate a
+    command. For example, when you run ls, the shell searches the
+    directories listed in PATH for the ls program. If programs with
+    the same name appear in several directories in the path, the shell
+    runs the first matching program.
+
+    If you run echo $PATH, you’ll see that the path components are
+    separated by colons (:). For example:
+
+    #+BEGIN_SRC sh :results output
+    echo $PATH
+    #+END_SRC
+
+    #+RESULTS:
+    : /usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+
+    To tell the shell to look in more places for programs, change the
+    PATH environment variable. For example, by using this command, you can
+    add a directory dir to the beginning of the path so that the shell
+    looks in dir before looking in any of the other PATH directories.
+
+    #+BEGIN_SRC sh :results output
+    PATH=dir:$PATH
+    #+END_SRC
+
+    Or you can append a directory name to the end of the PATH
+    variable, causing the shell to look in dir last:
+
+    #+BEGIN_SRC sh :results output
+    PATH=$PATH:dir
+    #+END_SRC
+
+        
 2.10 Special Characters
 2.11 Command-Line Editing
 2.12 Text Editors
