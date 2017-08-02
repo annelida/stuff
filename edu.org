@@ -12054,10 +12054,25 @@ Chapter 2 Basic Commands and Directory Hierarchy
     #+BEGIN_SRC sh :results output
     PATH=$PATH:dir
     #+END_SRC
-
         
 2.10 Special Characters
-2.11 Command-Line Editing
+*** DONE 2.11 Command-Line Editing
+    CLOSED: [2017-08-02 Wed 08:55]
+
+    | Keystroke | Action                                            |
+    |           |                                                   |
+    |-----------+---------------------------------------------------|
+    | CTRL-B    | Move the cursor left                              |
+    | CTRL-F    | Move the cursor right                             |
+    | CTRL-P    | View the previous command (or move the cursor up) |
+    | CTRL-N    | View the next command (or move the cursor down)   |
+    | CTRL-A    | Move the cursor to the beginning of the line      |
+    | CTRL-E    | Move the cursor to the end of the line            |
+    | CTRL-W    | Erase the preceding word                          |
+    | CTRL-U    | Erase from cursor to beginning of line            |
+    | CTRL-K    | Erase from cursor to end of line                  |
+    | CTRL-Y    | Paste erased text (for example, from CTRL-U)      |
+  
 2.12 Text Editors
 2.13 Getting Online Help
 2.14 Shell Input and Output
