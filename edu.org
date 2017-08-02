@@ -12074,7 +12074,367 @@ Chapter 2 Basic Commands and Directory Hierarchy
     | CTRL-Y    | Paste erased text (for example, from CTRL-U)      |
   
 2.12 Text Editors
-2.13 Getting Online Help
+*** DONE 2.13 Getting Online Help
+    CLOSED: [2017-08-02 Wed 09:29]
+
+    Linux systems come with a wealth of documentation. For basic
+    commands, the manual pages (or man pages) will tell you what you
+    need to know. For example, to see the manual page for the ls
+    command, as follows:
+
+    #+BEGIN_SRC sh :results output
+    man ls
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    LS(1)                            User Commands                           LS(1)
+
+    NAME
+	   ls - list directory contents
+
+    SYNOPSIS
+	   ls [OPTION]... [FILE]...
+
+    DESCRIPTION
+	   List  information  about  the FILEs (the current directory by default).
+	   Sort entries alphabetically if none of -cftuvSUX nor --sort  is  speci‐
+	   fied.
+
+	   Mandatory  arguments  to  long  options are mandatory for short options
+	   too.
+
+	   -a, --all
+		  do not ignore entries starting with .
+
+	   -A, --almost-all
+		  do not list implied . and ..
+
+	   --author
+		  with -l, print the author of each file
+
+	   -b, --escape
+		  print C-style escapes for nongraphic characters
+
+	   --block-size=SIZE
+		  scale sizes by SIZE before printing them; e.g., '--block-size=M'
+		  prints sizes in units of 1,048,576 bytes; see SIZE format below
+
+	   -B, --ignore-backups
+		  do not list implied entries ending with ~
+
+	   -c     with -lt: sort by, and show, ctime (time of last modification of
+		  file status information); with -l: show ctime and sort by  name;
+		  otherwise: sort by ctime, newest first
+
+	   -C     list entries by columns
+
+	   --color[=WHEN]
+		  colorize  the output; WHEN can be 'always' (default if omitted),
+		  'auto', or 'never'; more info below
+
+	   -d, --directory
+		  list directories themselves, not their contents
+
+	   -D, --dired
+		  generate output designed for Emacs' dired mode
+
+	   -f     do not sort, enable -aU, disable -ls --color
+
+	   -F, --classify
+		  append indicator (one of */=>@|) to entries
+
+	   --file-type
+		  likewise, except do not append '*'
+
+	   --format=WORD
+		  across -x, commas -m, horizontal -x, long -l, single-column  -1,
+		  verbose -l, vertical -C
+
+	   --full-time
+		  like -l --time-style=full-iso
+
+	   -g     like -l, but do not list owner
+
+	   --group-directories-first
+		  group directories before files;
+
+		  can   be  augmented  with  a  --sort  option,  but  any  use  of
+		  --sort=none (-U) disables grouping
+
+	   -G, --no-group
+		  in a long listing, don't print group names
+
+	   -h, --human-readable
+		  with -l and/or -s, print human readable sizes (e.g., 1K 234M 2G)
+
+	   --si   likewise, but use powers of 1000 not 1024
+
+	   -H, --dereference-command-line
+		  follow symbolic links listed on the command line
+
+	   --dereference-command-line-symlink-to-dir
+		  follow each command line symbolic link
+
+		  that points to a directory
+
+	   --hide=PATTERN
+		  do not list implied entries matching shell  PATTERN  (overridden
+		  by -a or -A)
+
+	   --indicator-style=WORD
+		  append indicator with style WORD to entry names: none (default),
+		  slash (-p), file-type (--file-type), classify (-F)
+
+	   -i, --inode
+		  print the index number of each file
+
+	   -I, --ignore=PATTERN
+		  do not list implied entries matching shell PATTERN
+
+	   -k, --kibibytes
+		  default to 1024-byte blocks for disk usage
+
+	   -l     use a long listing format
+
+	   -L, --dereference
+		  when showing file information for a symbolic link, show informa‐
+		  tion  for  the file the link references rather than for the link
+		  itself
+
+	   -m     fill width with a comma separated list of entries
+
+	   -n, --numeric-uid-gid
+		  like -l, but list numeric user and group IDs
+
+	   -N, --literal
+		  print entry names without quoting
+
+	   -o     like -l, but do not list group information
+
+	   -p, --indicator-style=slash
+		  append / indicator to directories
+
+	   -q, --hide-control-chars
+		  print ? instead of nongraphic characters
+
+	   --show-control-chars
+		  show nongraphic characters as-is (the default, unless program is
+		  'ls' and output is a terminal)
+
+	   -Q, --quote-name
+		  enclose entry names in double quotes
+
+	   --quoting-style=WORD
+		  use  quoting style WORD for entry names: literal, locale, shell,
+		  shell-always, shell-escape, shell-escape-always, c, escape
+
+	   -r, --reverse
+		  reverse order while sorting
+
+	   -R, --recursive
+		  list subdirectories recursively
+
+	   -s, --size
+		  print the allocated size of each file, in blocks
+
+	   -S     sort by file size, largest first
+
+	   --sort=WORD
+		  sort by WORD instead of name: none (-U), size (-S),  time  (-t),
+		  version (-v), extension (-X)
+
+	   --time=WORD
+		  with -l, show time as WORD instead of default modification time:
+		  atime or access or use (-u); ctime  or  status  (-c);  also  use
+		  specified time as sort key if --sort=time (newest first)
+
+	   --time-style=STYLE
+		  with  -l, show times using style STYLE: full-iso, long-iso, iso,
+		  locale, or +FORMAT; FORMAT is interpreted  like  in  'date';  if
+		  FORMAT  is  FORMAT1<newline>FORMAT2,  then  FORMAT1  applies  to
+		  non-recent files and FORMAT2 to recent files; if STYLE  is  pre‐
+		  fixed  with  'posix-', STYLE takes effect only outside the POSIX
+		  locale
+
+	   -t     sort by modification time, newest first
+
+	   -T, --tabsize=COLS
+		  assume tab stops at each COLS instead of 8
+
+	   -u     with -lt: sort by, and show, access time; with -l:  show  access
+		  time  and  sort  by name; otherwise: sort by access time, newest
+		  first
+
+	   -U     do not sort; list entries in directory order
+
+	   -v     natural sort of (version) numbers within text
+
+	   -w, --width=COLS
+		  set output width to COLS.  0 means no limit
+
+	   -x     list entries by lines instead of by columns
+
+	   -X     sort alphabetically by entry extension
+
+	   -Z, --context
+		  print any security context of each file
+
+	   -1     list one file per line.  Avoid '\n' with -q or -b
+
+	   --help display this help and exit
+
+	   --version
+		  output version information and exit
+
+	   The SIZE argument is an integer and  optional  unit  (example:  10K  is
+	   10*1024).   Units  are  K,M,G,T,P,E,Z,Y  (powers  of 1024) or KB,MB,...
+	   (powers of 1000).
+
+	   Using color to distinguish file types is disabled both by  default  and
+	   with  --color=never.  With --color=auto, ls emits color codes only when
+	   standard output is connected to a terminal.  The LS_COLORS  environment
+	   variable can change the settings.  Use the dircolors command to set it.
+
+       Exit status:
+	   0      if OK,
+
+	   1      if minor problems (e.g., cannot access subdirectory),
+
+	   2      if serious trouble (e.g., cannot access command-line argument).
+
+    AUTHOR
+	   Written by Richard M. Stallman and David MacKenzie.
+
+    REPORTING BUGS
+	   GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
+	   Report ls translation bugs to <http://translationproject.org/team/>
+
+    COPYRIGHT
+	   Copyright  ©  2016  Free Software Foundation, Inc.  License GPLv3+: GNU
+	   GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+	   This is free software: you are free  to  change  and  redistribute  it.
+	   There is NO WARRANTY, to the extent permitted by law.
+
+    SEE ALSO
+	   Full documentation at: <http://www.gnu.org/software/coreutils/ls>
+	   or available locally via: info '(coreutils) ls invocation'
+
+    GNU coreutils 8.26               February 2017                           LS(1)
+#+end_example
+
+    To search for a manual page by keyword, use the -k option:
+
+    #+BEGIN_SRC sh :results output
+    man -k keyword
+    #+END_SRC
+
+    #+BEGIN_SRC sh :results output
+    man -k sort
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    alphasort (3)        - scan a directory for matching entries
+    apt-sortpkgs (1)     - Utility to sort package index files
+    bsearch (3)          - binary search of a sorted array
+    bunzip2 (1)          - a block-sorting file compressor, v1.0.6
+    bzip2 (1)            - a block-sorting file compressor, v1.0.6
+    comm (1)             - compare two sorted files line by line
+    qsort (3)            - sort an array
+    qsort_r (3)          - sort an array
+    sort (1)             - sort lines of text files
+    sq (1)               - squeeze or unsqueeze a sorted word list
+    tsort (1)            - perform topological sort
+    unsq (1)             - squeeze or unsqueeze a sorted word list
+    versionsort (3)      - scan a directory for matching entries
+    XConsortium (7)      - X Consortium information
+#+end_example
+
+    | section | description                                         |
+    |---------+-----------------------------------------------------|
+    |       1 | User commands                                       |
+    |       2 | System calls                                        |
+    |       3 | Higher-level Unix programming library documentation |
+    |       4 | Device interface and driver information             |
+    |       5 | File descriptions (system configuration files)      |
+    |       6 | Games                                               |
+    |       7 | File formats, conventions, and encodings            |
+    |       8 | System commands and servers                         |
+
+
+    #+BEGIN_SRC sh :results output
+    man 5 passwd
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    PASSWD(5)                File Formats and Conversions                PASSWD(5)
+
+    NAME
+	   passwd - the password file
+
+    DESCRIPTION
+	   /etc/passwd contains one line for each user account, with seven fields
+	   delimited by colons (“:”). These fields are:
+
+	   ·   login name
+
+	   ·   optional encrypted password
+
+	   ·   numerical user ID
+
+	   ·   numerical group ID
+
+	   ·   user name or comment field
+
+	   ·   user home directory
+
+	   ·   optional user command interpreter
+
+	   The encrypted password field may be blank, in which case no password is
+	   required to authenticate as the specified login name. However, some
+	   applications which read the /etc/passwd file may decide not to permit
+	   any access at all if the password field is blank. If the password field
+	   is a lower-case “x”, then the encrypted password is actually stored in
+	   the shadow(5) file instead; there must be a corresponding line in the
+	   /etc/shadow file, or else the user account is invalid. If the password
+	   field is any other string, then it will be treated as an encrypted
+	   password, as specified by crypt(3).
+
+	   The comment field is used by various system utilities, such as
+	   finger(1).
+
+	   The home directory field provides the name of the initial working
+	   directory. The login program uses this information to set the value of
+	   the $HOME environmental variable.
+
+	   The command interpreter field provides the name of the user's command
+	   language interpreter, or the name of the initial program to execute.
+	   The login program uses this information to set the value of the $SHELL
+	   environmental variable. If this field is empty, it defaults to the
+	   value /bin/sh.
+
+    FILES
+	   /etc/passwd
+	       User account information.
+
+	   /etc/shadow
+	       optional encrypted password file
+
+	   /etc/passwd-
+	       Backup file for /etc/passwd.
+
+	       Note that this file is used by the tools of the shadow toolsuite,
+	       but not by all user and password management tools.
+
+    SEE ALSO
+	   crypt(3), getent(1), getpwnam(3), login(1), passwd(1), pwck(8),
+	   pwconv(8), pwunconv(8), shadow(5), su(1), sulogin(8).
+
+    shadow-utils 4.4                  05/17/2017                         PASSWD(5)
+#+end_example
+
 2.14 Shell Input and Output
 2.15 Understanding Error Messages
 2.16 Listing and Manipulating Processes
