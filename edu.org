@@ -12575,9 +12575,48 @@ Chapter 2 Basic Commands and Directory Hierarchy
     cache size	: 1024 KB
     physical id	: 0
 #+end_example
-
     
-2.15 Understanding Error Messages
+*** TODO 2.15 Understanding Error Messages
+
+     Anatomy of a UNIX Error Message
+
+     Most Unix programs generate and report the same basic error
+     messages, but there can be subtle differences between the output
+     of any two programs. Here’s an example that you’ll certainly
+     encounter in some form or other:
+
+     #+BEGIN_SRC sh :results output
+     ls /dsafsda
+     #+END_SRC
+
+     #+RESULTS:
+     : ls: cannot access '/dsafsda': No such file or directory
+
+     There are three components to this message:
+
+     1. The program name, ls. Some programs omit this identifying
+        information, which can be annoying when writing shell scripts,
+        but it’s not really a big deal.
+     2. The filename, /dsafsda, which is a more specific piece of
+        information. There’s a problem with this path.
+     3. The error No such file or directory indicates the problem with
+        the filename.
+	
+     Putting it all together, you get something like “ls tried to open
+     /dsafsda but couldn’t because  it doesn’t exist.” This may seem
+     obvious, but these messages get a little confusing when you run a
+     shell script that includes an erroneous command under a different
+     name.
+     When troubleshooting errors, always address the first error
+     first. Some programs report that they can’t do anything before
+     reporting a host of other problems.
+
+     Don’t confuse error messages with warning messages. Warnings
+     often look like errors,  but they contain the word warning. A
+     warning usually means something is wrong but the program will try
+     to continue running anyway. To fix a problem noted in a warning
+     message, you may  hunt down a  process and kill it before doing anything else.
+     
 2.16 Listing and Manipulating Processes
 2.17 File Modes and Permissions
 2.18 Archiving and Compressing Files
