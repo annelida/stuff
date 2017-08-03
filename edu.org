@@ -12511,6 +12511,49 @@ Chapter 2 Basic Commands and Directory Hierarchy
     PHYSICAL ID	: 0
 #+end_example
 
+    Standard error
+
+    Occasionally, you may redirect standard output but find that the
+    program still prints something to  the terminal.
+    This is called standard error (stderr); it’s an additional output
+    stream for diagnostics and debugging. For example, this command
+    produces an error:
+
+    #+BEGIN_SRC sh :results output
+    ls /fffffffff > f
+    #+END_SRC
+
+    #+RESULTS:
+    : ls: cannot access '/fffffffff': No such file or directory
+
+    You can redirect the standard error if you like. For example, to
+    send standard output to f and  standard error to e, use the 2> syntax, like this:
+
+    #+BEGIN_SRC sh :results output
+    ls /fffffffff > f 2> e
+    cat e
+    #+END_SRC
+
+    #+RESULTS:
+    : ls: cannot access '/fffffffff': No such file or directory
+
+    The number 2 specifies the stream ID that the shell modifies.
+    Stream ID 1 is standard output (the default), and 2 is standard error.
+    You can also send the standard error to the same place as stdout
+    with the >& notation.
+    For example, to send both standard output and standard error to
+    the file named f, try this command:
+
+    #+BEGIN_SRC sh :results output
+    ls /fffffffff > f 2>&1
+    cat f
+    #+END_SRC
+
+    #+RESULTS:
+    : ls: cannot access '/fffffffff': No such file or directory
+
+    
+
 2.15 Understanding Error Messages
 2.16 Listing and Manipulating Processes
 2.17 File Modes and Permissions
