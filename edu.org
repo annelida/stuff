@@ -12435,7 +12435,8 @@ Chapter 2 Basic Commands and Directory Hierarchy
     shadow-utils 4.4                  05/17/2017                         PASSWD(5)
 #+end_example
 
-*** TODO 2.14 Shell Input and Output
+*** DONE 2.14 Shell Input and Output
+    CLOSED: [2017-08-03 Thu 08:40]
 
     To send the output of command to a file instead of the terminal,
     use the > redirection character:
@@ -12552,8 +12553,30 @@ Chapter 2 Basic Commands and Directory Hierarchy
     #+RESULTS:
     : ls: cannot access '/fffffffff': No such file or directory
 
-    
+    Standard input redirection
 
+    To channel a file to a program’s standard input, use the <
+    operator:
+
+    #+BEGIN_SRC sh :results output
+    head < /proc/cpuinfo
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    processor	: 0
+    vendor_id	: GenuineIntel
+    cpu family	: 6
+    model		: 23
+    model name	: Celeron(R) Dual-Core CPU       T3100  @ 1.90GHz
+    stepping	: 10
+    microcode	: 0xa07
+    cpu MHz		: 1895.290
+    cache size	: 1024 KB
+    physical id	: 0
+#+end_example
+
+    
 2.15 Understanding Error Messages
 2.16 Listing and Manipulating Processes
 2.17 File Modes and Permissions
