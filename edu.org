@@ -12435,7 +12435,24 @@ Chapter 2 Basic Commands and Directory Hierarchy
     shadow-utils 4.4                  05/17/2017                         PASSWD(5)
 #+end_example
 
-2.14 Shell Input and Output
+*** TODO 2.14 Shell Input and Output
+
+    To send the output of command to a file instead of the terminal,
+    use the > redirection character:
+
+    #+BEGIN_EXAMPLE
+    command > file
+    #+END_EXAMPLE
+
+    #+BEGIN_SRC sh :results output
+    echo 'Hello, world'> /home/vikky/Desktop/test/file5.txt
+    cd /home/vikky/Desktop/test
+    cat file5.txt
+    #+END_SRC
+
+    #+RESULTS:
+    : Hello, world
+
 2.15 Understanding Error Messages
 2.16 Listing and Manipulating Processes
 2.17 File Modes and Permissions
