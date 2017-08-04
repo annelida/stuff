@@ -12834,8 +12834,36 @@ Chapter 2 Basic Commands and Directory Hierarchy
      
 #+end_example
 
-       
+     Killing Processes
 
+     To terminate a process, send it a signal with the kill command.
+     A signal is a message to a process from the kernel. When you run
+     kill, you’re asking the kernel to send a signal to another
+     process. In most cases, all you need to do is this:
+
+     #+BEGIN_EXAMPLE
+     $ kill pid
+     #+END_EXAMPLE
+
+     to freeze a process instead of terminating it, use the STOP
+     signal:
+
+     #+BEGIN_EXAMPLE
+     $ kill -STOP pid
+     #+END_EXAMPLE
+
+     A stopped process is still in memory, ready to pick up where it
+     left off. Use the CONT signal to continue running the process
+     again:
+
+     #+BEGIN_EXAMPLE
+     $ kill -CONT pid
+     #+END_EXAMPLE
+
+     Using ctrl-c to terminate a process that is running in the
+     current terminal  is the same as using kill to end the process
+     with the INT (interrupt) signal. 
+       
 2.17 File Modes and Permissions
 2.18 Archiving and Compressing Files
 2.19 Linux Directory Hierarchy Essentials
