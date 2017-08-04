@@ -12576,7 +12576,8 @@ Chapter 2 Basic Commands and Directory Hierarchy
     physical id	: 0
 #+end_example
     
-*** TODO 2.15 Understanding Error Messages
+*** DONE 2.15 Understanding Error Messages
+    CLOSED: [2017-08-04 Fri 08:43]
 
      Anatomy of a UNIX Error Message
 
@@ -12682,8 +12683,49 @@ Chapter 2 Basic Commands and Directory Hierarchy
      errors, you might be giving a program some input that it did not
      expect.
 
-          
-2.16 Listing and Manipulating Processes
+              
+*** TODO 2.16 Listing and Manipulating Processes
+
+     For a quick listing of running processes, just run ps on the
+     command line. You should get a list like this one:
+
+     #+BEGIN_SRC sh :results output
+     ps
+     #+END_SRC
+
+     #+RESULTS:
+     #+begin_example
+       PID TTY          TIME CMD
+      1241 ?        00:00:00 gconfd-2
+      1271 ?        00:00:00 gvfsd-http
+      7584 ?        00:00:00 systemd
+      7585 ?        00:00:00 (sd-pam)
+      7601 ?        00:00:14 dbus-daemon
+      7689 ?        00:00:03 ibus-daemon
+      7695 ?        00:00:00 gvfsd
+      7700 ?        00:00:00 gvfsd-fuse
+      7710 ?        00:00:00 ibus-dconf
+      7751 ?        00:00:01 ibus-engine-sim
+      7770 ?        00:00:00 gnome-shell-cal
+      7774 ?        00:00:00 evolution-sourc
+      7781 ?        00:00:00 goa-daemon
+      7796 ?        00:00:00 goa-identity-se
+      7803 ?        00:00:32 mission-control
+     #+end_example
+
+     The fields are as follows:
+
+     - PID. The process ID.
+     - TTY. The terminal device where the process is running.
+     - STAT. The process status, that is, what the process is doing
+       and where its memory resides. For example, S means sleeping and R means running.
+     - TIME. The amount of CPU time in minutes and seconds that the
+       process has used so far. In other words, the total amount of
+       time that the process has spent running instructions on the processor.
+     - COMMAND. This one might seem obvious, but be aware that a
+       process can change this field from its original value.
+       
+
 2.17 File Modes and Permissions
 2.18 Archiving and Compressing Files
 2.19 Linux Directory Hierarchy Essentials
