@@ -12615,8 +12615,74 @@ Chapter 2 Basic Commands and Directory Hierarchy
      often look like errors,  but they contain the word warning. A
      warning usually means something is wrong but the program will try
      to continue running anyway. To fix a problem noted in a warning
-     message, you may  hunt down a  process and kill it before doing anything else.
+     message, you may  hunt down a  process and kill it before doing
+     anything else.
+
+     Common errors
+
+     Many errors that you’ll encounter in Unix programs result from
+     things that can go wrong with files and processes. Here’s an
+     error message hit parade:
+
+     No such file or directory
+
+     This is the number one error. You tried to access a file that
+     doesn’t exist.  Because the Unix file I/O system doesn’t
+     discriminate between files and directories, this error message
+     occurs everywhere. You get it when you try to read a file that
+     does not exist, when you try to change to a directory that isn’t
+     there, when you try to write to a file in a directory that
+     doesn’t exist, and so on.
+
+     File exists
+
+     In this case, you probably tried to create a file that already
+     exists.  This is common when you try to create a directory with
+     the same name as a file.
+
+     Not a directory, Is a directory
      
+     These messages pop up when you try to use a file as a directory
+     or a directory as a file. For example:
+
+     #+BEGIN_SRC sh :results output
+     touch a
+     touch a/b
+     #+END_SRC
+
+     #+RESULTS:
+
+     : touch: cannot touch 'a/b': Not a directory
+
+     No space left on device
+
+     You’re out of disk space
+
+     Permission denied
+
+     You get this error when you attempt to read or write to a file or
+     directory  that you’re not allowed to access (you have
+     insufficient privileges). This error also shows when you try to
+     execute a file that does not have the execute bit set (even if
+     you can read the file).
+
+     Operation not permitted
+
+     This usually happens when you try to kill a process that you
+     don’t own.
+
+     Segmentation fault, Bus error
+
+     A segmentation fault essentially means that the person who wrote
+     the program that you just ran screwed up somewhere. The program
+     tried to access a part of memory that it was not allowed to
+     touch, and the operating system killed it. Similarly, a bus error
+     means that the program tried to access some memory in a
+     particular way that it shouldn’t. When you get one of these
+     errors, you might be giving a program some input that it did not
+     expect.
+
+          
 2.16 Listing and Manipulating Processes
 2.17 File Modes and Permissions
 2.18 Archiving and Compressing Files
