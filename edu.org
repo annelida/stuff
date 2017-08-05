@@ -12684,7 +12684,8 @@ Chapter 2 Basic Commands and Directory Hierarchy
      expect.
 
               
-*** TODO 2.16 Listing and Manipulating Processes
+*** DONE 2.16 Listing and Manipulating Processes
+    CLOSED: [2017-08-05 Sat 10:05]
 
      For a quick listing of running processes, just run ps on the
      command line. You should get a list like this one:
@@ -12879,6 +12880,22 @@ Chapter 2 Basic Commands and Directory Hierarchy
 
      To see if you’ve accidentally suspended any processes on your
      current  terminal, run the jobs command.
+
+      Background Processes
+
+      Normally, when you run a Unix command from the shell, you don’t
+      get the shell  prompt back until the program finishes executing.
+      However, you can detach a process from the shell and put it in
+      the “background” with the ampersand (&); this gives you the
+      prompt back.
+
+      For example, if you have a large file that you need to
+      decompress with gunzip, and you want to do some other stuff
+      while it’s running, run a command like this one:
+
+      #+BEGIN_EXAMPLE
+      $ gunzip file.gz &
+      #+END_EXAMPLE
        
 2.17 File Modes and Permissions
 2.18 Archiving and Compressing Files
