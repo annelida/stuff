@@ -12932,6 +12932,66 @@ Chapter 2 Basic Commands and Directory Hierarchy
     : file4.txt~
     : file5.txt
 
+    tar
+
+    Unlike the zip programs for other operating systems, gzip does not
+    create archives of files;  that is, it doesn’t pack multiple files
+    and directories into one file. To create an archive, use tar
+    instead:
+
+    #+BEGIN_EXAMPLE
+    $ tar cvf archive.tar file1 file2 ...
+    #+END_EXAMPLE
+
+    Archives created by tar usually have a .tar suffix (this is by
+    convention; it isn’t required). For example, in the command above,
+    file1, file2, and so on are the names of the files and directories
+    that you wish to archive in <archive>.tar. The c flag activates
+    create mode. The r and f flags have more specific roles. The v
+    flag activates verbose diagnostic output, causing tar to print the
+    names of the files and directories in the archive when it
+    encounters them. Adding another v causes tar to print details such
+    as file size and permissions. If you don’t want tar to tell you
+    what it’s doing, omit the v flag. The f flag denotes the file
+    option. The next argument on the command line after the f flag
+    must be the archive file for tar to create (in the preceding
+    example, it is <archive>.tar). You must use this option followed
+    by a filename at all times, except with tape drives. To use
+    standard input or output, enter a dash (-) instead of the
+    filename.
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    tar cvf archive.tar file3.py file4.txt file5.txt
+    ls
+    #+END_SRC
+
+    #+RESULTS:
+    : archive.tar
+    : file2.txt~
+    : file3.py
+    : file4.txt
+    : file4.txt~
+    : file5.txt
+
+    To unpack a .tar file with tar use the x flag:
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    tar xvf archive.tar
+    ls
+    #+END_SRC
+
+    #+RESULTS:
+    : archive.tar
+    : file2.txt~
+    : file3.py
+    : file4.txt
+    : file4.txt~
+    : file5.txt
+
+ 
+
 2.19 Linux Directory Hierarchy Essentials
 2.20 Running Commands as the Superuser
 2.21 Looking Forward
