@@ -13037,6 +13037,40 @@ Chapter 2 Basic Commands and Directory Hierarchy
     : file4.txt~
     : file5.txt
     : file4.txt
+
+    zcat
+
+    The method shown above isn’t the fastest or most efficient way to
+    invoke tar on a compressed  archive, and it wastes disk space and
+    kernel I/O time. A better way is to combine archival and
+    compression functions with a pipeline. For example, this command
+    pipeline unpacks <file>.tar.gz:
+
+    #+BEGIN_EXAMPLE
+    $ zcat file.tar.gz | tar xvf -
+    #+END_EXAMPLE
+
+    The zcat command is the same as gunzip -dc. The -d option
+    decompresses and the -c option sends the result to standard output
+    (in this case, to the tar command).
+
+    Because it’s so common to use zcat, the version of tar that comes
+    with  Linux has a shortcut. You can use z as an option to
+    automatically invoke gzip on the archive; this works both for
+    extracting an archive (with the x or t modes in tar) and creating
+    one (with c). For example, use the following to verify a compressed
+    archive:
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    tar ztvf archive.tar.gz 
+    #+END_SRC
+
+    #+RESULTS:
+    : -rw-r--r-- vikky/vikky      21 2017-07-31 08:34 file3.py
+    : -rw-r--r-- vikky/vikky      59 2017-08-04 16:15 file4.txt
+    : -rw-r--r-- vikky/vikky      42 2017-08-03 08:00 file5.txt
+
  
 2.19 Linux Directory Hierarchy Essentials
 2.20 Running Commands as the Superuser
