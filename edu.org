@@ -13011,8 +13011,33 @@ Chapter 2 Basic Commands and Directory Hierarchy
     unpacking it, you can end up dumping a huge mess of files into the
     current directory, which can be really difficult to clean up.
 
- 
+    Compressed Archives (.tar.gz)
 
+    Many beginners find it confusing that archives are normally found
+    compressed, with filenames ending in .tar.gz.
+    To unpack a compressed archive, work from the right side to the
+    left; get rid of the .gz first and then worry about the .tar
+
+    #+BEGIN_EXAMPLE
+    $ gunzip file.tar.gz
+    $ tar xvf file.tar
+    #+END_EXAMPLE
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    ls
+    gunzip archive.tar.gz
+    tar xvf archive.tar
+    #+END_SRC
+
+    #+RESULTS:
+    : archive.tar.gz
+    : file2.txt~
+    : file3.py
+    : file4.txt~
+    : file5.txt
+    : file4.txt
+ 
 2.19 Linux Directory Hierarchy Essentials
 2.20 Running Commands as the Superuser
 2.21 Looking Forward
