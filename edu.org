@@ -12990,6 +12990,27 @@ Chapter 2 Basic Commands and Directory Hierarchy
     : file4.txt~
     : file5.txt
 
+    Table-of-Contents Mode
+
+    Before unpacking, it’s usually a good idea to check the contents
+    of a .tar file  with the table-of-contents mode by using the t
+    flag instead of the x flag.
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/Desktop/test
+    tar tvf archive.tar
+    #+END_SRC
+
+    #+RESULTS:
+    : -rw-r--r-- vikky/vikky      21 2017-07-31 08:34 file3.py
+    : -rw-r--r-- vikky/vikky      59 2017-08-04 16:15 file4.txt
+    : -rw-r--r-- vikky/vikky      42 2017-08-03 08:00 file5.txt
+
+    This mode verifies the archive’s basic integrity and prints the
+    names of all files inside. If you don’t test an archive before
+    unpacking it, you can end up dumping a huge mess of files into the
+    current directory, which can be really difficult to clean up.
+
  
 
 2.19 Linux Directory Hierarchy Essentials
