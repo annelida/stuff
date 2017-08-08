@@ -13163,7 +13163,20 @@ Chapter 2 Basic Commands and Directory Hierarchy
         of machines would share this directory, but a true /share
         directory is becoming rare because there are no space issues
         on modern disks. Maintaining a /share directory is often just
-        a pain. In any case, /man, /info, and some other subdirectories are often found here
+        a pain. In any case, /man, /info, and some other
+        subdirectories are often found here.
+
+      Kernel Location
+
+      On Linux systems, the kernel is normally in /vmlinuz or
+      /boot/vmlinuz. A boot loader loads this file into memory and
+      sets it in motion when the system boots.
+
+      Once the boot loader runs and sets the kernel in motion, the
+      main kernel file is no longer used by the running system.
+      However, you’ll find many modules that the kernel can load and
+      unload on demand during the course of normal system operation.
+      Called loadable kernel modules, they are located under /lib/modules.
 
 2.20 Running Commands as the Superuser
 2.21 Looking Forward
