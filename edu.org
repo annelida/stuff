@@ -13073,7 +13073,8 @@ Chapter 2 Basic Commands and Directory Hierarchy
     : -rw-r--r-- vikky/vikky      59 2017-08-04 16:15 file4.txt
     : -rw-r--r-- vikky/vikky      42 2017-08-03 08:00 file5.txt
 
-*** TODO 2.19 Linux Directory Hierarchy Essentials
+*** DONE 2.19 Linux Directory Hierarchy Essentials
+    CLOSED: [2017-08-08 Tue 08:30]
 
     - /bin Contains ready-to-run programs (also known as an
       executables), including most of the basic Unix commands such
@@ -13176,9 +13177,57 @@ Chapter 2 Basic Commands and Directory Hierarchy
       main kernel file is no longer used by the running system.
       However, you’ll find many modules that the kernel can load and
       unload on demand during the course of normal system operation.
-      Called loadable kernel modules, they are located under /lib/modules.
+      Called loadable kernel modules, they are located under
+      /lib/modules.
 
-2.20 Running Commands as the Superuser
+*** DONE 2.20 Running Commands as the Superuser
+    CLOSED: [2017-08-08 Tue 09:04]
+
+    Before going any further, you should learn how to run commands as
+    the  superuser. You probably already know that you can run the su
+    command and enter the root password to start a root shell. This
+    practice works, but it has certain disadvantages:
+
+    - You have no record of system-altering commands;
+    - You have no record of the users who performed system-altering commands;
+    - You don’t have access to your normal shell environment;
+    - You have to enter the root password.
+
+    sudo
+
+    Most larger distributions use a package called sudo to allow
+    administrators  to run commands as root when they are logged in
+    as themselves.
+
+    /etc/sudoers
+
+    Of course, the system doesn’t let just any user run commands as
+    the superuser;
+    you must configure the privileged users in your /etc/sudoers file.
+    The sudo package has many options, which makes the syntax in
+    /etc/sudoers somewhat complicated. For example, this file gives user1 and
+    user2 the power to run any command as root without having to enter
+    a password:
+
+    #+BEGIN_EXAMPLE
+    User_Alias ADMINS = user1, user2
+    ADMINS ALL = NOPASSWD: ALL
+    root ALL=(ALL) ALL
+    #+END_EXAMPLE
+
+    The first line defines an ADMINS user alias with the two users,
+    and the  second line grants the privileges. The ALL = NOPASSWD:
+    ALL part means that the users in the ADMINS alias can use sudo to
+    execute commands as root. The second ALL means “any command.” The
+    first ALL means “any host.” (If you have more than one machine,
+    you can set different kinds of access for each machine or group of
+    machines.)
+
+    The root ALL=(ALL) ALL simply means that the superuser may also
+    use  sudo to run any command on any host. The extra (ALL) means
+    that the superuser may also run commands as any other user. 
+    
+    
 2.21 Looking Forward
 Chapter 3 Devices
 3.1 Device Files
