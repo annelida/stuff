@@ -12684,7 +12684,8 @@ Chapter 2 Basic Commands and Directory Hierarchy
      expect.
 
               
-*** TODO 2.16 Listing and Manipulating Processes
+*** DONE 2.16 Listing and Manipulating Processes
+    CLOSED: [2017-08-08 Tue 07:38]
 
      For a quick listing of running processes, just run ps on the
      command line. You should get a list like this one:
@@ -13124,7 +13125,21 @@ Chapter 2 Basic Commands and Directory Hierarchy
     - /var The variable subdirectory, where programs record runtime
       information. System logging, user tracking, caches, and other
       files that system programs create and manage are here. (You’ll
-      notice a /var/tmp directory here, but the system doesn’t wipe it on boot.)
+      notice a /var/tmp directory here, but the system doesn’t wipe it
+      on boot.)
+
+      Other Root Subdirectories
+
+      - /boot Contains kernel boot loader files. These files pertain
+	only to the very first stage of the Linux startup procedure;
+        you won’t find information about how Linux starts up its
+        services in this directory.
+
+      - /media A base attachment point for removable media such as
+        flash drives that is found in many distributions.
+
+      - /opt This may contain additional third-party software. Many
+	systems don’t use /opt.
       
 
 2.20 Running Commands as the Superuser
@@ -13284,7 +13299,8 @@ Chapter 17 Building on the Basics
 17.4 Distributed and On-Demand Computing
 17.5 Embedded Systems
 17.6 Final Remarks
-** TODO Disks and disks partitions in Linux
+** DONE Disks and disks partitions in Linux
+   CLOSED: [2017-08-08 Tue 07:38]
    Hard drive naming convention
 
    A hard drive in Linux, you'll typically see something like
