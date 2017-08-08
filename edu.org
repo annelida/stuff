@@ -28073,3 +28073,34 @@ Note that the order of the rules for determining column affinity is important. A
       multiple value operators, such as the IN operator.
     - BETWEEN operator cannot be used with a subquery; however,
       BETWEEN can be used within the subquery.
+
+    Subqueries with SELECT Statement
+
+    The basic syntax:
+
+    #+BEGIN_EXAMPLE
+    SELECT column_name [, column_name ]
+    FROM table1 [, table2 ]
+    WHERE column_name OPERATOR
+       (SELECT column_name [, column_name ]
+          FROM table1 [, table2 ]
+          [WHERE])
+    #+END_EXAMPLE
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT *
+    FROM COMPANY
+    WHERE ID IN (SELECT ID
+       FROM COMPANY
+       WHERE SALARY > 45000) ;
+    #+END_SRC
+
+    #+RESULTS:
+    | 4 | Mark  | 25 | Rich-Mond | 65000.0 |
+    | 5 | David | 27 | Texas     | 85000.0 |
+
+
+
+
