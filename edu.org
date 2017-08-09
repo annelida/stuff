@@ -13316,8 +13316,28 @@ Chapter 3 Devices
     letters stand for block, character, pipe, and socket, respectively, as
     described in more detail below.
 
-    
+    Block device
 
+    Programs access data from a block device in fixed chunks. The sda1
+    in the  preceding example is a disk device, a type of block
+    device. Disks can be easily split up into blocks of data. Because
+    a block device’s total size is fixed and easy to index, processes
+    have random access to any block in the device with the help of the
+    kernel.
+
+    Character device
+
+    Character devices work with data streams. You can only read
+    characters from or write characters to character devices, as
+    previously demonstrated with /dev/null. Character devices don’t
+    have a size; when you read from or write to one, the kernel
+    usually performs a read or write operation on the device. Printers
+    directly attached to your computer are represented by character
+    devices. It’s important to note that during character device
+    interaction, the kernel cannot back up and reexamine the data
+    stream after it has passed data to a device or process.
+    
+    
 3.2 The sysfs Device Path
 3.3 dd and Devices
 3.4 Device Name Summary
