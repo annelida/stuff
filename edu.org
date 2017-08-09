@@ -13358,7 +13358,7 @@ Chapter 3 Devices
     The numbers before the dates in the first two lines of Example are
     the  major and minor device numbers that help the kernel identify
     the device. Similar devices usually have the same major number,
-    such as sda3 and sdb1 (both of which are hard disk partitions).
+https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and sdb1 (both of which are hard disk partitions).
 
 
 *** DONE 3.2 The sysfs Device Path
@@ -28259,6 +28259,51 @@ Note that the order of the rules for determining column affinity is important. A
     #+RESULTS:
     | 4 | Mark  | 25 | Rich-Mond | 65000.0 |
     | 5 | David | 27 | Texas     | 85000.0 |
+
+
+    Subqueries with INSERT statement
+
+    Subqueries can also be used with INSERT statements. The INSERT
+    statement uses the data returned from the subquery to insert into
+    another table. The selected data in the subquery can be modified
+    with any of the character, date, or number functions.
+
+    Basic syntax:
+
+    #+BEGIN_EXAMPLE
+    INSERT INTO table_name [ (column1 [, column2]) ]
+       SELECT [ *|column1 [, column2 ]
+       FROM table1 [, table2 ]
+       [ WHERE VALUE OPERATOR ]
+    #+END_EXAMPLE
+
+    Consider a table COMPANY_BKP with similar structure as COMPANY
+    table  and can be created using the same CREATE TABLE using
+    COMPANY_BKP as the table name. To copy the complete COMPANY table
+    into COMPANY_BKP, following is the syntax:
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    CREATE TABLE COMPANY_BKP
+             (ID INT PRIMARY KEY   NOT NULL,
+	     NAME           TEXT  NOT NULL,
+	     AGE            INT   NOT NULL,
+	     ADDRESS        CHAR(50),
+	     SALARY         REAL);
+    INSERT INTO COMPANY_BKP
+    SELECT * FROM COMPANY 
+    WHERE ID IN (SELECT ID 
+       FROM COMPANY) ;
+    SELECT * FROM COMPANY_BKP;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | California | 20000.0 |
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 5 | David | 27 | Texas      | 85000.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
 
 
 
