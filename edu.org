@@ -13230,7 +13230,8 @@ Chapter 2 Basic Commands and Directory Hierarchy
    
 2.21 Looking Forward
 Chapter 3 Devices
-*** TODO 3.1 Device Files
+*** DONE 3.1 Device Files
+    CLOSED: [2017-08-09 Wed 08:54]
 
     It is easy to manipulate most devices on a Unix system because the
     kernel presents many of the device I/O interfaces to user
@@ -13358,9 +13359,38 @@ Chapter 3 Devices
     the  major and minor device numbers that help the kernel identify
     the device. Similar devices usually have the same major number,
     such as sda3 and sdb1 (both of which are hard disk partitions).
+
+
+*** DONE 3.2 The sysfs Device Path
+    CLOSED: [2017-08-09 Wed 09:11]
+
+    The traditional Unix /dev directory is a convenient way for user
+    processes to reference and interface with devices supported by the
+    kernel, but it’s also a very simplistic scheme.
+
+    The name of the device in /dev tells you a little about the
+    device, but not a lot. Another problem is that the kernel assigns
+    devices in the order in which they are found, so a device may
+    have a different name between reboots.
     
-    
-3.2 The sysfs Device Path
+    To provide a uniform view for attached devices based on their
+    actual hardware attributes, the Linux kernel offers the sysfs
+    interface through a system of files and directories. The base path
+    for devices is /sys/devices.
+    For example, the SATA hard disk at /dev/sda might have the
+    following path in sysfs:
+
+    #+BEGIN_EXAMPLE
+    /sys/devices/pci0000:00/0000:00:1f.2/host0/target0:0:0/0:0:0:0/block/sda
+    #+END_EXAMPLE
+
+    As you can see, this path is quite long compared with the /dev/sda
+    filename, which is also a directory. But you can’t really compare
+    the two paths because they have different purposes.
+
+    The /dev file is there so that user processes can use the device,
+    whereas the /sys/devices path is used to view information and
+    manage the device.
 3.3 dd and Devices
 3.4 Device Name Summary
 3.5 udev
