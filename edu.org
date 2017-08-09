@@ -28306,5 +28306,47 @@ Note that the order of the rules for determining column affinity is important. A
     | 7 | James | 24 | Houston    | 10000.0 |
 
 
+    Subqueries with UPDATE statement
+
+    The subquery can be used in conjunction with the UPDATE statement.
+    Either single or multiple columns in a table can be updated when
+    using a subquery with the UPDATE statement.
+
+    Following is the basic syntax:
+
+    #+BEGIN_EXAMPLE
+    UPDATE table
+    SET column_name = new_value
+    [ WHERE OPERATOR [ VALUE ]
+       (SELECT COLUMN_NAME
+          FROM TABLE_NAME)
+       [ WHERE) ]
+    #+END_EXAMPLE
+
+    Example
+
+    Assuming, we have COMPANY_BKP table available which is a backup of
+    COMPANY table.
+
+    Following example updates SALARY by 0.50 times in COMPANY table
+    for all the customers, whose AGE is greater than or equal to 27.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    UPDATE COMPANY SET SALARY = SALARY * 0.50
+    WHERE AGE IN (SELECT AGE FROM COMPANY_BKP
+       WHERE AGE >= 27 );
+    SELECT * FROM COMPANY;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | California | 10000.0 |
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 5 | David | 27 | Texas      | 42500.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
+
+
 
 
