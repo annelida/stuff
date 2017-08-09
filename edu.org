@@ -13336,6 +13336,28 @@ Chapter 3 Devices
     devices. It’s important to note that during character device
     interaction, the kernel cannot back up and reexamine the data
     stream after it has passed data to a device or process.
+
+    Pipe device
+
+    Named pipes are like character devices, with another process at
+    the other end of the I/O stream instead of a kernel driver.
+
+    Socket device
+
+    Sockets are special-purpose interfaces that are frequently used
+    for interprocess communication. They’re often found outside of the
+    /dev directory. Socket files represent Unix domain sockets.
+
+    #+BEGIN_EXAMPLE
+    $ ls -l
+    brw-rw---- 1 root disk 8, 1 Sep 6 08:37 sda1
+    crw-rw-rw- 1 root root 1, 3 Sep 6 08:37 null
+    #+END_EXAMPLE
+
+    The numbers before the dates in the first two lines of Example are
+    the  major and minor device numbers that help the kernel identify
+    the device. Similar devices usually have the same major number,
+    such as sda3 and sdb1 (both of which are hard disk partitions).
     
     
 3.2 The sysfs Device Path
