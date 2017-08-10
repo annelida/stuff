@@ -28302,7 +28302,8 @@ Note that the order of the rules for determining column affinity is important. A
 
 
     
-*** TODO SQLite - subqueries
+*** DONE SQLite - subqueries
+    CLOSED: [2017-08-10 Thu 09:02]
 
     A subquery is used to return data that will be used in the main
     query as a condition to further restrict the data to be retrieved.
@@ -28439,6 +28440,33 @@ Note that the order of the rules for determining column affinity is important. A
     | 6 | Kim   | 22 | South-Hall | 45000.0 |
     | 7 | James | 24 | Houston    | 10000.0 |
 
+
+    Subqueries with DELETE statement
+
+    Basic syntax:
+
+    #+BEGIN_EXAMPLE
+    DELETE FROM TABLE_NAME
+    [ WHERE OPERATOR [ VALUE ]
+       (SELECT COLUMN_NAME
+          FROM TABLE_NAME)
+       [ WHERE ]
+    #+END_EXAMPLE
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    DELETE FROM COMPANY
+    WHERE AGE IN (SELECT AGE FROM COMPANY_BKP
+    WHERE AGE > 27);
+    SELECT * FROM COMPANY;
+    #+END_SRC
+
+    #+RESULTS:
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 5 | David | 27 | Texas      | 42500.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
 
 
 
