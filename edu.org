@@ -13425,7 +13425,32 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
     - num Skip past the first num blocks in the input file or stream
       and do not copy them to the output.
 
-3.4 Device Name Summary
+*** DONE 3.4 Device Name Summary
+    CLOSED: [2017-08-10 Thu 07:44]
+
+    It can sometimes be difficult to find the name of a device (for
+    example, when partitioning a disk). Here are a few ways to find
+    out what it is:
+
+    - Query udevd using udevadm;
+    - Look for the device in the /sys directory.
+    - Guess the name from the output of the dmesg command (which
+      prints the last few kernel messages) or the kernel system log
+      file. This output might contain a description of the devices on
+      your system.
+    - For a disk device that is already visible to the system, you can
+      check the output of the mount command.
+    - Run cat /proc/devices to see the block and character devices for
+      which your system currently has drivers. Each line consists of a
+      number and name. If you can guess the device from the name, look
+      in /dev for the character or block devices with the
+      corresponding major number, and you’ve found the device files.
+
+     Among these methods, only the first is reliable, but it does
+     require udev. If you get into a situation where udev is not
+     available, try the other methods but keep in mind that the kernel
+     might not have a device file for your hardware.
+
 3.5 udev
 3.6 In-Depth: SCSI and the Linux Kernel
 Chapter 4 Disks and Filesystems
