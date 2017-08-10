@@ -13451,6 +13451,31 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      available, try the other methods but keep in mind that the kernel
      might not have a device file for your hardware.
 
+     Hard Disks: /dev/sd*
+
+     Most hard disks attached to current Linux systems correspond to
+     device names with an sd prefix, such as /dev/sda, /dev/sdb, and
+     so on. These devices represent entire disks; the kernel makes
+     separate device files, such as /dev/sda1 and /dev/sda2, for the
+     partitions on a disk.
+
+     To list the SCSI devices on your system, use a utility that walks
+     the device paths provided by sysfs. One of the most succinct
+     tools is lsscsi. Here is what you can expect when you run it:
+
+     #+BEGIN_EXAMPLE
+     lsscsi
+
+     [0:0:0:0]➊ disk➋ ATA WDC WD3200AAJS-2 01.0 /dev/sda➌
+     [1:0:0:0] cd/dvd Slimtype DVD A DS8A5SH XA15 /dev/sr0
+     [2:0:0:0] disk FLASH Drive UT_USB20 0.00 /dev/sdb
+     #+END_EXAMPLE
+
+     The first column ➊ identifies the address of the device on the
+     system, the second ➋ describes what kind of device it is, and the
+     last ➌ indicates where to find the device file.
+
+
 3.5 udev
 3.6 In-Depth: SCSI and the Linux Kernel
 Chapter 4 Disks and Filesystems
