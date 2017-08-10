@@ -13475,6 +13475,15 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      system, the second ➋ describes what kind of device it is, and the
      last ➌ indicates where to find the device file.
 
+     CD and DVD Drives: /dev/sr*
+
+     Linux recognizes most optical storage drives as the SCSI devices
+     /dev/sr0, /dev/sr1, and so on. However, if the drive uses an
+     older interface, it might show up as a PATA device, as discussed
+     below. The /dev/sr* devices are read only, and they are used only
+     for reading from discs. For the write and rewrite capabilities of
+     optical devices, you’ll use the “generic” SCSI devices such as /dev/sg0.
+
 
 3.5 udev
 3.6 In-Depth: SCSI and the Linux Kernel
