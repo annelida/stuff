@@ -13518,6 +13518,40 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      terminal, this device is a synonym for that terminal. A process
      does not need to be attached to a terminal.
 
+     Display Modes and Virtual Consoles
+
+     Linux has two primary display modes: text mode and an X Window
+     System server (graphics mode, usually via a display manager).
+     Although Linux systems traditionally booted in text mode, most
+     distributions now use kernel parameters and interim graphical
+     display mechanisms (bootsplashes such as plymouth) to completely
+     hide text mode as the system is booting. In such cases, the
+     system switches over to full graphics mode near the end of the
+     boot process.
+     Linux supports virtual consoles to multiplex the display. Each
+     virtual console may run in graphics or text mode. When in text
+     mode, you can switch between consoles with an ALT-Function key
+     combination—for example, ALT-F1 takes you to /dev/tty1, ALT-F2
+     goes to /dev/tty2, and so on. Many of these may be occupied
+     by a getty process running a login prompt.
+     A virtual console used by the X server in graphics mode is
+     slightly different. Rather than getting a virtual console
+     assignment from the init configuration, an X server takes over
+     a free virtual console unless directed to use a specific virtual
+     console.
+     For example, if you have getty processes running on tty1 and
+     tty2, a new X server takes over tty3. In addition, after the X
+     server puts a virtual console into graphics mode, you must
+     normally press a CTRL-ALT-Function key combination to switch to
+     another virtual console instead of the simpler ALT-Function key
+     combination.
+     If you run into trouble switching consoles due to a
+     malfunctioning input mechanism or some other circumstance, you
+     can try to force the system to change consoles with the chvt
+     command. For example, to switch to tty1, run the following as
+     root:
+
+     # chvt 1
 
 3.5 udev
 3.6 In-Depth: SCSI and the Linux Kernel
