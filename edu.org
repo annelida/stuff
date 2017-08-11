@@ -13553,6 +13553,17 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
 
      # chvt 1
 
+     Serial Ports: /dev/ttyS*
+
+     Older RS-232 type and similar serial ports are special terminal
+     devices. You can’t do much on the command line with serial port
+     devices because there are too many settings to worry about, such
+     as baud rate and flow control.
+     The port known as COM1 on Windows is /dev/ttyS0; COM2 is
+     /dev/ttyS1; and so on. Plug-in USB serial adapters show up with
+     USB and ACM with the names /dev/ttyUSB0, /dev/ttyACM0, /dev/ttyUSB1,
+     /dev/ttyACM1, and so on.
+
 3.5 udev
 3.6 In-Depth: SCSI and the Linux Kernel
 Chapter 4 Disks and Filesystems
