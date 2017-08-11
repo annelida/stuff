@@ -13482,7 +13482,19 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      older interface, it might show up as a PATA device, as discussed
      below. The /dev/sr* devices are read only, and they are used only
      for reading from discs. For the write and rewrite capabilities of
-     optical devices, you’ll use the “generic” SCSI devices such as /dev/sg0.
+     optical devices, you’ll use the “generic” SCSI devices such as
+      /dev/sg0.
+
+     PATA Hard Disks: /dev/hd*
+
+     The Linux block devices /dev/hda, /dev/hdb, /dev/hdc, and
+     /dev/hdd are common on older versions of the Linux kernel and
+     with older hardware. These are fixed assignments based on the
+     master and slave devices on interfaces 0 and 1. At times, you
+     might find a SATA drive recognized as one of these disks. This
+     means that the SATA drive is running in a compatibility mode,
+     which hinders performance. Check your BIOS settings to see if you
+     can switch the SATA controller to its native mode.
 
 
 3.5 udev
