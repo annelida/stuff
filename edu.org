@@ -28548,4 +28548,71 @@ Note that the order of the rules for determining column affinity is important. A
     | 7 | James | 24 | Houston    | 10000.0 |
 
 
+*** DONE SQLite - AUTOINCREMENT
+    CLOSED: [2017-08-11 Fri 11:31]
+
+    SQLite AUTOINCREMENT is a keyword used for auto increment a value
+    of a field in the table. We can auto increment a field value by
+    using AUTOINCREMENT keyword when creating a table with specific
+    column name to auto increment.
+
+    The keyword AUTOINCREMENT can be used with INTEGER field only.
+
+    Syntax
+
+    The basic usage of AUTOINCREMENT keyword is follows:
+
+    #+BEGIN_EXAMPLE
+    CREATE TABLE table_name(
+       column1 INTEGER AUTOINCREMENT,
+       column2 datatype,
+       column3 datatype,
+       .....
+       columnN datatype,
+    );
+    #+END_EXAMPLE
+
+    Example
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    DROP TABLE IF EXISTS COMPANY;
+    CREATE TABLE COMPANY(
+      ID INTEGER PRIMARY KEY AUTOINCREMENT,
+      NAME           TEXT      NOT NULL,
+      AGE            INT       NOT NULL,
+      ADDRESS        CHAR(50),
+      SALARY         REAL
+     );
+    INSERT INTO COMPANY (NAME,AGE,ADDRESS,SALARY)
+    VALUES ( 'Paul', 32, 'California', 20000.00 );
+
+    INSERT INTO COMPANY (NAME,AGE,ADDRESS,SALARY)
+    VALUES ('Allen', 25, 'Texas', 15000.00 );
+
+    INSERT INTO COMPANY (NAME,AGE,ADDRESS,SALARY)
+    VALUES ('Teddy', 23, 'Norway', 20000.00 );
+
+    INSERT INTO COMPANY (NAME,AGE,ADDRESS,SALARY)
+    VALUES ( 'Mark', 25, 'Rich-Mond ', 65000.00 );
+
+    INSERT INTO COMPANY (NAME,AGE,ADDRESS,SALARY)
+    VALUES ( 'David', 27, 'Texas', 85000.00 );
+
+    INSERT INTO COMPANY (NAME,AGE,ADDRESS,SALARY)
+    VALUES ( 'Kim', 22, 'South-Hall', 45000.00 );
+
+    INSERT INTO COMPANY (NAME,AGE,ADDRESS,SALARY)
+    VALUES ( 'James', 24, 'Houston', 10000.00 );
+
+    SELECT * FROM COMPANY;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Paul  | 32 | California | 20000.0 |
+    | 2 | Allen | 25 | Texas      | 15000.0 |
+    | 3 | Teddy | 23 | Norway     | 20000.0 |
+    | 4 | Mark  | 25 | Rich-Mond  | 65000.0 |
+    | 5 | David | 27 | Texas      | 85000.0 |
+    | 6 | Kim   | 22 | South-Hall | 45000.0 |
+    | 7 | James | 24 | Houston    | 10000.0 |
 
