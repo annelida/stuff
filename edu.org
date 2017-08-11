@@ -13496,6 +13496,28 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      which hinders performance. Check your BIOS settings to see if you
      can switch the SATA controller to its native mode.
 
+     Terminals: /dev/tty*, /dev/pts/*, and /dev/tty
+
+     Terminals are devices for moving characters between a user
+     process and an I/O device, usually for text output to a terminal
+     screen. The terminal device interface goes back a long way, to
+     the days when terminals were typewriter-based devices.
+
+     Pseudoterminal devices are emulated terminals that understand the
+     I/O features of real terminals. But rather than talk to a real
+     piece of hardware, the kernel presents the I/O interface to a
+     piece of software, such as the shell terminal window that you
+     probably type most of your commands into.
+
+     Two common terminal devices are /dev/tty1 (the first virtual
+     console) and /dev/pts/0 (the first pseudoterminal device). The
+     /dev/pts directory itself is a dedicated filesystem.
+
+     The /dev/tty device is the controlling terminal of the current
+     process. If a program is currently reading from and writing to a
+     terminal, this device is a synonym for that terminal. A process
+     does not need to be attached to a terminal.
+
 
 3.5 udev
 3.6 In-Depth: SCSI and the Linux Kernel
