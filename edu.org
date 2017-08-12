@@ -13575,6 +13575,15 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      is much better at handling interaction with a printer. The
      bidirectional parallel ports are /dev/parport0 and /dev/parport1.
 
+     Audio Devices: /dev/snd/*, /dev/dsp, /dev/audio, and More
+
+     Linux has two sets of audio devices. There are separate devices
+     for the Advanced Linux Sound Architecture (ALSA) system interface
+     and the older Open Sound System (OSS). The ALSA devices are in
+     the /dev/snd directory, but it’s difficult to work with them
+     directly. Linux systems that use ALSA support OSS backward-compatible
+     devices if the OSS kernel support is currently loaded.
+
 
 3.5 udev
 3.6 In-Depth: SCSI and the Linux Kernel
