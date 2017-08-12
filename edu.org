@@ -13584,6 +13584,21 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      directly. Linux systems that use ALSA support OSS backward-compatible
      devices if the OSS kernel support is currently loaded.
 
+     Creating Device Files
+
+     In modern Linux systems, you do not create your own device files;
+     this is done with devtmpfs and udev.
+
+     The mknod command creates one device. You must know the device
+     name as well as its major and minor numbers. For example,
+     creating /dev/sda1 is a matter of using the following command:
+
+     # mknod /dev/sda1 b 8 2
+
+     The b 8 2 specifies a block device with a major number 8 and a
+     minor number 2. For character or named pipe devices, use c or p
+     instead of b (omit the major and minor numbers for named pipes) 
+
 
 3.5 udev
 3.6 In-Depth: SCSI and the Linux Kernel
