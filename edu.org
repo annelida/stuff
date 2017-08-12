@@ -13564,6 +13564,18 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      USB and ACM with the names /dev/ttyUSB0, /dev/ttyACM0, /dev/ttyUSB1,
      /dev/ttyACM1, and so on.
 
+     Parallel Ports: /dev/lp0 and /dev/lp1
+
+     Representing an interface type that has largely been replaced by
+     USB, the unidirectional parallel port devices /dev/lp0 and
+     /dev/lp1 correspond to LPT1: and LPT2: in Windows. You can send
+     files (such as a file to be printed) directly to a parallel port
+     with the cat command, but you might need to give the printer an
+     extra form feed or reset afterward. A print server such as CUPS
+     is much better at handling interaction with a printer. The
+     bidirectional parallel ports are /dev/parport0 and /dev/parport1.
+
+
 3.5 udev
 3.6 In-Depth: SCSI and the Linux Kernel
 Chapter 4 Disks and Filesystems
