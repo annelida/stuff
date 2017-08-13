@@ -13613,6 +13613,39 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
     characteristics, creates a device file, and then performs any
     device initialization.
 
+    devtmpfs
+
+    The devtmpfs filesystem was developed in response to the problem
+    of device availability during boot. This filesystem is similar to
+    the older devfs support, but it’s simplified.
+    The kernel creates device files as necessary, but it also notifies
+    udevd that a new device is available.
+    Upon receiving this signal, udevd does not create the device
+    files, but it does perform device initialization and process
+    notification. Additionally, it creates a number of symbolic links
+    in /dev to further identify devices. You can find examples in the
+    directory /dev/disk/by-id, where each attached disk has one or
+    more entries.
+
+    For example, consider this typical disk:
+
+    #+BEGIN_EXAMPLE
+    lrwxrwxrwx 1 root root 9 Jul 26 10:23 scsi-SATA_WDC_WD3200AAJS-_WDWMAV2FU80671
+    -> ../../sda
+    lrwxrwxrwx 1 root root 10 Jul 26 10:23 scsi-SATA_WDC_WD3200AAJS-_WDWMAV2FU80671-part1
+    ->
+    ../../sda1
+    lrwxrwxrwx 1 root root 10 Jul 26 10:23 scsi-SATA_WDC_WD3200AAJS-_WDWMAV2FU80671-part2
+    ->
+    ../../sda2
+    lrwxrwxrwx 1 root root 10 Jul 26 10:23 scsi-SATA_WDC_WD3200AAJS-_WDWMAV2FU80671-part5
+    ->
+    ../../sda5
+    #+END_EXAMPLE
+
+    udevd names the links by interface type, and then by manufacturer
+    and model information, serial number, and partition (if applicable).
+
 3.6 In-Depth: SCSI and the Linux Kernel
 Chapter 4 Disks and Filesystems
 4.1 Partitioning Disk Devices
