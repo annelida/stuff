@@ -13599,8 +13599,20 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      minor number 2. For character or named pipe devices, use c or p
      instead of b (omit the major and minor numbers for named pipes) 
 
+*** TODO 3.5 udev
 
-3.5 udev
+    We’ve already talked about how unnecessary complexity in the
+    kernel is dangerous  because you can too easily introduce system
+    instability. Device file management is an example:
+    You can create device files in user space, so why would you do
+    this in the kernel?
+    The Linux kernel can send notifications to a user-space process (called
+    udevd) upon detecting a new device on the system (for example,
+    when someone attaches a USB flash drive).
+    The user-space process on the other end examines the new device’s
+    characteristics, creates a device file, and then performs any
+    device initialization.
+
 3.6 In-Depth: SCSI and the Linux Kernel
 Chapter 4 Disks and Filesystems
 4.1 Partitioning Disk Devices
