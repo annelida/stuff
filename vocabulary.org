@@ -9010,33 +9010,215 @@ adjective
    The author’s wit makes the novel a humorous and smart read.
 
 * awkward							   :Perrault:
-* outshone							   :Perrault:
+  неловко
+  [ˈôkwərd]
+
+  adjective
+   1. неуклюжий (clumsy, awkward, bumbling, hulking, lumbering, ungainly)
+   2. неудобный (inconvenient, uncomfortable, awkward, fiddly, uneasy, unhandy)
+   3. неловкий (awkward, clumsy, uneasy, ungainly, gauche, ungraceful)
+   4. угловатый (angular, awkward, gnarly, gnarled, three-cornered)
+   5. трудный (difficult, hard, tough, tight, arduous, awkward)
+   6. мешковатый (baggy, pouchy, awkward, clumsy)
+   7. затруднительный (difficult, embarrassing, baffling, awkward, knotty, inconvenient)
+   8. труднопреодолимый (formidable, awkward)
+   9. пиковый (peak, of spades, awkward)
+
+  Causing problems, worry, or embarrassment:
+
+  There followed an awkward silence while we all tried to think of something to say.
+  
+* to outshine							   :Perrault:
+  затмевать [Listen]
+
+  verb
+  1. затмевать (overshadow, obscure, outshine, blind, outmatch, efface)
+
+  To be much more skilful and successful than someone:
+  Ben Palmer easily outshone his rivals in the 200 metre freestyle.
 * willingly							   :Perrault:
+  ['wiliNGlē]
+  охотно
+
+  adverb
+   1. охотно (willingly, readily, gladly, fain, heartily, soon)
+   2. с готовностью (readily, willingly, pat)
+
+  Readily and enthusiastically:
+  I willingly babysit for my granddaughter.
+
 * boast								   :Perrault:
+  [bōst]
+  хвастовство
+
+  verb
+   1. похвастать (boast, brag)
+   2. хвастаться (brag, boast, display, splurge, vaunt, blow)
+   3. гордиться (be proud, pride, boast, glory, glory in, pride oneself)
+   4. хвастать (brag, boast, splurge, swagger, swank, bounce)
+   5. нахвалиться (boast)
+   6. грубо обтесывать камень (boast)
+
+  noun
+   1. хвастовство (boasting, bragging, boast, ostentation, bluster, brag)
+   2. предмет гордости (pride, boast, glory)
+      
+   To speak too proudly or happily about what you have done or what you own:
+
+   Parents enjoy boasting about their children's achievements.
  
 * trial :Study:
 [2017-07-17 Mon 09:04]
+  [ˈtrī(ə)l]
+  испытание
 
-When you run a series of tests on something, it's called a trial. If
-you invent a computer game and want to run it through a trial before
-releasing it, you might hire a bunch of teenagers to play it.
+  adjective
+   1. пробный (trial, test, pilot, tentative, experimental, specimen)
+   2. испытательный (test, trial, probationary, probatory)
 
-A trial is also a court hearing to legally determine the result of a
-particular case. If your cousin is arrested for stealing her
-neighbor's dog, she may be put on trial. This term can also be used
-more generically, especially to talk about something being tried in
-the court of public opinion. The fate of music education is on trial
-in many school districts facing budget cuts.
+  noun
+   1. суд (court, trial, tribunal, court of law, law, law court)
+   2. испытание (test, trial, experience, assay, probation, experiment)
+   3. судебное разбирательство (trial, proceeding, assize)
+   4. судебный процесс (trial, lawsuit, litigation, suit, action, law)
+   5. проба (try, sample, test, trial, probe, assay)
+   6. опыт (experience, experiment, practice, test, attempt, trial)
+   7. попытка (attempt, try, effort, endeavor, trial, shot)
+   8. искушение (temptation, trial, bait)
+   9. разведка (intelligence, reconnaissance, scouting, intelligence service, exploring, trial)
+  10. переживание (experience, trial)
+  11. злоключение (misfortune, trial)
+  12. забег (heat, trial)
 
-Let us consider a case where we want to keep audit trial
+  When you run a series of tests on something, it's called a trial. If
+  you invent a computer game and want to run it through a trial before
+  releasing it, you might hire a bunch of teenagers to play it.
+
+  A trial is also a court hearing to legally determine the result of a
+  particular case. If your cousin is arrested for stealing her
+  neighbor's dog, she may be put on trial. This term can also be used
+  more generically, especially to talk about something being tried in
+  the court of public opinion. The fate of music education is on trial
+  in many school districts facing budget cuts.
+
+  Let us consider a case where we want to keep audit trial
+
+  A test of the performance, qualities, or suitability of someone or something.
+  After the trial, his family said they had lost all faith in the judicial system.
 
 * ridiculous							   :Perrault:
+  [riˈdikyələs]
+  смешной 
+
+  adjective
+   1. смешной (funny, ridiculous, ludicrous, comical, laughable, amusing)
+   2. нелепый (absurd, ridiculous, ludicrous, preposterous, grotesque, incongruous)
+   3. смехотворный (ridiculous, ludicrous, laughable, derisory, farcical, cockamamie)
+
+  Stupid or unreasonable and deserving to be laughed at:
+
+  It's ridiculous to expect a two-year-old to be able to read!
+
 * to toil							   :Perrault:
-* lamenting							   :Perrault:
+  маяться
+
+  verb
+   1. трудиться (work, labor, toil, trouble, fag, fag away)
+   2. маяться (toil)
+   3. усиленно трудиться (toil)
+   4. потрудиться (work, toil, take trouble)
+   5. работать без передышки (toil)
+   6. с трудом идти (toil, toil along, toil up)
+   7. тащиться (drag, plod, traipse, trail, crawl, toil)
+
+  noun
+   1. тяжелый труд (toil, sweat, travail, slavery)
+   2. работа (working, work, job, operation, labor, toil)
+   3. тяжелая работа (heavy work, drudgery, slog, fag, elbow grease, toil)
+
+  Hard work, especially work that makes you feel physically tired:
+
+  After toiling away at work all week, it's good to relax.
+
+* to lament 							   :Perrault:
+  [ləˈment]
+  сокрушаться
+
+  verb
+   1. оплакивать (mourn, weep, bemoan, lament, bewail, deplore)
+   2. сетовать (mourn, complain, lament, bewail, plain)
+   3. плакать (cry, weep, lament, blubber, pipe, greet)
+   4. жаловаться (complain, lament, beef, grumble, moan, bitch)
+   5. сокрушаться (lament, repent, bewail)
+   6. горевать (grieve, mourn, sorrow, lament, regret, rue)
+   7. стенать (wail, lament)
+   8. горько жаловаться (lament)
+
+  To express sadness and feeling sorry about something:
+  My grandmother, as usual, lamented the decline in moral standards in today's society.
+
 * fate								   :Perrault:
+  [fāt]
+  судьба
+
+  noun
+   1. судьба (fate, destiny, fortune, lot, luck, doom)
+   2. участь (fate, lot, portion)
+   3. рок (rock, fate, doom, rock and roll, fatality, star)
+   4. удел (destiny, portion, fate, appanage, apanage)
+   5. жребий (lot, fate, draw)
+   6. гибель (death, doom, ruin, downfall, collapse, fate)
+   7. смерть (death, dying, demise, end, passing, fate)
+
+  verb
+  1. предопределять (predetermine, ordain, foreordain, predestinate, predestine, fate)
+  What happens to a particular person or thing, especially something
+  final or negative, such as death or defeat:
+
+  His fate is now in the hands of the jury.
+  By an odd quirk of fate, we ended up on the same train.
+
 * prosperity							   :Perrault:
+  [präˈsperitē]
+  процветание 
+
+   1. процветание (prosperity, flourish, bonanza, thrift, well-being)
+   2. благосостояние (welfare, wealth, prosperity, well-being, health, weal)
+   3. достаток (prosperity, sufficiency, plenty, easy circumstances, competence, competency)
+   4. преуспевание (prosperity)
+   5. зажиточность (prosperity, prosperousness, thrift)
+   6. успех (success, luck, hit, achievement, advance, prosperity)
+   7. просперити (prosperity)
+   8. благоприятные обстоятельства (prosperity)
+
+  The state of being successful and having a lot of money: A country's
+  future prosperity depends, to an extent, upon the quality of education
+  of its people.
+
 * prudence							   :Perrault:
+  [ˈpro͞odns]
+  предусмотрительность
+
+  noun
+   1. благоразумие (prudence, discretion, reason, reasonableness, policy)
+   2. осторожность (caution, care, prudence, discretion, wariness, guard)
+   3. расчетливость (prudence)
+   4. осмотрительность (discretion, care, circumspection, prudence, deliberation, wariness)
+   5. предусмотрительность (foresight, precaution, forethought, prudence, caution, providence)
+   6. бережливость (thrift, frugality, thriftiness, economy, parsimony, prudence)
+
+  The state of being careful in the way you make decisions or spend
+  money so that you avoid unnecessary risks:
+  We need to exercise prudence in such important matters.
+
 * circumspection						   :Perrault:
-* rashly							   :Perrault:
-* abusive							   :Perrault:
- 
+  [ˌsərkəmˈspekSHən]
+  осмотрительность 
+   1. осмотрительность (discretion, care, circumspection, prudence, deliberation, wariness)
+   2. осторожность (caution, care, prudence, discretion, wariness, circumspection)
+   3. настороженность (alertness, circumspection, look-out)
+
+  Careful not to take risks:
+  Officials were circumspect about saying what the talks had achieved.
+
+
