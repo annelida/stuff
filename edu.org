@@ -13644,7 +13644,44 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
     #+END_EXAMPLE
 
     udevd names the links by interface type, and then by manufacturer
-    and model information, serial number, and partition (if applicable).
+    and model information, serial number, and partition (if
+    applicable).
+
+    udevd Operation and Configuration
+
+    The udevd daemon operates as follows:
+
+    - The kernel sends udevd a notification event, called a uevent,
+      through an internal network link;
+    - udevd loads all of the attributes in the uevent;
+    - udevd parses its rules, and it takes actions or sets more
+      attributes based on those rules;
+
+    An incoming uevent that udevd receives from the kernel might look
+    like this:
+
+    #+BEGIN_EXAMPLE
+    ACTION=change
+    DEVNAME=sde
+    DEVPATH=/devices/pci0000:00/0000:00:1a.0/usb1/1-1/1-1.2/1-
+    1.2:1.0/host4/
+    target4:0:0/4:0:0:3/block/sde
+    DEVTYPE=disk
+    DISK_MEDIA_CHANGE=1
+    MAJOR=8
+    MINOR=64
+    SEQNUM=2752
+    SUBSYSTEM=block
+    UDEV_LOG=3
+    #+END_EXAMPLE
+
+    You can see here that there is a change to a device. After
+    receiving the uevent, udevd knows the sysfs device path and a
+    number of other attributes associated with the properties, and it
+    is now ready to start processing rules.
+
+    The rules files are in the /lib/udev/rules.d and /etc/udev/rules.d
+    directories. The rules in /lib are the defaults, and the rules in /etc are overrides. 
 
 3.6 In-Depth: SCSI and the Linux Kernel
 Chapter 4 Disks and Filesystems
