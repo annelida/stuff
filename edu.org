@@ -24968,6 +24968,31 @@ console.log(min(0, -10));
    be passed to the event handler.
    handler - a function to execute each time the event is triggered.
 
+   Removing event handlers
+
+   Typically, once an event handler is established, it remains in
+   effect for the remainder of the life of the page. There may be a
+   need when you would like to remove event handler.
+
+   jQuery provides the unbind() command to remove an existing event
+   handler.
+
+   Syntax of unbind()
+
+   #+BEGIN_EXAMPLE
+   selector.unbind(eventType, handler)
+
+   or 
+
+   selector.unbind(eventType)
+   #+END_EXAMPLE
+
+  eventType − A string containing a JavaScript event type, such as click or submit. Refer to the next
+ section for a complete list of event types.
+
+  handler − If provided, identifies the specific listener that's to be removed.
+
+
    
 * RDBMS
 
