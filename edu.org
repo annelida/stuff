@@ -28734,3 +28734,32 @@ Note that the order of the rules for determining column affinity is important. A
     | 6 | Kim   | 22 | South-Hall | 45000.0 |
     | 7 | James | 24 | Houston    | 10000.0 |
 
+*** TODO SQLite - EXPLAIN
+
+    SQLite statement can be preceded by the keyword "EXPLAIN" or by
+    the phrase "EXPLAIN QUERY PLAN" used for describing the details of
+    a table.
+    Either modification causes the SQLite statement to behave as a
+    query and return information about how the SQLite statement would
+    have operated if the EXPLAIN keyword or phrase had been omitted.
+
+    - The output from EXPLAIN and EXPLAIN QUERY PLAN is intended for
+      interactive analysis and troubleshooting only.
+    - The details of the output format are subject to change from one
+      release of SQLite to the next.
+    - Application should not use EXPLAIN or EXPLAIN QUERY PLAN since
+      their exact behavior is variable and only partially document.
+
+    Syntax
+
+    Syntax for EXPLAIN is as follows:
+
+    #+BEGIN_EXAMPLE
+    EXPLAIN [SQLite Query]
+    #+END_EXAMPLE
+
+    syntax for EXPLAIN QUERY PLAN is as follows:
+
+    #+BEGIN_EXAMPLE
+    EXPLAIN QUERY PLAN [SQLite Query]
+    #+END_EXAMPLE
