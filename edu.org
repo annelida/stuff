@@ -13918,6 +13918,24 @@ Chapter 17 Building on the Basics
 17.4 Distributed and On-Demand Computing
 17.5 Embedded Systems
 17.6 Final Remarks
+** TODO Introduction to Linux:
+1.1. History
+1.1.1. UNIX
+1.1.2. Linus and Linux
+1.1.3. Current application of Linux systems
+1.2. The user interface
+1.2.1. Is Linux difficult?
+1.2.2. Linux for non-experienced users
+1.3. Does Linux have a future?
+1.3.1. Open Source
+1.3.2. Ten years of experience at your service
+1.4. Properties of Linux
+1.4.1. Linux Pros
+1.4.2. Linux Cons
+1.5. Linux Flavors
+1.5.1. Linux and GNU
+1.5.2. GNU/Linux
+1.5.3. Which distribution should I install?
 ** DONE Disks and disks partitions in Linux
    CLOSED: [2017-08-08 Tue 07:38]
    Hard drive naming convention
