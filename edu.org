@@ -13599,7 +13599,8 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
      minor number 2. For character or named pipe devices, use c or p
      instead of b (omit the major and minor numbers for named pipes) 
 
-*** TODO 3.5 udev
+*** DONE 3.5 udev
+    CLOSED: [2017-08-15 Tue 06:40]
 
     We’ve already talked about how unnecessary complexity in the
     kernel is dangerous  because you can too easily introduce system
@@ -13685,7 +13686,31 @@ https://www.tutorialspoint.com/sqlite/sqlite_sub_queries.htm    such as sda3 and
 
 3.6 In-Depth: SCSI and the Linux Kernel
 Chapter 4 Disks and Filesystems
-4.1 Partitioning Disk Devices
+*** TODO 4.1 Partitioning Disk Devices
+    Partitions are subdivisions of the whole disk. On Linux, they’re
+    denoted with a number after the whole block device, and therefore
+    have device names such as /dev/sda1 and /dev/sdb3. The kernel
+    presents each partition as a block device, just as it would an
+    entire disk. Partitions are defined on a small area of the disk called a
+    partition table.
+    Although the kernel makes it possible for you to access both an
+    entire disk and one of its partitions at the same time, you would
+    not normally do so, unless you were copying the entire disk.
+    The next layer after the partition is the filesystem, the database
+    of files and directories that you’re accustomed to interacting
+    with in user space.
+    There are many kinds of partition tables. The traditional table is
+    the one found inside the Master Boot Record (MBR). A newer
+    standard starting to gain traction is the Globally Unique
+    Identifier Partition Table (GPT).
+    Here is an overview of the many Linux partitioning tools
+    available:
+    - parted - A text-based tool that supports both MBR and GPT.
+    - gparted - A graphical version of parted.
+    - fdisk - The traditional text-based Linux disk partitioning tool.
+      fdisk - does not support GPT.
+    - gdisk - A version of fdisk that supports GPT but not MBR.
+
 4.2 Filesystems
 4.3 swap space
 4.4 Looking Forward: Disks and User Space
