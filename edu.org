@@ -13744,6 +13744,20 @@ Chapter 4 Disks and Filesystems
     exist under that scheme. (I arbitrarily chose the names myfirst
     and mysecond in the GPT table.)
 
+    Initial Kernel Read
+
+    When initially reading the MBR table, the Linux kernel produces
+    the following debugging output (remember that you can view this with
+    dmesg):
+
+    #+BEGIN_EXAMPLE
+    sda: sda1 sda2 < sda5 >
+    #+END_EXAMPLE
+
+    The sda2 < sda5 > output indicates that /dev/sda2 is an extended
+    partition containing one logical partition, /dev/sda5. You’ll normally
+    ignore extended partitions because you’ll typically want to access
+    only the logical partitions inside.
 
 4.2 Filesystems
 4.3 swap space
