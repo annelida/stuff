@@ -13759,6 +13759,19 @@ Chapter 4 Disks and Filesystems
     ignore extended partitions because you’ll typically want to access
     only the logical partitions inside.
 
+    Changing Partition Tables
+
+    Viewing partition tables is a relatively simple and harmless
+    operation. Altering partition tables is also relatively easy, but
+    there are risks involved in making this kind of change to the disk.
+    Keep the following in mind:
+    - Changing the partition table makes it quite difficult to recover
+      any data on partitions that you delete because it changes the
+      initial point of reference for a filesystem. Make sure that you
+      have a backup if the disk you’re partitioning contains critical data.
+    - Ensure that no partitions on your target disk are currently in
+      use. This is a concern because most Linux distributions
+      automatically mount any detected filesystem. 
 4.2 Filesystems
 4.3 swap space
 4.4 Looking Forward: Disks and User Space
