@@ -14010,8 +14010,54 @@ Chapter 17 Building on the Basics
       true, but in an ever changing environment, Linux is also a project
       that continues to strive for perfection.
 
-1.5. Linux Flavors
-1.5.1. Linux and GNU
+*** TODO 1.5. Linux Flavors
+**** DONE 1.5.1. Linux and GNU
+     CLOSED: [2017-08-16 Wed 13:45]
+     Linux may appear different depending on the distribution, your
+     hardware and personal taste, but the fundamentals on which all
+     graphical and other interfaces are built, remain the same. The Linux
+     system is based on GNU tools (Gnu's Not UNIX), which provide a set of
+     standard ways to handle and use the system. All GNU tools are open
+     source, so they can be installed on any system. Most distributions
+     offer pre-compiled packages of most common tools, such as RPM packages
+     on RedHat and Debian packages (also called deb or dpkg) on Debian, so
+     you needn't be a programmer to install a package on your system.
+     However, if you are and like doing things yourself, you will enjoy
+     Linux all the better, since most distributions come with a complete
+     set of development tools, allowing installation of new software purely
+     from source code. This setup also allows you to install software even
+     if it does not exist in a pre-packaged form suitable for your
+     system.
+
+     A list of common GNU software:
+
+     - Bash: The GNU shell
+     - GCC: The GNU C Compiler
+     - GDB: The GNU Debugger
+     - Coreutils: a set of basic UNIX-style utilities, such as ls, cat
+       and chmod
+     - Findutils: to search and find files
+     - Fontutils: to convert fonts from one format to another or make
+       new fonts
+     - The Gimp: GNU Image Manipulation Program
+     - Gnome: the GNU desktop environment
+     - Emacs: a very powerful editor
+     - Ghostscript and Ghostview: interpreter and graphical frontend
+       for PostScript files.
+     - GNU Photo: software for interaction with digital cameras
+     - Octave: a programming language, primarily intended to perform
+       numerical computations and image processing.
+     - GNU SQL: relational database system
+     - Radius: a remote authentication and accounting server.
+       
+     To install missing or new packages, you will need some form of
+     software management. The most common implementations include RPM and
+     dpkg. RPM is the RedHat Package Manager, which is used on a variety of
+     Linux systems, eventhough the name does not suggest this. Dpkg is the
+     Debian package management system, which uses an interface called
+     apt-get, that can manage RPM packages as well.
+
+     
 1.5.2. GNU/Linux
 1.5.3. Which distribution should I install?
 ** DONE Disks and disks partitions in Linux
