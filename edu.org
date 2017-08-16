@@ -14158,6 +14158,129 @@ D.3 The Linux kernel's version n
      
 1.5.2. GNU/Linux
 1.5.3. Which distribution should I install?
+** TODO Debian Tutorial
+1 About this manual
+1.1 Acknowledgements
+2 Introduction
+*** DONE 2.1 What is Debian?
+    CLOSED: [2017-08-16 Wed 15:05]
+    Debian is a free operating system (OS) for your computer. An
+    operating system is the set of basic programs and utilities that make
+    your computer run. At the core of an operating system is the kernel.
+    The kernel is the most fundamental program on the computer: it does
+    all the basic housekeeping and lets you start other programs. Debian
+    uses the Linux kernel, a completely free piece of software started by
+    Linus Torvalds and supported by (probably over 1000) programmers
+    worldwide. A large part of the basic tools that fill out the operating
+    system come from the (GNU project), and these tools are also free. Of
+    course, what people want is application software: programs to help
+    them get what they want to do done, from editing documents to running
+    a business to playing games to writing more software. Debian comes
+    with over 1000 packages (precompiled software bundled up in a nice
+    format for easy installation on your machine) --- all of it free.
+
+    It's a bit like a tower. At the base is Linux. On top of that are all
+    the basic tools, mostly from GNU. Next is all the application software
+    that you run on the computer: much of this is also from GNU. The
+    Debian developers act as architects and coordinators --- carefully
+    organizing the system and fitting everything together into an
+    integrated, stable operating system: Debian GNU/Linux.
+
+2.2 What's free software?
+2.3 How to Read This Book
+2.4 The Linux Documentation Project
+3 Getting started
+3.1 A multiuser, multitasking operating system
+3.2 Logging in
+3.3 Keys
+3.4 Command history and editing the command line
+3.5 Logging in as root
+3.6 Virtual consoles
+3.7 Shutting down
+4 The Basics
+4.1 The command line and man pages
+4.2 Files and Directories
+4.3 Processes
+4.4 The shell
+4.5 Managing processes with Bash
+4.6 A few Bash features
+4.7 Managing your identity
+5 Reading documentation and getting help
+5.1 Kinds of documentation
+5.2 Using info
+5.3 Viewing text files with more and less
+5.4 HOWTOs
+5.5 Getting help from a person
+5.6 Getting information from the system
+6 Using the shell
+6.1 Environment variables
+6.2 Where commands live: the PATH variable
+6.3 Aliases and shell functions
+6.4 Controlling input and output
+6.5 Specifying how and when to run commands
+6.6 Filename expansion ("Wildcards")
+6.7 Interactive/non-interactive
+7 More on files
+7.1 Permissions
+7.2 What files are on my system? Where can I put my own files?
+7.3 Using a filemanager
+8 Creating and editing text files
+8.1 What's a text file?
+8.2 Text editors
+8.3 Creating and editing a text file with vi
+9 Customizing the shell
+9.1 .rc files and ls -a
+9.2 System-wide vs. user-specific configuration
+10 The X Window System
+10.1 Starting the X environment
+10.2 Intro: What is X
+10.3 Basic X operations
+10.4 Customizing your X startup
+11 Text tools
+11.1 Regular expressions
+12 File tools
+12.1 Backup tools
+12.2 File compression with gzip
+12.3 Splitting files into smaller pieces
+12.4 Finding files
+12.5 Determining a file's contents
+13 Using disks
+13.1 Concepts
+13.2 mount and /etc/fstab
+13.3 PPP
+14 Removing and installing software
+14.1 The dpkg package utility
+14.2 What a package maintenance utility does
+14.3 Apt
+14.4 Using dselect.
+14.5 Using dpkg manually
+14.6 Compiling software yourself
+14.7 Proprietary software not in .deb format
+15 Troubleshooting
+15.1 Debian is frozen or crashed!
+15.2 My terminal isn't behaving properly
+15.3 The computer beeps when I press a key, and my screen shows a text file and/or a lot of ~ symbols.
+16 Advanced topics
+16.1 Introduction to shell scripting
+16.2 Advanced files
+16.3 Compiling the kernel
+16.4 A few words on security
+16.5 Programming on Linux
+17 Where to from here?
+17.1 Other Debian manuals to read
+17.2 Other resources
+18 Contributing to Debian: How can I help?
+18.1 Submit bug reports
+18.2 Other things
+A A brief survey of available applications
+A.1 (Subheadings could copy the structure of the menu system)
+B Summary of GNU/Linux system components
+C Appendix C: Booting the system
+D Miscellaneous
+D.1 Unix History
+D.2 GNU/Linux History
+D.3 The Linux kernel's version n
+
 ** DONE Disks and disks partitions in Linux
    CLOSED: [2017-08-08 Tue 07:38]
    Hard drive naming convention
