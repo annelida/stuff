@@ -13929,8 +13929,9 @@ Chapter 17 Building on the Basics
 1.3. Does Linux have a future?
 1.3.1. Open Source
 1.3.2. Ten years of experience at your service
-1.4. Properties of Linux
-*** 1.4.1. Linux Pros
+*** TODO 1.4. Properties of Linux
+**** DONE 1.4.1. Linux Pros
+     CLOSED: [2017-08-16 Wed 08:33]
 
    A lot of the advantages of Linux are a consequence of Linux' origins,
    deeply rooted in UNIX, except for the first advantage, of course:
@@ -13979,12 +13980,36 @@ Chapter 17 Building on the Basics
      rather quickly. It sometimes happens that there are only a couple
      of hours between discovery and fixing of a bug.
     
-     
-    
-     
-   
+**** DONE 1.4.2. Linux Cons
+     CLOSED: [2017-08-16 Wed 09:02]
 
-1.4.2. Linux Cons
+     The installation HOWTO also discusses choosing your distribution.
+
+     - Linux is not very user friendly and confusing for beginners:
+
+       It must be said that Linux, at least the core system, is less
+       userfriendly to use than MS Windows and certainly more
+       difficult than MacOS, but... In light of its popularity,
+       considerable effort has been made to make Linux even easier to
+       use, especially for new users. More information is being
+       released daily to help fill the gap for documentation available
+       to users at all levels.
+
+     - Is an Open Source product trustworthy?
+       How can something that is free also be reliable? Linux users
+       have the choice whether to use Linux or not, which gives them
+       an enormous advantage compared to users of proprietary
+       software, who don't have that kind of freedom. After long
+       periods of testing, most Linux users come to the conclusion that
+      Linux is not only as good, but in many cases better and faster that
+      the traditional solutions. If Linux were not trustworthy, it would
+      have been long gone, never knowing the popularity it has now, with
+      millions of users. Now users can influence their systems and share
+      their remarks with the community, so the system gets better and
+      better every day. It is a project that is never finished, that is
+      true, but in an ever changing environment, Linux is also a project
+      that continues to strive for perfection.
+
 1.5. Linux Flavors
 1.5.1. Linux and GNU
 1.5.2. GNU/Linux
