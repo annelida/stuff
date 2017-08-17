@@ -9221,4 +9221,190 @@ adjective
   Careful not to take risks:
   Officials were circumspect about saying what the talks had achieved.
 
+* grin							      :Lewis Carroll:
+  усмешка
 
+  noun
+   1. оскал (grin)
+   2. усмешка (grin, ineptness)
+
+  verb
+   1. ухмыляться (grin, smirk)
+   2. усмехаться (grin, sneer)
+   3. скалить зубы (grin, fleer)
+   4. осклабиться (grin)
+
+   A wide smile
+   I assumed things had gone well for him because he had a big grin on his face.
+
+* jaws							      :Lewis Carroll:
+  пасть [Listen]
+
+  noun
+   1. пасть (jaws, maw, trap, yap, chap, chops)
+   2. клещи (pliers, tongs, pincers, bender, jaws, pinchers)
+   3. рот (mouth, os, jaws, gob, trap, kisser)
+   4. тиски (vise, vice, grip, gripe, jaws, clamp)
+   5. узкий вход (jaws)
+
+   The mouth, including the teeth:
+   The lion opened its jaws and roared.
+* feathers						      :Lewis Carroll:
+  перья [Listen]
+
+  noun
+   1. перо (pen, feather, nib, plume, blade, style)
+   2. оперение (plumage, feathering, feather, coverts, coat, dress)
+   3. шпонка (key, dowel, spline, cotter, feather)
+   4. плюмаж (plume, panache, feather, aigrette)
+   5. пустячок (kickshaw, feather)
+   6. дичь (game, fowl, wildfowl, feather)
+   7. гребень (crest, comb, tongue, flange, peak, crown)
+   8. нечто легкое (feather)
+   9. волосная трещина (hairline crack, feather)
+  10. литейный шов (feather)
+  11. прилив отливки (feather)
+  12. выступ (projection, ledge, protrusion, lip, lug, salient)
+
+  verb
+   1. оперять (fledge, feather)
+   2. украшать перьями (feather, befeather)
+   3. украшаться перьями (feather)
+   4. придавать форму пера (feather)
+   5. резать воздух (feather)
+   6. циклически изменять шаг (feather)
+   7. соединять на шпонку (feather)
+   8. соединять на шпунт (feather)
+   9. сбивать перья с птицы выстрелом (feather)
+  10. выносить весло плашмя (feather)
+  11. дрожать, виляя хвостом (feather)
+
+  One of the many soft, light things that cover a bird's body,
+  The birds ruffled their feathers in alarm.
+
+* reliable :Study:
+[2017-08-16 Wed 08:52]
+  надежный
+  [riˈlīəbəl]
+
+  adjective
+   1. надежный (reliable, secure, safe, solid, sound, dependable)
+   2. достоверный (reliable, authentic, positive, veracious, straight)
+   3. заслуживающий доверия (credible, trustworthy, reliable, dependable, faithful)
+   4. прочный (lasting, strong, durable, solid, firm, reliable)
+   5. благонадежный (trustworthy, reliable, well-affected)
+  Calling something reliable means you can count on it to come through
+  when you need it; it's dependable. If you're headed out for an
+  around-the-world sailing trip, hopefully your lifejacket is reliable.
+
+  You can certainly rely on something reliable because it's trustworthy
+  and responsible. Reliable people usually show up on time, never flake
+  out, and always tell the truth. A reliable car isn't likely to break
+  down and will get you from place to place safely. And if you happen to
+  lose your trusty sidekick, good luck looking for a reliable
+  replacement.
+
+  Someone or something that is reliable can be trusted or believed
+  because he, she, or it works or behaves well in the way you expect.
+  How free software can be reliable?
+
+* fur							      :Lewis Carroll:
+  мех [Listen]
+
+  noun
+   1. мех (fur, skin, coat, pelage, jack, leather bottle)
+   2. шерсть (wool, hair, fur, coat, fleece, pelage)
+   3. налет (raid, bloom, touch, swoop, scurf, fur)
+   4. пушнина (fur, peltry)
+   5. шкура (skin, hide, pelt, fur, fell, pelage)
+   6. налет на языке (fur)
+   7. меховые изделия (fur)
+   8. осадок (precipitate, sediment, residue, sludge, deposit, fur)
+   9. накипь (scale, scum, incrustation, fur, froth, deposition)
+  10. пушной зверь (fur, furbearer)
+
+  adjective
+   1. меховой (fur, furry)
+   2. пушной (fur)
+
+  verb
+   1. отделывать мехом (fur)
+   2. подбивать мехом (fur)
+   3. счищать накипь (fur)
+   4. обшивать рейками (fur)
+   5. обшивать дранью (fur)
+   6. обшивать досками (clapboard, board, fur, plank)
+
+  The short, fine, soft hair of certain animals.
+  Cats make him sneeze - I think he's allergic to the fur.
+* to frown 						      :Lewis Carroll:
+
+  угрожать
+
+  He frowned as he read the instructions, as if puzzled.
+
+* shiver						      :Lewis Carroll:
+  дрожать [Listen]
+
+  noun
+   1. дрожь (shiver, trembling, tremble, shake, tremor, shudder)
+   2. трепет (trembling, thrill, awe, trepidation, tremor, shiver)
+   3. содрогание (shudder, wince, shiver, creeps, creep, jim-jams)
+   4. дрожание (shake, flicker, vibration, flutter, tremble, shiver)
+   5. осколок (splinter, fragment, chip, fraction, shatter, shiver)
+   6. обломок (chip, fragment, piece, stump, splinter, shiver)
+   7. сланец (shale, shiver)
+   8. шифер (slate, shiver, schist)
+
+  verb
+   1. дрожать (tremble, shake, shiver, shudder, wobble, quake)
+   2. трястись (shake, shiver, tremble, quake, quiver, jiggle)
+   3. вздрагивать (shudder, start, wince, shiver, startle, jump)
+   4. трепетать (tremble, flutter, thrill, shiver, quiver, palpitate)
+   5. знобить (shiver)
+   6. ежиться (shiver, shrink)
+   7. разбивать вдребезги (smash up, smash, shatter, shiver, break to pieces, knock to pieces)
+   8. разбиваться вдребезги (smash up, smash, shatter, break to shivers, shiver)
+
+   When people or animals shiver, they shake slightly because they feel
+   cold, ill, or frightened:
+   He shivered with cold in his thin cotton shirt.
+
+* proceed						      :Lewis Carroll:
+  продолжить [Listen]
+
+  verb
+   1. продолжать (continue, go on, proceed, keep on, extend, go ahead)
+   2. действовать (act, operate, work, function, proceed, do)
+   3. исходить (proceed, emanate, issue, radiate)
+   4. переходить (go, proceed, turn, pass, transfer, cross)
+   5. происходить (occur, happen, take place, be, come, proceed)
+   6. приступать (proceed, initiate, enter into, settle down)
+   7. поступать (do, act, proceed, enter, deal, behave)
+   8. проследовать (proceed)
+   9. осуществлять (realize, implement, exercise, execute, fulfill, proceed)
+  10. развиваться (develop, evolve, progress, expand, advance, proceed)
+  11. возобновлять (renew, resume, restart, continue, proceed, revive)
+  12. приниматься (proceed, set, start in, settle down)
+  13. отправляться (go, set off, depart, set out, set forth, proceed)
+  14. преследовать судебным порядком (proceed)
+  15. отправляться дальше (proceed)
+  16. продолжать говорить (proceed)
+  17. получать ученую степень (proceed)
+
+  DEFINITION
+
+  verb
+   1. begin or continue a course of action.
+      "we can proceed with our investigation"
+
+* solemnly						      :Lewis Carroll:
+  торжественно [Listen]
+
+  adverb
+  1. торжественно (solemnly)
+
+  Formal and dignified.
+  A solemn procession was started.
+
+  
