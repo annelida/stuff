@@ -14256,8 +14256,19 @@ D.3 The Linux kernel's version n
     example, C-a x RET means to simultaneously type Control and lowercase
     a, followed by the letter x, followed by pressing Return.
 
+*** DONE 3.4 Command history and editing the command line
+    CLOSED: [2017-08-17 Thu 09:44]
+    You can scroll up to previous commands to run them again, or
+    modify them slightly and then run them again. There are more
+    advanced features as well (no need to memorize them all now,
+    though). Try typing C-a. This moves you to the beginning of the
+    line. C-k (the k stands for "kill") deletes until the end of the
+    line --- try it from the middle of the command line. Using C-a
+    followed by C-k, you can delete the entire command line. C-y
+    pastes the last thing you killed, inserting it at the current
+    cursor position (y stands for "yank," as in "yank it back"). C-e
+    will move the cursor at the end of the command line.
 
-3.4 Command history and editing the command line
 3.5 Logging in as root
 3.6 Virtual consoles
 3.7 Shutting down
