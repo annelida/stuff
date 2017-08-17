@@ -14240,7 +14240,23 @@ D.3 The Linux kernel's version n
     #+RESULTS:
     : vikky
 
-3.3 Keys
+*** DONE 3.3 Keys
+    CLOSED: [2017-08-17 Thu 09:33]
+
+    Keys like Alt and Meta are called modifier keys because they change
+    the meaning of standard keys like the letter A. Sometimes you need to
+    hold down more than one modifier; for example, M-C-a means to
+    simultaneously press Meta, Ctrl, and lowercase a.
+
+    Some keys have a special notation; for example, RET (Return/Enter),
+    DEL (Delete or sometimes Backspace), ESC (Escape). These should be
+    fairly self-explanatory.
+
+    Spaces instead of hyphens mean to type the keys in sequence. So, for
+    example, C-a x RET means to simultaneously type Control and lowercase
+    a, followed by the letter x, followed by pressing Return.
+
+
 3.4 Command history and editing the command line
 3.5 Logging in as root
 3.6 Virtual consoles
