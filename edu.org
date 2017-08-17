@@ -14269,7 +14269,41 @@ D.3 The Linux kernel's version n
     cursor position (y stands for "yank," as in "yank it back"). C-e
     will move the cursor at the end of the command line.
 
-3.5 Logging in as root
+*** DONE 3.5 Logging in as root
+    CLOSED: [2017-08-17 Thu 11:08]
+
+    Sometimes you need to change important system files --- for
+    example, you might want to install new software, or configure your
+    network connection. To do so, you have to have greater powers than a
+    normal user; you must become the root user (also called the
+    superuser).
+
+    You may find the su command more convenient than logging in as
+    root. su allows you to assume the identity of another user, usually
+    root unless you specify someone else. (You can remember that su stands
+    for Super User, though some say it stands for Set UserID.)
+
+    Try this:
+
+    1. Log on as yourself, i.e. not as root.
+    2. whoami
+
+       Confirm your username.
+    3. su
+
+       Enter the su command. It will prompt for a password; enter the
+       root password. If you give the correct password, you should see
+       a new shell prompt. By default, root's shell prompt is # rather
+      than $.
+    4. whoami
+
+       This should give "root" as your new username.
+    5. exit
+
+       Exit the root shell. Your prompt will return to $.
+    6. exit
+       Exit your own shell.
+
 3.6 Virtual consoles
 3.7 Shutting down
 4 The Basics
