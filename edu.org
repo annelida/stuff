@@ -14209,7 +14209,37 @@ D.3 The Linux kernel's version n
     If you keep in mind what Debian was originally designed to do,
     many aspects of it will make a lot more sense.
 
-3.2 Logging in
+*** DONE 3.2 Logging in
+    CLOSED: [2017-08-17 Thu 09:17]
+
+    To use Debian you must identify yourself to the system. This is so
+    it knows  who you are, what you have permission to do, and what
+    your preferences are.
+
+    To this end, you have a user name or login --- if you installed
+    Debian  yourself, you should have been asked to give such a name
+    during installation. If you are logging on to a system administered by
+    someone else, you'll have to ask them for an account on the
+    system, and a corresponding username.
+
+    You also have a password, so no one else can pretend to be you.
+    When you start Debian, you'll see a prompt; a request from the
+    computer for some information. In this case, the prompt is login:.
+    You should enter your username, and when requested, your password.
+    If you do it correctly, you'll see a brief message and then a $
+    prompt. The $ is printed by a special program called the shell,
+    and is thus called a shell prompt: this is where you give commands
+    to the system.
+
+    whoami tells your username. You'll then get a new shell prompt.
+
+    #+BEGIN_SRC sh :results output
+    whoami
+    #+END_SRC
+
+    #+RESULTS:
+    : vikky
+
 3.3 Keys
 3.4 Command history and editing the command line
 3.5 Logging in as root
