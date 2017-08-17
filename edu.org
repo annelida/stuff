@@ -14190,7 +14190,25 @@ D.3 The Linux kernel's version n
 2.3 How to Read This Book
 2.4 The Linux Documentation Project
 3 Getting started
-3.1 A multiuser, multitasking operating system
+*** DONE 3.1 A multiuser, multitasking operating system
+    CLOSED: [2017-08-17 Thu 08:40]
+
+    Unix is usually found on large servers and multiuser systems. This
+    means that Debian has features those other OS's lack. It allows a
+    large number of people to use the same computer at once, as long
+    as each user has their own terminal. To permit many users to
+    work at once, Debian must permit many programs and applications to
+    run simultaneously. This feature is called multitasking.
+
+    Much of the complexity (and power) of Unix-like systems stems from
+    these  two features. For example, the system must have a way to
+    keep users from accidentally deleting each other's files, and it
+    has to coordinate the many programs running at once, e.g. to
+    ensure that they don't all use the hard drive at the same time. 
+
+    If you keep in mind what Debian was originally designed to do,
+    many aspects of it will make a lot more sense.
+
 3.2 Logging in
 3.3 Keys
 3.4 Command history and editing the command line
