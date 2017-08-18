@@ -14469,7 +14469,8 @@ D.3 The Linux kernel's version n
     optional unit. So if you have a section, you must also have a page,
     since page is not optional within the [[section] page] unit.
   
-*** TODO 4.2 Files and Directories
+*** DONE 4.2 Files and Directories
+    CLOSED: [2017-08-18 Fri 14:43]
 
     Introduction to files
 
@@ -14515,7 +14516,39 @@ D.3 The Linux kernel's version n
       computer elsewhere on the network. You can't tell just by
       looking at the directory tree, and nearly all commands work just
       the same way no matter what physical device(s) your files are
-      really on. 
+      really on.
+
+     Using files: a tutorial
+
+     pwd
+
+     One directory is always considered the current working directory
+     for the shell you're using.
+
+     ls
+
+     ls stands for "list", as in "list files". When you type ls, the
+     system displays a list of all the files in your current working
+     directory.
+
+     cd /
+
+     cd means Change Directory. In this case, you've asked to change
+     to the root directory.
+
+     The other kind of filename is relative.
+
+     Two directory names are used only in relative filenames: . and
+     ... The directory . refers to the current directory and .. is
+     the parent directory.
+     These are "shortcut" directories. They exist in every directory.
+     Even the root directory has a parent directory --- it's its own
+     parent!
+     So filenames which include . or .. are relative, because their
+     meaning depends on the current directory.
+     A final handy tip: the tilde ~ is equivalent to your home
+     directory. So typing cd ~ is the same as typing cd with no
+     arguments.
 
 4.3 Processes
 4.4 The shell
