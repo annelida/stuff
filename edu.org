@@ -14367,7 +14367,68 @@ D.3 The Linux kernel's version n
     it to finish and then properly reboot or shutdown again.
 
 4 The Basics
-4.1 The command line and man pages
+*** TODO 4.1 The command line and man pages
+    We've already discussed the command line, that is commands you
+    type after the shell prompt.
+
+    #+BEGIN_SRC sh :results output
+    man -k Postscript
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    eps2eps (1)          - Ghostscript PostScript "distiller"
+    evince-previewer (1) - show a printing preview of PostScript and PDF documents
+    evince-thumbnailer (1) - create png thumbnails from PostScript and PDF documents
+    fig2ps2tex (1)       - generate a TeX file for including a PostScript file
+    font2c (1)           - Write PostScript Type 0 or Type 1 font as C code
+    ghostscript (1)      - Ghostscript (PostScript and PDF language interpreter a...
+    grops (1)            - PostScript driver for groff
+    gs (1)               - Ghostscript (PostScript and PDF language interpreter a...
+    gsnd (1)             - Run ghostscript (PostScript and PDF engine) without di...
+    HTML::FormatPS (3pm) - Format HTML as PostScript
+    pbmtextps (1)        - render text into a bitmap via postscript
+    pbmtoepsi (1)        - convert a portable bitmap into an encapsulated PostScr...
+    pbmtopsg3 (1)        - convert PBM images to Postscript with G3 fax compression
+    pdf2dsc (1)          - generate a PostScript page list of a PDF document
+    pdf2ps (1)           - Ghostscript PDF to PostScript translator
+    pf2afm (1)           - Make an AFM file from Postscript (PFB/PFA/PFM) font fi...
+    pfbtopfa (1)         - Convert Postscript .pfb fonts to .pfa format using gho...
+    pnmtops (1)          - convert portable anymap to PostScript
+    printafm (1)         - Print the metrics from a Postscript font in AFM format...
+    ps2ascii (1)         - Ghostscript translator from PostScript or PDF to ASCII
+    ps2epsi (1)          - generate conforming Encapsulated PostScript
+    ps2pdf (1)           - Convert PostScript to PDF using ghostscript
+    ps2pdf12 (1)         - Convert PostScript to PDF 1.2 (Acrobat 3-and-later com...
+    ps2pdf13 (1)         - Convert PostScript to PDF 1.3 (Acrobat 4-and-later com...
+    ps2pdf14 (1)         - Convert PostScript to PDF 1.4 (Acrobat 5-and-later com...
+    ps2pdfwr (1)         - Convert PostScript to PDF without specifying Compatibi...
+    ps2ps (1)            - Ghostscript PostScript "distiller"
+    psidtopgm (1)        - convert PostScript "image" data into a portable graymap
+    pstopnm (1)          - convert a PostScript file into a portable anymap
+    wftopfa (1)          - Convert a Wadalab base font to Postscript .PFA (or .PF...
+#+end_example
+
+    This command line has three parts. It begins with the command
+    name, man. Then it has an option or switch, -k, followed by an
+    argument, Postscript. Some people refer to everything except the
+    command name as the parameters of the command. So, options and
+    arguments are both parameters.
+
+    Anything which isn't an option and isn't the command name is an
+    argument. In this case, Postscript. Arguments can serve many purposes;
+    most commonly, they are filenames that the command should operate on.
+    In this case, Postscript is the word you want man to search for.
+
+    -k, the option, changes the behavior of man. Normally man expects
+    a command name for an argument, such as whoami, and looks for
+    documentation of that command. But with the -k or --apropos
+    option, it expects the argument to be a keyword. It then gives a
+    list of all manual pages with that keyword in their description.
+
+    Postscript is the argument; since we used the -k option, it's the
+   keyword to search for.
+
 4.2 Files and Directories
 4.3 Processes
 4.4 The shell
