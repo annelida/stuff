@@ -14325,7 +14325,47 @@ D.3 The Linux kernel's version n
     about this; X automatically switches you to its virtual console
     when it starts up.
     
-3.7 Shutting down
+*** DONE 3.7 Shutting down
+    CLOSED: [2017-08-18 Fri 08:00]
+
+    Do not just turn off the computer! You risk losing valuable data! 
+
+    If you are the only user of your computer, you might want to turn the
+    computer off when you're done with it.
+
+    Unlike most versions of DOS, it's a bad thing to just hit the power
+    switch when you're done using the computer. It is also bad to reboot
+    the machine (with the reset button) without first taking proper
+    precautions. The Linux kernel, in order to improve performance, has a
+    disk cache. This means it temporarily stores information meant for
+    permanent storage in RAM: since memory is thousands of times faster
+    than a disk, this makes many file operations move more quickly.
+    Periodically, the information Linux has in memory is actually written
+    to the disk. This is called syncing. In order to turn off or reboot
+    the computer, you'll have to tell the computer to clear everything out
+    of memory and put it in permanent storage.
+
+    To reboot, just type reboot, or press C-A-DEL (that's Control, Alt,
+    and Delete).
+
+    To shut down, you'll have to be root. As root, just type the
+    command:
+
+    #+BEGIN_EXAMPLE
+    # shutdown -h
+    #+END_EXAMPLE
+    
+    This will go through the entire shutdown procedure, including the sync command which clears the disk cache as described
+    above. When you see System halted, it's safe to turn off the computer.
+    If you have Advanced Power Management (APM) support in your kernel and
+    BIOS, the computer might shut itself off and save you the trouble. APM
+    is common in laptops and is also found in certain desktop mainboards.
+
+    Some people find it simplest to shut down by typing C-A-DEL to reboot,
+    then powering off the computer before the Linux kernel begins to
+    reload. However, once the kernel begins to load, you have to wait for
+    it to finish and then properly reboot or shutdown again.
+
 4 The Basics
 4.1 The command line and man pages
 4.2 Files and Directories
