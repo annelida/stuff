@@ -14273,7 +14273,8 @@ D.3 The Linux kernel's version n
     CLOSED: [2017-08-17 Thu 11:08]
 
     Sometimes you need to change important system files --- for
-    example, you might want to install new software, or configure your
+    example, you might want to
+    install new software, or configure your
     network connection. To do so, you have to have greater powers than a
     normal user; you must become the root user (also called the
     superuser).
@@ -14304,7 +14305,26 @@ D.3 The Linux kernel's version n
     6. exit
        Exit your own shell.
 
-3.6 Virtual consoles
+*** DONE 3.6 Virtual consoles
+    CLOSED: [2017-08-18 Fri 07:51]
+
+    The Linux kernel supports virtual consoles. These are a way of
+    making your single screen and keyboard seem like multiple
+    terminals, all connected to the same system. Thankfully, using
+    virtual consoles is one of the simplest things about Debian:
+    there are "hot keys" for switching among the consoles quickly.
+    To try it, log in to your system, and type A-F2 (simultaneously
+    press the Alt key, and F2, that is, function key number 2).
+
+    If you're using the X Window System, it will generally start up
+    on the first unused virtual console --- probably VC 7. Also, to
+    switch from the X virtual console to one of the first six, you'll
+    have to add Ctrl to the key sequence. So that's C-A-F1 to get to
+    VC 1. But you can go from a text VC to the X virtual console
+    using only Alt. If you never leave X, you won't have to worry
+    about this; X automatically switches you to its virtual console
+    when it starts up.
+    
 3.7 Shutting down
 4 The Basics
 4.1 The command line and man pages
