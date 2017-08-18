@@ -9407,4 +9407,76 @@ adjective
   Formal and dignified.
   A solemn procession was started.
 
+* grave 						      :Lewis Carroll:
+  серьезно [Listen]
+
+  adverb
+   1. серьезно (seriously, gravely, earnestly, in earnest)
+   2. тяжело (heavy, hard, heavily, gravely, squab)
+
+  Seriously bad:
+  A grave situation
+
+* to whisper						      :Lewis Carroll:
+  шептать 
+
+  noun
+   1. шепот (whisper, whispering, murmur, susurration)
+   2. шорох (rustle, rustling, whisper, murmur, sough, lisp)
+   3. слух (hearing, rumor, hearsay, ear, talk, whisper)
+   4. слушок (whisper)
+   5. шуршание (rustle, swish, whisper, rash, froufrou, sough)
+   6. молва (rumor, fame, hearsay, report, buzz, whisper)
+
+  verb
+   1. шептать (whisper, murmur)
+   2. прошептать (whisper)
+   3. шептаться (whisper)
+   4. шуршать (rustle, swish, whisper, chirr)
+   5. говорить шепотом (whisper, speak in a whisper)
+   6. сообщать по секрету (confide, whisper)
+   7. шелестеть (rustle, sough, whisper, murmur, swish)
+
+   To speak very quietly, using the breath but not the voice, so that
+   only the person close to you can hear you.
+   She leaned over and whispered something in his ear.
+ 
+* to prosecute						      :Lewis Carroll:
+  [ˈpräsiˌkyo͞ot]
+  преследовать в судебном порядке
+  
+  verb
+   1. преследовать в судебном порядке (prosecute)
+   2. преследовать по суду (prosecute)
+   3. вести (lead, conduct, keep, guide, drive, prosecute)
+   4. обвинять (blame, accuse, indict, charge, prosecute, denounce)
+   5. проводить (spend, conduct, carry out, hold, lead, prosecute)
+   6. продолжать (continue, go on, proceed, keep on, extend, prosecute)
+   7. выполнять (perform, carry out, fulfill, execute, do, prosecute)
+   8. вести занятия (prosecute)
+   9. выступать в качестве обвинителя (prosecute)
+
+  To officially accuse someone of committing a crime in a law court, or
+  (of a lawyer) to try to prove that a person accused of committing a
+  crime is guilty of that crime:
+  The company is to be prosecuted under the Sex Discrimination Act.
+
+* denial						      :Lewis Carroll:
+  [diˈnīəl]
+  отказ
+
+  noun
+   1. отказ (renouncement, refusal, failure, denial, rejection, refusing)
+   2. отрицание (negation, denial, negative, repudiation, disavowal, no)
+   3. опровержение (refutation, denial, rebuttal, disproof, contradiction, confutation)
+   4. отречение (renunciation, abdication, denial, renounce, repudiation, recantation)
+   5. запирательство (denial, obstinate silence)
+   6. отклонение (deviation, deflection, rejection, departure, variation, denial)
+   7. отпирательство (denial, disavowal)
+
+  A statement that something is not true or does not exist:
+  In spite of his denial, John's wife was convinced he was having
+  an affair.
+
+
   
