@@ -14581,9 +14581,98 @@ D.3 The Linux kernel's version n
     PID. You can use the PID to control individual processes --- more
     on that later. Another useful trick: type "?" to get a list of top
     commands.
+
+*** DONE 4.4 The shell
+    CLOSED: [2017-08-18 Fri 18:14]
+
+*** DONE 4.5 Managing processes with Bash
+    CLOSED: [2017-08-18 Fri 18:32]
+    Debian is a multitasking system, so you need a way to do more than
+    one thing at once.
+    Each command line starts a job (also called a process group) to be
+    carried out by the shell. A job can consist of a single process or
+    a set of processes in a pipeline. Entering a command line will
+    start a job. Try typing man cp and the cp manual page will appear
+    on the screen. The shell will go into the background, and return
+    when you finish reading the manual page (or type q to quit rather
+    than scrolling through the whole thing).
+    But say you're reading the manual page, and you want to do
+    something else for a minute. No problem. Type C-z while you're
+    reading to suspend the currently foregrounded job, and put the
+    shell in the foreground.
+    When you suspend a job, Bash will first give you some information
+    on it, and then a shell prompt. You will see something like this
+    on the screen:
+    #+BEGIN_EXAMPLE
+    NAME
+            cp - copy files
+
+     SYNOPSIS
+            cp [options] source dest
+            cp [options] source... directory
+            Options:
+            [-abdfilprsuvxPR]  [-S backup-suffix] [-V {numbered,exist­
+            ing,simple}]   [--backup]   [--no-dereference]   [--force]
+            [--interactive] [--one-file-system] [--preserve] [--recur­
+            sive]  [--update]   [--verbose]   [--suffix=backup-suffix]
+            [--version-control={numbered,existing,simple}] [--archive]
+            [--parents] [--link]  [--symbolic-link]  [--help]  [--ver­
+            sion]
+
+     DESCRIPTION
+     --More--
+     [1]+  Stopped                 man cp
+     $
+    #+END_EXAMPLE
+
+    jobs
+
+    Ask Bash for a display of current jobs:
+
+    #+BEGIN_EXAMPLE
+    $ jobs
+     [1]   Stopped                 man cp
+     [2]-  Stopped                 man ls
+     [3]+  Stopped                 man mv
+     $
+    #+END_EXAMPLE
+
+    Notice the - and +, denoting respectively the next-to-last and
+    last foregrounded jobs.
+
+    fg
+
+    Place the last foregrounded job (man mv, the one with the +) in
+    the foreground again. If you press the spacebar, the man page will
+    continue scrolling.
+
+    fg %1
+
+    You can refer to any job by placing a % in front of its number. If
+    you use fg without specifying a job, the last active one is
+    assumed.
+
+    kill %1
+
+    Kill off job 1. Bash will report the job information:
+
+    #+BEGIN_EXAMPLE
+    $ kill %1
+    [1]-  Terminated              man cp
+    $
+    #+END_EXAMPLE
+
+    Bash is only asking the job to quit, and sometimes a job will not
+    want to do so. If the job doesn't terminate, you can add the -9
+    option to kill to stop asking and start demanding. For example:
+
+    #+BEGIN_EXAMPLE
+    $ kill -9 %1
+    [1]-  Killed                  man mv
+    $
+    #+END_EXAMPLE
+
     
-4.4 The shell
-4.5 Managing processes with Bash
 4.6 A few Bash features
 4.7 Managing your identity
 5 Reading documentation and getting help
