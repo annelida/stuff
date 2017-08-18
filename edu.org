@@ -14550,7 +14550,38 @@ D.3 The Linux kernel's version n
      directory. So typing cd ~ is the same as typing cd with no
      arguments.
 
-4.3 Processes
+*** DONE 4.3 Processes
+    CLOSED: [2017-08-18 Fri 18:07]
+
+    GNU/Linux is a multitasking system. It can do many tasks at once.
+    Each of these tasks is called a process. The best way to get a
+    sense of this is to type top at the shell prompt. You'll get a
+    list of processes, sorted according to how much of the computer's
+    processing time they're using. The order will continuously change
+    before your eyes. At the top of the display, there's some
+    information about the system: how many users are logged in, how
+    many total processes there are, how much memory you have and how
+    much you're using.
+    In the far left column, you'll see the user owning each process.
+    The far right column shows which command invoked the process.
+    You'll probably notice that top itself, invoked by you, is near
+    the top of the list (since anytime top checks on CPU usage, it
+    will be active and using CPU to do the check).
+    Note all the commands ending in d --- such as kflushd and inetd
+    --- the d stands for daemon.  A daemon is a non-interactive
+    process, that is, it's run by the system and users never have to
+    worry about it. Daemons provide services like internet
+    connectivity, printing, or email.
+    Now press u and give top your user name when it asks.
+    The u command asks to see only those processes belonging to you;
+    it allows you to ignore all the daemons and whatever other people
+    are doing.
+    Note that column two of the top display shows you the PID, or
+    Process IDentification number. Each process is assigned a unique
+    PID. You can use the PID to control individual processes --- more
+    on that later. Another useful trick: type "?" to get a list of top
+    commands.
+    
 4.4 The shell
 4.5 Managing processes with Bash
 4.6 A few Bash features
