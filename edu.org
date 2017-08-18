@@ -14429,6 +14429,46 @@ D.3 The Linux kernel's version n
     Postscript is the argument; since we used the -k option, it's the
    keyword to search for.
 
+    Describing the command line
+
+    There's a traditional concise way of describing command syntax.
+    For example, if you type man man to get the manual page about man,
+    you'll see several syntax descriptions beginning with the command
+    name man. One of them will look like this:
+
+    #+BEGIN_EXAMPLE
+    man -k [-M path] keyword ...
+    #+END_EXAMPLE
+
+    Anything in brackets ([]) is an optional unit. So you don't have
+    to use the -M option, but if you do, you must use a path argument.
+    You must use the -k option and the keyword argument. The ... means
+    that you could have more of whatever came before it, so you could
+    look up several keywords.
+
+    Let's look at one of the more complex descriptions from the man
+    manual page:
+
+    #+BEGIN_EXAMPLE
+    man  [-c|-w|-tZT  device]  [-adhu7V] [-m system[,...]] [-L
+            locale] [-p string] [-M path] [-P pager] [-r  prompt]  [-S
+            list] [-e extension] [[section] page ...] ...
+    #+END_EXAMPLE
+
+    First, clusters of options usually mean you can use one or more of
+    them in different combinations, so -adhu7V means you can also use
+    -h. However, you can't always use all combinations; this
+    description doesn't make that clear. For example, -h is
+    incompatible with other options, but you could do man -du.
+    Unfortunately the description's format does not make this clear.
+
+    Second, the | symbol means "or". So you can use either the -c, the -w,
+    or the -tZT options, followed by a device argument.
+
+    Third, notice that you can nest the brackets, since they indicate an
+    optional unit. So if you have a section, you must also have a page,
+    since page is not optional within the [[section] page] unit.
+  
 4.2 Files and Directories
 4.3 Processes
 4.4 The shell
