@@ -14469,7 +14469,54 @@ D.3 The Linux kernel's version n
     optional unit. So if you have a section, you must also have a page,
     since page is not optional within the [[section] page] unit.
   
-4.2 Files and Directories
+*** TODO 4.2 Files and Directories
+
+    Introduction to files
+
+    Let's look at the organization of files on a Debian system:
+
+    /
+
+    A simple / represents the root directory. All other files and
+    directories are contained in the root directory.
+
+    /home/vikky
+
+    This is the home directory of user "vikky". Reading left to right,
+    to get to this directory you start in the root directory, enter
+    directory home, then enter directory vikky.
+
+    /etc/X11/XF86Config
+
+    This is the configuration file for the X Window System. It resides
+    in the X11 subdirectory of the /etc directory. /etc is in turn a
+    subdirectory of the root directory, /.
+
+    - Filenames are case sensitive. That is, MYFILE and MyFile are different files;
+    - The root directory is referred to as simply /. Don't confuse
+      this "root" with the root user, the user on your system with "super powers.";
+    - Every directory has a name which can contain any letters or
+      symbols except /. The root directory is an exception; its name
+      is / (pronounced "slash" or "the root directory") and it cannot
+      be renamed;
+    - Each file or directory is designated by a fully-qualified
+      filename, absolute filename, or path, giving the sequence of
+      directories which must be passed through to reach it. The three
+      terms are synonymous.
+    - Directories are arranged in a tree structure. All absolute
+      filenames start with the root directory. The root directory has
+      a number of branches, such as /etc and /usr.
+    - These subdirectories in turn branch, into still more
+      subdirectories, such as /etc/init.d and /usr/local. The whole
+      thing together is called the "directory tree."
+    - There's no directory that corresponds to a physical device, such
+      as your hard disk. All your files could be on one disk --- or
+      you could have 20 disks, some of them connected to a different
+      computer elsewhere on the network. You can't tell just by
+      looking at the directory tree, and nearly all commands work just
+      the same way no matter what physical device(s) your files are
+      really on. 
+
 4.3 Processes
 4.4 The shell
 4.5 Managing processes with Bash
