@@ -14757,7 +14757,35 @@ D.3 The Linux kernel's version n
 5.3 Viewing text files with more and less
 5.4 HOWTOs
 5.5 Getting help from a person
-5.6 Getting information from the system
+*** DONE 5.6 Getting information from the system
+    CLOSED: [2017-08-19 Sat 06:49]
+
+    When diagnosing problems or asking for help, you'll need to get
+    information about your system. Here are some ways to do so.
+
+    /var/log/*,
+    dmesg,
+    uname -a,
+    lsb_release -a
+
+    #+BEGIN_SRC sh :results output
+    uname -a
+    #+END_SRC
+
+    #+RESULTS:
+    : Linux lenovo 4.9.0-3-686 #1 SMP Debian 4.9.30-2+deb9u3 (2017-08-06) i686 GNU/Linux
+
+    #+BEGIN_SRC sh :results output
+    lsb_release -a
+    #+END_SRC
+
+    #+RESULTS:
+    : Distributor ID:	Debian
+    : Description:	Debian GNU/Linux 9.1 (stretch)
+    : Release:	9.1
+    : Codename:	stretch
+
+    
 6 Using the shell
 6.1 Environment variables
 6.2 Where commands live: the PATH variable
