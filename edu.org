@@ -14699,7 +14699,60 @@ D.3 The Linux kernel's version n
 
 
 5 Reading documentation and getting help
-5.1 Kinds of documentation
+*** DONE 5.1 Kinds of documentation
+    CLOSED: [2017-08-19 Sat 06:38]
+
+    On Debian, you can find documentation in at least the following
+    places:
+
+    - man pages;
+    - info pages;
+    - The /usr/doc/package directories, where package is the name of
+      the Debian package;
+    - /usr/doc/HOWTO/ contains the Linux Documentation Project's HOWTO
+      documents, if you've installed the Debian packages containing
+      them;
+    - Many commands have a -h or --help option. Type the command name
+      followed by one of these options to try it.
+
+      #+BEGIN_SRC sh :results output
+      cp --help
+      #+END_SRC
+
+      #+RESULTS:
+      #+begin_example
+      Usage: cp [OPTION]... [-T] SOURCE DEST
+	or:  cp [OPTION]... SOURCE... DIRECTORY
+	or:  cp [OPTION]... -t DIRECTORY SOURCE...
+      Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+
+      Mandatory arguments to long options are mandatory for short options too.
+	-a, --archive                same as -dR --preserve=all
+	    --attributes-only        don't copy the file data, just the attributes
+	    --backup[=CONTROL]       make a backup of each existing destination file
+	-b                           like --backup but does not accept an argument
+	    --copy-contents          copy contents of special files when recursive
+	-d                           same as --no-dereference --preserve=links
+	-f, --force                  if an existing destination file cannot be
+				       opened, remove it and try again (this option
+				       is ignored when the -n option is also used)
+	-i, --interactive            prompt before overwrite (overrides a previous -n
+					option)
+	-H                           follow command-line symbolic links in SOURCE
+	-l, --link                   hard link files instead of copying
+	-L, --dereference            always follow symbolic links in SOURCE
+	-n, --no-clobber             do not overwrite an existing file (overrides
+				       a previous -i option)
+	-P, --no-dereference         never follow symbolic links in SOURCE
+	-p                           same as --preserve=mode,ownership,timestamps
+	    --preserve[=ATTR_LIST]   preserve the specified attributes (default:
+				       mode,ownership,timestamps), if possible
+				       additional attributes: context, links, xattr,
+				       all
+	    --no-preserve=ATTR_LIST  don't preserve the specified attributes
+	    --parents                use full source file name u
+#+end_example
+
 5.2 Using info
 5.3 Viewing text files with more and less
 5.4 HOWTOs
