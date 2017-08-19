@@ -14671,10 +14671,33 @@ D.3 The Linux kernel's version n
     [1]-  Killed                  man mv
     $
     #+END_EXAMPLE
-
     
 4.6 A few Bash features
-4.7 Managing your identity
+*** DONE 4.7 Managing your identity
+    CLOSED: [2017-08-19 Sat 06:24]
+
+    Unix-like systems are multiuser, and so you have your own
+    electronic identity as a user on the system.
+    Type:
+
+    #+BEGIN_EXAMPLE
+    finger yourusername
+    #+END_EXAMPLE
+
+    to have a look at some of the information about you that's
+    publically available. To change the name and shell listed there,
+    you can use the commands chfn and chsh. Only the superuser can
+    change your login (username) and directory.
+    You'll notice that it says "No plan" --- a "plan" is just some
+    information you can make available to others. To create a plan,
+    put whatever information you want people to see in a file called
+    .plan --- to do this you'll use a text editor.
+
+    Note that this finger information is available to the entire
+    Internet by default. If you don't want this, you must
+    configuring inetd and the file /etc/services.
+
+
 5 Reading documentation and getting help
 5.1 Kinds of documentation
 5.2 Using info
