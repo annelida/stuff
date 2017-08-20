@@ -14784,10 +14784,52 @@ D.3 The Linux kernel's version n
     : Description:	Debian GNU/Linux 9.1 (stretch)
     : Release:	9.1
     : Codename:	stretch
-
     
 6 Using the shell
-6.1 Environment variables
+*** DONE 6.1 Environment variables
+    CLOSED: [2017-08-20 Sun 06:37]
+    Every process has an environment associated with it. An
+    environment is a collection of environment variables.
+    A variable is a changeable value with a fixed name.
+    You can view your shell's environment by entering the printenv
+    command. Here's some example output:
+
+    #+BEGIN_EXAMPLE
+    PAGER=less
+    HOSTNAME=icon
+    MAILCHECK=60
+    MOZILLA_HOME=/usr/local/lib/netscape
+    PS1=$ 
+    USER=hp
+    MACHTYPE=i486-pc-linux-gnu
+    EDITOR=jed
+    DISPLAY=:0.0
+    LOGNAME=hp
+    EMAIL=hp@pobox.com
+    SHELL=/bin/bash
+    HOSTTYPE=i486
+    OSTYPE=linux-gnu
+    HISTSIZE=150
+    HOME=/home/hp
+    TERM=xterm-debian
+    TEXEDIT=jed
+    PATH=/home/hp/local/bin:/usr/sbin:/home/hp/.bin:/home/hp/local/bin:/usr/sbin:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:.
+    _=/usr/bin/printenv
+    #+END_EXAMPLE
+
+    Environment variables are one way to configure the system. For
+    example, the EDITOR variable lets you select your preferred editor
+    for posting news, writing email, and so on. The HISTSIZE variable
+    tells Bash how many command lines to keep in its history; you can
+    return to that many command lines with the up arrow key.
+
+    #+BEGIN_EXAMPLE
+    man less
+    export PAGER=less
+    echo $PAGER
+    unset PAGER
+    #+END_EXAMPLE
+
 6.2 Where commands live: the PATH variable
 6.3 Aliases and shell functions
 6.4 Controlling input and output
