@@ -14891,7 +14891,48 @@ D.3 The Linux kernel's version n
     vikky    32072  2761  0 Aug11 ?        00:04:14 /usr/lib/gnome-terminal/gnome-terminal-server
 #+end_example
 
-6.2 Where commands live: the PATH variable
+*** DONE 6.2 Where commands live: the PATH variable
+    CLOSED: [2017-08-20 Sun 06:51]
+
+    When you type a command into the shell, it has to find the program
+    on your hard disk before executing it. If the shell had to look
+    all over the disk, it would be very slow;
+    instead, it looks in a list of directories contained in the PATH
+    environment variable. This list of directories makes up the
+    shells' search path; when you enter a command, it goes through
+    each one in turn looking for the program you asked to run.
+    You may need to change the PATH variable if you install programs
+    yourself in a nonstandard location.
+    The value of PATH is a colon-separated list of directories. The
+    default value on Debian systems is:
+
+    #+BEGIN_EXAMPLE
+    /usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games
+    #+END_EXAMPLE
+
+    This value is defined in the file /etc/profile and applies to all
+    users. You can easily change the value, just as you can change any
+    environment variable.
+    If you type the command ls, the shell will first look in
+    /usr/local/bin; ls isn't there, so it will try /usr/bin; when that
+    fails, it will check /bin.
+    You can see which ls the shell is going to use with the type
+    command. type ls will give you the answer /bin/ls --- try it
+    yourself.
+
+    #+BEGIN_SRC sh :results output
+    type type
+    #+END_SRC
+
+    #+RESULTS:
+    : type is a shell builtin
+
+    type isn't actually a program; it's a function provided by the
+    shell. However, you use it just like an external program.
+    There are a number of commands like this; type man builtins to
+    read the man page describing them. Builtins will not show up in
+    the output of ps or top since they aren't separate processes.
+
 6.3 Aliases and shell functions
 6.4 Controlling input and output
 6.5 Specifying how and when to run commands
