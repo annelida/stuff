@@ -9478,5 +9478,89 @@ adjective
   In spite of his denial, John's wife was convinced he was having
   an affair.
 
+* to growl						      :Lewis Carroll:
+  рычание
 
-  
+  noun
+   1. рычание (growl, snarl)
+   2. ворчание (grunt, nagging, growl, grumble, grunting, snarl)
+   3. грохот (riddle, screen, bolt, crash, din, growl)
+   4. раскат (roar, reverberation, growl)
+
+  verb
+   1. рычать (growl, roar, snarl, bellow)
+   2. ворчать (grumble, growl, nag, mutter, grunt, gripe)
+   3. греметь (rattle, thunder, boom, clatter, roll, growl)
+   4. жаловаться (complain, lament, beef, grumble, moan, growl)
+
+  To make a low, rough sound, usually in anger:
+  The Mouse only growled in reply.
+
+* snappish						      :Lewis Carroll:
+  раздраженно
+
+  Easily annoyed and often speaking in an angry way:
+  He's very snappish when he arrives at work in the morning.
+* venture						      :Lewis Carroll:
+  [ˈvenCHər]
+
+    verb
+   1. рисковать (risk, take risks, venture, gamble, jeopardize, take a chance)
+   2. отважиться (venture)
+   3. осмелиться (venture, venture upon, take liberties, venture on)
+   4. ставить на карту (stake, venture, hazard, pyramid)
+   5. посметь (dare, venture)
+   6. позволять себе (presume, venture, take liberties, pretend, take the liberty of doing so-and-so, take the liberty to do so-and-so)
+   7. решаться (decide, resolve, determine, choose, venture, choose rather)
+
+  noun
+   1. авантюра (adventure, gamble, venture, escapade, shady enterprise, long shot)
+   2. рискованное предприятие (venture, wildcat, long shot, gamble, adventure, flyer)
+   3. спекуляция (speculation, profiteering, spec, jobbing, jobbery, venture)
+   4. рискованное начинание (venture)
+   5. ставка (rate, bet, General Headquarters, stake, wager, venture)
+   6. сумма, подвергаемая риску (venture)
+
+  A risky or daring journey or undertaking.
+  ‘And who is Dinah, if I might venture to ask the question?’
+  said the Lory.
+* pretext						      :Lewis Carroll:
+  noun
+   1. предлог (pretext, excuse, preposition, guise, plea, cloak)
+   2. отговорка (excuse, pretense, subterfuge, pretext, evasion, alibi)
+
+  verb
+   1. отговариваться (explain away, pretext)
+   2. приводить в качестве отговорки (pretext)
+
+  A pretended reason for doing something that is used to hide the real
+  reason:
+  On various pretexts all birds moved off, and Alice was soon
+  left alone.
+
+* low-spirited						      :Lewis Carroll:
+
+  подавленный [Listen]
+
+  adjective
+   1. подавленный (depressed, repressed, subdued, crushed, despondent, low-spirited)
+   2. в подавленном состоянии (low-spirited)
+   3. унылый (sad, dull, bleak, dismal, despondent, low-spirited)
+
+  DEFINITION
+
+  adjective
+   1. sad and despondent; depressed.
+
+  And here poor Alice began to cry again, for she felt very lonely and
+  low-spirited.
+
+* eager 						      :Lewis Carroll:
+
+  нетерпеливый
+
+  Wanting very much to do or have something, especially something
+  interesting or enjoyable:
+
+  I'm eager to see her after all this time.
+
