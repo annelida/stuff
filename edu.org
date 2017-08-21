@@ -14933,7 +14933,27 @@ D.3 The Linux kernel's version n
     read the man page describing them. Builtins will not show up in
     the output of ps or top since they aren't separate processes.
 
-6.3 Aliases and shell functions
+*** DONE 6.3 Aliases
+    CLOSED: [2017-08-21 Mon 09:04]
+
+    If you use the same command often, you might get tired of typing
+    it. bash lets you write shorter aliases for your commands. You can
+    also write shell functions, which are custom commands made up of
+    several other commands.
+
+    Say you always use the --almost-all and --color=auto options to
+    ls. You quickly get tired of typing ls --almost-all --color=auto. So
+    you make an alias.
+
+    #+BEGIN_EXAMPLE
+    alias myls='ls --almost-all --color=auto'
+    #+END_EXAMPLE
+
+    Now you can type myls instead of the full command.
+
+    To see a list of aliases you've defined, type simply alias on a
+    line by itself.
+
 6.4 Controlling input and output
 6.5 Specifying how and when to run commands
 6.6 Filename expansion ("Wildcards")
