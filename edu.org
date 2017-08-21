@@ -15008,7 +15008,38 @@ D.3 The Linux kernel's version n
     : LICENSE
 
 6.5 Specifying how and when to run commands
-6.6 Filename expansion ("Wildcards")
+*** DONE 6.6 Filename expansion ("Wildcards")
+    CLOSED: [2017-08-21 Mon 11:58]
+
+    Available wildcards are:
+
+    * Matches any group of 0 or more characters
+
+    ? Matches exactly one character
+
+    [...] If you enclose some characters in brackets, the result is a
+    wildcard which matches those characters. For example, [abc]
+    matches either a, or b, or c.
+    If you add a ^ after the first bracket, the sense is reversed; so
+    [^abc] matches any character that is not a, b, or c.
+    You can include a range, such as [a-j], which matches anything
+    between a and j. The match is case sensitive, so to allow any
+    letter, you must use [a-zA-Z].
+
+    *.txt This will give you a list of any filename which ends in
+    .txt, since the * matches anything at all.
+
+    *.[hc] This gives a list of filenames which end in either .h or
+    .c.
+
+    a?? This gives you all three-letter filenames that begin with a.
+
+    [^a]?? This gives you all three-letter filenames that do not begin
+    with a.
+
+    a* This gives you every filename that starts with a, regardless of
+    how many letters there are.
+
 6.7 Interactive/non-interactive
 7 More on files
 7.1 Permissions
