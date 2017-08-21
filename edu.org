@@ -14954,7 +14954,59 @@ D.3 The Linux kernel's version n
     To see a list of aliases you've defined, type simply alias on a
     line by itself.
 
-6.4 Controlling input and output
+*** DONE 6.4 Controlling input and output
+    CLOSED: [2017-08-21 Mon 09:15]
+
+    Stdin, stdout, pipelines, and redirection
+
+    Every process has at least three connections to the outside
+    world. The standard input is one source of the process's data; the
+    standard output is one place the process sends data; and the
+    standard error is a place the process can send error messages.
+    (These are often abbreviated stdin, stdout, and stderr.)
+
+    For example, the echo command sends it output to standard output,
+    normally the screen. But you can send it to a file instead, with
+    the output redirection operator, '>'. For example, to put the word
+    "Hello" in the file myfile:
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky/practice
+    echo Hello > myfile
+    cat myfile
+    #+END_SRC
+
+    #+RESULTS:
+    : Hello
+
+    You can connect the standard output of one command to the standard
+    input of another. This is called a pipeline, and it uses the pipe
+    operator, '|'.
+
+    #+BEGIN_SRC sh :results output
+    ls
+    #+END_SRC
+
+    #+RESULTS:
+    : edu.org
+    : Emacs
+    : LICENSE
+    : projects
+    : Scrapy
+    : Scripts
+    : test-sqlite.db
+    : tribute_page.html
+    : vocabulary.org
+
+    #+BEGIN_SRC sh :results output
+    ls | head -3
+    #+END_SRC
+
+    #+RESULTS:
+    : edu.org
+    : Emacs
+    : LICENSE
+
 6.5 Specifying how and when to run commands
 6.6 Filename expansion ("Wildcards")
 6.7 Interactive/non-interactive
