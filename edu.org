@@ -15239,7 +15239,66 @@ D.3 The Linux kernel's version n
          directory, as long as it's permitted by the permissions on
          the files themselves.
 
-7.2 What files are on my system? Where can I put my own files?
+*** DONE 7.2 What files are on my system? Where can I put my own files?
+    CLOSED: [2017-08-22 Tue 09:55]
+
+    /
+    As already mentioned, this is the root directory, which contains
+    every other directory.
+
+    /root But don't get / confused with /root! /root is the home
+    directory of the root user, or superuser. It's a directory called
+    /root, but it isn't the root directory /.
+
+    /home This is where all normal users --- that is, all users except
+    root --- have their home directories.
+
+    /bin This directory contains "binaries," executable files which
+    are essential to the operation of the system. Examples are the
+    shell (bash), and file commands such as cp.
+
+    /sbin This directory contains "system binaries", utilities that
+    the root user or system administrator might want to use, but
+    probably you won't want to use in your day-to-day activities.
+
+    /usr
+    /usr contains most of the files you'll be interested in. It has
+    many subdirectories: /usr/bin and /usr/sbin are pretty much like
+    /bin and /sbin, except that the directories in /usr are not
+    considered "essential to the operation of the system".
+
+    /usr/local
+    The Debian system doesn't install anything in this directory. You
+    should use it if you want to install software that you compile
+    yourself, or any software not contained in a Debian package. You
+    can also install software in your home directory, if you'll be the
+    only one using it.
+
+    /etc
+    /etc contains all the system-wide configuration files. Whenever
+    you want to change something that affects all users of your
+    computer, such as how you connect to the internet, or what kind of
+    video card you have --- you'll probably have to log on as root and
+    change a file in /etc.
+
+    /tmp
+    Here you'll find temporary files, most of them created by the
+    system. This directory is generally erased on a regular basis, or
+    every time you reboot the system.
+
+    You can create files here if you want, just be aware they might
+    get deleted automatically.
+
+    /var
+    /var contains "variable" files, that the system changes
+    automatically. For example, incoming mail is stored here. The
+    system keeps a log of its actions here. There are a number of
+    other automatically generated files here as well. You'll mostly be
+    interested in the contents of /var/log, where you can find error
+    messages and try to figure out what you're system's up to if
+    something goes wrong.
+
+
 7.3 Using a filemanager
 8 Creating and editing text files
 8.1 What's a text file?
