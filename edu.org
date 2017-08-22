@@ -15040,7 +15040,16 @@ D.3 The Linux kernel's version n
     a* This gives you every filename that starts with a, regardless of
     how many letters there are.
 
-6.7 Interactive/non-interactive
+*** DONE 6.7 Interactive/non-interactive
+    CLOSED: [2017-08-22 Tue 08:27]
+    Bash has two different modes: interactive and non-interactive.
+    Interactive means you can type into it, and have it do things for
+    you. Non-interactive shells interpret shell scripts, similar to
+    DOS batch files. You give it a list of commands to carry out, and
+    it goes and does them, but without your intervention.
+    You don't see all the commands being typed in, Of course any
+    output will be recorded somewhere (the standard output, or stdout,
+    normally the screeen or a log file).
 7 More on files
 7.1 Permissions
 7.2 What files are on my system? Where can I put my own files?
