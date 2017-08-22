@@ -9564,3 +9564,115 @@ adjective
 
   I'm eager to see her after all this time.
 
+* bill							      :Lewis Carroll:
+
+  законопроект [Listen]
+
+  noun
+   1. законопроект (bill)
+   2. счет (account, score, bill, invoice, count, scoring)
+   3. банкнот (bill, note, bank note, greenback, bank bill)
+   4. билль (bill)
+   5. вексель (bill, bill of exchange, stiff)
+   6. клюв (beak, bill, pecker, rostrum, neb, nib)
+   7. документ (document, paper, instrument, writing, record, bill)
+   8. тратта (draft, bill of exchange, bill, bank bill, draught)
+   9. афиша (poster, bill, placard, affiche, show bill, notice)
+  10. список (list, roster, schedule, register, roll, bill)
+  11. плакат (poster, placard, broadsheet, bill, broadside)
+  12. секач (bill)
+  13. козырек (visor, peak, apron, vizor, bill, windscreen)
+  14. рекламный листок (handbill, bill, dodger, throwaway)
+  15. топор (ax, hatchet, bill, axe)
+  16. алебарда (halberd, billhook, halbert, poleaxe, poleax, bill)
+  17. топорик (hatchet, puffin, bill)
+  18. узкий мыс (bill)
+  19. носок якоря (bill, pea)
+  20. реклама (advertising, advertisement, ad, commercial, publicity, bill)
+  21. программа (program, schedule, scheme, project, blueprint, bill)
+  22. инвентарь (inventory, stock, implements, furniture, list, bill)
+  23. садовые ножницы (secateurs, billhook, bill, averruncator)
+
+  verb
+   1. целоваться клювиками (bill)
+   2. объявлять в афишах (bill)
+   3. расклеивать афиши (bill)
+   4. выдавать накладную (bill)
+   5. выписывать накладную (bill)
+   6. ласкаться (fawn, snuggle up to, bill, bill and coo, canoodle, exchange caresses)
+   7. нежничать (bill and coo, bill)
+
+  A formal statement of a planned new law that is discussed before being voted on.
+  When a bill is passed in Parliament it becomes law.
+
+* anxiously						      :Lewis Carroll:
+  с тревогой
+
+  adverb
+   1. с тревогой (anxiously, in dismay)
+   2. тревожно (anxiously, discomposedly)
+   3. с волнением (anxiously)
+   4. очень (very, very much, extremely, so, highly, anxiously)
+   5. сильно (strong, strongly, highly, heavily, heavy, anxiously)
+
+  Worried and nervous.
+  It was the White Rabbit, trotting slowly back again, and looking
+  anxiously about as it went, as if it had lost something.
+  
+* queer							      :Lewis Carroll:
+  странный
+
+  DEFINITION
+
+  adjective
+   1. strange; odd.
+      "she had a queer feeling that they were being watched"
+
+  * ceiling						      :Lewis Carroll:
+    /ˈsiː.lɪŋ/ 
+    потолок
+
+  noun
+   1. потолок (ceiling, roof, soffit, plafond, back)
+   2. перекрытие (overlap, ceiling, overlay, floor, lap)
+   3. обшивка (skin, covering, sheathing, casing, shell, ceiling)
+   4. максимальная цена (ceiling, roof)
+   5. максимальный выпуск продукции (ceiling)
+   6. предельная высота (ceiling)
+   7. доска для обшивки (ceiling)
+   8. силинг (ceiling)
+
+  The inside surface of a room that you can see when you look above you.
+  The ceiling was embellished with flowers and leaves.
+
+* to stoop						      :Lewis Carroll:
+  сутулость
+
+  noun
+   1. сутулость (slouch, stoop, droop, round shoulders, round back)
+   2. веранда (veranda, verandah, porch, terrace, piazza, stoop)
+   3. падение (drop, fall, incidence, falling, decline, stoop)
+   4. открытая веранда (stoop)
+   5. унижение (humiliation, abjection, indignity, abasement, debasement, stoop)
+   6. снисхождение (condescension, indulgence, stoop)
+   7. стремительный полет вниз (stoop)
+
+  verb
+   1. наклоняться (tilt, lean, bend, tip, incline, stoop)
+   2. нагибаться (bend, stoop)
+   3. нагибать (stoop)
+   4. унижаться (degrade, grovel, stoop, demean, debase, prostrate)
+   5. нагнуться (stoop)
+   6. сутулиться (slouch, stoop, hunch, hunch up, slump)
+   7. сутулить (stoop, hunch, hunch up)
+   8. горбиться (hump, hunch, stoop, slouch, slump, hunch up)
+   9. сгорбиться (stoop)
+  10. унижать (humiliate, degrade, stoop, put down, demean, humble)
+  11. снисходить (condescend, deign, stoop)
+  12. наклониться вперед (bend forward, bend over, stoop)
+  13. устремляться вниз (swoop, stoop, swoop down, stoop down)
+
+  To bend the top half of the body forward and down.
+  The doorway was so low that we had to stoop to go through it.
+  
+
