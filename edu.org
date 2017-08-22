@@ -15174,6 +15174,71 @@ D.3 The Linux kernel's version n
        : drwxr-xr-x 17 andrewkosinov andrewkosinov 4096 Aug 16 07:39 andrewkosinov
        : drwxr-xr-x 23 vikky         vikky         4096 Aug 18 14:15 vikky
 
+       Mode
+
+       In addition to being owned by one user and one group, every
+       file and directory also has a mode, which determines who's
+       allowed to read, write, and execute the file.
+       The mode looks like this in the ls output: -rw-r--r--. There
+       are ten "elements" here, and the mode actually consists of
+       twelve bits (think of bits as switches which can be on or off).
+       Notice that three kinds of permission (read, write, execute)
+       times three sets of people who can have permission (user,
+       group, others) makes a total of nine elements.
+       In the mode line, the first "element" gives the type of the
+       file. The - in this case means it's a regular file. If it was
+       d, we'd be looking at a directory.
+       For regular files, "read", "write", and "execute" have the
+       following meanings:
+
+       - Read permission, indicated by r, gives permission to examine
+         the contents of a file. For directories, it gives permission
+         to list the contents of the directory.
+
+       - Write permission, indicated by w, gives permission to make
+         changes to a file. For directories, it gives permission to
+         create and remove files in the directory.
+
+       - Execute permission, indicated by x, gives permission to run
+         the file as a command. Clearly it only makes sense to set
+         execute permission if the file actually is a command.
+
+       Since directories can never be executed, the execute bit has a
+       different meaning. For directories, execute permission means
+       permission to access files in the directory.
+
+       Directory modes are a little confusing, so here are some
+       examples of the effects of various combinations:
+
+       - r--
+	 The user, group, or other with these permissions may list the
+         contents of the directory, but nothing else. The files in the
+         directory can't be read, changed, deleted, or manipulated in
+         any way. The only permitted action is reading the directory
+         itself, that is, seeing what files it contains.
+
+       - rw-
+	 Write permission has no effect in the absence of execute
+         permission, so this mode behaves just like the above mode.
+
+       - r-x
+	 This mode permits the files in a directory to be listed, and
+         permits access to those files. However, files can't be
+         created or deleted. Access means that you can view, change,
+         or execute the files as permitted by the files' own
+         permissions.
+
+       - --x
+	 Files in this directory can be accessed, but the contents of
+         the directory can't be listed, so you have to know what
+         filename you're looking for in advance. Files can't be
+         created or deleted.
+
+       - rwx
+	 You can do anything you want with the files in this
+         directory, as long as it's permitted by the permissions on
+         the files themselves.
+
 7.2 What files are on my system? Where can I put my own files?
 7.3 Using a filemanager
 8 Creating and editing text files
