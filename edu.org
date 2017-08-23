@@ -15326,7 +15326,26 @@ D.3 The Linux kernel's version n
     use -A or --almost-all, which includes all dotfiles except . and
     ..  
 
-9.2 System-wide vs. user-specific configuration
+*** DONE 9.2 System-wide vs. user-specific configuration
+    CLOSED: [2017-08-23 Wed 06:18]
+
+    System-wide vs. user-specific configuration
+
+    It's important to remember that there are two different kinds of
+    configuration on a Debian system. System-wide configuration
+    affects all users. System-wide settings are made in the /etc
+    directory.
+    You might configure the way the system connects to the internet,
+    for example; or have web browsers on the system always start on
+    the company home page.
+    Since you want these settings to apply to all users, you make the
+    changes in /etc. Sample configuration files in /etc include
+    /etc/X11/XF86Config, /etc/lynx.cfg, and /etc/ppp/options.
+    In fact nearly all the files in /etc are configuration files.
+    Normally you must be root to change system-wide settings.
+    User configuration affects only a single user. Dotfiles are used
+    for user configuration. 
+
 10 The X Window System
 10.1 Starting the X environment
 10.2 Intro: What is X
