@@ -15346,8 +15346,26 @@ D.3 The Linux kernel's version n
     User configuration affects only a single user. Dotfiles are used
     for user configuration. 
 
-10 The X Window System
-10.1 Starting the X environment
+*** TODO 10 The X Window System
+
+    Once you install X, you can enter the X environment by typing
+    startx or via xdm, depending on your choice during configuration.
+
+
+**** DONE 10.1 Starting the X environment
+     CLOSED: [2017-08-23 Wed 06:30]
+
+     There are two ways of starting X. The first is to start X
+     manually when you feel like using it. To do so, log in to one of
+     the text consoles, and type startx.
+     This will start X and switch you to its virtual console.
+     The second (and recommended) way to use X is with xdm, or X
+     Display Manager. Basically xdm gives you a nice graphical login
+     prompt on the X virtual console (probably VC 7), and you log in
+     there.
+     By default, either method will also start an xterm, which is a
+     small window containing a shell prompt.
+
 10.2 Intro: What is X
 10.3 Basic X operations
 10.4 Customizing your X startup
