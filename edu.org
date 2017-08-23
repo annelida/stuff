@@ -15298,14 +15298,34 @@ D.3 The Linux kernel's version n
     messages and try to figure out what you're system's up to if
     something goes wrong.
 
-
 7.3 Using a filemanager
 8 Creating and editing text files
 8.1 What's a text file?
 8.2 Text editors
 8.3 Creating and editing a text file with vi
-9 Customizing the shell
-9.1 .rc files and ls -a
+*** DONE 9 Customizing the shell
+    CLOSED: [2017-08-23 Wed 06:10]
+
+    9.1 .rc files and ls -a
+
+    When you type ls, files beginning with a dot are not listed.
+    Traditionally, files which contain configuration information, user
+    preferences, and so on begin with a dot; these are hidden and out
+    of your way while you do you day-to-day work. Sample dotfiles are
+    ~/.emacs, ~/.newsrc, ~/.bashrc, ~/.xsession, ~/.fvwmrc, etc...
+    These are used by Emacs, newsreaders, the Bash shell, the X Window
+    System, and the fvwm window manager, respectively. It is
+    conventional to end the dotfile name with rc, but some programs
+    don't. There are also directories beginning with a dot, such as
+    ~/.gimp and ~/.netscape, which store preferences for the Gimp and
+    Netscape. Sometimes a program will create a dotfile automatically;
+    for example, Netscape allows you to edit your preferences with a
+    graphical dialog and then it saves your choices.
+    To see dotfiles, you must use the -a option to ls. The long form
+    of -a is --all, if you find that easier to remember. You can also
+    use -A or --almost-all, which includes all dotfiles except . and
+    ..  
+
 9.2 System-wide vs. user-specific configuration
 10 The X Window System
 10.1 Starting the X environment
