@@ -15366,7 +15366,38 @@ D.3 The Linux kernel's version n
      By default, either method will also start an xterm, which is a
      small window containing a shell prompt.
 
-10.2 Intro: What is X
+*** DONE 10.2 Intro: What is X
+    CLOSED: [2017-08-24 Thu 06:17]
+
+    It's basically impossible to write an application for those
+    systems which does not use the GUI, and the systems can't be
+    used effectively from the command line. GNU/Linux is more modular,
+    that is, made up of many small, independent components which
+    can be used or not according to one's needs and preferences.
+    One of these components is the X Window System, or simply X.
+
+    X itself is a means for programs to talk to your mouse and video
+    card, without knowing what kind of mouse and video card you
+    have.
+    That is, it's an abstraction of the graphics hardware.
+    User applications talk to X, in X's language; X then translates
+    into the language of your particular hardware.
+    In X jargon, the program which speaks to the hardware is known as
+    an X server. User applications that ask the X server to show
+    windows or graphics on the screen are called X clients.
+
+    The X server includes a video driver, so you must have an X server
+    which matches your video card.
+
+    The GNOME desktop project is developing an icon-based file manager
+    and other GUI facilities.
+
+    A final feature of X is its network transparency, meaning that X
+    clients don't care if they're talking to an X server on the same
+    machine or an X server somewhere on the network. In practical
+    terms, this means you can run a program on a more powerful remote
+    machine, but display it on your desktop computer.
+
 10.3 Basic X operations
 10.4 Customizing your X startup
 11 Text tools
