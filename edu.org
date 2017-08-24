@@ -15421,6 +15421,12 @@ D.3 The Linux kernel's version n
     You start an X client the same way you start any other Debian
     program. Simply type the name of the client on the command line.
 
+    Troubleshooting
+
+    Sometimes when you launch an X client from a graphical menu, you
+    won't be able to see any error messages if it fails. You can find
+    any error messages in the file ~/.xsession-errors.
+
 10.4 Customizing your X startup
 11 Text tools
 11.1 Regular expressions
