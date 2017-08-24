@@ -15398,7 +15398,20 @@ D.3 The Linux kernel's version n
     terms, this means you can run a program on a more powerful remote
     machine, but display it on your desktop computer.
 
-10.3 Basic X operations
+*** TODO 10.3 Basic X operations
+
+    The mouse
+
+    The mouse in X works pretty much the same as the mouse on other
+    systems, except that it has three buttons.
+
+    If your mouse only has two, you can simulate the third (middle)
+    button by clicking both buttons simultaneously.
+    X has a simple built-in copy-and-paste facility. To select text to
+    copy, you click and drag with the left mouse button.
+    To paste the text, you click the middle mouse button in a
+    different X application.
+
 10.4 Customizing your X startup
 11 Text tools
 11.1 Regular expressions
