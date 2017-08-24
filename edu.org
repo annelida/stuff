@@ -15412,6 +15412,15 @@ D.3 The Linux kernel's version n
     To paste the text, you click the middle mouse button in a
     different X application.
 
+    X clients
+
+    Programs that communicate with the X server are called X clients.
+    Most of these programs will ask the X server to display windows on
+    the screen.
+
+    You start an X client the same way you start any other Debian
+    program. Simply type the name of the client on the command line.
+
 10.4 Customizing your X startup
 11 Text tools
 11.1 Regular expressions
