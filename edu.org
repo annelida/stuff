@@ -15427,7 +15427,36 @@ D.3 The Linux kernel's version n
     won't be able to see any error messages if it fails. You can find
     any error messages in the file ~/.xsession-errors.
 
-10.4 Customizing your X startup
+*** DONE 10.4 Customizing your X startup
+    CLOSED: [2017-08-25 Fri 09:44]
+
+    When you start X, Debian will run some shell scripts which start
+    your window manager and other X clients. By default, a window manager,
+    an xconsole and an xterm will be started for you.
+
+    To customize your X startup, the file /etc/X11/config must contain
+    the line allow-user-xsession. If it does not, become root and add
+    the line.
+
+    To run the clients of your choice when X starts, you create an
+    executable shell script called .xsession in your home directory.
+
+    #+BEGIN_EXAMPLE
+    touch ~/.xsession
+    chmod u+x ~/.xsession
+    #+END_EXAMPLE
+
+    A more useful .xsession runs a few clients before starting the
+    window manager. For example, you might want some xterms and an
+    xclock whenever you start X.
+
+    #+BEGIN_EXAMPLE
+    xterm &
+    xterm &
+    xclock &
+    exec fvwm
+    #+END_EXAMPLE
+  
 11 Text tools
 11.1 Regular expressions
 12 File tools
