@@ -15458,8 +15458,10 @@ D.3 The Linux kernel's version n
      exec fvwm
      #+END_EXAMPLE
    
-*** TODO 11 Text tools
-**** TODO 11.1 Regular expressions
+*** DONE 11 Text tools
+    CLOSED: [2017-08-25 Fri 13:25]
+**** DONE 11.1 Regular expressions
+     CLOSED: [2017-08-25 Fri 13:25]
 
      A regular expression is a description of a set of characters.
      Regular expressions are analagous to shell wildcards, but they
@@ -15507,8 +15509,20 @@ D.3 The Linux kernel's version n
      a line-by-line basis, so freedom and GNU have to be on the same
      line. 
      
-12 File tools
-12.1 Backup tools
+*** TODO 12 File tools
+**** DONE 12.1 Backup tools
+     CLOSED: [2017-08-25 Fri 13:38]
+     tar, cpio, dump; also large-scale copying, cp -a etc.
+
+     Backup commands:
+
+     dump - dumps one filesystem at a time;
+     cpio - `find [directories] -print | cpio -ovH newc -B >/dev/st0'
+     tar - `tar cvf /dev/st0 [directories]'
+     afio - like cpio; supports pre-compression of files before
+     archiving.
+     tob - front-end for afio
+     
 12.2 File compression with gzip
 12.3 Splitting files into smaller pieces
 12.4 Finding files
