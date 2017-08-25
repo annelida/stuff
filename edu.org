@@ -15346,7 +15346,8 @@ D.3 The Linux kernel's version n
     User configuration affects only a single user. Dotfiles are used
     for user configuration. 
 
-*** TODO 10 The X Window System
+*** DONE 10 The X Window System
+    CLOSED: [2017-08-25 Fri 09:47]
 
     Once you install X, you can enter the X environment by typing
     startx or via xdm, depending on your choice during configuration.
@@ -15366,99 +15367,99 @@ D.3 The Linux kernel's version n
      By default, either method will also start an xterm, which is a
      small window containing a shell prompt.
 
-*** DONE 10.2 Intro: What is X
-    CLOSED: [2017-08-24 Thu 06:17]
+**** DONE 10.2 Intro: What is X
+     CLOSED: [2017-08-24 Thu 06:17]
 
-    It's basically impossible to write an application for those
-    systems which does not use the GUI, and the systems can't be
-    used effectively from the command line. GNU/Linux is more modular,
-    that is, made up of many small, independent components which
-    can be used or not according to one's needs and preferences.
-    One of these components is the X Window System, or simply X.
+     It's basically impossible to write an application for those
+     systems which does not use the GUI, and the systems can't be
+     used effectively from the command line. GNU/Linux is more modular,
+     that is, made up of many small, independent components which
+     can be used or not according to one's needs and preferences.
+     One of these components is the X Window System, or simply X.
 
-    X itself is a means for programs to talk to your mouse and video
-    card, without knowing what kind of mouse and video card you
-    have.
-    That is, it's an abstraction of the graphics hardware.
-    User applications talk to X, in X's language; X then translates
-    into the language of your particular hardware.
-    In X jargon, the program which speaks to the hardware is known as
-    an X server. User applications that ask the X server to show
-    windows or graphics on the screen are called X clients.
+     X itself is a means for programs to talk to your mouse and video
+     card, without knowing what kind of mouse and video card you
+     have.
+     That is, it's an abstraction of the graphics hardware.
+     User applications talk to X, in X's language; X then translates
+     into the language of your particular hardware.
+     In X jargon, the program which speaks to the hardware is known as
+     an X server. User applications that ask the X server to show
+     windows or graphics on the screen are called X clients.
 
-    The X server includes a video driver, so you must have an X server
-    which matches your video card.
+     The X server includes a video driver, so you must have an X server
+     which matches your video card.
 
-    The GNOME desktop project is developing an icon-based file manager
-    and other GUI facilities.
+     The GNOME desktop project is developing an icon-based file manager
+     and other GUI facilities.
 
-    A final feature of X is its network transparency, meaning that X
-    clients don't care if they're talking to an X server on the same
-    machine or an X server somewhere on the network. In practical
-    terms, this means you can run a program on a more powerful remote
-    machine, but display it on your desktop computer.
+     A final feature of X is its network transparency, meaning that X
+     clients don't care if they're talking to an X server on the same
+     machine or an X server somewhere on the network. In practical
+     terms, this means you can run a program on a more powerful remote
+     machine, but display it on your desktop computer.
 
-*** TODO 10.3 Basic X operations
+**** TODO 10.3 Basic X operations
 
-    The mouse
+     The mouse
 
-    The mouse in X works pretty much the same as the mouse on other
-    systems, except that it has three buttons.
+     The mouse in X works pretty much the same as the mouse on other
+     systems, except that it has three buttons.
 
-    If your mouse only has two, you can simulate the third (middle)
-    button by clicking both buttons simultaneously.
-    X has a simple built-in copy-and-paste facility. To select text to
-    copy, you click and drag with the left mouse button.
-    To paste the text, you click the middle mouse button in a
-    different X application.
+     If your mouse only has two, you can simulate the third (middle)
+     button by clicking both buttons simultaneously.
+     X has a simple built-in copy-and-paste facility. To select text to
+     copy, you click and drag with the left mouse button.
+     To paste the text, you click the middle mouse button in a
+     different X application.
 
-    X clients
+     X clients
 
-    Programs that communicate with the X server are called X clients.
-    Most of these programs will ask the X server to display windows on
-    the screen.
+     Programs that communicate with the X server are called X clients.
+     Most of these programs will ask the X server to display windows on
+     the screen.
 
-    You start an X client the same way you start any other Debian
-    program. Simply type the name of the client on the command line.
+     You start an X client the same way you start any other Debian
+     program. Simply type the name of the client on the command line.
 
-    Troubleshooting
+     Troubleshooting
 
-    Sometimes when you launch an X client from a graphical menu, you
-    won't be able to see any error messages if it fails. You can find
-    any error messages in the file ~/.xsession-errors.
+     Sometimes when you launch an X client from a graphical menu, you
+     won't be able to see any error messages if it fails. You can find
+     any error messages in the file ~/.xsession-errors.
 
-*** DONE 10.4 Customizing your X startup
-    CLOSED: [2017-08-25 Fri 09:44]
+**** DONE 10.4 Customizing your X startup
+     CLOSED: [2017-08-25 Fri 09:44]
 
-    When you start X, Debian will run some shell scripts which start
-    your window manager and other X clients. By default, a window manager,
-    an xconsole and an xterm will be started for you.
+     When you start X, Debian will run some shell scripts which start
+     your window manager and other X clients. By default, a window manager,
+     an xconsole and an xterm will be started for you.
 
-    To customize your X startup, the file /etc/X11/config must contain
-    the line allow-user-xsession. If it does not, become root and add
-    the line.
+     To customize your X startup, the file /etc/X11/config must contain
+     the line allow-user-xsession. If it does not, become root and add
+     the line.
 
-    To run the clients of your choice when X starts, you create an
-    executable shell script called .xsession in your home directory.
+     To run the clients of your choice when X starts, you create an
+     executable shell script called .xsession in your home directory.
 
-    #+BEGIN_EXAMPLE
-    touch ~/.xsession
-    chmod u+x ~/.xsession
-    #+END_EXAMPLE
+     #+BEGIN_EXAMPLE
+     touch ~/.xsession
+     chmod u+x ~/.xsession
+     #+END_EXAMPLE
 
-    A more useful .xsession runs a few clients before starting the
-    window manager. For example, you might want some xterms and an
-    xclock whenever you start X.
+     A more useful .xsession runs a few clients before starting the
+     window manager. For example, you might want some xterms and an
+     xclock whenever you start X.
 
-    #+BEGIN_EXAMPLE
-    xterm &
-    xterm &
-    xclock &
-    exec fvwm
-    #+END_EXAMPLE
-  
-11 Text tools
-11.1 Regular expressions
+     #+BEGIN_EXAMPLE
+     xterm &
+     xterm &
+     xclock &
+     exec fvwm
+     #+END_EXAMPLE
+   
+*** TODO 11 Text tools
+**** TODO 11.1 Regular expressions
 12 File tools
 12.1 Backup tools
 12.2 File compression with gzip
