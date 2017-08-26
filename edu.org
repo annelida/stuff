@@ -15568,7 +15568,34 @@ D.3 The Linux kernel's version n
      myprefixaa, myprefixab, etc.
      If you leave off the m, it will be understood as megabytes
      If you use k instead of m, it will be understood as
-     kilobytes. 
+     kilobytes.
+
+     #+BEGIN_SRC sh :results output
+     cd ~/practice
+     cat myprefix* > mynewfile.pdf
+     ls -l
+     #+END_SRC
+
+     #+RESULTS:
+     #+begin_example
+     total 20932
+     -rw-r--r-- 1 vikky vikky      11 Aug 21 09:19 bob.txt
+     -rw-r--r-- 1 vikky vikky    1852 Aug 25 10:06 GPL
+     -rw-r--r-- 1 vikky vikky 5349582 Aug 26 08:47 How Linux Works 2nd Edition.pdf
+     -rw-r--r-- 1 vikky vikky       6 Aug 21 09:09 myfile
+     -rw-r--r-- 1 vikky vikky 5349582 Aug 26 08:17 myfile.pdf
+     -rw-r--r-- 1 vikky vikky 5349582 Aug 26 08:47 mynewfile.pdf
+     -rw-r--r-- 1 vikky vikky 1048576 Aug 26 08:27 myprefixaa
+     -rw-r--r-- 1 vikky vikky 1048576 Aug 26 08:27 myprefixab
+     -rw-r--r-- 1 vikky vikky 1048576 Aug 26 08:27 myprefixac
+     -rw-r--r-- 1 vikky vikky 1048576 Aug 26 08:27 myprefixad
+     -rw-r--r-- 1 vikky vikky 1048576 Aug 26 08:27 myprefixae
+     -rw-r--r-- 1 vikky vikky  106702 Aug 26 08:27 myprefixaf
+     -rw-r--r-- 1 vikky vikky     767 Aug 18 14:15 myprofile
+     drwxr-xr-x 3 vikky vikky    4096 Aug 18 14:36 mysubdirectory
+#+end_example
+
+     Concatenate all the files and write them to mynewfile.
 
      
 12.4 Finding files
