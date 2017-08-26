@@ -15524,7 +15524,8 @@ D.3 The Linux kernel's version n
      tob - front-end for afio
      
 12.2 File compression with gzip
-**** TODO 12.3 Splitting files into smaller pieces
+**** DONE 12.3 Splitting files into smaller pieces
+     CLOSED: [2017-08-26 Sat 08:58]
 
      Sometimes a file is too big to fit on a disk, or you don't want
      to send a huge file over the net in a single chunk. You can split
@@ -15596,9 +15597,30 @@ D.3 The Linux kernel's version n
 #+end_example
 
      Concatenate all the files and write them to mynewfile.
+     
+**** DONE 12.4 Finding files
+     CLOSED: [2017-08-26 Sat 09:22]
+
+     Find file in home directory
+
+     #+BEGIN_SRC sh :results output
+     find ~ -name myfile.* -print
+     #+END_SRC
+
+     #+RESULTS:
+     : /home/vikky/practice/myfile.pdf
+
+     Find file in current directory
+
+     #+BEGIN_SRC sh :results output
+     cd ~/practice
+     find . -name myfile.* -print
+     #+END_SRC
+
+     #+RESULTS:
+     : ./myfile.pdf
 
      
-12.4 Finding files
 12.5 Determining a file's contents
 13 Using disks
 13.1 Concepts
