@@ -9674,5 +9674,206 @@ adjective
 
   To bend the top half of the body forward and down.
   The doorway was so low that we had to stoop to go through it.
+
+* elbow							      :Lewis Carroll:
+  локоть
+
+  noun
+   1. локоть (elbow, cubit)
+   2. колено (knee, elbow, bend, leg, limb, genu)
+   3. угольник (angle, elbow, setsquare, leg, center, knee)
+   4. подлокотник (armrest, arm, elbow, elbow rest)
+   5. коленчатая труба (elbow)
+
+  verb
+   1. толкать локтем (elbow)
+   2. проталкиваться (push, push through, shoulder, elbow, buffet, squash)
+   3. толкать локтями (elbow)
+   4. толкаться локтями (elbow)
+   5. протискиваться (squeeze, scramble, thrust, needle, jostle through, elbow)
+
+  DEFINITION
+
+  noun
+   1. the joint between the forearm and the upper arm.
+
+  Her arm was bandaged from the elbow to the fingers.
+  
+* ought							      :Lewis Carroll:
+
+  должен
+
+  auxiliary verb
+   1. должен (should, must, have to, be, ought)
+
+  noun
+   1. долг (debt, duty, obligation, credit, trust, ought)
+   2. обязанность (duty, responsibility, obligation, office, business, ought)
+   3. ничто (nothing, nothingness, naught, zilch, zero, ought)
+   4. ноль (zero, nil, nothing, cipher, ought, cypher)
+   5. нуль (zero, null, nil, naught, cipher, ought)
+   6. ничтожество (nothingness, nonentity, nullity, nobody, cipher, ought)
+
+  DEFINITION
+
+  verb
+   1. used to indicate duty or correctness, typically when criticizing someone's actions.
+      "they ought to respect the law"
+   2. used to indicate something that is probable.
+      "five minutes ought to be enough time"
+
+* sorrowful						      :Lewis Carroll:
+  скорбный [Listen]
+
+  adjective
+   1. печальный (sad, sorrowful, mournful, deplorable, dismal, tragic)
+   2. скорбный (mournful, sorrowful, doleful, woeful, lamentable, distressful)
+   3. горестный (woeful, sorrowful, grievous, rueful, harrowing, plaintive)
+   4. плачевный (deplorable, lamentable, sorrowful)
+   5. прискорбный (deplorable, regrettable, grievous, lamentable, tragic, sorrowful)
+   6. траурный (mourning, funereal, mournful, sable, sorrowful, lugubrious)
+   7. убитый горем (heartbroken, stricken with grief, sorrowful, prostrate with grief, broken-hearted)
+
+  DEFINITION
+
+  adjective
+   1. feeling or showing grief.
+    "she looked at him with sorrowful eyes"
+
+* conclude						      :Lewis Carroll:
+  заключать
+
+  verb
+   1. заключать (conclude, enclose, infer, include, establish, close)
+   2. делать вывод (conclude, infer, deduce, draw a conclusion, reason, elicit)
+   3. заканчивать (end, finish, complete, close, conclude, finalize)
+   4. заканчиваться (end, close, conclude, let out, be up)
+   5. выводить (deduce, derive, conclude, show, remove, draw)
+   6. решать (decide, solve, resolve, settle, determine, conclude)
+   7. выводить заключение (conclude, infer, educe)
+   8. принимать решение (decide, resolve, arrive at a decision, settle, come to a decision, conclude)
+
+  To end a speech, meeting, or piece of writing.
+  She concluded the speech by reminding us of our responsibility.
+
+* coward						      :Lewis Carroll:
+  трус
+
+  noun
+   1. трус (coward, chicken, poltroon, craven, patsy, capon)
+
+  adjective
+   1. трусливый (cowardly, coward, funky, dastardly, sneaky, craven)
+   2. малодушный (cowardly, craven, faint-hearted, pusillanimous, coward, recreant)
+   3. робкий (timid, shy, fearful, sheepish, gingerly, coward)
+
+  A person who is not brave and is too eager to avoid danger,
+  difficulty, or pain.
+  He is a coward and a bully.
+
+* snatch						      :Lewis Carroll:
+  урвать
+
+  verb
+   1. урвать (snatch, snaffle)
+   2. схватить (seize, catch, take hold of, grapple, capture, snatch)
+   3. хватать (seize, suffice, snatch, last, claw, pluck at)
+   4. вырывать (pull out, snatch, wrest, pry, tear out, extract)
+   5. хвататься (grasp, clutch, snatch, pluck at)
+   6. ухватить (clutch, snatch)
+   7. стащить (sneak, pull off, filch, snatch, nick, snitch)
+   8. похищать (abduct, reave, snatch, purloin, carry off, ravish)
+   9. ухватиться (seize, seize upon, clutch, snatch, leap, fasten upon)
+  10. срывать (tear, pluck, tear off, frustrate, disrupt, snatch)
+  11. цапать (snatch, grab, seize)
+
+  noun
+   1. рывок (jerk, spurt, dash, tug, snatch, yank)
+   2. обрывок (piece, fragment, snatch, patch, scraps, wisp)
+   3. хватание (prehension, snatch)
+   4. хватка (grip, grasp, snap, hug, clutch, snatch)
+   5. момент (moment, point, momentum, instant, minute, snatch)
+   6. мгновение (instant, moment, flash, second, minute, snatch)
+   7. короткий промежуток времени (snatch, spell)
+   8. похищение людей (kidnapping, snatch)
+
+      To take hold of something suddenly and roughly:
+      He snatched the photos out of my hand before I had a chance
+      to look at them.
+    
+* kick							      :Lewis Carroll:
+  удар [Listen]
+
+  noun
+   1. удар (hit, impact, blow, strike, shock, kick)
+   2. пинок (kick, bunt, jab, dig, footer)
+   3. удар ногой (kick, punt)
+   4. толчок (push, impetus, impulse, thrust, kick, jolt)
+   5. удовольствие (pleasure, delight, enjoyment, gratification, treat, kick)
+   6. отдача (return, recoil, output, efficiency, kickback, kick)
+   7. возбуждение (excitation, excitement, agitation, stimulation, field, kick)
+   8. футболист (footballer, football player, soccer player, kicker, kick)
+   9. крепость (fortress, strength, stronghold, citadel, tower, kick)
+  10. отскакивание (rebound, kick)
+  11. энергия (energy, power, vigor, vitality, intensity, kick)
+  12. жизненная сила (kick)
+  13. мода (fashion, mode, vogue, style, craze, kick)
+  14. вдавленное дно бутылки (kick)
+  15. сильное увлечение (kick)
+  16. протест (protest, outcry, objection, revolt, caveat, kick)
+  17. приятное возбуждение (exhilaration, kick)
+  18. брыкание (buck, kick)
+  19. удар копытом (kick)
+
+  verb
+   1. пинать (kick)
+   2. брыкаться (kick, buck, fling, fling out)
+   3. лягаться (kick)
+   4. выгонять (expel, kick, out, chase, drive out, cast out)
+   5. избавиться (escape, dispose of, kick, offload, liquidate, kill off)
+   6. умереть (die, kick, kick in, pass away, succumb, snuff)
+   7. забивать гол (kick)
+   8. брыкать (kick)
+   9. ударять ногой (kick)
+  10. отдавать (give, give away, return, render, give back, kick)
+  11. высоко подпрыгивать (kick)
+  12. лягать (kick, foot)
+  13. выставлять (expose, exhibit, put up, display, show, kick)
+  14. быть недовольным собой (kick)
+  15. проявлять недовольство (kick, kick against, kick at)
+  16. проявлять строптивость (kick, kick against, kick at)
+  17. противиться (resist, oppose, counter, buck, stand against, kick)
+  18. жаловаться (complain, lament, beef, grumble, moan, kick)
+  19. брыкнуть (kick)
+  20. бить по мячу (kick)
+  21. высоко подбрасывать (kick)
+
+      To hit someone or something with the foot, or to move the feet and
+      legs suddenly and violently.
+      I kicked the ball as hard as I could.
+
+* feeble						      :Lewis Carroll:
+
+  слабый [Listen]
+
+  adjective
+   1. слабый (weak, weakly, low, feeble, faint, slight)
+   2. немощный (infirm, feeble, sickish)
+   3. хилый (frail, puny, feeble, ailing, puisne, weakly)
+   4. ничтожный (insignificant, paltry, little, small, puny, feeble)
+   5. бледный (pale, light, pallid, faint, wan, feeble)
+   6. бессильный (powerless, impotent, weak, feeble, nerveless, strengthless)
+   7. невыразительный (inexpressive, featureless, expressionless, dismal, toneless, feeble)
+   8. бесхарактерный (spineless, boneless, characterless, invertebrate, molluscous, feeble)
+
+  noun
+   1. слабина (slack, feeble)
+   2. слабое место (weak point, weakness, weakspot, feeble)
+
+  DEFINITION
+
+  adjective
+   1. lacking physical strength, especially as a result of age or illness.
+      "my legs are very feeble after the flu"
   
 
