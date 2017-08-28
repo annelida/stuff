@@ -15639,9 +15639,37 @@ D.3 The Linux kernel's version n
 
      You can use it to explore your system.
      
-12.5 Determining a file's contents
-13 Using disks
-13.1 Concepts
+*** TODO 13 Using disks
+
+**** DONE 13.1 Concepts
+     CLOSED: [2017-08-28 Mon 06:24]
+
+    - The filesystem refers to the whole directory tree, starting with
+      the root directory /;
+    - A "filesystem" in general means any organization of files and
+      directories on a particular physical device. "Organization"
+      means the hierarchical directory structure, and any other
+      information about files one might want to keep track of: their
+      size, who has permission to change them, etc. So you might have
+      one filesystem on your hard disk, and another one on each floppy
+      disk.
+    - "Filesystem" is also used to mean a type of filesystem. For
+      example, MS-DOS and Windows 3.1 organize files in a particular
+      way, with particular rules: filenames can only have 8
+      characters, for example, and no permissions information is
+      stored. Linux calls this the msdos filesystem. Linux also has
+      its own filesystem, called the ext2 filesystem (version two of
+      the ext filesystem). You'll use the ext2 filesystem pretty much
+      all the time, unless you're accessing files from another
+      operating system or have other special needs.
+      
+    Any physical device you wish to use for storing files must have at
+    least one filesystem on it.
+    This means a filesystem in the second sense - a hierarchy of files
+    and directories, along with information about them.
+    The filesystem is the level of organization you have to worry
+    about --- names of directories and files, their sizes, etc. 
+     
 13.2 mount and /etc/fstab
 13.3 PPP
 14 Removing and installing software
