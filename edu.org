@@ -14367,7 +14367,8 @@ D.3 The Linux kernel's version n
     it to finish and then properly reboot or shutdown again.
 
 4 The Basics
-*** TODO 4.1 The command line and man pages
+*** DONE 4.1 The command line and man pages
+    CLOSED: [2017-08-28 Mon 06:10]
     We've already discussed the command line, that is commands you
     type after the shell prompt.
 
@@ -15050,7 +15051,8 @@ D.3 The Linux kernel's version n
     You don't see all the commands being typed in, Of course any
     output will be recorded somewhere (the standard output, or stdout,
     normally the screeen or a log file).
-*** TODO 7 More on files
+*** DONE 7 More on files
+    CLOSED: [2017-08-28 Mon 06:10]
     7.1 Permissions
     7.1.1 File Ownership
 
@@ -15620,6 +15622,22 @@ D.3 The Linux kernel's version n
      #+RESULTS:
      : ./myfile.pdf
 
+**** DONE Determining a file's contents
+     CLOSED: [2017-08-28 Mon 06:16]
+
+     Debian comes with a utility which can guess at the contents of a
+     file for you.
+
+     #+BEGIN_SRC sh :results output
+     file /bin/cp
+     #+END_SRC
+
+     #+RESULTS:
+     : /bin/cp: ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV),
+     : dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32,
+     : BuildID[sha1]=66c12caf1b1fe3fc03b9770c8dbead3210864f6b, stripped
+
+     You can use it to explore your system.
      
 12.5 Determining a file's contents
 13 Using disks
