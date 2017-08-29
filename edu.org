@@ -15873,6 +15873,25 @@ D.3 The Linux kernel's version n
       /dev/sda - raw device
       /dev/sda1 - 'virtual' device, like a partition.
 
+      SCSI devices
+
+      Your memory stick will be considered as a USB mass storage
+      device posing as a removable SCSI disk (sd).
+      SCSI disk devices are mapped to the /dev (devices) directory under 
+      /dev/sda, /dev/sdb , ... When different disk devices are
+      present, they will be mapped to /dev/sda, /dev/sdb, etc.
+
+      It will be assumed that only one memory stick is present, and
+      therefore mapped to /dev/sda:
+
+      #+BEGIN_SRC sh :results output
+      ls /dev/sda*
+      #+END_SRC
+
+      #+RESULTS:
+      : /dev/sda
+      : /dev/sda1
+
 13.3 PPP
 14 Removing and installing software
 14.1 The dpkg package utility
