@@ -15670,7 +15670,209 @@ D.3 The Linux kernel's version n
     The filesystem is the level of organization you have to worry
     about --- names of directories and files, their sizes, etc. 
      
-13.2 mount and /etc/fstab
+**** TODO 13.2 mount and /etc/fstab
+
+     Mounting a filesystem
+
+     On a GNU/Linux system there's no necessary correspondence between
+     directories and physical devices, as there is in Windows where
+     each drive has its own directory tree beginning with a letter
+     (such as C:\).
+
+     Instead, each physical device such as a hard disk or floppy disk
+     has one or more filesystems on it.
+     In order to make a filesystem accessible, it's assigned to a
+     particular directory in another filesystem.
+     To avoid circularity, the root filesystem (which contains the
+     root directory /) is not contained by any other filesystem.
+     You have access to it automatically when you boot Debian.
+     A directory in one filesystem which contains another filesystem
+     is known as a mount point.
+     A mount point is a directory in a first filesystem on one device
+     (such as your hard disk) which "contains" a second filesystem,
+     perhaps on another device (such as a floppy disk).
+     To access a filesystem, you must mount it at some mount point.
+
+     So, for example, you might mount a USB-drive at the mount point /usb.
+     This means that if you look in the directory /usb, you'll see
+     the contents of the USB-drive.
+     Once you mount a filesystem, there's no need to pay any attention
+     to physical devices.
+     However, before mounting a filesystem, or to actually create a
+     filesystem on a disk that doesn't have one yet, it's necessary to
+     refer to the devices themselves.
+     All devices have names, and these are located in the /dev
+     directory.
+
+     #+BEGIN_SRC sh :results output
+     ls /dev
+     #+END_SRC
+
+     #+RESULTS:
+     #+begin_example
+     autofs
+     block
+     bsg
+     btrfs-control
+     bus
+     cdrom
+     cdrw
+     char
+     console
+     core
+     cpu
+     cpu_dma_latency
+     cuse
+     disk
+     dri
+     dvd
+     dvdrw
+     fb0
+     fd
+     full
+     fuse
+     fw0
+     hidraw0
+     hidraw1
+     hidraw2
+     hpet
+     hugepages
+     initctl
+     input
+     kmsg
+     log
+     loop-control
+     mapper
+     mcelog
+     mem
+     memory_bandwidth
+     mqueue
+     net
+     network_latency
+     network_throughput
+     null
+     port
+     ppp
+     psaux
+     ptmx
+     pts
+     random
+     rfkill
+     rtc
+     rtc0
+     sda
+     sda1
+     sg0
+     sg1
+     shm
+     snapshot
+     snd
+     sr0
+     stderr
+     stdin
+     stdout
+     tty
+     tty0
+     tty1
+     tty10
+     tty11
+     tty12
+     tty13
+     tty14
+     tty15
+     tty16
+     tty17
+     tty18
+     tty19
+     tty2
+     tty20
+     tty21
+     tty22
+     tty23
+     tty24
+     tty25
+     tty26
+     tty27
+     tty28
+     tty29
+     tty3
+     tty30
+     tty31
+     tty32
+     tty33
+     tty34
+     tty35
+     tty36
+     tty37
+     tty38
+     tty39
+     tty4
+     tty40
+     tty41
+     tty42
+     tty43
+     tty44
+     tty45
+     tty46
+     tty47
+     tty48
+     tty49
+     tty5
+     tty50
+     tty51
+     tty52
+     tty53
+     tty54
+     tty55
+     tty56
+     tty57
+     tty58
+     tty59
+     tty6
+     tty60
+     tty61
+     tty62
+     tty63
+     tty7
+     tty8
+     tty9
+     ttyS0
+     ttyS1
+     ttyS2
+     ttyS3
+     uhid
+     uinput
+     urandom
+     usb
+     vcs
+     vcs1
+     vcs2
+     vcs3
+     vcs4
+     vcs5
+     vcs6
+     vcs7
+     vcsa
+     vcsa1
+     vcsa2
+     vcsa3
+     vcsa4
+     vcsa5
+     vcsa6
+     vcsa7
+     vga_arbiter
+     vhci
+     vhost-net
+     zero
+#+end_example
+
+      The first hard drive detected by a Linux system carries the sda
+      label.
+      The “sd” is short for SCSI mass-storage driver. (SCSI stands for
+      Small Computer System Interface.)
+      /dev/sda - raw device
+      /dev/sda1 - 'virtual' device, like a partition.
+
 13.3 PPP
 14 Removing and installing software
 14.1 The dpkg package utility
