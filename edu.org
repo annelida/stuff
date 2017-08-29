@@ -15892,6 +15892,11 @@ D.3 The Linux kernel's version n
       : /dev/sda
       : /dev/sda1
 
+      The device as a whole is mapped to /dev/sda, while /dev/sdax
+      (x = 1 ... 15) represent the various partitions of the device.
+      If you intend to use your memory stick with a single partition
+      (filesystem), /dev/sda1 is sufficient.
+
 13.3 PPP
 14 Removing and installing software
 14.1 The dpkg package utility
