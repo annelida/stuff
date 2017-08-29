@@ -15897,6 +15897,37 @@ D.3 The Linux kernel's version n
       If you intend to use your memory stick with a single partition
       (filesystem), /dev/sda1 is sufficient.
 
+      Example: Mounting a CD-ROM
+      You'll need to be root to do this
+
+      #+BEGIN_EXAMPLE
+      1. su
+      2. ls /cdrom
+         See what's in the /cdrom directory before you start. If you
+         don't have a /cdrom directory, you may have to make one using
+         mkdir /cdrom.
+      3. mount
+         Typing simply mount with no arguments lists the currently
+         mounted filesystems.
+      4. mount -t iso9660 CD device /cdrom
+         For this command, you should substitute the name of your CD-ROM
+         device for CD device in the above command line. If you aren't sure,
+         /dev/cdrom is a good guess since the install process should have created
+         this symbolic link on the system.
+         The -t option specifies the type of the filesystem, in this case iso9660.
+         The next argument is the name of the device to mount, and the final argument
+         is the mount point.
+      5. ls /cdrom
+      6. mount
+         Look at the list of filesystems again, noticing that your CD drive is now mounted.
+      7. umount /cdrom
+         This unmounts the CD. It's now safe to remove the CD from the drive. Notice that
+         the command is umount with no "n", even though it's used to unmount the filesystem.
+      8. exit
+         Don't leave yourself logged on as root. Log out immediately, just to be safe.
+           
+      #+END_EXAMPLE
+
 13.3 PPP
 14 Removing and installing software
 14.1 The dpkg package utility
