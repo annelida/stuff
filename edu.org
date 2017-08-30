@@ -15511,7 +15511,8 @@ D.3 The Linux kernel's version n
      a line-by-line basis, so freedom and GNU have to be on the same
      line. 
      
-*** TODO 12 File tools
+*** DONE 12 File tools
+    CLOSED: [2017-08-30 Wed 11:59]
 **** DONE 12.1 Backup tools
      CLOSED: [2017-08-25 Fri 13:38]
      tar, cpio, dump; also large-scale copying, cp -a etc.
@@ -15929,9 +15930,29 @@ D.3 The Linux kernel's version n
       #+END_EXAMPLE
 
 13.3 PPP
-14 Removing and installing software
+*** TODO 14 Removing and installing software
+
 14.1 The dpkg package utility
-14.2 What a package maintenance utility does
+**** DONE 14.2 What a package maintenance utility does
+     CLOSED: [2017-08-30 Wed 12:07]
+
+     An application or utility program usually involves quite a few
+     files.
+     It might involve libraries, data files like game scenarios or
+     icons, configuration files, manual pages and documentation.
+     When you install the program, you want to make sure you have all
+     the files you need in the right place.
+     You'd also like to be able to uninstall the program. When you
+     uninstall, you want to be sure all the associated files are
+     deleted.
+     Finally, you'd like to be able to upgrade a program. When you
+     upgrade, you want to delete obsolete files and add new ones,
+     without breaking any part of the system.
+     Debian system  allows you to install, remove, and upgrade software packages,
+     which are neat little bundles containing the program files and
+     information that helps the computer manage them properly.
+     Debian packages have filenames ending in the extension .deb
+ 
 14.3 Apt
 14.4 Using dselect.
 14.5 Using dpkg manually
