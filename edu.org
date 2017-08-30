@@ -15953,7 +15953,47 @@ D.3 The Linux kernel's version n
      information that helps the computer manage them properly.
      Debian packages have filenames ending in the extension .deb
  
-14.3 Apt
+**** DONE 14.3 Apt
+     CLOSED: [2017-08-30 Wed 13:47]
+
+     APT (for Advanced Package Tool) is a set of tools for managing
+     Debian packages, and therefore the applications installed on your
+     Debian system. APT makes it possible to:
+
+     - Install applications;
+     - Remove applications;
+     - Keep your applications up to date.
+
+     APT delegates the actual installation and removal of packages to
+     dpkg. APT is primarily used by commandline tools.
+     The source list is designed to support any number of active
+     sources and a variety of source media.
+
+     #+BEGIN_SRC sh :results output
+     cd /etc/apt
+     cat sources.list
+     #+END_SRC
+
+     #+RESULTS:
+     #+begin_example
+     # deb http://debian.volia.net/debian/ stretch main
+
+     deb http://debian.volia.net/debian/ stretch main
+     deb-src http://debian.volia.net/debian/ stretch main
+
+     deb http://debian.volia.net/debian/ stretch/updates main
+     deb-src http://debian.volia.net/debian/ stretch/updates main
+
+     # stretch-updates, previously known as 'volatile'
+     deb http://debian.volia.net/debian/ stretch-updates main
+     deb-src http://debian.volia.net/debian/ stretch-updates main
+
+     # Firefox for Debian:
+     deb http://security.debian.org/ stretch/updates main
+
+#+end_example
+
+
 14.4 Using dselect.
 14.5 Using dpkg manually
 14.6 Compiling software yourself
