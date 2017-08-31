@@ -1,5 +1,5 @@
 #+STARTUP: hidestars
-#+TAGS: STUDY(s) WORK(w)
+#+TAGS: STUDY(s) WORK(w) drill(d)
 
  First thing first, hence it is necessary to study how to:
 
@@ -31033,3 +31033,20 @@ Note that the order of the rules for determining column affinity is important. A
     #+RESULTS:
     | 0 | 0 | 0 | SCAN TABLE COMPANY |
 
+
+* Item								      :drill:
+  :PROPERTIES:
+  :ID:       f6bff750-7df7-49fe-838f-c8f26ef6d460
+  :DRILL_LAST_INTERVAL: 0.0
+  :DRILL_REPEATS_SINCE_FAIL: 1
+  :DRILL_TOTAL_REPEATS: 3
+  :DRILL_FAILURE_COUNT: 3
+  :DRILL_AVERAGE_QUALITY: 0.667
+  :DRILL_EASE: 2.5
+  :DRILL_LAST_QUALITY: 0
+  :DRILL_LAST_REVIEWED: [2017-08-31 Thu 08:24]
+  :END:
+  What is the capital city of Estonia?
+
+** The Answer
+   Tallin
