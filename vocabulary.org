@@ -1,3 +1,4 @@
+#+TAGS: LewisCarroll(l) drill(d)
 *** BBC learning English
 folks - an informal word for a group of people
 
@@ -9876,4 +9877,75 @@ adjective
    1. lacking physical strength, especially as a result of age or illness.
       "my legs are very feeble after the flu"
   
+
+
+* altogether						       :LewisCarroll:
+  в целом 
+
+  adverb
+   1. совсем (quite, at all, just, altogether, real, clear)
+   2. в целом (generally, on the whole, altogether, in total, in its entirety, all in all)
+   3. совершенно (completely, absolutely, quite, entirely, perfectly, altogether)
+   4. всего (only, in all, altogether, all in all)
+   5. вполне (quite, completely, well, fully, perfectly, altogether)
+   6. всецело (entirely, wholly, completely, all, altogether, exclusively)
+   7. в общем (in general, generally, in all, on the whole, all in all, altogether)
+
+  noun
+   1. целое (whole, integer, unit, entire, all, altogether)
+
+  DEFINITION
+
+  adverb
+   1. completely; totally.
+      "I stopped seeing her altogether"
+  She wrote less and less often, and eventually she stopped altogether.
+* patter 						       :LewisCarroll:
+  скороговорка 
+
+  noun
+   1. скороговорка (patter, tongue-twister)
+   2. говорок (patter)
+   3. болтовня (chatter, talk, gossip, babble, twaddle, patter)
+   4. стук дождя (patter, pelt)
+   5. жаргон (jargon, slang, lingo, argot, cant, patter)
+   6. условный язык (patter)
+   7. легкий топот (patter)
+   8. речитативные вставки в песню (patter)
+   9. реприза (repeat, patter, boff, boffo)
+  10. топотание (patter)
+
+  verb
+   1. барабанить (drum, patter, thrum, drub, pelt, pitter-patter)
+   2. бормотать (mumble, mutter, murmur, babble, burble, patter)
+   3. стучать (knock, tap, rap, chatter, hammer, patter)
+   4. говорить скороговоркой (patter)
+   5. тараторить (gibber, jabber, gabble, patter)
+   6. топотать (patter, brattle)
+   7. семенить (patter)
+
+  The sound of a lot of things gently and repeatedly hitting a surface:
+  As I close my eyes I hear the patter of rain on the window.
+
+* shriek						       :LewisCarroll:
+
+  визг [Listen]
+
+  noun
+   1. визг (squeal, screech, shriek, scream, yelp, yelping)
+   2. пронзительный крик (shriek, scream, squawk, yell, squeal, squall)
+   3. скрежет (grinding, gritting, rasp, shriek, skirr)
+   4. скрип (creak, squeak, scratch, scrape, screech, shriek)
+
+  verb
+   1. вопить (yell, scream, cry, wail, shriek, holler)
+   2. визжать (squeal, shrill, screech, yelp, shriek, squall)
+   3. вскрикивать (scream, cry out, shriek)
+   4. пронзительно кричать (scream, squawk, shriek, shrill, squeal, squall)
+   5. выкрикивать (cry out, call out, yell, shriek, bawl out, outcry)
+
+  A short, loud, high cry, especially one produced suddenly as an expression
+  of a powerful emotion:
+
+  He suddenly let out a piercing shriek.
 
