@@ -13791,7 +13791,22 @@ Chapter 4 Disks and Filesystems
     - At some point, init starts a process allowing you to log in,
       usually at the end or near the end of the boot;
 
-5.1 Startup Messages
+**** DONE 5.1 Startup Messages
+     CLOSED: [2017-09-02 Sat 06:44]
+
+     There are two ways to view the kernel’s boot and runtime
+     diagnostic messages. You can:
+
+     - Look at the kernel system log file. You’ll often find this in
+       /var/log/ kern.log, but depending on how your system is
+       configured, it might  also be lumped together with a lot of
+       other system logs in /var/log/messages or elsewhere.
+     - Use the dmesg command, but be sure to pipe the output to less
+       because there will be much more than a screen’s worth. The
+       dmesg command uses the kernel ring buffer, which is of limited
+       size, but most newer kernels have a large enough buffer to hold
+       boot messages for a long time.
+
 5.2 Kernel Initialization and Boot Options
 5.3 Kernel Parameters
 5.4 Boot Loaders
