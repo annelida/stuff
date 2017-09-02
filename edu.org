@@ -13776,7 +13776,21 @@ Chapter 4 Disks and Filesystems
 4.3 swap space
 4.4 Looking Forward: Disks and User Space
 4.5 Inside a Traditional Filesystem
-Chapter 5 How the Linux Kernel Boots
+*** TODO Chapter 5 How the Linux Kernel Boots
+
+    A simplified view of the boot process looks like this:
+    - The machine’s BIOS or boot firmware loads and runs a boot
+      loader;
+    - The boot loader finds the kernel image on disk, loads it into
+      memory, and starts it;
+    - The kernel initializes the devices and its drivers;
+    - The kernel mounts the root filesystem;
+    - The kernel starts a program called init with a process ID of 1.
+      This point is the user space start;
+    - init sets the rest of the system processes in motion;
+    - At some point, init starts a process allowing you to log in,
+      usually at the end or near the end of the boot;
+
 5.1 Startup Messages
 5.2 Kernel Initialization and Boot Options
 5.3 Kernel Parameters
@@ -15640,7 +15654,8 @@ D.3 The Linux kernel's version n
 
      You can use it to explore your system.
      
-*** TODO 13 Using disks
+*** DONE 13 Using disks
+    CLOSED: [2017-08-31 Thu 09:41]
 
 **** DONE 13.1 Concepts
      CLOSED: [2017-08-28 Mon 06:24]
@@ -15992,7 +16007,6 @@ D.3 The Linux kernel's version n
      deb http://security.debian.org/ stretch/updates main
 
 #+end_example
-
 
 14.4 Using dselect.
 14.5 Using dpkg manually
