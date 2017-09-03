@@ -13807,8 +13807,33 @@ Chapter 4 Disks and Filesystems
        size, but most newer kernels have a large enough buffer to hold
        boot messages for a long time.
 
-5.2 Kernel Initialization and Boot Options
-5.3 Kernel Parameters
+**** DONE 5.2 Kernel Initialization and Boot Options, Kernel parameters
+     CLOSED: [2017-09-03 Sun 06:50]
+     Upon startup, the Linux kernel initializes in this general order:
+     - CPU inspection
+     - Memory inspection
+     - Device bus discovery
+     - Device discovery
+     - Auxiliary kernel subsystem setup (networking, and so on)
+     - Root filesystem mount
+     - User space start
+
+     When running the Linux kernel, the boot loader passes in a set of
+     text-based kernel parameters that tell the kernel how it should
+     start. The parameters specify many different types of behavior,
+     such as the amount of diagnostic output the kernel should produce
+     and device driver–specific options.
+
+     You can view the kernel parameters from your system’s boot by
+     looking at the /proc/cmdline file:
+
+     #+BEGIN_SRC sh :results output
+     cat /proc/cmdline
+     #+END_SRC
+
+     #+RESULTS:
+     : BOOT_IMAGE=/boot/vmlinuz-4.9.0-3-686 root=UUID=aa949ece-8716-41c2-9efa-e0c3224ecfaa ro quiet
+
 5.4 Boot Loaders
 5.5 GRUB Introduction
 5.6 UEFI Secure Boot Problems
