@@ -13846,7 +13846,41 @@ Chapter 4 Disks and Filesystems
        and parameters (for example, to enter single-user mode);
      - Provide support for booting other operating systems.
 
-5.5 GRUB Introduction
+**** TODO 5.5 GRUB Introduction
+
+     GRUB stands for Grand Unified Boot Loader. One of GRUB’s most
+     important capabilities is filesystem navigation that allows for
+     much easier kernel image and configuration selection.
+
+     One of the best ways to see this in action and to learn about
+     GRUB  in general is to look at its menu.
+
+     To access the GRUB menu, press and hold SHIFT when your BIOS or
+     firmware startup screen first appears.
+
+     GRUB doesn’t really use the Linux kernel—it starts it.
+
+     Many GRUB commands are similar to Unix shell commands; there’s
+     even an ls command to list files.
+
+     When you’re looking for your system’s root filesystem: Only the
+     root kernel parameter will be the root filesystem when you boot
+     your system.
+
+     The GRUB “root” is the filesystem where GRUB searches for kernel
+     and RAM filesystem image files.
+
+     the GRUB root is first set to a GRUB-specific device
+     (hd0,msdos1).
+     Then in the following command, GRUB searches for a particular
+     UUID on a partition.
+
+     If it finds that UUID, it sets the GRUB root to that partition.
+     The linux command’s first argument (/boot/vmlinuz-...) is the
+     location of the Linux kernel image file. GRUB loads this file
+     from the GRUB root. The initrd command is similar, specifying the
+     file for the initial RAM filesystem.
+
 5.6 UEFI Secure Boot Problems
 5.7 Chainloading Other Operating Systems
 5.8 Boot Loader Details
