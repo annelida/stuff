@@ -13834,7 +13834,18 @@ Chapter 4 Disks and Filesystems
      #+RESULTS:
      : BOOT_IMAGE=/boot/vmlinuz-4.9.0-3-686 root=UUID=aa949ece-8716-41c2-9efa-e0c3224ecfaa ro quiet
 
-5.4 Boot Loaders
+**** DONE 5.4 Boot Loaders
+     CLOSED: [2017-09-04 Mon 07:46]
+
+     A Linux boot loader’s core functionality includes the ability to
+     do the following:
+
+     - Select among multiple kernels;
+     - Switch between sets of kernel parameters;
+     - Allow the user to manually override and edit kernel image names
+       and parameters (for example, to enter single-user mode);
+     - Provide support for booting other operating systems.
+
 5.5 GRUB Introduction
 5.6 UEFI Secure Boot Problems
 5.7 Chainloading Other Operating Systems
