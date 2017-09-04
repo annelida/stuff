@@ -13881,6 +13881,56 @@ Chapter 4 Disks and Filesystems
      from the GRUB root. The initrd command is similar, specifying the
      file for the initial RAM filesystem.
 
+     Exploring Devices and Partitions with the GRUB Command Line
+
+     GRUB has its own device-addressing scheme. For example, the first
+     hard disk found is hd0, followed by hd1, and so on.
+
+     GRUB has its own device-addressing scheme. For example, the first
+     hard disk found is hd0, followed by hd1, and so on. But device
+     assignments are subject to change.
+
+     Listing Devices
+
+     To get a feel for how GRUB refers to the devices on your system,
+     access  the GRUB command line by pressing C at the boot menu or
+     configuration editor. You should get the GRUB prompt:
+
+     #+BEGIN_EXAMPLE
+     grub>
+     #+END_EXAMPLE
+
+     You can enter any command here that you see in a configuration,
+     but to get started, try a diagnostic command instead: ls
+     With no arguments, the output is a list of devices known to GRUB:
+
+     #+BEGIN_EXAMPLE
+     grub> ls
+     (hd0) (hd0, msdos12) (hd0, msdos11) (hd0, msdos10)
+     (hd0, msdos10) (hd0, msdos9) (hd0, msdos8) (hd0, msdos7)
+     (hd0, msdos6) (hd0, msdos5) (hd0, msdos4) (hd0, msdos3)
+     (hd0, msdos2) (hd0, msdos1)
+     #+END_EXAMPLE
+
+     In this case, there is one main disk device denoted by (hd0) and
+     the partitions (hd0,msdos1) ... (hd0,msdos10).
+     The msdos prefix on the partitions tells you that the disk
+     contains an MBR partition table; it would begin with gpt for GPT.
+
+     To get more detailed information, use ls -l. This command can be
+     particularly useful because it displays any UUIDs of the
+     partitions on the disk. For example:
+
+     #+BEGIN_EXAMPLE
+     grub ls -l
+     Device hd0: Not a known filesystem - Total size 426743808 sectors
+     Partition hd0,msdos1: Filesystem type ext2 – Last modification
+     time 2015-09-18 20:45:00 Friday, UUID 4898e145-b064-45bd-b7b4-
+     7326b00273b7 -Partition start at 2048 - Total size 424644608 sectors
+     Partition hd0,msdos5: Not a known filesystem - Partition start at
+     424648704 - Total size 2093056 sectors
+     #+END_EXAMPLE
+
 5.6 UEFI Secure Boot Problems
 5.7 Chainloading Other Operating Systems
 5.8 Boot Loader Details
