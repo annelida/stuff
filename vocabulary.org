@@ -9949,3 +9949,87 @@ adjective
 
   He suddenly let out a piercing shriek.
 
+* to traverse 							      :Linux:
+  траверс [Listen]
+
+  noun
+   1. траверс (traverse)
+   2. ход (progress, stroke, running, travel, process, traverse)
+   3. перемещение (movement, displacement, motion, transfer, relocation, traverse)
+   4. поперечная подача (traverse)
+   5. поперечина (crossbar, cross-piece, rail, traverse, bolster, cross-arm)
+   6. траверз (beam, traverse)
+   7. перекладина (crossbar, beam, horizontal bar, rail, slat, traverse)
+   8. препятствие (let, obstacle, obstruction, barrier, hurdle, traverse)
+   9. продольная подача (traverse)
+  10. галс (tack, leg, traverse, reach, board)
+  11. полигональный ход (traverse)
+  12. горизонтальная наводка (traverse)
+  13. поворот орудия (traverse)
+  14. угол горизонтальной наводки (traverse, deflection, deflexion)
+
+  verb
+   1. пересекать (cross, intersect, cross over, traverse, pass, cut)
+   2. перемещаться (move, travel, shift, traverse)
+   3. двигаться (move, travel, run, stir, traverse, dance)
+   4. переходить (go, proceed, turn, pass, transfer, traverse)
+   5. отрицать (deny, negate, disavow, gainsay, disown, traverse)
+   6. возражать (mind, object, object to, protest, contradict, traverse)
+   7. обсуждать (discuss, debate, consider, argue, deliberate, traverse)
+   8. вращаться (rotate, revolve, turn, turn around, run, traverse)
+   9. переправляться (cross, pass, cross over, get across, pass over, traverse)
+  10. класть поперек (traverse)
+
+  adjective
+   1. поперечный (transverse, cross, transversal, diametrical, crosscut, traverse)
+    
+    To move or travel through an area.
+    Stanley traversed the continent from west to east.
+
+* tricky							      :Linux
+  хитрый
+
+  adjective
+   1. хитрый (cunning, tricky, sly, artful, crafty, wily)
+   2. каверзный (tricky, captious)
+   3. сложный (complex, complicated, sophisticated, compound, intricate, tricky)
+   4. запутанный (entangled, tangled, intricate, complicated, knotty, tricky)
+   5. мудреный (tricky)
+   6. ловкий (deft, clever, dexterous, nimble, artful, tricky)
+   7. искусный (cunning, adept, skilled, skillful, skilful, tricky)
+   8. ненадежный (unreliable, precarious, insecure, untrustworthy, unsafe, tricky)
+   9. находчивый (resourceful, smart, nimble, inventive, cute, tricky)
+      
+   If a piece of work or problem is tricky, it is difficult to deal
+   with and needs careful attention or skill:
+
+   It's tricky to learn to ride a skateboard, but you never forget
+   how.
+
+* blur								     :jQuery:
+  пятно [Listen]
+
+  noun
+   1. пятно (spot, stain, blot, blur, slick, patch)
+   2. неясные очертания (blur, looming)
+   3. расплывшееся пятно (blur, slur)
+   4. клякса (blot, blotch, blur)
+   5. расплывшиеся очертания (blur)
+
+  verb
+   1. затемнить (blur)
+   2. затуманить (blur)
+   3. запачкать (blur, bedaub, bedraggle)
+   4. замарать (blur, bedraggle)
+   5. наделать клякс (blur)
+   6. делать неясным (obscure, blur)
+   7. мутиться (blur, become turbid)
+   8. помутиться (blur)
+
+  DEFINITION
+
+  noun
+   1. a thing that cannot be seen or heard clearly.
+      "the pale blur of her face"
+
+
