@@ -93,7 +93,10 @@
  ;; If there is more than one, they won't work right.
  '(org-modules
    (quote
-    (org-bbdb org-bibtex org-docview org-gnus org-info org-irc org-mhe org-rmail org-w3m org-drill))))
+    (org-bbdb org-bibtex org-docview org-gnus org-info org-irc org-mhe org-rmail org-w3m org-drill)))
+ '(package-selected-packages
+   (quote
+    (pyvenv voca-builder org-bullets magit key-chord howdoi google-translate go-autocomplete ereader elfeed color-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
