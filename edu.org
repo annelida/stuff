@@ -13931,6 +13931,34 @@ Chapter 4 Disks and Filesystems
      424648704 - Total size 2093056 sectors
      #+END_EXAMPLE
 
+     File navigation
+
+     Determine the GRUB root with the echo command (recall that this
+     is where GRUB expects to find the kernel):
+
+     #+BEGIN_EXAMPLE
+     grub> echo $root
+     hd0, msdos7
+     #+END_EXAMPLE
+
+     To use GRUB’s ls command to list the files and directories in
+     that root, you can append a forward slash to the end of the
+     partition:
+
+     #+BEGIN_EXAMPLE
+     grub> ls (hd0, msdos7)/
+     lost+found/ home/ storage/ etc/ media/ var/
+     bin/ boot/ dev/ lib/ mnt/ opt/ proc/ root/ run/ sbin/
+     selinux/ srv/ sys/ tmp/ usr/ vmlinuz/ initrd.img cdrom/
+     initrd.img.old vmlinuz.old
+     #+END_EXAMPLE
+
+     or
+
+     #+BEGIN_EXAMPLE
+     grub> ls ($root)/
+     #+END_EXAMPLE
+
 5.6 UEFI Secure Boot Problems
 5.7 Chainloading Other Operating Systems
 5.8 Boot Loader Details
