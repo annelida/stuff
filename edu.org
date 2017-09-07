@@ -30304,6 +30304,46 @@ Note that the order of the rules for determining column affinity is important. A
     |   | Kim   |             |
     | 7 | James | Finance     |
 
+    More JOINS examples
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    drop table if exists registrations;
+    create table registrations(
+    id int primary key not null,
+    name           text not null
+    );
+    insert into registrations VALUES(1, 'Bobby');
+    insert into registrations VALUES(2, 'Xavier');
+    insert into registrations VALUES(3, 'Albert');
+    insert into registrations VALUES(4, 'Zack');
+    select * from registrations;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Bobby  |
+    | 2 | Xavier |
+    | 3 | Albert |
+    | 4 | Zack   |
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    drop table if exists logins;
+    create table logins(
+    id int primary key not null,
+    name           text not null
+    );
+    insert into logins VALUES(1, 'Yolanda');
+    insert into logins VALUES(2, 'Bobby');
+    insert into logins VALUES(3, 'William');
+    insert into logins VALUES(4, 'Albert');
+    select * from logins;
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Yolanda |
+    | 2 | Bobby   |
+    | 3 | William |
+    | 4 | Albert  |
+       
 *** DONE SQlite UNION clause
     CLOSED: [2017-07-15 Sat 09:53]
 
