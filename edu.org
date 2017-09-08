@@ -30343,6 +30343,20 @@ Note that the order of the rules for determining column affinity is important. A
     | 2 | Bobby   |
     | 3 | William |
     | 4 | Albert  |
+
+    An INNER JOIN will result with the sets of records that match in
+    both tables.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT * FROM Registrations
+    INNER JOIN Logins
+    ON Registrations.name = Logins.name
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Bobby  | 2 | Bobby  |
+    | 3 | Albert | 4 | Albert |
+
        
 *** DONE SQlite UNION clause
     CLOSED: [2017-07-15 Sat 09:53]
