@@ -30397,6 +30397,68 @@ Note that the order of the rules for determining column affinity is important. A
     | 3 | Albert | 4 | Albert |
     | 4 | Zack   |   |        |
 
+    SELF JOIN
+
+    A Self Join is used to join a table to
+    itself as if the table were two tables, by temporarily
+    renaming at least one table in the SQL statement.
+
+    #+BEGIN_EXAMPLE
+    SELECT x.column_name, y.column_name
+    FROM table1 x, table1 y
+    WHERE x.column_name1 = y.column_name1;
+    #+END_EXAMPLE
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    CREATE TABLE emp_master
+    (emp_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    first_name TEXT, 
+    last_name TEXT,
+    salary NUMERIC,
+    dept_id INTEGER,
+    manager_id INTEGER);
+    INSERT INTO emp_master
+    values (2,'Shweta','Jariwala', 19300,2,7),
+    (3,'Vinay','Jariwala', 35100,3,2),
+    (4,'Jagruti','Viras', 9500,2,7),
+    (5,'Shweta','Rana',12000,3,2),
+    (6,'sonal','Menpara', 13000,1,3),
+    (7,'Yamini','Patel', 10000,2,7),
+    (8,'Khyati','Shah', 49900,3,2),
+    (9,'Shwets','Jariwala',19400,2,7);
+    SELECT * FROM emp_master;
+    #+END_SRC
+
+    #+RESULTS:
+    | 2 | Shweta  | Jariwala | 19300 | 2 | 7 |
+    | 3 | Vinay   | Jariwala | 35100 | 3 | 2 |
+    | 4 | Jagruti | Viras    |  9500 | 2 | 7 |
+    | 5 | Shweta  | Rana     | 12000 | 3 | 2 |
+    | 6 | sonal   | Menpara  | 13000 | 1 | 3 |
+    | 7 | Yamini  | Patel    | 10000 | 2 | 7 |
+    | 8 | Khyati  | Shah     | 49900 | 3 | 2 |
+    | 9 | Shwets  | Jariwala | 19400 | 2 | 7 |
+
+    Now write SQLite query like as shown following to use Self
+    Join with select statement to get employees manager details.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT x.emp_id, x.first_name as Employee, y.emp_id as 'Manager 
+    ID', y.first_name as 'Manager Name'
+    FROM emp_master x, emp_master y
+    WHERE x.manager_id = y.emp_id;
+    #+END_SRC
+
+    #+RESULTS:
+    | 2 | Shweta  | 7 | Yamini |
+    | 3 | Vinay   | 2 | Shweta |
+    | 4 | Jagruti | 7 | Yamini |
+    | 5 | Shweta  | 2 | Shweta |
+    | 6 | sonal   | 3 | Vinay  |
+    | 7 | Yamini  | 7 | Yamini |
+    | 8 | Khyati  | 2 | Shweta |
+    | 9 | Shwets  | 7 | Yamini |
+
 *** DONE SQlite UNION clause
     CLOSED: [2017-07-15 Sat 09:53]
 
