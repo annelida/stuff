@@ -30379,6 +30379,24 @@ Note that the order of the rules for determining column affinity is important. A
     Note how if there is no match, the missing side will produce a
     null.
 
+    LEFT OUTER JOIN
+
+    A LEFT OUTER JOIN results in the set of records that are in the
+    left table, if there is no match with the right table, the results
+    are null.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT * FROM Registrations
+    LEFT OUTER JOIN Logins
+    ON Registrations.name = Logins.name
+    #+END_SRC
+
+    #+RESULTS:
+    | 1 | Bobby  | 2 | Bobby  |
+    | 2 | Xavier |   |        |
+    | 3 | Albert | 4 | Albert |
+    | 4 | Zack   |   |        |
+
 *** DONE SQlite UNION clause
     CLOSED: [2017-07-15 Sat 09:53]
 
