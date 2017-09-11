@@ -105,3 +105,4 @@
  )
 ;;
 (require 'org-drill)
+(server-start)
