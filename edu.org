@@ -30357,7 +30357,28 @@ Note that the order of the rules for determining column affinity is important. A
     | 1 | Bobby  | 2 | Bobby  |
     | 3 | Albert | 4 | Albert |
 
-       
+    FULL OUTER JOIN
+
+    A FULL OUTER JOIN will result in the set of all records in both
+    tables.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT * FROM Registrations
+    FULL OUTER JOIN Logins
+    ON Registrations.name = Logins.name
+    #+END_SRC
+
+    #+RESULTS:
+    |    1 | Albert |    2 | Albert  |
+    |    2 | Xavier | null | null    |
+    |    3 | Bobby  |    4 | Bobby   |
+    |    4 | Zack   | null | null    |
+    | null | null   |    1 | Yolanda |
+    | null | null   |    3 | William |
+
+    Note how if there is no match, the missing side will produce a
+    null.
+
 *** DONE SQlite UNION clause
     CLOSED: [2017-07-15 Sat 09:53]
 
