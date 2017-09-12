@@ -30459,6 +30459,22 @@ Note that the order of the rules for determining column affinity is important. A
     | 8 | Khyati  | 2 | Shweta |
     | 9 | Shwets  | 7 | Yamini |
 
+    Using WHERE clauses for exclusions
+
+    For example, if we wanted to produce a set of records that only
+    appear in the Registration table, we can specify to:
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT * FROM Registrations
+    LEFT OUTER JOIN Logins
+    ON Registrations.name = Logins.name
+    WHERE Logins.id IS null
+    #+END_SRC
+
+    #+RESULTS:
+    | 2 | Xavier |   |   |
+    | 4 | Zack   |   |   |
+
 *** DONE SQlite UNION clause
     CLOSED: [2017-07-15 Sat 09:53]
 
