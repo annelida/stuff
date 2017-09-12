@@ -13959,6 +13959,24 @@ Chapter 4 Disks and Filesystems
      grub> ls ($root)/
      #+END_EXAMPLE
 
+     How GRUB Works
+
+     1. The PC BIOS or firmware initializes the hardware and searches
+        its boot-order storage devices for boot code.
+     2. Upon finding the boot code, the BIOS/firmware loads and
+        executes it. This is where GRUB begins.
+     3. The GRUB core loads.
+     4. The core initializes. At this point, GRUB can now access disks
+        and filesystems.
+     5. GRUB identifies its boot partition and loads a configuration there.
+     6. GRUB gives the user a chance to change the configuration.
+     7. After a timeout or user action, GRUB executes the configuration.
+     8. In the course of executing the configuration, GRUB may load
+	additional code (modules) in the boot partition.
+     9. GRUB executes a boot command to load and execute the kernel as
+	specified by the configuration’s linux command.
+
+
 5.6 UEFI Secure Boot Problems
 5.7 Chainloading Other Operating Systems
 5.8 Boot Loader Details
