@@ -30475,6 +30475,26 @@ Note that the order of the rules for determining column affinity is important. A
     | 2 | Xavier |   |   |
     | 4 | Zack   |   |   |
 
+    Another example of this is trying to produce a set of
+    records that is unique to the Left Table and the Right Table.
+    In other words, for our case: Produce a table that has the
+    records that are unique to either Registrations or Logins.
+
+    #+BEGIN_SRC sqlite :db test-sqlite.db
+    SELECT * FROM Registrations
+    FULL OUTER JOIN Logins
+    ON Registrations.name = Logins.name
+    WHERE Registrations.id IS null
+    OR Logins.id IS null
+    #+END_SRC
+
+    #+RESULTS:
+    | 2 | Xavier |   |         |
+    | 4 | Zack   |   |         |
+    |   |        | 1 | Yolanda |
+    |   |        | 3 | William |
+
+
 *** DONE SQlite UNION clause
     CLOSED: [2017-07-15 Sat 09:53]
 
