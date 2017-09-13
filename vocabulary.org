@@ -10306,7 +10306,7 @@ I disapprove of the depiction of violence on television.
 
 * martial :Study:
 [2017-09-12 Tue 09:06]
-воинственный [Listen]
+воинственный
 
 adjective
  1. военный (military, war, wartime, martial, warlike)
@@ -10347,7 +10347,15 @@ the original definition of the verb was "to hit with a belt."
 Kevin and I tested for our black belts together on the same day.
 * courage :Study:
 [2017-09-12 Tue 09:10]
+мужество
 
+noun
+ 1. мужество (courage, bravery, guts, fortitude, virility, heart)
+ 2. храбрость (bravery, courage, gallantry, mettle, spirit, spunk)
+ 3. смелость (courage, boldness, daring, audacity, confidence, pluck)
+ 4. отвага (courage, daring, valor, prowess, heart, gallantry)
+ 5. бодрость (cheerfulness, courage, moxie, pertness, peppiness)
+    
 Someone with courage is bold and brave, unafraid to face tough
 challenges. Unlike the Cowardly Lion, who went all the way to the
 Emerald City to see if the Wizard had any courage to spare.
@@ -10369,6 +10377,14 @@ People should have the courage to stand up for their beliefs.
 
 * beliefs :Study:
 [2017-09-12 Tue 09:12]
+убеждения
+
+noun
+ 1. вера (faith, belief, trust, confidence, creed, doctrine)
+ 2. убеждение (conviction, belief, persuasion, opinion, doxy)
+ 3. мнение (opinion, view, mind, belief, say, judgment)
+ 4. верование (belief, doxy)
+ 5. доверие (trust, confidence, credence, faith, reliance, credit)
 
 A belief is an idea one accepts as being true or real. Many children
 have a strong belief that the Tooth Fairy really does exist.
@@ -10390,6 +10406,14 @@ Something that you believe.
 All religious and political beliefs should be respected equally.
 * fruitful :Study:
 [2017-09-12 Tue 09:12]
+плодотворный
+
+adjective
+ 1. плодотворный (fruitful, productive, seminal, fructuous)
+ 2. плодовитый (prolific, fertile, fruitful, fecund, productive, voluminous)
+ 3. плодородный (fertile, fruitful, fecund, prolific, rich, productive)
+ 4. плодоносный (fruitful, fertile, benignant, benign, fructuous)
+ 5. выгодный (profitable, advantageous, beneficial, lucrative, expedient, fruitful)
 
 When something is fruitful, it's productive — but you don't have to
 produce fruit in order to be fruitful. You could have a fruitful trip
