@@ -1021,46 +1021,79 @@ nationhood - государственность
 rhetoric - риторика
 brisk - юркий
 
-* competition :Study:
+* competition							      :drill:
+  :PROPERTIES:
+  :ID:       d3c16326-1cc2-4500-8ace-7b8a2dc1a957
+  :DRILL_LAST_INTERVAL: 0.0
+  :DRILL_REPEATS_SINCE_FAIL: 1
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 0.0
+  :DRILL_EASE: 2.5
+  :DRILL_LAST_QUALITY: 0
+  :DRILL_LAST_REVIEWED: [2017-09-16 Sat 09:05]
+  :END:
 [2017-03-29 Wed 07:12]
 
-Соревнование
-If you are trying to win or attempting to prove you're the best,
-you're in a competition. The word also describes your opponent in
-sports, business, and politics.
+** Соревнование
+   If you are trying to win or attempting to prove you're the best,
+   you're in a competition. The word also describes your opponent in
+   sports, business, and politics.
 
-If you're trying to beat out someone else — whether in the Olympics or
-a pie-baking contest — it's a competition, and the other contestants
-are called the competition too. If you describe something as a
-"friendly competition," you're saying the outcome isn't critical, or
-there's no money involved. If you do something impressive in order to
-win, people will say competition brings out the best in you. If you
-try to injure your opponent, they'll say it brings out the worst.
+   If you're trying to beat out someone else — whether in the Olympics or
+   a pie-baking contest — it's a competition, and the other contestants
+   are called the competition too. If you describe something as a
+   "friendly competition," you're saying the outcome isn't critical, or
+   there's no money involved. If you do something impressive in order to
+   win, people will say competition brings out the best in you. If you
+   try to injure your opponent, they'll say it brings out the worst.
 
-She didn't win the competition (past)
-      She isn't going to Florida (future)
-      This sentence shows the future consequences of a past action.
+   She didn't win the competition (past)
+   She isn't going to Florida (future)
+   This sentence shows the future consequences of a past action.
 
-* raise :Study:
+* raise								      :drill:
+  :PROPERTIES:
+  :ID:       5a523e56-9323-4e29-8d09-a051ce72f067
+  :DRILL_LAST_INTERVAL: 0.0
+  :DRILL_REPEATS_SINCE_FAIL: 1
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 0.0
+  :DRILL_EASE: 2.5
+  :DRILL_LAST_QUALITY: 0
+  :DRILL_LAST_REVIEWED: [2017-09-16 Sat 09:05]
+  :END:
 [2017-03-29 Wed 17:04]
-Поднимать
+** Поднимать
+   
+   If you raise your hand, you put it up in the air. If you raise your
+   daughter, you “bring her up” from childhood to adulthood. And, if you
+   raise the roof, you and a crowd of people cheer wildly for a
+   performer.
 
-If you raise your hand, you put it up in the air. If you raise your
-daughter, you “bring her up” from childhood to adulthood. And, if you
-raise the roof, you and a crowd of people cheer wildly for a
-performer.
+   Raise can be used almost any time you bring something up, either
+   literally: “if you raise the lid on that trap door you will see a
+   secret passage,” or figuratively: “please don't raise the topic of my
+   arachnophobia.” The verb raise comes from the Old English word ræran,
+   which means “to rear,” as in, “do you really want to raise your
+   children in that town?” As a noun, a raise can also mean a salary
+   increase.
 
-Raise can be used almost any time you bring something up, either
-literally: “if you raise the lid on that trap door you will see a
-secret passage,” or figuratively: “please don't raise the topic of my
-arachnophobia.” The verb raise comes from the Old English word ræran,
-which means “to rear,” as in, “do you really want to raise your
-children in that town?” As a noun, a raise can also mean a salary
-increase.
-
-‘C-x 5 o’
-     Select another frame, and raise it.
-* led :Study:
+   ‘C-x 5 o’
+	Select another frame, and raise it.
+* led								      :drill:
+  :PROPERTIES:
+  :ID:       90a7b982-3ef1-45ee-921e-5d0a5a015226
+  :DRILL_LAST_INTERVAL: 0.0
+  :DRILL_REPEATS_SINCE_FAIL: 1
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 0.0
+  :DRILL_EASE: 2.5
+  :DRILL_LAST_QUALITY: 0
+  :DRILL_LAST_REVIEWED: [2017-09-16 Sat 09:05]
+  :END:
 [2017-03-30 Thu 06:45]
 
 Свет, индикатор
