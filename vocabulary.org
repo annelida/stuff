@@ -1113,7 +1113,7 @@ solution.
 Text with RE 
 The aim of this chapter of our Python tutorial is to present a detailed led
 and descriptive introduction into regular expressions.
-* enough :Study:
+* enough							      :drill:
 [2017-03-30 Thu 07:21]
 
 Достаточно
@@ -1130,7 +1130,7 @@ had as much as you want.
 
 This method is already enough to use regular expressions in
 Python programs: 
-* distinct :Study:
+* distinct							      :drill:
 [2017-03-31 Fri 07:33]
 
 Отчетливый
@@ -1149,7 +1149,7 @@ detail.”
 
 Part 1 - Creating a sorted list containing
       distinct letters, - each taken only once - coming from s1 or s2.
-* pavement :Study:
+* pavement							      :drill:
 [2017-03-31 Fri 08:14]
 
 Тротуар
@@ -1166,7 +1166,7 @@ park. The word has a Latin root, pavimentum, "level surface that's
 been beaten firm."
 
 - There's some broken glass on the pavement.
-* quiet :Study:
+* quiet								      :drill:
 [2017-04-02 Sun 10:50]
 
 Тихо
@@ -1182,7 +1182,7 @@ words that thankfully follow the "i" before "e," except after "c"
 spelling rule.
 
 Be quiet!
-* avoid :Study:
+* avoid								      :drill:
 [2017-04-03 Mon 07:08]
 
 Избегать
@@ -1190,7 +1190,7 @@ Be quiet!
 nil
 
 avoid
-* core :Study:
+* core								      :drill:
 [2017-04-03 Mon 14:34]
 
 Ядро
@@ -1204,7 +1204,7 @@ coeur, meaning “core of fruit” and more literally, “heart.” So the
 core of something is its very heart, whether you're talking about the
 seed-containing center of a fruit, the central meaning of a book, or
 the core courses you need to take in order to graduate.
-* prominent :Study:
+* prominent							      :drill:
 
 Выдающийся
 
@@ -1221,7 +1221,7 @@ industry"). The metaphorical sense of "famous" is the most common one
 today, though references to the "prominent posterior" of Jennifer
 Lopez might fit both definitions.
 
-* devote :Study:
+* devote							      :drill:
 [2017-04-03 Mon 14:35]
 
 Посвятить
@@ -1236,7 +1236,7 @@ energy to your school work as you do to your hair, your grades should
 improve. If our country devoted to education even half of the
 resources we pour into defense, we could eliminate poverty.
 
-* shrink :Study:
+* shrink							      :drill:
 [2017-04-03 Mon 14:35]
 
 Сокращаться
@@ -1253,7 +1253,7 @@ setting on your washing machine. The use of shrink as referring to
 therapists started as late as the 1960s — with the idea of a
 psychologist being a "head-shrinker."
 
-* agile :Study:
+* agile								      :drill:
 [2017-04-03 Mon 14:35]
 
 Подвижный
@@ -1270,7 +1270,7 @@ sharp and grasp ideas or reason with speed and easy logic. Things that
 are agile often are thought to be light, but even heavy machines like
 trains and large people like sumo wrestlers can be agile.
 
-* asset :Study:
+* asset								      :drill:
 [2017-04-03 Mon 14:36]
 
 Актив
@@ -1284,7 +1284,7 @@ financial picture is determined by lining up everything they own in
 the asset column, and everything they own in the liability (or debit)
 column.
 
-* pique :Study:
+* pique								      :drill:
 [2017-04-03 Mon 14:36]
 
 Пике
@@ -1300,7 +1300,7 @@ make you both excited and angry. But it's frustrating––enough to make
 you want to storm away from learning vocab. That storming away, by the
 by, might be called a "fit of pique."
 
-* dig :Study:
+* dig								      :drill:
 [2017-04-03 Mon 14:36]
 
 Копать
@@ -1315,7 +1315,7 @@ for planting bulbs. You can even say you dig your brother in the side
 when you jab him there. If someone says, "I dig you," they mean, "I
 understand," and if they say, "I dig your outfit," they like it. Both
 slang usages come from 1930s African American English.
-* sleeves :Study:
+* sleeves							      :drill:
 [2017-04-03 Mon 14:37]
 
 Рукава
@@ -1330,7 +1330,7 @@ known as sleeveless). Another kind of sleeve is a container or
 protective covering, like a record sleeve or a sleeve of crackers. If
 you have something "up your sleeve," it means you're hiding something
 to use later in a surprising way.
-* peek :Study:
+* peek								      :drill:
 [2017-04-03 Mon 14:37]
 
 Заглянуть
@@ -1346,7 +1346,7 @@ take a peek at a napping child. Peek comes from piken, a 14th century
 word meaning "look quickly and slyly." Until the 15th century, the
 word peek was used interchangeably with keek and peep.
 
-* persistence :Study:
+* persistence							      :drill:
 [2017-04-03 Mon 14:37]
 
 Упорство
@@ -1361,7 +1361,7 @@ has frustrated many parents. Bed bugs are known for their persistence.
 Despite near eradication in the 1950s, they are back and harder to
 eliminate than ever.
 
-* overlap :Study:
+* overlap							      :drill:
 [2017-04-03 Mon 14:38]
 
 Перекрывать
@@ -1376,7 +1376,7 @@ because you can't be in two places at once. Philosophies and
 perspectives overlap when they share certain points or ideas in
 common.
 
-* demand :Study:
+* demand							      :drill:
 [2017-04-04 Tue 06:46]
 
 Спрос
@@ -1395,22 +1395,22 @@ nonexistent in summer.
 
 The lambda feature was added to Python due to
 the demand from Lisp programmers.
-* impeccably :Study:
+* impeccably							      :drill:
 [2017-04-04 Tue 10:02]
 
 Безукоризненно
 
-* reverting :Study:
+* reverting							      :drill:
 [2017-04-04 Tue 16:15]
 
 Возврат
 
-* checkout :Study:
+* checkout							      :drill:
 [2017-04-04 Tue 16:15]
 
 проверка
 
-* spite :Study:
+* spite								      :drill:
 [2017-04-06 Thu 09:13]
 
 Злоба
@@ -1443,7 +1443,7 @@ by actions or words.
 
 In spite of, despite and although are all used to show a contrast but there
 are differences in the structures used with them.
-* despite :Study:
+* despite							      :drill:
 [2017-04-06 Thu 09:35]
 
 несмотря
@@ -1472,7 +1472,7 @@ though that use as a noun has mostly dropped out of use. The phrase
 lost its scornful quality. If you accomplish something despite the
 obstacles in your way, there's no need to feel spiteful about it.
 
-* crowd :Study:
+* crowd								      :drill:
 [2017-04-06 Thu 09:42]
 толпа
 
@@ -1518,7 +1518,7 @@ when you say you want to "stand out from the crowd." You want to be
 seen as a distinct, individual person, rather than part of a larger
 mass of regular folks.
 
-* auxiliary :Study:
+* auxiliary							      :drill:
 [2017-04-07 Fri 08:40]
 
 auxiliary
@@ -1554,7 +1554,7 @@ during battle. A "Ladies Auxiliary" functions as support for
 institutions such as churches, synagogues, or charities.
 
 In the present perfect, 'just' comes between the auxiliary verb ('have')
-* Prohibition :Study:
+* Prohibition							      :drill:
 [2017-04-08 Sat 09:00]
 Запрет
 
@@ -1580,7 +1580,7 @@ a perfect illustration of a major challenge associated with most acts
 of prohibition: enforcement.
 
 Permission, Prohibition, Obligation, No obligation
-* evidence :Study:
+* evidence							      :drill:
 [2017-04-09 Sun 11:41]
 доказательства
 
@@ -1614,7 +1614,7 @@ T-shirt are evidence that you're due to give birth any day."
 We use *must* when we feel sure that something is true because there's
     very strong evidence.
 
-* thieves :Study:
+* thieves							      :drill:
 [2017-04-10 Mon 09:32]
 thieves
 
@@ -1637,7 +1637,7 @@ Kelly, to name a few. They were so bold (and so brutal) that their
 activities became a major impetus for the beefing up of the FBI, under
 J. Edgar Hoover.
 
-* wrap :Study:
+* wrap								      :drill:
 [2017-04-12 Wed 06:52]
 заворачивать
 
@@ -1659,7 +1659,7 @@ verb
  7. закутывать (envelop, wrap, muffle, wrap up, enshroud, enfold)
  8. складывать (fold, add up, add, add together, sum, wrap)
 
-* root :Study:
+* root								      :drill:
 [2017-04-12 Wed 06:58]
 Корень
 
@@ -1710,7 +1710,7 @@ movie. If your ancestors come from Guatemala, you have Guatemalan
 roots. If you dig through a pile of junk, you're "rooting around."
 
 root = ET.fromstring(countrydata)
-* ascending :Study:
+* ascending							      :drill:
 [2017-04-13 Thu 08:56]
 ascending
 
@@ -1737,7 +1737,7 @@ climb up," and also "to rise" or "to reach."
 
 Your task is to sort ascending odd numbers but even numbers must
       be on their places.
-* Participle :Study:
+* Participle							      :drill:
 [2017-04-13 Thu 15:06]
 
 Причастие
@@ -1758,7 +1758,7 @@ participle. If you notice a trapped bear, trapped is the participle.
 This is a word that is a little confusing to understand, even though
 you use participles all the time.
 
-* kettle :Study:
+* kettle							      :drill:
 [2017-04-13 Thu 15:11]
 
 чайник
@@ -1784,7 +1784,7 @@ and if you criticize a friend for something you're also guilty of, she
 might say, "That's the pot calling the kettle black!"
 
 Waiting for John, the kettle boiled.
-* loudly :Study:
+* loudly							      :drill:
 [2017-04-13 Thu 15:16]
 
 громко
@@ -1795,7 +1795,7 @@ adverb
  3. шумно (noisily, loudly, tumultuously, clamorously, obstreperously, slam-bang)
  4. кричаще (loudly, stridently, flashily)
 
-* Shouting :Study:
+* Shouting							      :drill:
 [2017-04-13 Thu 15:16]
 Кричать
 
@@ -1803,7 +1803,7 @@ noun
  1. крики (shouting, clamor, hoot, vociferance, clamour)
  2. возгласы одобрения (acclaim, shouting)
 
-* arrange :Study:
+* arrange							      :drill:
 [2017-04-13 Thu 15:38]
 Устраивать
 
@@ -1843,7 +1843,7 @@ for kazoos? You can arrange that.
 
 Wanting to speak to him about the contract, I decided to arrange
 
-* genuine :Study:
+* genuine							      :drill:
 [2017-04-14 Fri 16:50]
 [ˈjenyo͞oin]
 
@@ -1864,7 +1864,7 @@ real friend you can trust when the chips are down. Genuine feelings
 are real feelings — not fake feelings put on as a show. A genuine
 hundred dollar bill is the real McCoy, not a counterfeit bill. When
 something is the real thing, it's genuine.
-* heaven                                                            :Study:
+* heaven							      :drill:
 [2017-04-14 Fri 16:50]
 ['hevən]
 
@@ -1888,7 +1888,7 @@ God lives, and is commonly described as being high in the sky. In
 fact, the original meaning of the Old English heaven, heofon, was
 "sky."
 
-* intentionally :Study:
+* intentionally							      :drill:
 [2017-04-14 Fri 16:51]
 [inˈtenCHənlē]
 
@@ -1897,7 +1897,7 @@ fact, the original meaning of the Old English heaven, heofon, was
 adverb
  1. умышленно (deliberately, intentionally, willfully, wittingly, by design, designedly)
 
-* flavors :Study:
+* flavors							      :drill:
 [2017-04-14 Fri 16:51]
 
 Ароматизаторы
@@ -1930,7 +1930,7 @@ a particular clothing shop because it has such a glitzy, expensive
 flavor. Flavor initially meant "smell," from the Vulgar Latin flator,
 "odor."
 
-* impose :Study:
+* impose							      :drill:
 [2017-04-14 Fri 16:51]
 [imˈpōz]
 Навязывать
@@ -1960,7 +1960,7 @@ taxes, legal restrictions, and other burdensome things on citizens,
 for example. But you should remember what Confucius once wisely said:
 "Do not impose on others what you yourself do not desire."
 
-* clarification :Study:
+* clarification							      :drill:
 [2017-04-14 Fri 16:51]
 [ˌklarəfiˈkāSHən]
 
@@ -1985,7 +1985,7 @@ clarification. In the realm of science, clarification is also the act
 of removing solid particles from a liquid so that it is more pure and,
 in some cases, so that it is transparent.
 
-* flux :Study:
+* flux								      :drill:
 [2017-04-14 Fri 16:51]
 fləks
 
@@ -2025,7 +2025,7 @@ hear from the potential employer. Another kind of flux is liquid
 moving or flowing, like the flux of water under a sheet of melting
 ice.
 
-* crucial :Study:
+* crucial							      :drill:
 [2017-04-14 Fri 16:52]
 
 [kro͞oSHəl]
@@ -2052,7 +2052,7 @@ it is crucial to allow employees to vote on the new schedule to make
 them feel like they’re part of the process. In this case the sense is
 “important”: nothing decisive is taking place.
 
-* curve :Study:
+* curve								      :drill:
 [2017-04-14 Fri 16:52]
 [kərv]
 
@@ -2077,7 +2077,7 @@ verb
  5. гнуть (bend, flex, bow, curve, inflect, buckle)
  6. сгибаться (bend, double up, bow, buckle, curve, bow down)
 
-* vastly :Study:
+* vastly							      :drill:
 [2017-04-14 Fri 16:52]
 
 Значительно
@@ -2088,7 +2088,7 @@ adverb
  3. крайне (extremely, utterly, exceedingly, sorely, enormously, vastly)
  4. в значительной степени (largely, substantially, to a great extent, to a large degree, vastly, pretty)
 
-* hindering :Study:
+* hindering							      :drill:
 [2017-04-14 Fri 16:52]
 
 Мешающий
@@ -2096,7 +2096,7 @@ adverb
 adjective
  1. мешающий (hindering, obstructing, obstructive, encumbering)
 
-* presume :Study:
+* presume							      :drill:
 [2017-04-14 Fri 16:52]
 Предполагать
 
@@ -2119,7 +2119,7 @@ who ran into the explorer David Livingstone in the wilds of Africa in
 1871. It’s funny because these were the only two white men known to be
 in that part of Africa at the time.
 
-* ability :Study:
+* ability							      :drill:
 
 [2017-04-15 Sat 09:28]
 
@@ -2147,7 +2147,7 @@ noun indicating the power to act, perform, or accomplish. Capacity is
 similar in meaning to ability, but note that people have a capacity
 for doing something, and an ability to do something.
 
-* possibility :Study:
+* possibility							      :drill:
 [2017-04-15 Sat 09:28]
 
 [ˌpäsəˈbilətē]
@@ -2170,7 +2170,7 @@ possibility!" All meanings of possibility share the sense that
 something is able to happen, or is possible. The Latin root is
 possibilis, "that can be done."
 
-* fluent :Study:
+* fluent							      :drill:
 [2017-04-15 Sat 09:33]
 
 [ˈflo͞oənt]
@@ -2196,7 +2196,7 @@ that you've practiced and mastered, like cello or computer
 programming. If you're doing something in a way that makes it look
 easy, you're fluent.
 
-* occasion :Study:
+* occasion							      :drill:
 [2017-04-15 Sat 09:34]
 occasion
 [əˈkāZHən]
@@ -2233,7 +2233,7 @@ had occasion to look at it since she died. It's valuable, so only wear
 it on special occasions.
 
 Ability on one occasion
-* burglar :Study:
+* burglar							      :drill:
 [2017-04-15 Sat 09:37]
 [ˈbərglər]
 
@@ -2255,7 +2255,7 @@ burglarize in the United States, or to burgle in Britain. In the
 1540's, burglar was a short form of the word burglator, from the Latin
 burgare, "to break open."
 
-* habit :Study:
+* habit								      :drill:
 [2017-04-16 Sun 11:48]
 [ˈhabit]
 
@@ -2296,7 +2296,7 @@ holiday. On a completely different note, clothing that is worn for
 horseback riding, or by a nun or monk, can also be called a habit. All
 good nuns should be in the habit of washing their habits.
 
-* bound :Study:
+* bound								      :drill:
 [2017-04-18 Tue 15:27]
 [bound]
 
@@ -2360,7 +2360,7 @@ married, you're bound to your partner. If you make a promise, you're
 bound to your word. On a less pleasant note, if you're constipated,
 you're bound up.
 
-* doubt :Study:
+* doubt								      :drill:
 [2017-04-18 Tue 15:41]
 [dout]
 
@@ -2392,7 +2392,7 @@ But maybe not? One thing not to doubt is the silent b. Pronounce:
 DOWT.
 
 - I doubt if Juraj will pass.
-* predicting :Study:
+* predicting							      :drill:
 [2017-04-18 Tue 15:45]
 
 Прогнозирования
@@ -2413,7 +2413,7 @@ just on plain intuition.
 
 EG - predicting the future
 
-* lent :Study:
+* lent								      :drill:
 [2017-04-19 Wed 16:26]
 Оказанный, одолжить
 
@@ -2438,7 +2438,7 @@ returned eventually. Another way to lend is to "add a quality to," or
 mysterious quality, or that your trench coat lends itself to walking
 through a foggy city at dusk.
 
-* harvest :Study:
+* harvest							      :drill:
 [2017-04-20 Thu 06:59]
 уборка урожая
 
@@ -2476,7 +2476,7 @@ harvest beaver pelts, or you can harvest tissues or organs for
 transplants.
 
 I'm looking for someone to design code/program to harvest data from multiple sources and present the data in a format that adds value from the information.
-* denoted :Study:
+* denoted							      :drill:
 [2017-04-20 Thu 09:29]
 
 Обозначается
@@ -2504,7 +2504,7 @@ was in the Pacific time zone, she would have known that it was only
 4:00 a.m. and too early to call from New York."
 
 It is denoted by a single slash ( / ).
-* keen :Study:
+* keen								      :drill:
 [2017-04-21 Fri 10:18]
 Острый
 
@@ -2554,7 +2554,7 @@ such as caustic, cutting, piercing, and penetrating!
 After the previous section I'm sure you're keen and eager to get stuck into
 some more commands and start doing some actual playing about with the
 system.
-* eager :Study:
+* eager								      :drill:
 [2017-04-21 Fri 10:18]
 [ˈēgər]
 
@@ -2571,7 +2571,7 @@ act.
 After the previous section I'm sure you're keen and eager to get stuck into
 some more commands and start doing some actual playing about with the
 system.
-* appreciate :Study:
+* appreciate							      :drill:
 [2017-04-21 Fri 10:19]
 appreciate
 
@@ -2602,7 +2602,7 @@ would appreciate in value over the years."
 
 Ok, the first thing we need to appreciate with linux is that under the hood,
 everything is actually a file.
-* hood :Study:
+* hood								      :drill:
 [2017-04-21 Fri 10:19]
 капот
 
@@ -2639,7 +2639,7 @@ character in "Little Red Riding Hood."
 
 Ok, the first thing we need to appreciate with linux is that under the hood,
 everything is actually a file.
-* tend :Study:
+* tend								      :drill:
 [2017-04-22 Sat 09:12]
 Стремиться
 
@@ -2667,7 +2667,7 @@ the last minute and then stay up all night to get it done — probably
 not the most efficient way to go about it.
 
 In English we tend
-* influence :Study:
+* influence							      :drill:
 [2017-04-22 Sat 10:03]
 
 влияние
@@ -2696,7 +2696,7 @@ flow in.
 To sum up very briefly, he predicted that it would only be a matter of time
 before Russian influence would overwhelm Kiev and reabsorb Belarus and
 Ukraine into the Russian sphere, within 5 years (which brings us to 2014).
-* overwhelm :Study:
+* overwhelm							      :drill:
 [2017-04-22 Sat 10:04]
 [ˌōvərˈ(h)welm]
 Сокрушить
@@ -2736,7 +2736,7 @@ flushed in your absence.
 To sum up very briefly, he predicted that it would only be a matter of time
 before Russian influence would overwhelm Kiev and reabsorb Belarus and
 Ukraine into the Russian sphere, within 5 years (which brings us to 2014).
-* defense :Study:
+* defense							      :drill:
 [2017-04-22 Sat 10:06]
 защита
 
@@ -2765,7 +2765,7 @@ something, as in "In my own defense, I was sleepwalking at the time."
 Russia's next move would be an agreement with Belarus for an integrated
 defense system which would bring the Russian army to the frontier of Poland
 and the Baltic countries.
-* knots :Study:
+* knots								      :drill:
 [2017-04-22 Sat 10:07]
 Узлы
 
@@ -2815,7 +2815,7 @@ knots or make a situation more complicated and snarled.
 It will not go to war with Russia, but will keep Russia tied in knots in
 Eastern Europe and the Caucasus for the next 5 years.
 
-* insane :Study:
+* insane							      :drill:
 [2017-04-23 Sun 10:01]
 
 Безумный
@@ -2847,7 +2847,7 @@ Alex Jouravlev, Australian voter
 Written 161w ago · Upvoted by 
 Marc Bodnick, Former Stanford PhD student in Politics
 Sounds a bit insane.
-* upwards :Study:
+* upwards							      :drill:
 [2017-04-23 Sun 10:04]
 
 вверх
@@ -2861,7 +2861,7 @@ adverb
  6. больше (more, larger, better, upwards, upward)
  7. старше (upwards, upward)
 
-* vulnerable :Study:
+* vulnerable							      :drill:
 [2017-04-23 Sun 10:04]
 [ˈvəln(ə)rəbəl]
 
@@ -2882,7 +2882,7 @@ person whose feelings are so delicate that they can't withstand any
 criticism or pressure: "Don't speak harshly to her, she's very
 vulnerable today."
 
-* stupid :Study:
+* stupid							      :drill:
 [2017-04-23 Sun 10:05]
 [ˈst(y)o͞opid]
 
@@ -2916,7 +2916,7 @@ done!
 
 While "stupid" doesn't mean "impossible", invading Estonia and Poland would
 be lunacy beyond comprehension, on so many levels.
-* akin :Study:
+* akin								      :drill:
 [2017-04-23 Sun 10:06]
 [əˈkin]
 похожий
@@ -2943,7 +2943,7 @@ akin are alike.
 Russia and Belarus adopted something akin to the US and
 Canada’s NORAD around 2009 (originally conceived the Almaty-Ata Protocol in
 1991), which was completed in 2016.
-* undergo :Study:
+* undergo							      :drill:
 [2017-04-23 Sun 10:09]
 [ˌəndərˈgō]
 
@@ -2967,7 +2967,7 @@ the case of the quarterback or greater communication skills for a
 hot-tempered person who undergoes anger management training.
 
 Why I think it is possible for Russia to undergo a collapse
-* fossil :Study:
+* fossil							      :drill:
 [2017-04-23 Sun 10:09]
 [ˈfäsəl]
 
@@ -2997,7 +2997,7 @@ fossil is like calling them a geezer or old fogey. It's not a
 compliment.
 
 The world is moving away from fossil fuels.
-* fuels :Study:
+* fuels								      :drill:
 [2017-04-23 Sun 10:09]
 [fuels]
 
@@ -3028,7 +3028,7 @@ discussion. Memories of your mom's delicious dinners might fuel your
 desire to learn to cook.
 
 The world is moving away from fossil fuels.
-* profit :Study:
+* profit							      :drill:
 [2017-04-23 Sun 10:10]
 [ˈpräfit]
 
@@ -3068,7 +3068,7 @@ While Russia will still be able to profit from oil sales after a 50% price
 reduction, it will never be able to use oil again to pay any significant
 part of its federal budget.
 
-* urgently :Study:
+* urgently							      :drill:
 [2017-04-24 Mon 06:52]
 urgently
 
@@ -3078,7 +3078,7 @@ adverb
  1. срочно (urgently, quickly, with expedition)
  2. экстренно (urgently)
 
-* whistling :Study:
+* whistling							      :drill:
   whistling
 
 Свист
@@ -3090,7 +3090,7 @@ adjective
  1. свистящий (whistling, sibilant)
 
 [2017-04-24 Mon 09:31]
-* interrupts :Study:
+* interrupts							      :drill:
 [2017-04-24 Mon 09:32]
 [ˌintəˈrəpt]
 Прерывания
@@ -3120,7 +3120,7 @@ interrupt (now used as a noun) in the power grid and your electricity
 goes off.
 
 Often, the 'action' described by the past simple tense interrupts
-* doorbell :Study:
+* doorbell							      :drill:
 [2017-04-24 Mon 09:39]
 doorbell
 
@@ -3140,7 +3140,7 @@ throughout a house or apartment. The very first doorbells were
 developed by the Scottish inventor William Murdock in the early 19th
 century.
 
-* undone :Study:
+* undone							      :drill:
 [2017-04-24 Mon 10:07]
 undone
 
@@ -3153,7 +3153,7 @@ adjective
  4. погубленный (undone)
  5. незаконченный (unfinished, incomplete, pending, pendent, unclosed, undone)
 
-* enhancing :Study:
+* enhancing							      :drill:
 [2017-04-25 Tue 06:37]
 
 enhancing
@@ -3180,7 +3180,7 @@ level, like adding salt to French fries to enhance flavor or adding
 words to enhance your vocabulary.
 
 I am looking for a Python Falcon API developer to work on maintaining, enhancing, and fixing bugs on existing APIs.
-* dummy :Study:
+* dummy								      :drill:
 [2017-04-25 Tue 06:40]
 [ˈdəmē]
 
@@ -3226,7 +3226,7 @@ such as a dummy laptop. Dummy is also an insult used to mean “an
 ignorant person.”
 
 Looking for an experienced developer to build dummy data for a Shopify site.
-* competitor :Study:
+* competitor							      :drill:
 [2017-04-25 Tue 06:47]
 [kəmˈpetətər]
 Конкурент
@@ -3248,7 +3248,7 @@ are out to win.
 
 Scrape competitor prices daily
 4.
-* Threshold :Study:
+* Threshold							      :drill:
 [2017-04-25 Tue 06:47]
 Порог
 
@@ -3272,7 +3272,7 @@ without worrying about your squirming and howling.
 
 Threshold pricing may be present, and may change
 5.
-* attorneys :Study:
+* attorneys							      :drill:
 [2017-04-25 Tue 06:50]
 attorneys
 
@@ -3298,7 +3298,7 @@ is the person to call.
 
 I want to create a list of all attorneys and claims agents in the directory (not VSO
 representatives).
-* claims :Study:
+* claims							      :drill:
 [2017-04-25 Tue 06:50]
 Требования
 
@@ -3336,7 +3336,7 @@ going to have to prove it.
 
 I want to create a list of all attorneys and claims agents in the directory (not VSO
 representatives).
-* entire :Study:
+* entire							      :drill:
 [2017-04-25 Tue 10:01]
 Весь
 
@@ -3369,7 +3369,7 @@ modern word entire. One use of the word you don't see every day is to
 describe an uncastrated horse — an "entire horse" is a stallion. Gives
 a pretty interesting picture of the word, doesn't it?
 
-* involves :Study:
+* involves							      :drill:
 [2017-04-27 Thu 06:42]
 Вовлекает
 
@@ -3404,7 +3404,7 @@ a mile to the ice cream shop, the exercise offsets the indulgence.
 When no exercise is involved, it's less healthy.
 
 Hey I need a guy to manage with me a scrapy project which involves close to 50+ scrapers and new every week.
-* laundry :Study:
+* laundry							      :drill:
 [2017-04-27 Thu 09:08]
 [ˈlän-,ˌlôndrē]
 прачечная
@@ -3426,7 +3426,7 @@ laundry out to a commercial laundry, where they pay someone else to
 wash their things. Laundry has a Latin root, lavare, "to wash."
 
 I have put away all the laundry.
-* chickenpox :Study:
+* chickenpox							      :drill:
 [2017-04-27 Thu 09:15]
 chickenpox
 
@@ -3449,7 +3449,7 @@ chicken pecks. Alternately, the chicken may refer to "children," or be
 a contrast to the more serious smallpox.
 
 - She has had the chickenpox since Tuesday.
-* strictly :Study:
+* strictly							      :drill:
 [2017-04-27 Thu 09:50]
 [ˈstrik(t)lē]
 строго
@@ -3459,7 +3459,7 @@ adverb
  2. точно (exactly, precisely, accurately, just, for sure, strictly)
  3. настрого (strictly)
 
-* unreliable :Study:
+* unreliable							      :drill:
 [2017-05-03 Wed 09:53]
 [ˌənriˈlīəbəl]
 Ненадежный
@@ -3481,7 +3481,7 @@ time. Unfortunately, there's a lot of stuff in life that's unreliable,
 so be careful.
 
 This one's really unreliable.
-* taught :Study:
+* taught							      :drill:
 [2017-05-03 Wed 09:54]
 Учил
 
@@ -3502,7 +3502,7 @@ If someone tries to "teach you a lesson," he or she tries to punish
 you for something you've done in order that you won't do it again.
 
 - She taught herself Italian using a book.
-* Hedgehogs :Study:
+* Hedgehogs							      :drill:
 [2017-05-03 Wed 09:57]
 Ежики
 
@@ -3512,7 +3512,7 @@ noun
  3. колючая семенная коробочка (hedgehog)
  4. неуживчивый человек (hedgehog)
  5. колючий человек (hedgehog)
-* reciprocal							      :Study:
+* reciprocal							      :drill:
  [2017-05-03 Wed 10:23]
  reciprocal
  [riˈsiprəkəl]
@@ -3547,7 +3547,7 @@ noun
  There is an important difference between reflexive pronouns and
      reciprocal 
 
-* though							      :Study:
+* though							      :drill:
  [2017-05-04 Thu 10:36]
  хоть
  [T͟Hō]
@@ -3582,7 +3582,7 @@ adverb
 
  Again, there is
      no difference in meaning between these, though 
-* reduced							      :Study:
+* reduced							      :drill:
  [2017-05-05 Fri 08:52]
  уменьшенный
 
@@ -3608,7 +3608,7 @@ adjective
  also be called decreased.
 
  Defining relative clauses can be simplified, or reduced, in several ways:
-* injury							      :Study:
+* injury							      :drill:
  [2017-05-05 Fri 08:53]
  травма
  [ˈinjərē]
@@ -3636,7 +3636,7 @@ adjective
  wrong that leads to damage.
 
  injury
-* helmet							      :Study:
+* helmet							      :drill:
  [2017-05-05 Fri 08:53]
  шлем
 
@@ -3646,7 +3646,7 @@ adjective
  3. шапка (cap, hat, header, banner, bonnet, helmet)
  4. тропический шлем (topee, helmet, sun helmet, topi)
 
-* omitted							      :Study:
+* omitted							      :drill:
  [2017-05-05 Fri 08:58]
  опущено
 
@@ -3669,7 +3669,7 @@ verb
 
  If the relative pronoun is the object of the verb then it can be
      omitted 
-* dozens							      :Study:
+* dozens							      :drill:
  [2017-05-07 Sun 09:44]
  множество
 
@@ -3678,7 +3678,7 @@ verb
 
  The os module provides dozens of functions for interacting with the
  operating system:
-* aids								      :Study:
+* aids								      :drill:
  [2017-05-07 Sun 09:50]
  вспомогательные средства
 
@@ -3688,7 +3688,7 @@ verb
 
  The built-in dir() and help() functions are useful as interactive aids for
  working with large modules like os:
-* speech							      :Study:
+* speech							      :drill:
  [2017-05-07 Sun 10:43]
 
  When you say something out loud, that's speech. When you give a
@@ -3703,7 +3703,7 @@ verb
 
  Direct speech
 
-* frequent							      :Study:
+* frequent							      :drill:
  [2017-05-07 Sun 16:31]
  частый
 
@@ -3728,7 +3728,7 @@ verb
 
  Because of the frequent updated answers, some of the most viewed answers have been dropped down to
  the bottom.
-* wing								      :Study:
+* wing								      :drill:
  [2017-05-07 Sun 16:33]
  крыло
 
@@ -3752,7 +3752,7 @@ verb
 
  A student from the student wing told students that Mashal and his two other friends had
  committed blasphemy.
-* blasphemy							      :Study:
+* blasphemy							      :drill:
  [2017-05-07 Sun 16:33]
  богохульство
  [ˈblasfəmē]
@@ -3773,7 +3773,7 @@ verb
  A student from the student wing told students that Mashal and his two other friends had
  committed blasphemy.
 
-* wildcard							      :Study:
+* wildcard							      :drill:
  [2017-05-08 Mon 10:24]
  подстановочные
 
@@ -3785,7 +3785,7 @@ verb
 
  A wildcard is a symbol such as *.
 
-* penetrate							      :Study:
+* penetrate							      :drill:
  [2017-05-08 Mon 13:38]
  проникать
 
@@ -3826,7 +3826,7 @@ verb
 
  Virus often penetrate the living cells.
 
-* presumably							      :Study:
+* presumably							      :drill:
  [2017-05-08 Mon 13:39]
 
  предположительно
@@ -3853,7 +3853,7 @@ verb
 
  Presumably will be rain today.
 
-* abroad							      :Study:
+* abroad							      :drill:
  [2017-05-08 Mon 13:40]
  за границу
 
@@ -3883,7 +3883,7 @@ verb
  everyone in USSR.
 
  He went abroad.
-* retire							      :Study:
+* retire							      :drill:
  [2017-05-08 Mon 13:41]
  retire
 
@@ -3920,7 +3920,7 @@ verb
  of 38, he got what a top KGB officer would be so glad to retire to.
 
  Half of the senators retire every four years.
-* former							      :Study:
+* former							      :drill:
  [2017-05-08 Mon 13:41]
  adjective
   1. бывший (former, ex, old, onetime, late, last)
@@ -3954,7 +3954,7 @@ verb
  However USSR ended, and he joined forces with his former Professor Anatoly Sobchak.
 
  Tom is a former paratrooper. 
-* looting							      :Study:
+* looting							      :drill:
  [2017-05-08 Mon 13:42]
 
  мародерство
@@ -3964,7 +3964,7 @@ verb
   2. мародерство (marauding, looting, pillage, pillaging, foray)
     
  Looting continues in the city
-* allegedly							      :Study:
+* allegedly							      :drill:
  [2017-05-08 Mon 13:42]
  [əˈlejidlē]
  якобы
@@ -3990,7 +3990,7 @@ verb
  Pro-democracy and anti-corruption campaigner Nemtsov, allegedly conflicting with Berezovsky, was recommending him.
 
  The burglar allegedly broke into the woman’s car.
-* wicked							      :Study:
+* wicked							      :drill:
  [2017-05-08 Mon 13:43]
  wicked
  [ˈwikid]
@@ -4026,7 +4026,7 @@ verb
  "wizard."
 
  He has wicked wit and gifts, that have the power So to seduce
-* seduce							      :Study:
+* seduce							      :drill:
  [2017-05-08 Mon 13:43]
  соблазнять
 
@@ -4048,7 +4048,7 @@ verb
  Graduate: “Mrs. Robinson, you’re trying to seduce me.”
 
  He has wicked wit and gifts, that have the power So to seduce
-* affairs							      :Study:
+* affairs							      :drill:
  [2017-05-08 Mon 13:48]
  дела
 
@@ -4060,7 +4060,7 @@ verb
  amount of the very tedious day to day realities of how a country and its economic system works.
 
  It is your affair, not mine.
-* tedious							      :Study:
+* tedious							      :drill:
  [2017-05-08 Mon 13:49]
  утомительный
 
@@ -4084,7 +4084,7 @@ verb
  amount of the very tedious day to day realities of how a country and its economic system works.
 
  Waiting was tedious.
-* arguable							      :Study:
+* arguable							      :drill:
  [2017-05-08 Mon 13:49]
  arguable
  [ˈärgyo͞oəbəl]
@@ -4095,7 +4095,7 @@ verb
   2. доказуемый (provable, demonstrable, arguable, evincible, vindicable)
 
  This is arguable question.
-* rods								      :Study:
+* rods								      :drill:
  [2017-05-07 Sun 16:35]
  прутки
 
@@ -4135,7 +4135,7 @@ verb
 
  They dragged him out, and without asking anything, about 500+ people
  started beating him with wooden planks, iron rods, and whatever else they could find.
-* shoulder							      :Study:
+* shoulder							      :drill:
  [2017-05-07 Sun 16:36]
  плечо
 
@@ -4159,7 +4159,7 @@ verb
  6. отталкивать в сторону (shoulder, shoulder one's way)
 
  In between someone shot him once in the shoulder and once in the head.
-* instantly							      :Study:
+* instantly							      :drill:
  [2017-05-07 Sun 16:36]
  instantly
 
@@ -4182,7 +4182,7 @@ verb
  "standing near."
 
  He died instantly.
-* skull								      :Study:
+* skull								      :drill:
  [2017-05-07 Sun 16:37]
  череп
 
@@ -4190,7 +4190,7 @@ verb
  1. череп (skull, cranium, braincase, brainpan, pericranium, death's head)
  2. башка (chump, noggin, pate, twopenny, noddle, skull)
 
-* inward							      :Study:
+* inward							      :drill:
    [2017-05-07 Sun 16:37]
    внутрь
 
@@ -4206,7 +4206,7 @@ adjective
  5. умственный (mental, intelligence, intellective, inward)
 
  They beat his lifeless body, ripped his clothes apart, hit him so much on his head that his skull caved inward.
-* tore								      :Study:
+* tore								      :drill:
  [2017-05-07 Sun 16:37]
  оторвал
 
@@ -4217,7 +4217,7 @@ adjective
 
  They tore
  his nose with a screw driver.
-* screw								      :Study:
+* screw								      :drill:
  [2017-05-07 Sun 16:37]
  винт
 
@@ -4272,7 +4272,7 @@ verb
 22. поставить (screw)
 23. совокупляться (copulate, fuck, frig, jazz, screw)
 
-* succinct							      :Study:
+* succinct							      :drill:
  [2017-05-09 Tue 09:37]
  краткий
  [sə(k)ˈsiNG(k)t]
@@ -4297,7 +4297,7 @@ verb
  succinct, optimized solutions:
 
  The ideal summary is succinct and to the point.
-* preceding							      :Study:
+* preceding							      :drill:
  [2017-05-09 Tue 10:05]
  предшествующий
 
@@ -4316,7 +4316,7 @@ verb
  preceding times he or she has asked.
 
  The preceding week he had been on vacation.
-* mutiny							      :Study:
+* mutiny							      :drill:
  [2017-05-09 Tue 11:12]
  [ˈmyo͞otn-ē]
  бунт
@@ -4346,7 +4346,7 @@ verb
  best possible way of either breaking me or granting them no classwork.
 
  The mutiny was led by the Alexey Navalniy.
-* barrages							      :Study:
+* barrages							      :drill:
  [2017-05-09 Tue 11:13]
  [bəˈräZH]
  заграждений
@@ -4383,7 +4383,7 @@ verb
  demands, and do their best to make me quit.
 
  The star  was barraged with requests for an autograph.
-* bawling							      :Study:
+* bawling							      :drill:
  [2017-05-09 Tue 11:14]
 
  реветь
@@ -4396,7 +4396,7 @@ verb
  I immediately broke down bawling.
 
  She began to bawl like a child
-* blurted							      :Study:
+* blurted							      :drill:
  [2017-05-09 Tue 11:18]
 
  выпалила
@@ -4419,7 +4419,7 @@ verb
  girl blurted out in class.
 
  She blurted.
-* rear								      :Study:
+* rear								      :drill:
  [2017-05-09 Tue 11:18]
  [ri(ə)r]
  задний
@@ -4473,7 +4473,7 @@ verb
  mother-self rear up like a dragon.
 
  I watched a film on how wolves rear their young.
-* fabulous							      :Study:
+* fabulous							      :drill:
  [2017-05-09 Tue 11:19]
  fabulous
  [ˈfabyələs]
@@ -4502,7 +4502,7 @@ verb
  My spanish teacher in 8th grade was fabulous.
 
  I had a fabulous time.
-* vivid								      :Study:
+* vivid								      :drill:
  [2017-05-09 Tue 11:19]
  vivid
  [ˈvivid]
@@ -4529,7 +4529,7 @@ verb
  and even throwing furniture.
 
  The dream was very vivid.
-* aisles							      :Study:
+* aisles							      :drill:
  [2017-05-09 Tue 11:19]
  проходы
 
@@ -4558,7 +4558,7 @@ verb
  and even throwing furniture.
 
  The bride walked down the aisle to the altar.
-* silence							      :Study:
+* silence							      :drill:
  [2017-05-09 Tue 11:21]
  [ˈsīləns]
  тишина
@@ -4590,7 +4590,7 @@ verb
  and the others hung in silence.
 
  We sat there in dead silence.
-* sobbing							      :Study:
+* sobbing							      :drill:
  [2017-05-09 Tue 11:21]
  sobbing
 
@@ -4602,7 +4602,7 @@ verb
 
  I hear sobbing.
 
-* claim								      :Study:
+* claim								      :drill:
  [2017-05-10 Wed 09:19]
  [klām]
  Запрос
@@ -4640,7 +4640,7 @@ verb
  going to have to prove it.
 
  He made false claims about his past job experience.
-* advise							      :Study:
+* advise							      :drill:
  [2017-05-10 Wed 09:20]
  [ədˈvīz]
  консультировать
@@ -4669,7 +4669,7 @@ verb
  least two weeks in advance.
 
  I advise selling your old car.
-* refuse							      :Study:
+* refuse							      :drill:
  [2017-05-10 Wed 09:20]
  отказаться
 
@@ -4709,7 +4709,7 @@ verb
  from refusing the donor kidney.
 
  I refused the job.
-* underlying							      :Study:
+* underlying							      :drill:
  [2017-05-10 Wed 09:45]
  underlying
 
@@ -4736,7 +4736,7 @@ verb
  study.)
 
  He understood the real purpose underlying the experiment.
-* explicitly							      :Study:
+* explicitly							      :drill:
  [2017-05-10 Wed 13:14]
  explicitly
 
@@ -4761,7 +4761,7 @@ verb
  explicare, "unfold, unravel, explain."
 
  This database needs to be explicitly. 
-* Malicious							      :Study:
+* Malicious							      :drill:
  [2017-05-10 Wed 16:58]
  [məlɪʃəs]
  злонамеренный
@@ -4782,7 +4782,7 @@ verb
  he loves to make bad things happen.
 
  There was no malicious intent at all.
-* assembled							      :Study:
+* assembled							      :drill:
  [2017-05-11 Thu 06:47]
  собранный
 
@@ -4801,7 +4801,7 @@ verb
 
  Linux is a Unix-like computer operating system assembled under the model
  of free and open-source software development and distribution.
-* accompanying							      :Study:
+* accompanying							      :drill:
  [2017-05-11 Thu 07:00]
  [əˈkʌmpənɪɪŋ]
  accompanying
@@ -4829,7 +4829,7 @@ verb
      such as LXDE or Xfce.
 
  Accompanying living expenses in college.
-* junkware							      :Study:
+* junkware							      :drill:
  [2017-05-11 Thu 10:47]
  junkware
 
@@ -4839,7 +4839,7 @@ verb
  companies.[1] To prevent this, extra caution on what exactly is being asked
  to be installed is needed.
 
-* mainstream							      :Study:
+* mainstream							      :drill:
  [2017-05-12 Fri 06:34]
  mainstream
 
@@ -4869,7 +4869,7 @@ verb
 
  Those who are not in the mainstream of public opinion often find their
  views ignored by the majority.
-* verbose							      :Study:
+* verbose							      :drill:
  [2017-05-12 Fri 07:25]
  [vərˈbōs]
  подробный
@@ -4895,7 +4895,7 @@ verb
      indicating there will be a filename to follow
 
  My verbose friend could talk for hours with no stop.
-* incantation							      :Study:
+* incantation							      :drill:
  [2017-05-12 Fri 07:41]
  [ˌinkanˈtāSHən]
  заклинание
@@ -4925,7 +4925,7 @@ verb
  this.
 
  The magician said an incantation and then pulled a rabbit from an empty hat.
-* alien								      :Study:
+* alien								      :drill:
  [2017-05-13 Sat 06:38]
  [ˈālyən]
  инопланетянин
@@ -4968,7 +4968,7 @@ verb
 
  The movie was about an alien who needed help to return to his home planet.
 
-* Fiction							      :Study:
+* Fiction							      :drill:
  [2017-05-13 Sat 06:38]
  Фантастика
 
@@ -4995,7 +4995,7 @@ verb
  commonly known as alphabetical by author.
 
  She reads nothing but fiction.
-* whether							      :Study:
+* whether							      :drill:
  [2017-05-13 Sat 09:22]
  whether
 
@@ -5010,7 +5010,7 @@ verb
 
  She asked me whether I'd enjoyed the party.
  I wonder whether you understand.
-* affirmative							      :Study:
+* affirmative							      :drill:
  [2017-05-13 Sat 09:26]
  утвердительный
 
@@ -5037,7 +5037,7 @@ verb
 
  The word order is the same as in an affirmative sentence.
 
-* compatible							      :Study:
+* compatible							      :drill:
  [2017-05-14 Sun 09:32]
 
  совместимый
@@ -5049,7 +5049,7 @@ adjective
  To install a version that's 'compatible'
 
 
-* gain								      :Study:
+* gain								      :drill:
  [2017-05-15 Mon 07:25]
  [gān]
  усиление
@@ -5109,7 +5109,7 @@ adjective
  in the directory tree you would like those files to appear.
 
  Tom gained weight.
-* obscures							      :Study:
+* obscures							      :drill:
   [2017-05-15 Mon 07:30]
 
   [əbˈskyo͝o]
@@ -5142,7 +5142,7 @@ adjective
   until the file system that obscures them is unmounted.
 
   The meaning is still obscure to me.
-* myriad							      :Study:
+* myriad							      :drill:
  [2017-05-15 Mon 07:57]
    мириады
 
@@ -5173,14 +5173,14 @@ adjective
    partitions sometimes recommended in these primers.
 
    Kelly and Clint discuss myriad topics on their talk show.
-* drawbacks							      :Study:
+* drawbacks							      :drill:
  [2017-05-15 Mon 16:29]
    недостатки
    Similar to Zurich, but the benefits and drawbacks are less
    amplified.
    The only drawback to the climate the prevalence of high cold winds
    in winter.
-* amplified							      :Study:
+* amplified							      :drill:
  [2017-05-15 Mon 16:29]
 
    amplified
@@ -5207,12 +5207,12 @@ adjective
    amplified.
 
    The cold winds amplifies in winter.
-* heatwaves							      :Study:
+* heatwaves							      :drill:
  [2017-05-15 Mon 16:30]
    Теплые волны
    2 Cons: heatwaves, droughts, forest fires, a very remote location (forget
     travelling anywhere beyond South Asia).
-* droughts							      :Study:
+* droughts							      :drill:
  [2017-05-15 Mon 16:30]
    [drout]
    droughts
@@ -5241,13 +5241,13 @@ adjective
     travelling anywhere beyond South Asia).
 
    Many trees died during the long drought.
-* unaffordable							      :Study:
+* unaffordable							      :drill:
  [2017-05-15 Mon 16:30]
    [ˌənəˈfôrdəbə]
    непозволительно
    Medical care is unaffordable in Dublin for many people.
 
-* lack								      :Study:
+* lack								      :drill:
  [2017-05-15 Mon 16:30]
    отсутствие
 
@@ -5278,7 +5278,7 @@ adjective
     transport outside San Francisco, droughts.
 
     He lacks motivation.
-* rash								      :Study:
+* rash								      :drill:
  [2017-05-15 Mon 16:32]
    сыпь
 
@@ -5314,7 +5314,7 @@ adjective
    happening in a short amount of time, like robberies or earthquakes.
 
    Don't make rash decisions.
-* dodgy								      :Study:
+* dodgy								      :drill:
  [2017-05-15 Mon 16:33]
    изворотливый
 
@@ -5340,7 +5340,7 @@ adjective
    dodgy, but probably less than quitting altogether.
 
    He is dodgy.
-* sake								      :Study:
+* sake								      :drill:
  [2017-05-15 Mon 16:33]
    ради
 
@@ -5362,7 +5362,7 @@ adjective
    for your career's sake if nothing else.
 
    Do it for my sake.
-* decent							      :Study:
+* decent							      :drill:
  [2017-05-15 Mon 16:33]
    [ˈdēsənt]
 
@@ -5399,7 +5399,7 @@ adjective
 
    He is very decent.
 
-* Measurement							      :Study:
+* Measurement							      :drill:
  [2017-05-16 Tue 08:59]
    измерение
 
@@ -5423,7 +5423,7 @@ adjective
    Performance Measurement
 
    Precise measurements are required.
-* Neither							      :Study:
+* Neither							      :drill:
  [2017-05-16 Tue 09:37]
 
  When offered a choice between two things you don't like, you might
@@ -5439,7 +5439,7 @@ adjective
  day.
 
  - "I don't want another drink" "Neither do I."
-* rude								      :Study:
+* rude								      :drill:
  [2017-05-16 Tue 16:23]
    [ro͞od]
    грубый
@@ -5476,7 +5476,7 @@ adjective
 
    Isabel had always been in rude health.
 
-* aired								      :Study:
+* aired								      :drill:
  [2017-05-16 Tue 16:29]
    эфир
 
@@ -5489,7 +5489,7 @@ adjective
     6. обнародовать (promulgate, manifest, proclaim, air, give forth, noise)
 
    Song was aired throughout the store.
-* innate							      :Study:
+* innate							      :drill:
  [2017-05-16 Tue 16:29]
    врожденный
 
@@ -5508,7 +5508,7 @@ adjective
    innate means inherent. There is an innate sadness in certain types of
    ceremonies.
 
-* wardrobe							      :Study:
+* wardrobe							      :drill:
  [2017-05-16 Tue 16:29]
    [ˈwôrˌdrōb]
    гардероб
@@ -5531,7 +5531,7 @@ adjective
    movie.
 
    All of the clothes in your closet make up your wardrobe.
-* sink								      :Study:
+* sink								      :drill:
  [2017-05-16 Tue 16:30]
    раковина
 
@@ -5610,7 +5610,7 @@ adjective
    source.
 
    I saw the boat sink.
-* gestures							      :Study:
+* gestures							      :drill:
  [2017-05-16 Tue 16:33]
    gestures
 
@@ -5640,7 +5640,7 @@ adjective
     stress their points
 
    I appreciate the gesture.
-* snail								      :Study:
+* snail								      :drill:
  [2017-05-16 Tue 16:34]
    улитка
 
@@ -5659,7 +5659,7 @@ adjective
    So many restaurants will open at the lunch-time, closed on the afternoon, and reopen at 7.30 PM
 
    A snail is a small mollusk with a spiral-shaped shell.
-* greasy							      :Study:
+* greasy							      :drill:
  [2017-05-16 Tue 16:35]
    [ˈgrēsē]
    сальный
@@ -5678,7 +5678,7 @@ adjective
    11. не очищенный от жира (greasy)
 
    He wiped his greasy fingers.
-* appearances							      :Study:
+* appearances							      :drill:
  [2017-05-16 Tue 16:35]
    Выступления
 
@@ -5712,7 +5712,7 @@ adjective
 
    They won’t eat too many greasy food and they care a lot about their weight and
    appearances.
-* stinky							      :Study:
+* stinky							      :drill:
  [2017-05-16 Tue 16:36]
    вонючий
 
@@ -5720,7 +5720,7 @@ adjective
     1. вонючий (smelly, stinking, stinky, stunk, fetid, foul)
 
    Many metro stations are stinky and you can find many graffitis on the wall.
-* mugged							      :Study:
+* mugged							      :drill:
  [2017-05-16 Tue 16:36]
    ограбленный
 
@@ -5743,7 +5743,7 @@ adjective
    earlier definition, "to strike someone in the face (or the mug)."
 
    I got mugged when I went to CHURCH (Montmartre)
-* yell								      :Study:
+* yell								      :drill:
  [2017-05-16 Tue 16:37]
    вопить
 
@@ -5765,7 +5765,7 @@ adjective
 
    You heard me yelling at her.
 
-* afterthought							      :Study:
+* afterthought							      :drill:
  [2017-05-17 Wed 14:06]
    [ˈaftərˌTHôt]
    раздумье
@@ -5790,7 +5790,7 @@ adjective
    feel to me more like an afterthought.
 
    She added, as an afterthought, that she was going to do some shopping.
-* bundles							      :Study:
+* bundles							      :drill:
  [2017-05-17 Wed 14:08]
    пучки
 
@@ -5829,7 +5829,7 @@ adjective
 
    Tom is a bundle of nerves.
 
-* immensely							      :Study:
+* immensely							      :drill:
  [2017-05-17 Wed 14:08]
    [iˈmenslē]
    очень
@@ -5858,7 +5858,7 @@ adjective
     installed.
 
    The president was immensely popular
-* wizard							      :Study:
+* wizard							      :drill:
  [2017-05-17 Wed 14:11]
 
    волшебник
@@ -5878,7 +5878,7 @@ adjective
    verb
     1. околдовать (cast a spell on, cast a spell over, witch, bedevil, glamor, wizard)
    The wizard waved his magic wand and disappeared into thin air. 
-* arise								      :Study:
+* arise								      :drill:
   [2017-05-17 Wed 14:11]
   [əˈrīz]
   возникать
@@ -5917,7 +5917,7 @@ adjective
    are fast and easy to solve.
 
   A new difficulty has arisen.
-* charge							      :Study:
+* charge							      :drill:
  [2017-05-17 Wed 14:11]
    [CHärj]
    заряд
@@ -5989,7 +5989,7 @@ adjective
     license to get a Linux version that supports multiuser logins.
 
    Charge this to my company.
-* spawning							      :Study:
+* spawning							      :drill:
  [2017-05-17 Wed 14:13]
    нерест
 
@@ -6012,7 +6012,7 @@ adjective
     practice, spawning a "software tools" movement.
 
    Bill Gates programming project spawned a multimillion-dollar industry.
-* influential							      :Study:
+* influential							      :drill:
  [2017-05-17 Wed 14:13]
    influential
 
@@ -6047,7 +6047,7 @@ adjective
 
    Money influences everything.
 
-* bizarre							      :Study:
+* bizarre							      :drill:
  [2017-05-17 Wed 14:14]
    [biˈzär]
    bizarre
@@ -6081,7 +6081,7 @@ adjective
    handle.
 
    This is one of the most bizarre things I've ever seen.
-* oddly								      :Study:
+* oddly								      :drill:
  [2017-05-17 Wed 14:14]
    oddly
 
@@ -6091,7 +6091,7 @@ adjective
    1. странно (strangely, oddly, curiously, peculiarly, queerly)
      
    The man's behavior was very odd.
-* lazy								      :Study:
+* lazy								      :drill:
  [2017-05-17 Wed 14:19]
    lazy
 
@@ -6117,7 +6117,7 @@ adjective
 
    Many peoples are very lazy by nature.
 
-* outdated							      :Study:
+* outdated							      :drill:
    CLOSED: [2017-05-18 Thu 17:27]
  [2017-05-18 Thu 09:18]
    устаревший
@@ -6139,7 +6139,7 @@ adjective
    the "mark as old fashioned" meaning of the verb date.
 
    The 'pip list --outdates' command to list outdated packages, and show the latest version.
-* worst								      :Study:
+* worst								      :drill:
  [2017-05-18 Thu 16:10]
    наихудший
 
@@ -6172,7 +6172,7 @@ adjective
    might be worse than your brother's but dad's is the worst of all.
 
    What is your worst experience in life?
-* nonetheless							      :Study:
+* nonetheless							      :drill:
  [2017-05-18 Thu 16:16]
    [ˌnənT͟Həˈles]
    тем не менее
@@ -6196,7 +6196,7 @@ adjective
    nonetheless.
 
    You may not believe it, but it is nonetheless true. 
-* divorced							      :Study:
+* divorced							      :drill:
  [2017-05-18 Thu 16:16]
    divorced
 
@@ -6206,7 +6206,7 @@ adjective
     1. разведенный (diluted, divorced, dilute, separated, thin)
 
    My parents got divorced.
-* toddler							      :Study:
+* toddler							      :drill:
  [2017-05-18 Thu 16:16]
    ребенок, начинающий ходить
 
@@ -6227,7 +6227,7 @@ adjective
    with a toddler-aged sister, it was earth-shattering to me.
 
    Toddler is a young child who is just beginning to walk.
-* shattering							      :Study:
+* shattering							      :drill:
  [2017-05-18 Thu 16:17]
 
    сокрушительный
@@ -6238,7 +6238,7 @@ adjective
 
    His hopes were shattered.
 
-* toughest							      :Study:
+* toughest							      :drill:
  [2017-05-18 Thu 16:19]
 
    The adjective tough is good for describing hard times. If you just got
@@ -6258,7 +6258,7 @@ adjective
    July 24, 2011.
 
    It was toughest time in my life.
-* gust								      :Study:
+* gust								      :drill:
  [2017-05-18 Thu 16:20]
    [gəst]
    порыв
@@ -6290,7 +6290,7 @@ adjective
    and that they weren't in pain and that it all happened so fast.
 
    A gust is a strong, short burst of air.
-* selfish							      :Study:
+* selfish							      :drill:
  [2017-05-18 Thu 16:22]
  эгоистичный
 
@@ -6315,7 +6315,7 @@ adjective
  then immediately felt selfish and therefore guilty.
 
  I joined them for selfish reasons.
-* hole								      :Study:
+* hole								      :drill:
  [2017-05-18 Thu 16:22]
  [hōl]
    дыра, отверстие
@@ -6337,7 +6337,7 @@ adjective
    the most immense pressure.
 
    I got a hole in my jeans
-* immense							      :Study:
+* immense							      :drill:
  [2017-05-18 Thu 16:22]
    [iˈmens]
    огромный
@@ -6366,7 +6366,7 @@ adjective
 
    The cost of restoration has been immense.
 
-* pressure							      :Study:
+* pressure							      :drill:
  [2017-05-18 Thu 16:22]
    [ˈpreSHər]
    давление
@@ -6405,7 +6405,7 @@ adjective
    the most immense pressure.
 
    I have low blood pressure.
-* felt								      :Study:
+* felt								      :drill:
  [2017-05-18 Thu 16:24]
 
    почувствовал
@@ -6428,7 +6428,7 @@ adjective
    of those connections that you felt and no one needed to say anything.
 
    Tom felt very lonely.
-* invincible							      :Study:
+* invincible							      :drill:
  [2017-05-18 Thu 16:26]
    непобедимый
 
@@ -6453,7 +6453,7 @@ adjective
    like this happening.
 
    Tom thinks he's invincible.
-* deserve							      :Study:
+* deserve							      :drill:
  [2017-05-18 Thu 16:26]
    [dəˈzərv]
    заслуживать
@@ -6477,7 +6477,7 @@ adjective
    There was nothing they did to deserve this.
 
    You deserve the prize.
-* fluke								      :Study:
+* fluke								      :drill:
  [2017-05-18 Thu 16:26]
    счастливая случайность
 
@@ -6515,7 +6515,7 @@ adjective
    call it.
 
    Their triumph was no fluke.
-* coincidence							      :Study:
+* coincidence							      :drill:
  [2017-05-18 Thu 16:26]
    [kōˈinsədəns]
    совпадение
@@ -6540,7 +6540,7 @@ adjective
    call it.
 
    What a happy coincidence!
-* jail                       тюремное заключение
+* jail                       тюремное заключение		      :drill:
 
   noun
    1. тюрьма (prison, jail, gaol, pokey, prison house, cage)
@@ -6567,7 +6567,7 @@ adjective
 
   The driver was jailed for two years
 
-* elect								      :Study:
+* elect								      :drill:
  [2017-05-20 Sat 09:03]
    избранные
 
@@ -6601,7 +6601,7 @@ adjective
    format:
 
     A group of citizens may elect the next president.
-* batch								      :Study:
+* batch								      :drill:
  [2017-05-20 Sat 09:05]
    batch
 
@@ -6644,7 +6644,7 @@ adjective
    format:
 
    A batch of cakes was made yesterday.
-* arbitrary							      :Study:
+* arbitrary							      :drill:
  [2017-05-22 Mon 07:02]
    [ˈärbiˌtrerē]
    arbitrary
@@ -6670,7 +6670,7 @@ adjective
    picking names out of a hat.
 
    There is also a mechanism for an arbitrary number of keyword parameters.
-* simpleton							      :Study:
+* simpleton							      :drill:
  [2017-05-24 Wed 07:10]
    [ˈsimpəltən]
    простак
@@ -6696,7 +6696,7 @@ adjective
 
    The simpleton was so clueless, he didn’t realize that paper was made
    out of wood.
-* clueless
+* clueless							      :drill:
     [ˈklo͞oləs]
     невежественный
 
@@ -6708,7 +6708,7 @@ adjective
 
    They were clueless about what to do.
 
-* abandoned
+* abandoned							      :drill:
   заброшенный
 
   adjective
@@ -6720,7 +6720,7 @@ adjective
 
    An abandoned repository.
 
-* blizzard
+* blizzard							      :drill:
   [ˈblizərd]
 
   метель
@@ -6733,7 +6733,7 @@ adjective
 
   A blizzard is an example of extreme weather conditions.
 
-* tremendous							      :Study:
+* tremendous							      :drill:
  [2017-05-25 Thu 15:02]
    [trəˈmendəs]
    tremendous
@@ -6764,7 +6764,7 @@ adjective
    commands and yet experience a tremendous boost in productivity.
 
    Tom did an absolutely tremendous job.
-* boost								      :Study:
+* boost								      :drill:
  [2017-05-25 Thu 15:05]
    увеличение
 
@@ -6813,7 +6813,7 @@ adjective
    commands and yet experience a tremendous boost in productivity.
 
    What can we do to boost production in the factory?
-* inevitably							      :Study:
+* inevitably							      :drill:
  [2017-05-25 Thu 17:34]
    [inˈevitəblē]
    неизбежно
@@ -6835,7 +6835,7 @@ adjective
 
 
    Its a question one inevitably asks himself at one point in his life.
-* pondering							      :Study:
+* pondering							      :drill:
  [2017-05-25 Thu 17:36]
 
    размышляют
@@ -6847,7 +6847,7 @@ adjective
 
 
    You may wonder why I am still pondering the question.
-* retreat							      :Study:
+* retreat							      :drill:
  [2017-05-25 Thu 17:37]
    [riˈtrēt]
    отступление
@@ -6889,7 +6889,7 @@ adjective
    opposing evidence is too convincing.
 
    I was using this time as a retreat more than anything.
-* sour								      :Study:
+* sour								      :drill:
  [2017-05-25 Thu 17:38]
    [ˈsou(ə)r]
    кислый
@@ -6931,7 +6931,7 @@ adjective
 
    She sampled the wine and found it was sour
 
-* luck								      :Study:
+* luck								      :drill:
  [2017-05-25 Thu 17:38]
    везение
 
@@ -6961,7 +6961,7 @@ adjective
    time were promising.
 
    He lucked into a disc-jockey job.
-* pillar							      :Study:
+* pillar							      :drill:
  [2017-05-25 Thu 17:46]
    [ˈpilə]
    столб
@@ -6996,7 +6996,7 @@ adjective
    pillar to the organization.
 
    She has been a pillar of support in my life through thick and thin.
-* aspirations							      :Study:
+* aspirations							      :drill:
  [2017-05-25 Thu 17:48]
    стремления
 
@@ -7028,7 +7028,7 @@ adjective
    better start training.
 
 
-* cumbersome							      :Study:
+* cumbersome							      :drill:
  [2017-05-29 Mon 15:39]
 
    громоздкий
@@ -7057,7 +7057,7 @@ adjective
 
    Any programs are very cumbersome.
    Ancient animals was a cumbersome giants.
-* bespoke							      :Study:
+* bespoke							      :drill:
  [2017-05-31 Wed 16:44]
 
    сделанный на заказ
@@ -7095,7 +7095,7 @@ adjective
    James and Amy focused their business on the development of complex
    bespoke software.
 
-* retains							      :Study:
+* retains							      :drill:
  [2017-06-01 Thu 07:42]
    [riˈtān]
    сохраняет
@@ -7121,14 +7121,14 @@ adjective
    The Emacs register retains all necessary information that you need for
    further usage.
 
-* conveniently							      :Study:
+* conveniently							      :drill:
  [2017-06-01 Thu 08:32]
 
    удобно
 
    If you visit certain file names frequently, you can visit them more
    conveniently if you put their names in registers.
-* invocations							      :Study:
+* invocations							      :drill:
 [2017-06-01 Thu 08:48]
   вызовы
 
@@ -7160,7 +7160,7 @@ adjective
   A method invocation is represented by a message sent from a caller.
   The invocation will be offered by Bob.
 
-* concerning							      :Study:
+* concerning							      :drill:
  [2017-06-01 Thu 11:18]
  [kənˈsərniNG]
    относительно
@@ -7192,7 +7192,7 @@ adjective
 
    By “structure” we mean the decisions you make concerning how your project
    best meets its objective.
-* leverage							      :Study:
+* leverage							      :drill:
  [2017-06-01 Thu 11:18]
    левередж
 
@@ -7218,7 +7218,7 @@ adjective
 
    We need to consider how to best leverage Python’s
    features to create clean, effective code.
-* nook								      :Study:
+* nook								      :drill:
  [2017-06-01 Thu 11:20]
    закоулок
 
@@ -7251,7 +7251,7 @@ adjective
    A nook is a cozy little corner or a small, safe area. A nook in the
    library can be a nice place to sit and read.
 
-* cranny							      :Study:
+* cranny							      :drill:
  [2017-06-01 Thu 11:21]
    [ˈkranē]
    трещина
@@ -7275,7 +7275,7 @@ adjective
    intimately familiar with every nook and cranny.
 
    Our road to the city park usually lies through the cranny between the houses.
-* entity							      :Study:
+* entity							      :drill:
  [2017-06-02 Fri 17:36]
    организация
 
@@ -7305,7 +7305,7 @@ adjective
    Rows are also
    called records or tuples.[2] Generally, each table/relation represents one
    "entity type" (such as customer or product).
-* foreign							      :Study:
+* foreign							      :drill:
  [2017-06-02 Fri 17:45]
    иностранные
 
@@ -7333,7 +7333,7 @@ adjective
    Rows in a table can be linked to
    rows in other tables by adding a column for the unique key of the linked row
    (such columns are known as foreign keys).
-* investigation							      :Study:
+* investigation							      :drill:
  [2017-06-03 Sat 16:41]
    расследование
 
@@ -7363,7 +7363,7 @@ adjective
    software implementation.
 
    If something has gone missing, conduct an investigation to find it.
-* stakeholders							      :Study:
+* stakeholders							      :drill:
  [2017-06-03 Sat 16:41]
    заинтересованные стороны
 
@@ -7387,7 +7387,7 @@ adjective
    software implementation.
 
    I need informs stakeholders of my work progress.
-* intent							      :Study:
+* intent							      :drill:
  [2017-06-03 Sat 16:43]
    намерение
 
@@ -7421,7 +7421,7 @@ adjective
    use.
 
    If you have an intent, you have a motive or purpose.
-* feasible							      :Study:
+* feasible							      :drill:
  [2017-06-03 Sat 16:58]
    [ˈfēzəbəl]
    выполнимый
@@ -7451,7 +7451,7 @@ adjective
    tests that are feasible for the available time and resources.
 
    I promised to return to her as soon as it was feasible.
-* furnishes							      :Study:
+* furnishes							      :drill:
  [2017-06-03 Sat 16:59]
    [ˈfərniSH]
 
@@ -7472,7 +7472,7 @@ adjective
    might recognize a problem.
 
    We needs furnishes the mind with many nourishing and useful thoughts.
-* gaps								      :Study:
+* gaps								      :drill:
  [2017-06-03 Sat 17:00]
 
    A gap is the space between two things. It can be physical (like "the
@@ -7497,7 +7497,7 @@ adjective
    A gap is the space between two things. It can be physical (like "the
    gap between your two front teeth") or philosophical (like "the
    generation gap" between you and your parents).
-* omission							      :Study:
+* omission							      :drill:
  [2017-06-03 Sat 17:01]
    упущение
 
@@ -7528,7 +7528,7 @@ adjective
    maintainability, usability, performance, and security.
 
    Any omissions would later prove to be critical.
-* trace
+* trace								      :drill:
     след
 
   noun
@@ -7571,7 +7571,7 @@ adjective
 
   Tom says he can trace his ancestors back about 300 years.
 
-* weird								      :Study:
+* weird								      :drill:
  [2017-06-07 Wed 14:58]
    [wi(ə)rd]
 
@@ -7604,7 +7604,7 @@ adjective
 
    Very strange and unusual, unexpected, or not natural.
    People are weird.
-* disservice							      :Study:
+* disservice							      :drill:
  [2017-06-07 Wed 14:58]
    /ˌdɪsˈsɜː.vɪs/
    вред
@@ -7619,7 +7619,7 @@ adjective
    An action that harms something or someone
    Her comments were a disservice to those volunteers.
 
-* janitor							      :Study:
+* janitor							      :drill:
  [2017-06-07 Wed 14:59]
    /ˈdʒæn.ɪ.tər/
    дворник
@@ -7651,7 +7651,7 @@ adjective
    A person employed to take care of a large building, such as a school,
    and who deals with the cleaning, repairs, etc.
    There was a period where people thought I was the janitor.
-* contradict							      :Study:
+* contradict							      :drill:
  [2017-06-07 Wed 15:00]
 
    противоречить
@@ -7681,7 +7681,7 @@ adjective
    Do I contradict myself?
    Recent evidence has contradicted established theories on this subject.
 
-* judgmental							      :Study:
+* judgmental							      :drill:
  [2017-06-07 Wed 15:00]
    /dʒʌdʒˈmen.təl/
    преднамеренный, осуждающий
@@ -7710,7 +7710,7 @@ adjective
    You must try not to be so judgmental about people.
    Be curious, not judgmental.
 
-* Behold							      :Study:
+* Behold							      :drill:
  [2017-06-07 Wed 15:01]
 
    вот
@@ -7737,7 +7737,7 @@ adjective
    Behold your king!
    The new bridge is an incredible sight to behold.
 
-* snap								      :Study:
+* snap								      :drill:
  [2017-06-07 Wed 15:03]
 
    щелчок
@@ -7819,7 +7819,7 @@ adjective
    Some vandal's snapped off my car aerial again.
    She snapped the carrot in two.
    But many people snap whenever poor people come and beg for money.
-* rude								      :Study:
+* rude								      :drill:
  [2017-06-07 Wed 15:03]
    грубый
 
@@ -7859,7 +7859,7 @@ adjective
    They are rude to the waiter, strict to their children, will kick/kill
    an animal.
    Isabel had always been in rude health
-* esteem							      :Study:
+* esteem							      :drill:
  [2017-06-07 Wed 15:05]
 
    почитать
@@ -7893,7 +7893,7 @@ adjective
    Respect for or a good opinion of someone.
    Her work is highly esteemed by all her colleagues.
 
-* inattentive							      :Study:
+* inattentive							      :drill:
  [2017-06-07 Wed 15:06]
 
    невнимательный
@@ -7918,7 +7918,7 @@ adjective
    He was wholly inattentive to the needs of his children
 
 
-* admission							      :Quora:
+* admission							      :drill:
  [2017-06-14 Wed 12:02]
    [ədˈmiSHən]
    вход
@@ -7955,7 +7955,7 @@ adjective
    Her silence was taken as an admission of guilt/defeat.
    The admission of “I don’t know” creates an opportunity to learn.
 
-* Externalities							      :Quora:
+* Externalities							      :drill:
  [2017-06-14 Wed 12:02]
    noun
     1. внешность (appearance, exterior, look, outside, externality, outward)
@@ -7979,7 +7979,7 @@ adjective
    something else.
    A snow storm for example, is an externality that can
    cause delays at the airport.
-* circumstances							      :Quora:
+* circumstances							      :drill:
  [2017-06-14 Wed 12:02]
    обстоятельства
 
@@ -8005,7 +8005,7 @@ adjective
    Given the current economic circumstances, a lot of good candidates just
    can't find jobs.
    Some circumstances are out of our hands.
-* to Litter							      :Quora:
+* to Litter							      :drill:
  [2017-06-14 Wed 12:34]
    verb
     1. мусорить (litter, litterbug)
@@ -8036,7 +8036,7 @@ adjective
 
    To drop rubbish on the ground in a public place.
    Clothes and newspapers littered the floor
-* fathom							      :Quora:
+* fathom							      :drill:
 [2017-06-14 Wed 12:35]
   [ˈfaT͟Həm]
   вникать
@@ -8064,7 +8064,7 @@ adjective
   I can't fathom why he doesn't want to go along with us.
   The locals could not fathom out the reason behind his new-found prosperity’
 
-* selflessness							      :Quora:
+* selflessness							      :drill:
   самоотверженность
 
   Caring more for what other people need and want rather than for what
@@ -8072,7 +8072,7 @@ adjective
 
   Their actions, their selflessness poses a challenge to each of us.
 
-* encounters							      :Quora:
+* encounters							      :drill:
 
   встречи
 
@@ -8093,7 +8093,7 @@ adjective
 
    I had a strange encounter with a French man on my way to work.
 
-* sparingly							      :Quora:
+* sparingly							      :drill:
 
   скудно
 
@@ -8104,7 +8104,7 @@ adjective
  
   Be sparing with the butter as there isn't much left.
 
-* straight							      :Quora:
+* straight							      :drill:
 
   Прямо
 
@@ -8149,7 +8149,7 @@ adjective
    Go straight along this road and turn left at the traffic lights.
    I told her straight out that I didn't love her any more.
 
-* hectic							      :Quora:
+* hectic							      :drill:
   беспокойный
 
   adjective
@@ -8166,7 +8166,7 @@ adjective
    Full of activity, or very busy and fast.
    The teacher had a hectic workload.
 
-* anxiety							      :Quora:
+* anxiety							      :drill:
   [aNGˈzī-itē]
   тревожность
 
@@ -8186,7 +8186,7 @@ adjective
 
    Children normally feel a lot of anxiety about their first day at school.
 
-* overwhelmed							      :Quora:
+* overwhelmed							      :drill:
 
   перегружены
 
@@ -8207,7 +8207,7 @@ adjective
 
     If water overwhelms a place, it covers it suddenly and completely.
 
-* treatment							      :Quora:
+* treatment							      :drill:
 
     лечение
 
@@ -8235,7 +8235,7 @@ adjective
       The way you deal with or behave towards someone or something:
       Peter gets special treatment because he knows the boss.
 
-* benefits							      :Quora:
+* benefits							      :drill:
 
   выгоды
 
@@ -8257,7 +8257,7 @@ adjective
 
     Our purpose in life is to boost your happiness and
    benefit the lives of others, and often it requires money.
-* wealth							      :Quora:
+* wealth							      :drill:
 
   богатство
 
@@ -8273,7 +8273,7 @@ adjective
    During a successful business career, she accumulated a great amount
    of wealth.
 
-* cohere							      :Quora:
+* cohere							      :drill:
 
   членораздельным
 
@@ -8290,7 +8290,7 @@ adjective
 
    The question is does wealth and happiness cohere with each other in anyway?
 
-* uplift							      :Quora:
+* uplift							      :drill:
 
   подъем
 
@@ -8306,7 +8306,7 @@ adjective
     improvement of a person's moral or spiritual condition:
     Money can uplift your confidence.
 
-* compel							      :Quora:
+* compel							      :drill:
 
   принуждать
 
@@ -8324,7 +8324,7 @@ adjective
    To produce a strong feeling or reaction:
    Over the years her work has compelled universal admiration and trust.
 
-* fearful							      :Quora:
+* fearful							      :drill:
 
   напуганный
 
@@ -8343,7 +8343,7 @@ adjective
       Frightened or worried about something:
       Being broke causes people to be fearful in looking upon another day.
 
-* miserable							      :Quora:
+* miserable							      :drill:
 
   несчастный
 
@@ -8360,7 +8360,7 @@ adjective
    they were broke, money is not what made them happy.
 
 
-* grieved							   :Perrault:
+* grieved							      :drill:
  огорченный
 
  adjective
@@ -8369,7 +8369,7 @@ adjective
  To feel or express great sadness.
  They were grieved by the illness of their aunt.
 
-* bestow							   :Perrault:
+* bestow							      :drill:
 
   даровать
 
@@ -8383,7 +8383,7 @@ adjective
   To give something as an honour or present.
   The king will bestow a title and land to the man who saved the princess.
 
-* accordance							   :Perrault:
+* accordance							      :drill:
   соответствие
 
   noun
@@ -8399,7 +8399,7 @@ adjective
    other persons are held legally liable in accordance with current
    Ukrainian law.
 
-* to endow								   наделенный :Perrault:
+* to endow								   наделенный :drill:
 
    verb
    1. наделять (endow, allot, vest, endue, gift, indue)
@@ -8413,7 +8413,7 @@ adjective
    for industry.
    This hospital was endowed by the citizens of Strasbourg in the 16th
    century
-* bewitched							   :Perrault:
+* bewitched							      :drill:
 
   заколдованный
 
@@ -8425,7 +8425,7 @@ adjective
   something.
   Once kids step inside a circus tent, they’re bewitched.
 
-* to slight							   :Perrault:
+* to slight							      :drill:
 
   пренебрегать
 
@@ -8439,7 +8439,7 @@ adjective
   I felt slighted when my boss thanked everyone but me for
   their hard work.
 
-* threat							   :Perrault:
+* threat							      :drill:
 
    noun
   1. угроза (threat, danger, menace, impendence, imminence, denunciation)
@@ -8450,7 +8450,7 @@ adjective
   especially if a particular action or order is not followed:
   Nuclear weapons pose a threat to everyone.
 
-* hid								   :Perrault:
+* hid								      :drill:
 
   спрятать
 
@@ -8476,7 +8476,7 @@ adjective
     others.
     He hid the money in the house.
 
-* nightingale							   :Perrault:
+* nightingale							      :drill:
   [ˈnītiNG-,ˈnītnˌgāl]
 
   соловей
@@ -8485,7 +8485,7 @@ adjective
   of the male, usually heard during the night
 
   I heard a Japanese nightingale.
-* infirmity							   :Perrault:
+* infirmity							      :drill:
   [inˈfərmitē]
   немощь
 
@@ -8501,7 +8501,7 @@ adjective
    Physical or mental weakness.
    Old age and infirmity come to men and women alike.
 
-* merely							   :Perrault:
+* merely							      :drill:
 
   просто
 
@@ -8513,7 +8513,7 @@ adjective
    just; only.
    I wasn't complaining, I merely said that I was tired.
 
-* avert								   :Perrault:
+* avert								      :drill:
   предотвращать
 
   verb
@@ -8527,7 +8527,7 @@ adjective
    To avert disaster/economic collapse
    Skillful diplomacy helps to avert war.
 
-* doom								   :Perrault:
+* doom								      :drill:
 
   гибель
 
@@ -8557,7 +8557,7 @@ adjective
   Opponents continue to predict doom upon the existing healthcare
   system of this great nation.
 
-* to forbid							   :Perrault:
+* to forbid							      :drill:
  
   запрещать
 
@@ -8565,7 +8565,7 @@ adjective
   particular plan of action by making it impossible:
   The law forbids the sale of cigarettes to people under the age of 16
 
-* to engage							   :Perrault:
+* to engage							      :drill:
   заниматься
 
   verb
@@ -8589,7 +8589,7 @@ adjective
    To employ someone:
    I have engaged a secretary to deal with all my paperwork.
    
-* acquaintance							   :Perrault:
+* acquaintance							      :drill:
   [əˈkwāntns]
 
   знакомство
@@ -8606,7 +8606,7 @@ adjective
    Used in some expressions about knowing or meeting people:
    He gradually lost contact with all his old acquaintances.
    
-* mirth								   :Perrault:
+* mirth								      :drill:
   [mərTH]
 
   веселье
@@ -8619,7 +8619,7 @@ adjective
   The time was filled with parties,hunting, fishing, dancing, mirth,
   and feasting.
 
-* feast								   :Perrault:
+* feast								      :drill:
   праздник, пир, банкет, наслаждение
 
   verb
@@ -8638,7 +8638,7 @@ adjective
    The wedding was followed by a feast, which continued until the wee
    hours of the morning.
 
-* to conclude							   :Perrault:
+* to conclude							      :drill:
   [kənˈklo͞od]
   заключать
 
@@ -8659,7 +8659,7 @@ adjective
    Arrive at a judgment or opinion by reasoning.
    the doctors concluded that Esther had suffered a stroke.
   
-* impatient							   :Perrault:
+* impatient							      :drill:
   [imˈpāSHənt]
 
   нетерпеливый
@@ -8674,7 +8674,7 @@ adjective
    Wanting something to happen as soon as possible.
    People are increasingly impatient for change in this country.
 
-* disobedient							   :Perrault:
+* disobedient							      :drill:
   [ˌdisəˈbēdēənt]
   непослушный
 
@@ -8686,7 +8686,7 @@ adjective
    Refusing to do what someone in authority tells you to do.
    The disobedient soldier was given cleanup duty.
 
-* constraints							   :Perrault:
+* constraints							      :drill:
 [2017-06-29 Thu 08:22]
 
   ограничения
@@ -8712,7 +8712,7 @@ adjective
 
   A constraint is a limit or restriction.
   We protested the constraint on freedom imposed by the communist
-* ensure							   :Perrault:
+* ensure							      :drill:
 [2017-06-29 Thu 08:30]
 
   обеспечивать
@@ -8742,12 +8742,12 @@ adjective
 
   When you ensure that something will happen, you guarantee it.
   The airline is taking steps to ensure safety on its aircraft.
-* courteously							   :Perrault:
+* courteously							      :drill:
   учтиво
   polite and showing respect
 
   The king received him very courteously.
-* inclination							   :Perrault:
+* inclination							      :drill:
 
   наклонение
 
@@ -8783,7 +8783,7 @@ adjective
       We should be basing our decisions on solid facts, not
       inclinations and hunches.
 
-* overjoyed							   :Perrault:
+* overjoyed							      :drill:
 
   вне себя от радости
 
@@ -8798,7 +8798,7 @@ adjective
 
   adjective
    1. extremely happy. "Joanna will be overjoyed to see you"
-* arrogant							   :Perrault:
+* arrogant							      :drill:
   [ˈarəgənt]
   высокомерный
 
@@ -8814,7 +8814,7 @@ adjective
 
     He manages to exude confidence without being arrogant.
 
-* to dote on someone						   :Perrault:
+* to dote on someone						      :drill:
   любить до безумия
 
    verb
@@ -8825,7 +8825,7 @@ adjective
 
    They dote on their grandchild.
 
-* to beg							   :Perrault:
+* to beg							      :drill:
   очень прошу
 
   verb
@@ -8844,7 +8844,7 @@ adjective
   To make a very strong and urgent request.
   He bowed down before the king and begged for mercy.
  
-* peasant							   :Perrault:
+* peasant							      :drill:
 
   крестьянский
 
@@ -8869,7 +8869,7 @@ adjective
    Peasant women with scarves around their heads were working in the
    fields.
 
-* to scold							   :Perrault:
+* to scold							      :drill:
 
   ругала
 
@@ -8893,7 +8893,7 @@ adjective
 
  
 
-* doubtful							   :Perrault:
+* doubtful							      :drill:
 
   сомнительный
 
@@ -8911,7 +8911,7 @@ adjective
    If you are doubtful about something, you are uncertain about it:
    The doctor was very doubtful that the patient could recover, even with treatment.
 
-* virtue							   :Perrault:
+* virtue							      :drill:
 
   добродетель
 
@@ -8928,7 +8928,7 @@ adjective
    Behavior showing high moral standards.
    Honesty is not the only virtue a bank teller must have.
 
-* shrewdness 							   :Perrault:
+* shrewdness							      :drill:
   проницательность
 
   noun
@@ -8940,7 +8940,7 @@ adjective
    Having or showing sharp powers of judgment; sharp-witted.
    A shrewd businessman knows when the time is right to close the deal.
 
-* to mortify 							   :Perrault:
+* to mortify							      :drill:
 
   смирять
 
@@ -8958,7 +8958,7 @@ adjective
    The class bully began to mortify  the shy girl by making
    fun of her old clothes.
 
-* chagrin							   :Perrault:
+* chagrin							      :drill:
   огорчение
 
   noun
@@ -8976,7 +8976,7 @@ adjective
    My children have never shown an interest in music, much to my
    chagrin.
 
-* wit								   :Perrault:
+* wit								      :drill:
 
   остроумие
 
@@ -8994,7 +8994,7 @@ adjective
 
    The author’s wit makes the novel a humorous and smart read.
 
-* awkward							   :Perrault:
+* awkward							      :drill:
   неловко
   [ˈôkwərd]
 
@@ -9013,7 +9013,7 @@ adjective
 
   There followed an awkward silence while we all tried to think of something to say.
   
-* to outshine							   :Perrault:
+* to outshine							      :drill:
   затмевать [Listen]
 
   verb
@@ -9021,7 +9021,7 @@ adjective
 
   To be much more skilful and successful than someone:
   Ben Palmer easily outshone his rivals in the 200 metre freestyle.
-* willingly							   :Perrault:
+* willingly							      :drill:
   ['wiliNGlē]
   охотно
 
@@ -9032,7 +9032,7 @@ adjective
   Readily and enthusiastically:
   I willingly babysit for my granddaughter.
 
-* boast								   :Perrault:
+* boast								      :drill:
   [bōst]
   хвастовство
 
@@ -9052,7 +9052,7 @@ adjective
 
    Parents enjoy boasting about their children's achievements.
  
-* trial :Study:
+* trial								      :drill:
 [2017-07-17 Mon 09:04]
   [ˈtrī(ə)l]
   испытание
@@ -9091,7 +9091,7 @@ adjective
   A test of the performance, qualities, or suitability of someone or something.
   After the trial, his family said they had lost all faith in the judicial system.
 
-* ridiculous							   :Perrault:
+* ridiculous							      :drill:
   [riˈdikyələs]
   смешной 
 
@@ -9104,7 +9104,7 @@ adjective
 
   It's ridiculous to expect a two-year-old to be able to read!
 
-* to toil							   :Perrault:
+* to toil							      :drill:
   маяться
 
   verb
@@ -9125,7 +9125,7 @@ adjective
 
   After toiling away at work all week, it's good to relax.
 
-* to lament 							   :Perrault:
+* to lament							      :drill:
   [ləˈment]
   сокрушаться
 
@@ -9142,7 +9142,7 @@ adjective
   To express sadness and feeling sorry about something:
   My grandmother, as usual, lamented the decline in moral standards in today's society.
 
-* fate								   :Perrault:
+* fate								      :drill:
   [fāt]
   судьба
 
@@ -9163,7 +9163,7 @@ adjective
   His fate is now in the hands of the jury.
   By an odd quirk of fate, we ended up on the same train.
 
-* prosperity							   :Perrault:
+* prosperity							      :drill:
   [präˈsperitē]
   процветание 
 
@@ -9180,7 +9180,7 @@ adjective
   future prosperity depends, to an extent, upon the quality of education
   of its people.
 
-* prudence							   :Perrault:
+* prudence							      :drill:
   [ˈpro͞odns]
   предусмотрительность
 
@@ -9196,7 +9196,7 @@ adjective
   money so that you avoid unnecessary risks:
   We need to exercise prudence in such important matters.
 
-* circumspection						   :Perrault:
+* circumspection						      :drill:
   [ˌsərkəmˈspekSHən]
   осмотрительность 
    1. осмотрительность (discretion, care, circumspection, prudence, deliberation, wariness)
@@ -9206,7 +9206,7 @@ adjective
   Careful not to take risks:
   Officials were circumspect about saying what the talks had achieved.
 
-* grin							      :Lewis Carroll:
+* grin 								      :drill:
   усмешка
 
   noun
@@ -9222,7 +9222,7 @@ adjective
    A wide smile
    I assumed things had gone well for him because he had a big grin on his face.
 
-* jaws							      :Lewis Carroll:
+* jaws 								      :drill:
   пасть [Listen]
 
   noun
@@ -9234,7 +9234,7 @@ adjective
 
    The mouth, including the teeth:
    The lion opened its jaws and roared.
-* feathers						      :Lewis Carroll:
+* feathers 							      :drill:
   перья [Listen]
 
   noun
@@ -9267,7 +9267,7 @@ adjective
   One of the many soft, light things that cover a bird's body,
   The birds ruffled their feathers in alarm.
 
-* reliable :Study:
+* reliable							      :drill:
 [2017-08-16 Wed 08:52]
   надежный
   [riˈlīəbəl]
@@ -9293,7 +9293,7 @@ adjective
   because he, she, or it works or behaves well in the way you expect.
   How free software can be reliable?
 
-* fur							      :Lewis Carroll:
+* fur 								      :drill:
   мех [Listen]
 
   noun
@@ -9322,13 +9322,13 @@ adjective
 
   The short, fine, soft hair of certain animals.
   Cats make him sneeze - I think he's allergic to the fur.
-* to frown 						      :Lewis Carroll:
+* to frown 							      :drill:
 
   угрожать
 
   He frowned as he read the instructions, as if puzzled.
 
-* shiver						      :Lewis Carroll:
+* shiver 							      :drill:
   дрожать [Listen]
 
   noun
@@ -9355,7 +9355,7 @@ adjective
    cold, ill, or frightened:
    He shivered with cold in his thin cotton shirt.
 
-* proceed						      :Lewis Carroll:
+* proceed 							      :drill:
   продолжить [Listen]
 
   verb
@@ -9383,7 +9383,7 @@ adjective
    1. begin or continue a course of action.
       "we can proceed with our investigation"
 
-* solemnly						      :Lewis Carroll:
+* solemnly 							      :drill:
   торжественно [Listen]
 
   adverb
@@ -9392,7 +9392,7 @@ adjective
   Formal and dignified.
   A solemn procession was started.
 
-* grave 						      :Lewis Carroll:
+* grave 							      :drill:
   серьезно [Listen]
 
   adverb
@@ -9402,7 +9402,7 @@ adjective
   Seriously bad:
   A grave situation
 
-* to whisper						      :Lewis Carroll:
+* to whisper 							      :drill:
   шептать 
 
   noun
@@ -9426,7 +9426,7 @@ adjective
    only the person close to you can hear you.
    She leaned over and whispered something in his ear.
  
-* to prosecute						      :Lewis Carroll:
+* to prosecute 							      :drill:
   [ˈpräsiˌkyo͞ot]
   преследовать в судебном порядке
   
@@ -9446,7 +9446,7 @@ adjective
   crime is guilty of that crime:
   The company is to be prosecuted under the Sex Discrimination Act.
 
-* denial						      :Lewis Carroll:
+* denial 							      :drill:
   [diˈnīəl]
   отказ
 
@@ -9463,7 +9463,7 @@ adjective
   In spite of his denial, John's wife was convinced he was having
   an affair.
 
-* to growl						      :Lewis Carroll:
+* to growl 							      :drill:
   рычание
 
   noun
@@ -9481,12 +9481,12 @@ adjective
   To make a low, rough sound, usually in anger:
   The Mouse only growled in reply.
 
-* snappish						      :Lewis Carroll:
+* snappish 							      :drill:
   раздраженно
 
   Easily annoyed and often speaking in an angry way:
   He's very snappish when he arrives at work in the morning.
-* venture						      :Lewis Carroll:
+* venture 							      :drill:
   [ˈvenCHər]
 
     verb
@@ -9509,7 +9509,7 @@ adjective
   A risky or daring journey or undertaking.
   ‘And who is Dinah, if I might venture to ask the question?’
   said the Lory.
-* pretext						      :Lewis Carroll:
+* pretext 							      :drill:
   noun
    1. предлог (pretext, excuse, preposition, guise, plea, cloak)
    2. отговорка (excuse, pretense, subterfuge, pretext, evasion, alibi)
@@ -9523,7 +9523,7 @@ adjective
   On various pretexts all birds moved off, and Alice was soon
   left alone.
 
-* low-spirited						      :Lewis Carroll:
+* low-spirited 							      :drill:
 
   подавленный [Listen]
 
@@ -9540,7 +9540,7 @@ adjective
   And here poor Alice began to cry again, for she felt very lonely and
   low-spirited.
 
-* eager 						      :Lewis Carroll:
+* eager 							      :drill:
 
   нетерпеливый
 
@@ -9549,7 +9549,7 @@ adjective
 
   I'm eager to see her after all this time.
 
-* bill							      :Lewis Carroll:
+* bill 								      :drill:
 
   законопроект [Listen]
 
@@ -9590,7 +9590,7 @@ adjective
   A formal statement of a planned new law that is discussed before being voted on.
   When a bill is passed in Parliament it becomes law.
 
-* anxiously						      :Lewis Carroll:
+* anxiously 							      :drill:
   с тревогой
 
   adverb
@@ -9604,7 +9604,7 @@ adjective
   It was the White Rabbit, trotting slowly back again, and looking
   anxiously about as it went, as if it had lost something.
   
-* queer							      :Lewis Carroll:
+* queer 							      :drill:
   странный
 
   DEFINITION
@@ -9630,7 +9630,7 @@ adjective
   The inside surface of a room that you can see when you look above you.
   The ceiling was embellished with flowers and leaves.
 
-* to stoop						      :Lewis Carroll:
+* to stoop 							      :drill:
   сутулость
 
   noun
@@ -9660,7 +9660,7 @@ adjective
   To bend the top half of the body forward and down.
   The doorway was so low that we had to stoop to go through it.
 
-* elbow							      :Lewis Carroll:
+* elbow 							      :drill:
   локоть
 
   noun
@@ -9684,7 +9684,7 @@ adjective
 
   Her arm was bandaged from the elbow to the fingers.
   
-* ought							      :Lewis Carroll:
+* ought 							      :drill:
 
   должен
 
@@ -9707,7 +9707,7 @@ adjective
    2. used to indicate something that is probable.
       "five minutes ought to be enough time"
 
-* sorrowful						      :Lewis Carroll:
+* sorrowful 							      :drill:
   скорбный [Listen]
 
   adjective
@@ -9725,7 +9725,7 @@ adjective
    1. feeling or showing grief.
     "she looked at him with sorrowful eyes"
 
-* conclude						      :Lewis Carroll:
+* conclude 							      :drill:
   заключать
 
   verb
@@ -9741,7 +9741,7 @@ adjective
   To end a speech, meeting, or piece of writing.
   She concluded the speech by reminding us of our responsibility.
 
-* coward						      :Lewis Carroll:
+* coward 							      :drill:
   трус
 
   noun
@@ -9756,7 +9756,7 @@ adjective
   difficulty, or pain.
   He is a coward and a bully.
 
-* snatch						      :Lewis Carroll:
+* snatch 							      :drill:
   урвать
 
   verb
@@ -9786,7 +9786,7 @@ adjective
       He snatched the photos out of my hand before I had a chance
       to look at them.
     
-* kick							      :Lewis Carroll:
+* kick 								      :drill:
   удар [Listen]
 
   noun
@@ -9837,7 +9837,7 @@ adjective
       legs suddenly and violently.
       I kicked the ball as hard as I could.
 
-* feeble						      :Lewis Carroll:
+* feeble 							      :drill:
 
   слабый [Listen]
 
@@ -9862,7 +9862,7 @@ adjective
       "my legs are very feeble after the flu"
   
 
-* altogether						       :LewisCarroll:
+* altogether							      :drill:
   в целом 
 
   adverb
@@ -9883,7 +9883,7 @@ adjective
    1. completely; totally.
       "I stopped seeing her altogether"
   She wrote less and less often, and eventually she stopped altogether.
-* patter 						       :LewisCarroll:
+* patter							      :drill:
   скороговорка 
 
   noun
@@ -9910,7 +9910,7 @@ adjective
   The sound of a lot of things gently and repeatedly hitting a surface:
   As I close my eyes I hear the patter of rain on the window.
 
-* shriek						       :LewisCarroll:
+* shriek							      :drill:
 
   визг [Listen]
 
@@ -9932,7 +9932,7 @@ adjective
 
   He suddenly let out a piercing shriek.
 
-* to traverse 							      :Linux:
+* to traverse							      :drill:
   траверс [Listen]
 
   noun
@@ -9969,7 +9969,7 @@ adjective
     To move or travel through an area.
     Stanley traversed the continent from west to east.
 
-* tricky							      :Linux
+* tricky							      :drill:
   хитрый
 
   adjective
@@ -9989,7 +9989,7 @@ adjective
    It's tricky to learn to ride a skateboard, but you never forget
    how.
 
-* blur								     :jQuery:
+* blur								      :drill:
   пятно [Listen]
 
   noun
@@ -10016,7 +10016,7 @@ adjective
       "the pale blur of her face"
 
 
-* Procrastinate :Study:
+* Procrastinate							      :drill:
 [2017-09-11 Mon 14:33]
 [prō-,prəˈkrastəˌnāt]
 мешкать
@@ -10049,7 +10049,7 @@ unpleasant or boring.
 I know I've got to deal with the problem at some
 point - I'm just procrastinating.
 
-* leaps :Study:
+* leaps								      :drill:
 [2017-09-11 Mon 14:38]
 прыжки 
 
@@ -10088,7 +10088,7 @@ to make a large jump or sudden movement, usually from one place to
 another:
 I leaped up to answer the phone.
 
-* guilt :Study:
+* guilt								      :drill:
 [2017-09-11 Mon 14:48]
 [gilt]
 вина 
@@ -10117,7 +10117,7 @@ accusing them of.
 and how our feelings of guilt, and fear,
 and worry, and anxiety, and frustration,
 
-* fear :Study:
+* fear								      :drill:
 [2017-09-11 Mon 14:48]
 страх 
 
@@ -10153,7 +10153,7 @@ or worried by something dangerous, painful, or bad that is happening
 or might happen:
 I have a fear of heights.
 
-* axis :Study:
+* axis								      :drill:
 [2017-09-11 Mon 15:49]
 
 ось
@@ -10179,7 +10179,7 @@ an Axis of Evil.
 where the x-axis was urgency,
 and the y-axis was importance,
 
-* pervasive :Study:
+* pervasive							      :drill:
 [2017-09-11 Mon 15:52]
 [pərˈvāsiv]
 распространяющийся
@@ -10204,7 +10204,7 @@ again, it must be pervasive.
 00:04:41,921 --> 00:04:44,021
 This has been the pervasive mode of thinking in our society.
 
-* superfluous :Study:
+* superfluous							      :drill:
 [2017-09-11 Mon 16:21]
 излишний
 [suːˈpɜː.flu.əs]
@@ -10234,7 +10234,7 @@ that might sound a little bit superfluous.
 More than is needed or wanted.
 The report was marred by a mass of superfluous detail.
 
-* exaggeration :Study:
+* exaggeration							      :drill:
 [2017-09-11 Mon 16:21]
 преувеличение
 [igˌzajəˈrāSHən]
@@ -10258,7 +10258,7 @@ Latin word exaggerare, which means to magnify or to heap or pile on.
 It might sound like an over exaggeration,
 but it really is not.
 
-* depiction :Study:
+* depiction							      :drill:
 [2017-09-11 Mon 16:23]
 описание [Listen]
 
@@ -10286,7 +10286,7 @@ to create a visual depiction
 The way that something is represented or shown:
 I disapprove of the depiction of violence on television.
 
-* martial :Study:
+* martial							      :drill:
 [2017-09-12 Tue 09:06]
 воинственный
 
@@ -10310,7 +10310,7 @@ Relating to soldiers, war, or life in the armed forces.
 00:12:56,898 --> 00:12:59,166
 I had been studying martial arts since I was 5.
 
-* belts :Study:
+* belts								      :drill:
 [2017-09-12 Tue 09:08]
 ремни
 
@@ -10327,7 +10327,7 @@ the original definition of the verb was "to hit with a belt."
 229
 00:13:51,903 --> 00:13:54,973
 Kevin and I tested for our black belts together on the same day.
-* courage :Study:
+* courage							      :drill:
 [2017-09-12 Tue 09:10]
 мужество
 
@@ -10357,7 +10357,7 @@ The ability to control your fear in a dangerous or difficult
 situation:
 People should have the courage to stand up for their beliefs.
 
-* beliefs :Study:
+* beliefs							      :drill:
 [2017-09-12 Tue 09:12]
 убеждения
 
@@ -10386,7 +10386,7 @@ you'll have an appreciation for the way
 
 Something that you believe.
 All religious and political beliefs should be respected equally.
-* fruitful :Study:
+* fruitful							      :drill:
 [2017-09-12 Tue 09:12]
 плодотворный
 
