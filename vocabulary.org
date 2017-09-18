@@ -1,4 +1,4 @@
-#+TAGS: LewisCarroll(l) drill(d)
+#+TAGS: drill(d)
 *** BBC learning English
 folks - an informal word for a group of people
 
@@ -1376,7 +1376,6 @@ because you can't be in two places at once. Philosophies and
 perspectives overlap when they share certain points or ideas in
 common.
 
-
 * demand :Study:
 [2017-04-04 Tue 06:46]
 
@@ -1473,7 +1472,6 @@ though that use as a noun has mostly dropped out of use. The phrase
 lost its scornful quality. If you accomplish something despite the
 obstacles in your way, there's no need to feel spiteful about it.
 
-
 * crowd :Study:
 [2017-04-06 Thu 09:42]
 толпа
@@ -1519,7 +1517,6 @@ disorderly — noisy or unruly — about the group. Crowd can also mean
 when you say you want to "stand out from the crowd." You want to be
 seen as a distinct, individual person, rather than part of a larger
 mass of regular folks.
-
 
 * auxiliary :Study:
 [2017-04-07 Fri 08:40]
@@ -1760,7 +1757,6 @@ you said, "I need a running start!" before a race, running is a
 participle. If you notice a trapped bear, trapped is the participle.
 This is a word that is a little confusing to understand, even though
 you use participles all the time.
-
 
 * kettle :Study:
 [2017-04-13 Thu 15:11]
@@ -2123,7 +2119,6 @@ who ran into the explorer David Livingstone in the wilds of Africa in
 1871. It’s funny because these were the only two white men known to be
 in that part of Africa at the time.
 
-
 * ability :Study:
 
 [2017-04-15 Sat 09:28]
@@ -2152,7 +2147,6 @@ noun indicating the power to act, perform, or accomplish. Capacity is
 similar in meaning to ability, but note that people have a capacity
 for doing something, and an ability to do something.
 
-
 * possibility :Study:
 [2017-04-15 Sat 09:28]
 
@@ -2175,7 +2169,6 @@ UFO is just a shooting star." It can also mean more of a potential:
 possibility!" All meanings of possibility share the sense that
 something is able to happen, or is possible. The Latin root is
 possibilis, "that can be done."
-
 
 * fluent :Study:
 [2017-04-15 Sat 09:33]
@@ -2262,7 +2255,6 @@ burglarize in the United States, or to burgle in Britain. In the
 1540's, burglar was a short form of the word burglator, from the Latin
 burgare, "to break open."
 
-
 * habit :Study:
 [2017-04-16 Sun 11:48]
 [ˈhabit]
@@ -2303,7 +2295,6 @@ custom — like the habit of breaking bread with your family every
 holiday. On a completely different note, clothing that is worn for
 horseback riding, or by a nun or monk, can also be called a habit. All
 good nuns should be in the habit of washing their habits.
-
 
 * bound :Study:
 [2017-04-18 Tue 15:27]
@@ -2368,7 +2359,6 @@ with rope — tied up. Commitments are another kind of tie. When you get
 married, you're bound to your partner. If you make a promise, you're
 bound to your word. On a less pleasant note, if you're constipated,
 you're bound up.
-
 
 * doubt :Study:
 [2017-04-18 Tue 15:41]
@@ -2447,7 +2437,6 @@ returned eventually. Another way to lend is to "add a quality to," or
 "be suitable for." You could say that you think your hat lends you a
 mysterious quality, or that your trench coat lends itself to walking
 through a foggy city at dusk.
-
 
 * harvest :Study:
 [2017-04-20 Thu 06:59]
@@ -3470,7 +3459,6 @@ adverb
  2. точно (exactly, precisely, accurately, just, for sure, strictly)
  3. настрого (strictly)
 
-
 * unreliable :Study:
 [2017-05-03 Wed 09:53]
 [ˌənriˈlīəbəl]
@@ -3524,9 +3512,7 @@ noun
  3. колючая семенная коробочка (hedgehog)
  4. неуживчивый человек (hedgehog)
  5. колючий человек (hedgehog)
-* DONE 07_05_2017
-  CLOSED: [2017-05-07 Sun 18:11] DEADLINE: <2017-05-07 Sun> SCHEDULED: <2017-05-07 Sun>
-** reciprocal                                                         :Study:
+* reciprocal							      :Study:
  [2017-05-03 Wed 10:23]
  reciprocal
  [riˈsiprəkəl]
@@ -3561,7 +3547,7 @@ noun
  There is an important difference between reflexive pronouns and
      reciprocal 
 
-** though                                                             :Study:
+* though							      :Study:
  [2017-05-04 Thu 10:36]
  хоть
  [T͟Hō]
@@ -3596,7 +3582,7 @@ adverb
 
  Again, there is
      no difference in meaning between these, though 
-** reduced                                                            :Study:
+* reduced							      :Study:
  [2017-05-05 Fri 08:52]
  уменьшенный
 
@@ -3622,7 +3608,7 @@ adjective
  also be called decreased.
 
  Defining relative clauses can be simplified, or reduced, in several ways:
-** injury                                                             :Study:
+* injury							      :Study:
  [2017-05-05 Fri 08:53]
  травма
  [ˈinjərē]
@@ -3650,7 +3636,7 @@ adjective
  wrong that leads to damage.
 
  injury
-** helmet                                                             :Study:
+* helmet							      :Study:
  [2017-05-05 Fri 08:53]
  шлем
 
@@ -3660,7 +3646,7 @@ adjective
  3. шапка (cap, hat, header, banner, bonnet, helmet)
  4. тропический шлем (topee, helmet, sun helmet, topi)
 
-** omitted                                                            :Study:
+* omitted							      :Study:
  [2017-05-05 Fri 08:58]
  опущено
 
@@ -3683,7 +3669,7 @@ verb
 
  If the relative pronoun is the object of the verb then it can be
      omitted 
-** dozens                                                             :Study:
+* dozens							      :Study:
  [2017-05-07 Sun 09:44]
  множество
 
@@ -3692,7 +3678,7 @@ verb
 
  The os module provides dozens of functions for interacting with the
  operating system:
-** aids                                                               :Study:
+* aids								      :Study:
  [2017-05-07 Sun 09:50]
  вспомогательные средства
 
@@ -3702,7 +3688,7 @@ verb
 
  The built-in dir() and help() functions are useful as interactive aids for
  working with large modules like os:
-** speech                                                             :Study:
+* speech							      :Study:
  [2017-05-07 Sun 10:43]
 
  When you say something out loud, that's speech. When you give a
@@ -3717,7 +3703,7 @@ verb
 
  Direct speech
 
-** frequent                                                           :Study:
+* frequent							      :Study:
  [2017-05-07 Sun 16:31]
  частый
 
@@ -3742,7 +3728,7 @@ verb
 
  Because of the frequent updated answers, some of the most viewed answers have been dropped down to
  the bottom.
-** wing                                                               :Study:
+* wing								      :Study:
  [2017-05-07 Sun 16:33]
  крыло
 
@@ -3766,7 +3752,7 @@ verb
 
  A student from the student wing told students that Mashal and his two other friends had
  committed blasphemy.
-** blasphemy                                                          :Study:
+* blasphemy							      :Study:
  [2017-05-07 Sun 16:33]
  богохульство
  [ˈblasfəmē]
@@ -3786,7 +3772,330 @@ verb
 
  A student from the student wing told students that Mashal and his two other friends had
  committed blasphemy.
-** rods                                                               :Study:
+
+* wildcard							      :Study:
+ [2017-05-08 Mon 10:24]
+ подстановочные
+
+ noun
+  1. непредсказуемое явление (wild card)
+
+ The glob module provides a function for making file lists from directory
+ wildcard searches:
+
+ A wildcard is a symbol such as *.
+
+* penetrate							      :Study:
+ [2017-05-08 Mon 13:38]
+ проникать
+
+ verb
+  1. проникать (permeate, penetrate, pierce, enter, infiltrate, seep)
+  2. проходить (pass, penetrate, go, run, cover, go by)
+  3. вникать (penetrate, fathom, introspect)
+  4. пронизывать (penetrate, pierce, transfix, transfuse, strike)
+  5. проникать внутрь (penetrate)
+  6. входить (enter, go in, come in, login, get into, penetrate)
+  7. просачиваться (soak, leak, seep, leak out, filter, penetrate)
+  8. проходить сквозь (penetrate, permeate)
+  9. постигать (comprehend, perceive, grasp, apprehend, conceive, penetrate)
+ 10. пропитывать (impregnate, soak, permeate, saturate, penetrate, pervade)
+ 11. пролезать (get through, penetrate, through, thrust, edge)
+ 12. охватывать (cover, embrace, span, comprise, grasp, penetrate)
+ 13. понимать (understand, see, realize, comprehend, appreciate, penetrate)
+ 14. пробирать (scold, penetrate)
+ 15. пронимать (penetrate)
+ 16. прохватывать (penetrate)
+ 17. глубоко трогать (penetrate)
+
+ To penetrate is to force into or pierce through. If the fog is thick
+ as pea soup, your flashlight won’t penetrate it. If you stubbornly
+ ignore good advice, people might say nothing can penetrate that thick
+ skull of yours.
+
+ We get penetrate from the Latin word penetrare, which combines penes
+ ("within") and intrare ("to enter"). Penetrate crops up most often to
+ describe entering or permeating. Blaring music penetrated every corner
+ of the dorm and we wondered how anyone could study with that racket.
+ Penetrate can also mean to decipher or understand: "Careful study
+ allowed us to penetrate the mysteries of Pig Latin." Finally — no
+ surprise, given its Latin roots — the word can be used to describe
+ sexual intercourse.
+
+ The running joke was that CIA agents could not penetrate them because they were failing English.
+
+ Virus often penetrate the living cells.
+
+* presumably							      :Study:
+ [2017-05-08 Mon 13:39]
+
+ предположительно
+
+ adverb
+  1. предположительно (presumably, supposedly, conceivably, admittedly, assumedly, supposably)
+  2. по-видимому (apparently, evidently, all appearance, all appearances, seemingly, presumably)
+
+ Presumably you are reading these word blurbs because you're interested
+ in learning some useful words. You can add presumably to any statement
+ that you think is true — it indicates a logical conclusion for which
+ you don't have definite proof.
+
+ When you add presumably to whatever you're saying, you're giving
+ notice that you think what you're saying is true but telling your
+ listener not to ask for the evidence. You might watch beer commercials
+ and say to yourself, "Presumably advertisers think people will find
+ this commercial amusing and want to run out and buy tubs of this
+ beer." The adverb presumably is related to the nouns presumption and
+ assumption, which are also notions you accept without proof.
+
+ Only those risen to the rank of "Ex-staff
+ KGB Operative" and presumably done some "good" work likely for 5th Directorate (counter-dissident, or call it counter-freedom) got that.
+
+ Presumably will be rain today.
+
+* abroad							      :Study:
+ [2017-05-08 Mon 13:40]
+ за границу
+
+ adverb
+  1. за границей (abroad, overseas, across the border, oversea)
+  2. за границу (abroad, overseas, oversea)
+  3. повсюду (everywhere, throughout, all over, overall, far and wide, abroad)
+  4. вне дома (outdoors, abroad, out-of-doors)
+  5. широко (wide, widely, broad, large, extensively, abroad)
+  6. вне своего жилища (abroad)
+  7. в заблуждении (abroad)
+
+ noun
+  1. заграница (abroad, foreign countries)
+
+ If you study abroad in your junior year of college, you are going to
+ school in another country. Use abroad when you are talking about going
+ to or from a place across an ocean.
+
+ Abroad really just means in a different country, but it is almost
+ always used interchangeably with "overseas." You almost never hear an
+ American say, "She lives abroad; she's studying in Canada." You might
+ be eager to take a trip abroad. If so, get your passport ready. They
+ won't let you board a plane going abroad without one.
+
+ He was filing papers so well, he was sent abroad - a dream of
+ everyone in USSR.
+
+ He went abroad.
+* retire							      :Study:
+ [2017-05-08 Mon 13:41]
+ retire
+
+ выходить на пенсию
+
+ verb
+  1. уходить (go, leave, go away, get out, walk away, retire)
+  2. удаляться (retire, move away, retreat, recede, leave, withdraw)
+  3. уходить в отставку (retire, resign, step down, demit, check out)
+  4. увольняться (quit, retire, leave the service)
+  5. отступать (back down, retreat, digress, depart, recede, retire)
+  6. уединяться (retire, seclude, cloister, cloister oneself, seclude oneself)
+  7. оставлять (leave, forsake, abandon, let, give up, retire)
+  8. ложиться спать (go to bed, retire, retire for the night, retire to bed, go to rest, turn in)
+  9. изымать из обращения (retire, call in, immobilize, demonetize)
+ 10. увольнять (dismiss, fire, retire, lay off, discharge, sack)
+ 11. отходить ко сну (retire to bed, get off, retire for the night, retire)
+ 12. давать приказ об отступлении (retire)
+ 13. устраняться (opt out, retire)
+
+ If you stop working by choice and leave your position or occupation,
+ you retire. If you are lucky, you can retire early in order to sail
+ around the world, but most people can't retire until they are old
+ enough to collect retirement benefits.
+
+ If you go to bed in the evening, you retire. If your younger siblings
+ are being loud and obnoxious, you can retire to the basement to get
+ some privacy and quiet. If something is withdrawn from circulation, it
+ can also be retired. When a beloved player leaves a sports team, often
+ the number assigned to him or her is retired and no one else can use
+ that number.
+
+ At the age
+ of 38, he got what a top KGB officer would be so glad to retire to.
+
+ Half of the senators retire every four years.
+* former							      :Study:
+ [2017-05-08 Mon 13:41]
+ adjective
+  1. бывший (former, ex, old, onetime, late, last)
+  2. прежний (former, old, prior, erstwhile, last, once)
+  3. первый (first, top, former, maiden, opening, premier)
+  4. предшествующий (previous, prior, preceding, foregoing, antecedent, former)
+
+ noun
+  1. шаблон (template, pattern, routine, stereotype, gauge, former)
+  2. составитель (compiler, former, drawer)
+  3. каркас катушки (former)
+  4. фасонный резец (former)
+  5. словолитчик (typefounder, former)
+  6. копир (cam, replica, master form, former)
+  7. фасонный валок (former)
+  8. вспомогательная нервюра (former)
+  9. модель (model, pattern, type, form, make, former)
+
+ Former refers to something that came at an earlier time, or before
+ something else. For example, someone who believes in reincarnation
+ might wonder about their former life — or even lives — before their
+ present existence.
+
+ When something or someone has changed, we can refer to them as former.
+ For example, Mr. Smith's ex-wife could be known as the former Mrs.
+ Smith. We could consider almost anything as former, as long as it
+ comes first, before something else. A good way to remember the meaning
+ of former is to consider that it comes from the Old English forma,
+ which means "first," and that both former and first begin with "f."
+
+ However USSR ended, and he joined forces with his former Professor Anatoly Sobchak.
+
+ Tom is a former paratrooper. 
+* looting							      :Study:
+ [2017-05-08 Mon 13:42]
+
+ мародерство
+
+ noun
+  1. грабеж (robbery, looting, plunder, pillage, plundering, pillaging)
+  2. мародерство (marauding, looting, pillage, pillaging, foray)
+    
+ Looting continues in the city
+* allegedly							      :Study:
+ [2017-05-08 Mon 13:42]
+ [əˈlejidlē]
+ якобы
+
+ adverb
+  1. якобы (allegedly, ostensibly, quasi)
+  2. будто бы (allegedly)
+  3. как утверждают (allegedly)
+
+
+ If someone is said to be allegedly guilty of something, it means that
+ proof has yet to be produced or they have yet to be found formally
+ guilty by law.
+
+ Allegedly is used almost entirely in a legal sense, referring to a
+ potentially criminal action that is being or will shortly be decided
+ in court. (It's from the medieval English word allege, meaning
+ "quoted" or "brought forth in court.") For less serious matters, such
+ as whether or not your boyfriend called you a liar, the word
+ supposedly is generally used. Though watch out, because if you take
+ him to court, you will become "allegedly a liar."
+
+ Pro-democracy and anti-corruption campaigner Nemtsov, allegedly conflicting with Berezovsky, was recommending him.
+
+ The burglar allegedly broke into the woman’s car.
+* wicked							      :Study:
+ [2017-05-08 Mon 13:43]
+ wicked
+ [ˈwikid]
+ злой
+
+ adjective
+  1. злой (evil, wicked, ill, vicious, unkind, sinister)
+  2. безнравственный (immoral, wicked, licentious, unprincipled, bad, unmoral)
+  3. грешный (sinful, wicked, unhallowed, erring, peccant, peccable)
+  4. нехороший (bad, wicked, black-hearted)
+  5. озорной (mischievous, naughty, wicked, sly, gamine, prankish)
+  6. испорченный (spoiled, depraved, tainted, damaged, corrupt, wicked)
+  7. опасный (dangerous, hazardous, unsafe, perilous, risky, wicked)
+  8. нечистый (unclean, impure, dirty, wicked, muddy, dark)
+  9. свирепый (ferocious, fierce, savage, furious, truculent, wicked)
+ 10. неприятный (unpleasant, disagreeable, nasty, distasteful, obnoxious, wicked)
+ 11. противный (nasty, contrary, disgusting, repugnant, obnoxious, wicked)
+ 12. шаловливый (playful, naughty, frolicsome, impish, frolic, wicked)
+ 13. замечательный (remarkable, wonderful, great, admirable, marvelous, wicked)
+ 14. плутовской (picaresque, wicked, puckish)
+
+ Wicked has two quite contradictory meanings. If something is pure
+ evil, then it is wicked. Think Darth Vader. On the other hand, as an
+ informal slang term, wicked also means excellent — as in "that DJ is
+ wicked, man!" Go figure.
+
+ Other shades of meaning for wicked include something that is playful
+ or enjoyably malicious. Someone might have a wicked sense of humor,
+ for example, meaning it's fierce and takes aim sharply at its victims.
+ Or it can also mean something that, while not actively evil, is still
+ extremely unpleasant. Exams can be wicked, and so can someone's temper
+ or the weather. The word comes from the Old English term wicca meaning
+ "wizard."
+
+ He has wicked wit and gifts, that have the power So to seduce
+* seduce							      :Study:
+ [2017-05-08 Mon 13:43]
+ соблазнять
+
+ verb
+  1. соблазнять (tempt, seduce, lure, entice, allure, court)
+  2. совратить (seduce)
+  3. совращать (seduce, pervert, abuse, debauch)
+  4. обольщать (seduce, flatter, debauch, inveigle, blandish)
+
+ To seduce is to lure or entice, particularly away from obligations or
+ proper behavior. Often, seducing leads to sex.
+
+ Seduce means something close to attract, beguile, tempt, and mislead:
+ a beautiful woman could seduce a dude, and a clever criminal could
+ seduce the same dude into a life of crime. A gorgeous day could seduce
+ you from doing your homework. When you're being seduced, it implies
+ you're being tricked a little bit, often into something that's
+ enticing but not so good. The word is used in a famous line from The
+ Graduate: “Mrs. Robinson, you’re trying to seduce me.”
+
+ He has wicked wit and gifts, that have the power So to seduce
+* affairs							      :Study:
+ [2017-05-08 Mon 13:48]
+ дела
+
+ noun
+  1. дела (affairs, work, doings, occasions, traffic)
+  2. делишки (affairs)
+
+ Basically he's a very well organised, active, thorough, well-informed (about domestic affairs at least) and focused person who has organised an enormous
+ amount of the very tedious day to day realities of how a country and its economic system works.
+
+ It is your affair, not mine.
+* tedious							      :Study:
+ [2017-05-08 Mon 13:49]
+ утомительный
+
+ adjective
+  1. утомительный (tedious, tiring, tiresome, exhausting, weary, fatiguing)
+  2. нудный (tedious, tiresome, soggy, stodgy, prolix, jogtrot)
+  3. скучный (boring, dull, tedious, blah, uninspired, tiresome)
+  4. муторный (dreary, tedious, drear)
+
+ If something is tedious, it's boring. If you're anxious to get outside
+ and enjoy the sun, even the best lecture will seem tedious.
+
+ Tedious is the adjective from tedium, which is both Latin and English
+ for boredom. You ordinarily wouldn't use tedious for people, just
+ things; you might say "His speeches are tedious," but usually not "He
+ is tedious." Something that is tedious could also be called tiresome.
+ Shakespeare's Friar Laurence says "I will be brief, for my short date
+ of breath Is not so long as is a tedious tale."
+
+ Basically he's a very well organised, active, thorough, well-informed (about domestic affairs at least) and focused person who has organised an enormous
+ amount of the very tedious day to day realities of how a country and its economic system works.
+
+ Waiting was tedious.
+* arguable							      :Study:
+ [2017-05-08 Mon 13:49]
+ arguable
+ [ˈärgyo͞oəbəl]
+ спорный
+
+ adjective
+  1. спорный (controversial, debatable, disputable, contentious, arguable, moot)
+  2. доказуемый (provable, demonstrable, arguable, evincible, vindicable)
+
+ This is arguable question.
+* rods								      :Study:
  [2017-05-07 Sun 16:35]
  прутки
 
@@ -3826,7 +4135,7 @@ verb
 
  They dragged him out, and without asking anything, about 500+ people
  started beating him with wooden planks, iron rods, and whatever else they could find.
-** shoulder                                                           :Study:
+* shoulder							      :Study:
  [2017-05-07 Sun 16:36]
  плечо
 
@@ -3850,7 +4159,7 @@ verb
  6. отталкивать в сторону (shoulder, shoulder one's way)
 
  In between someone shot him once in the shoulder and once in the head.
-** instantly                                                          :Study:
+* instantly							      :Study:
  [2017-05-07 Sun 16:36]
  instantly
 
@@ -3873,7 +4182,7 @@ verb
  "standing near."
 
  He died instantly.
-** skull                                                              :Study:
+* skull								      :Study:
  [2017-05-07 Sun 16:37]
  череп
 
@@ -3881,7 +4190,7 @@ verb
  1. череп (skull, cranium, braincase, brainpan, pericranium, death's head)
  2. башка (chump, noggin, pate, twopenny, noddle, skull)
 
-** inward                                                             :Study:
+* inward							      :Study:
    [2017-05-07 Sun 16:37]
    внутрь
 
@@ -3897,7 +4206,7 @@ adjective
  5. умственный (mental, intelligence, intellective, inward)
 
  They beat his lifeless body, ripped his clothes apart, hit him so much on his head that his skull caved inward.
-** tore                                                               :Study:
+* tore								      :Study:
  [2017-05-07 Sun 16:37]
  оторвал
 
@@ -3908,7 +4217,7 @@ adjective
 
  They tore
  his nose with a screw driver.
-** screw                                                              :Study:
+* screw								      :Study:
  [2017-05-07 Sun 16:37]
  винт
 
@@ -3963,336 +4272,7 @@ verb
 22. поставить (screw)
 23. совокупляться (copulate, fuck, frig, jazz, screw)
 
-
-* DONE 08_05_2017
-  CLOSED: [2017-05-09 Tue 16:57] SCHEDULED: <2017-05-08 Mon> DEADLINE: <2017-05-08 Mon>
-** wildcard                                                           :Study:
- [2017-05-08 Mon 10:24]
- подстановочные
-
- noun
-  1. непредсказуемое явление (wild card)
-
- The glob module provides a function for making file lists from directory
- wildcard searches:
-
- A wildcard is a symbol such as *.
-
-** penetrate                                                          :Study:
- [2017-05-08 Mon 13:38]
- проникать
-
- verb
-  1. проникать (permeate, penetrate, pierce, enter, infiltrate, seep)
-  2. проходить (pass, penetrate, go, run, cover, go by)
-  3. вникать (penetrate, fathom, introspect)
-  4. пронизывать (penetrate, pierce, transfix, transfuse, strike)
-  5. проникать внутрь (penetrate)
-  6. входить (enter, go in, come in, login, get into, penetrate)
-  7. просачиваться (soak, leak, seep, leak out, filter, penetrate)
-  8. проходить сквозь (penetrate, permeate)
-  9. постигать (comprehend, perceive, grasp, apprehend, conceive, penetrate)
- 10. пропитывать (impregnate, soak, permeate, saturate, penetrate, pervade)
- 11. пролезать (get through, penetrate, through, thrust, edge)
- 12. охватывать (cover, embrace, span, comprise, grasp, penetrate)
- 13. понимать (understand, see, realize, comprehend, appreciate, penetrate)
- 14. пробирать (scold, penetrate)
- 15. пронимать (penetrate)
- 16. прохватывать (penetrate)
- 17. глубоко трогать (penetrate)
-
- To penetrate is to force into or pierce through. If the fog is thick
- as pea soup, your flashlight won’t penetrate it. If you stubbornly
- ignore good advice, people might say nothing can penetrate that thick
- skull of yours.
-
- We get penetrate from the Latin word penetrare, which combines penes
- ("within") and intrare ("to enter"). Penetrate crops up most often to
- describe entering or permeating. Blaring music penetrated every corner
- of the dorm and we wondered how anyone could study with that racket.
- Penetrate can also mean to decipher or understand: "Careful study
- allowed us to penetrate the mysteries of Pig Latin." Finally — no
- surprise, given its Latin roots — the word can be used to describe
- sexual intercourse.
-
- The running joke was that CIA agents could not penetrate them because they were failing English.
-
- Virus often penetrate the living cells.
-
-** presumably                                                         :Study:
- [2017-05-08 Mon 13:39]
-
- предположительно
-
- adverb
-  1. предположительно (presumably, supposedly, conceivably, admittedly, assumedly, supposably)
-  2. по-видимому (apparently, evidently, all appearance, all appearances, seemingly, presumably)
-
- Presumably you are reading these word blurbs because you're interested
- in learning some useful words. You can add presumably to any statement
- that you think is true — it indicates a logical conclusion for which
- you don't have definite proof.
-
- When you add presumably to whatever you're saying, you're giving
- notice that you think what you're saying is true but telling your
- listener not to ask for the evidence. You might watch beer commercials
- and say to yourself, "Presumably advertisers think people will find
- this commercial amusing and want to run out and buy tubs of this
- beer." The adverb presumably is related to the nouns presumption and
- assumption, which are also notions you accept without proof.
-
- Only those risen to the rank of "Ex-staff
- KGB Operative" and presumably done some "good" work likely for 5th Directorate (counter-dissident, or call it counter-freedom) got that.
-
- Presumably will be rain today.
-
-** abroad                                                             :Study:
- [2017-05-08 Mon 13:40]
- за границу
-
- adverb
-  1. за границей (abroad, overseas, across the border, oversea)
-  2. за границу (abroad, overseas, oversea)
-  3. повсюду (everywhere, throughout, all over, overall, far and wide, abroad)
-  4. вне дома (outdoors, abroad, out-of-doors)
-  5. широко (wide, widely, broad, large, extensively, abroad)
-  6. вне своего жилища (abroad)
-  7. в заблуждении (abroad)
-
- noun
-  1. заграница (abroad, foreign countries)
-
- If you study abroad in your junior year of college, you are going to
- school in another country. Use abroad when you are talking about going
- to or from a place across an ocean.
-
- Abroad really just means in a different country, but it is almost
- always used interchangeably with "overseas." You almost never hear an
- American say, "She lives abroad; she's studying in Canada." You might
- be eager to take a trip abroad. If so, get your passport ready. They
- won't let you board a plane going abroad without one.
-
- He was filing papers so well, he was sent abroad - a dream of
- everyone in USSR.
-
- He went abroad.
-** retire                                                             :Study:
- [2017-05-08 Mon 13:41]
- retire
-
- выходить на пенсию
-
- verb
-  1. уходить (go, leave, go away, get out, walk away, retire)
-  2. удаляться (retire, move away, retreat, recede, leave, withdraw)
-  3. уходить в отставку (retire, resign, step down, demit, check out)
-  4. увольняться (quit, retire, leave the service)
-  5. отступать (back down, retreat, digress, depart, recede, retire)
-  6. уединяться (retire, seclude, cloister, cloister oneself, seclude oneself)
-  7. оставлять (leave, forsake, abandon, let, give up, retire)
-  8. ложиться спать (go to bed, retire, retire for the night, retire to bed, go to rest, turn in)
-  9. изымать из обращения (retire, call in, immobilize, demonetize)
- 10. увольнять (dismiss, fire, retire, lay off, discharge, sack)
- 11. отходить ко сну (retire to bed, get off, retire for the night, retire)
- 12. давать приказ об отступлении (retire)
- 13. устраняться (opt out, retire)
-
- If you stop working by choice and leave your position or occupation,
- you retire. If you are lucky, you can retire early in order to sail
- around the world, but most people can't retire until they are old
- enough to collect retirement benefits.
-
- If you go to bed in the evening, you retire. If your younger siblings
- are being loud and obnoxious, you can retire to the basement to get
- some privacy and quiet. If something is withdrawn from circulation, it
- can also be retired. When a beloved player leaves a sports team, often
- the number assigned to him or her is retired and no one else can use
- that number.
-
- At the age
- of 38, he got what a top KGB officer would be so glad to retire to.
-
- Half of the senators retire every four years.
-** former                                                             :Study:
- [2017-05-08 Mon 13:41]
- adjective
-  1. бывший (former, ex, old, onetime, late, last)
-  2. прежний (former, old, prior, erstwhile, last, once)
-  3. первый (first, top, former, maiden, opening, premier)
-  4. предшествующий (previous, prior, preceding, foregoing, antecedent, former)
-
- noun
-  1. шаблон (template, pattern, routine, stereotype, gauge, former)
-  2. составитель (compiler, former, drawer)
-  3. каркас катушки (former)
-  4. фасонный резец (former)
-  5. словолитчик (typefounder, former)
-  6. копир (cam, replica, master form, former)
-  7. фасонный валок (former)
-  8. вспомогательная нервюра (former)
-  9. модель (model, pattern, type, form, make, former)
-
- Former refers to something that came at an earlier time, or before
- something else. For example, someone who believes in reincarnation
- might wonder about their former life — or even lives — before their
- present existence.
-
- When something or someone has changed, we can refer to them as former.
- For example, Mr. Smith's ex-wife could be known as the former Mrs.
- Smith. We could consider almost anything as former, as long as it
- comes first, before something else. A good way to remember the meaning
- of former is to consider that it comes from the Old English forma,
- which means "first," and that both former and first begin with "f."
-
- However USSR ended, and he joined forces with his former Professor Anatoly Sobchak.
-
- Tom is a former paratrooper. 
-** looting                                                            :Study:
- [2017-05-08 Mon 13:42]
-
- мародерство
-
- noun
-  1. грабеж (robbery, looting, plunder, pillage, plundering, pillaging)
-  2. мародерство (marauding, looting, pillage, pillaging, foray)
-    
- Looting continues in the city
-** allegedly                                                          :Study:
- [2017-05-08 Mon 13:42]
- [əˈlejidlē]
- якобы
-
- adverb
-  1. якобы (allegedly, ostensibly, quasi)
-  2. будто бы (allegedly)
-  3. как утверждают (allegedly)
-
-
- If someone is said to be allegedly guilty of something, it means that
- proof has yet to be produced or they have yet to be found formally
- guilty by law.
-
- Allegedly is used almost entirely in a legal sense, referring to a
- potentially criminal action that is being or will shortly be decided
- in court. (It's from the medieval English word allege, meaning
- "quoted" or "brought forth in court.") For less serious matters, such
- as whether or not your boyfriend called you a liar, the word
- supposedly is generally used. Though watch out, because if you take
- him to court, you will become "allegedly a liar."
-
- Pro-democracy and anti-corruption campaigner Nemtsov, allegedly conflicting with Berezovsky, was recommending him.
-
- The burglar allegedly broke into the woman’s car.
-** wicked                                                             :Study:
- [2017-05-08 Mon 13:43]
- wicked
- [ˈwikid]
- злой
-
- adjective
-  1. злой (evil, wicked, ill, vicious, unkind, sinister)
-  2. безнравственный (immoral, wicked, licentious, unprincipled, bad, unmoral)
-  3. грешный (sinful, wicked, unhallowed, erring, peccant, peccable)
-  4. нехороший (bad, wicked, black-hearted)
-  5. озорной (mischievous, naughty, wicked, sly, gamine, prankish)
-  6. испорченный (spoiled, depraved, tainted, damaged, corrupt, wicked)
-  7. опасный (dangerous, hazardous, unsafe, perilous, risky, wicked)
-  8. нечистый (unclean, impure, dirty, wicked, muddy, dark)
-  9. свирепый (ferocious, fierce, savage, furious, truculent, wicked)
- 10. неприятный (unpleasant, disagreeable, nasty, distasteful, obnoxious, wicked)
- 11. противный (nasty, contrary, disgusting, repugnant, obnoxious, wicked)
- 12. шаловливый (playful, naughty, frolicsome, impish, frolic, wicked)
- 13. замечательный (remarkable, wonderful, great, admirable, marvelous, wicked)
- 14. плутовской (picaresque, wicked, puckish)
-
- Wicked has two quite contradictory meanings. If something is pure
- evil, then it is wicked. Think Darth Vader. On the other hand, as an
- informal slang term, wicked also means excellent — as in "that DJ is
- wicked, man!" Go figure.
-
- Other shades of meaning for wicked include something that is playful
- or enjoyably malicious. Someone might have a wicked sense of humor,
- for example, meaning it's fierce and takes aim sharply at its victims.
- Or it can also mean something that, while not actively evil, is still
- extremely unpleasant. Exams can be wicked, and so can someone's temper
- or the weather. The word comes from the Old English term wicca meaning
- "wizard."
-
- He has wicked wit and gifts, that have the power So to seduce
-** seduce                                                             :Study:
- [2017-05-08 Mon 13:43]
- соблазнять
-
- verb
-  1. соблазнять (tempt, seduce, lure, entice, allure, court)
-  2. совратить (seduce)
-  3. совращать (seduce, pervert, abuse, debauch)
-  4. обольщать (seduce, flatter, debauch, inveigle, blandish)
-
- To seduce is to lure or entice, particularly away from obligations or
- proper behavior. Often, seducing leads to sex.
-
- Seduce means something close to attract, beguile, tempt, and mislead:
- a beautiful woman could seduce a dude, and a clever criminal could
- seduce the same dude into a life of crime. A gorgeous day could seduce
- you from doing your homework. When you're being seduced, it implies
- you're being tricked a little bit, often into something that's
- enticing but not so good. The word is used in a famous line from The
- Graduate: “Mrs. Robinson, you’re trying to seduce me.”
-
- He has wicked wit and gifts, that have the power So to seduce
-** affairs                                                            :Study:
- [2017-05-08 Mon 13:48]
- дела
-
- noun
-  1. дела (affairs, work, doings, occasions, traffic)
-  2. делишки (affairs)
-
- Basically he's a very well organised, active, thorough, well-informed (about domestic affairs at least) and focused person who has organised an enormous
- amount of the very tedious day to day realities of how a country and its economic system works.
-
- It is your affair, not mine.
-** tedious                                                            :Study:
- [2017-05-08 Mon 13:49]
- утомительный
-
- adjective
-  1. утомительный (tedious, tiring, tiresome, exhausting, weary, fatiguing)
-  2. нудный (tedious, tiresome, soggy, stodgy, prolix, jogtrot)
-  3. скучный (boring, dull, tedious, blah, uninspired, tiresome)
-  4. муторный (dreary, tedious, drear)
-
- If something is tedious, it's boring. If you're anxious to get outside
- and enjoy the sun, even the best lecture will seem tedious.
-
- Tedious is the adjective from tedium, which is both Latin and English
- for boredom. You ordinarily wouldn't use tedious for people, just
- things; you might say "His speeches are tedious," but usually not "He
- is tedious." Something that is tedious could also be called tiresome.
- Shakespeare's Friar Laurence says "I will be brief, for my short date
- of breath Is not so long as is a tedious tale."
-
- Basically he's a very well organised, active, thorough, well-informed (about domestic affairs at least) and focused person who has organised an enormous
- amount of the very tedious day to day realities of how a country and its economic system works.
-
- Waiting was tedious.
-** arguable                                                           :Study:
- [2017-05-08 Mon 13:49]
- arguable
- [ˈärgyo͞oəbəl]
- спорный
-
- adjective
-  1. спорный (controversial, debatable, disputable, contentious, arguable, moot)
-  2. доказуемый (provable, demonstrable, arguable, evincible, vindicable)
-
- This is arguable question.
-
- 
-* DONE 09_05_2017
-  CLOSED: [2017-05-09 Tue 16:57] DEADLINE: <2017-05-09 Tue> SCHEDULED: <2017-05-09 Tue>
-** succinct                                                           :Study:
+* succinct							      :Study:
  [2017-05-09 Tue 09:37]
  краткий
  [sə(k)ˈsiNG(k)t]
@@ -4317,7 +4297,7 @@ verb
  succinct, optimized solutions:
 
  The ideal summary is succinct and to the point.
-** preceding                                                          :Study:
+* preceding							      :Study:
  [2017-05-09 Tue 10:05]
  предшествующий
 
@@ -4336,7 +4316,7 @@ verb
  preceding times he or she has asked.
 
  The preceding week he had been on vacation.
-** mutiny                                                             :Study:
+* mutiny							      :Study:
  [2017-05-09 Tue 11:12]
  [ˈmyo͞otn-ē]
  бунт
@@ -4366,7 +4346,7 @@ verb
  best possible way of either breaking me or granting them no classwork.
 
  The mutiny was led by the Alexey Navalniy.
-** barrages                                                           :Study:
+* barrages							      :Study:
  [2017-05-09 Tue 11:13]
  [bəˈräZH]
  заграждений
@@ -4403,7 +4383,7 @@ verb
  demands, and do their best to make me quit.
 
  The star  was barraged with requests for an autograph.
-** bawling                                                            :Study:
+* bawling							      :Study:
  [2017-05-09 Tue 11:14]
 
  реветь
@@ -4416,7 +4396,7 @@ verb
  I immediately broke down bawling.
 
  She began to bawl like a child
-** blurted                                                            :Study:
+* blurted							      :Study:
  [2017-05-09 Tue 11:18]
 
  выпалила
@@ -4439,7 +4419,7 @@ verb
  girl blurted out in class.
 
  She blurted.
-** rear                                                               :Study:
+* rear								      :Study:
  [2017-05-09 Tue 11:18]
  [ri(ə)r]
  задний
@@ -4493,7 +4473,7 @@ verb
  mother-self rear up like a dragon.
 
  I watched a film on how wolves rear their young.
-** fabulous                                                           :Study:
+* fabulous							      :Study:
  [2017-05-09 Tue 11:19]
  fabulous
  [ˈfabyələs]
@@ -4522,7 +4502,7 @@ verb
  My spanish teacher in 8th grade was fabulous.
 
  I had a fabulous time.
-** vivid                                                              :Study:
+* vivid								      :Study:
  [2017-05-09 Tue 11:19]
  vivid
  [ˈvivid]
@@ -4549,7 +4529,7 @@ verb
  and even throwing furniture.
 
  The dream was very vivid.
-** aisles                                                             :Study:
+* aisles							      :Study:
  [2017-05-09 Tue 11:19]
  проходы
 
@@ -4578,7 +4558,7 @@ verb
  and even throwing furniture.
 
  The bride walked down the aisle to the altar.
-** silence                                                            :Study:
+* silence							      :Study:
  [2017-05-09 Tue 11:21]
  [ˈsīləns]
  тишина
@@ -4610,7 +4590,7 @@ verb
  and the others hung in silence.
 
  We sat there in dead silence.
-** sobbing                                                            :Study:
+* sobbing							      :Study:
  [2017-05-09 Tue 11:21]
  sobbing
 
@@ -4622,10 +4602,7 @@ verb
 
  I hear sobbing.
 
-
-* DONE 11_05_2017
-  CLOSED: [2017-05-11 Thu 17:12] DEADLINE: <2017-05-11 Thu 17:20>
-** claim                                                              :Study:
+* claim								      :Study:
  [2017-05-10 Wed 09:19]
  [klām]
  Запрос
@@ -4663,7 +4640,7 @@ verb
  going to have to prove it.
 
  He made false claims about his past job experience.
-** advise                                                             :Study:
+* advise							      :Study:
  [2017-05-10 Wed 09:20]
  [ədˈvīz]
  консультировать
@@ -4692,7 +4669,7 @@ verb
  least two weeks in advance.
 
  I advise selling your old car.
-** refuse                                                             :Study:
+* refuse							      :Study:
  [2017-05-10 Wed 09:20]
  отказаться
 
@@ -4732,7 +4709,7 @@ verb
  from refusing the donor kidney.
 
  I refused the job.
-** underlying                                                         :Study:
+* underlying							      :Study:
  [2017-05-10 Wed 09:45]
  underlying
 
@@ -4759,7 +4736,7 @@ verb
  study.)
 
  He understood the real purpose underlying the experiment.
-** explicitly                                                         :Study:
+* explicitly							      :Study:
  [2017-05-10 Wed 13:14]
  explicitly
 
@@ -4784,7 +4761,7 @@ verb
  explicare, "unfold, unravel, explain."
 
  This database needs to be explicitly. 
-** Malicious                                                          :Study:
+* Malicious							      :Study:
  [2017-05-10 Wed 16:58]
  [məlɪʃəs]
  злонамеренный
@@ -4805,7 +4782,7 @@ verb
  he loves to make bad things happen.
 
  There was no malicious intent at all.
-** assembled                                                          :Study:
+* assembled							      :Study:
  [2017-05-11 Thu 06:47]
  собранный
 
@@ -4824,7 +4801,7 @@ verb
 
  Linux is a Unix-like computer operating system assembled under the model
  of free and open-source software development and distribution.
-** accompanying                                                       :Study:
+* accompanying							      :Study:
  [2017-05-11 Thu 07:00]
  [əˈkʌmpənɪɪŋ]
  accompanying
@@ -4852,7 +4829,7 @@ verb
      such as LXDE or Xfce.
 
  Accompanying living expenses in college.
-** junkware                                                           :Study:
+* junkware							      :Study:
  [2017-05-11 Thu 10:47]
  junkware
 
@@ -4862,10 +4839,7 @@ verb
  companies.[1] To prevent this, extra caution on what exactly is being asked
  to be installed is needed.
 
-
-* DONE 13_05_2017
-  CLOSED: [2017-05-13 Sat 16:58]
-** mainstream                                                         :Study:
+* mainstream							      :Study:
  [2017-05-12 Fri 06:34]
  mainstream
 
@@ -4895,7 +4869,7 @@ verb
 
  Those who are not in the mainstream of public opinion often find their
  views ignored by the majority.
-** verbose                                                            :Study:
+* verbose							      :Study:
  [2017-05-12 Fri 07:25]
  [vərˈbōs]
  подробный
@@ -4921,7 +4895,7 @@ verb
      indicating there will be a filename to follow
 
  My verbose friend could talk for hours with no stop.
-** incantation                                                        :Study:
+* incantation							      :Study:
  [2017-05-12 Fri 07:41]
  [ˌinkanˈtāSHən]
  заклинание
@@ -4951,7 +4925,7 @@ verb
  this.
 
  The magician said an incantation and then pulled a rabbit from an empty hat.
-** alien                                                              :Study:
+* alien								      :Study:
  [2017-05-13 Sat 06:38]
  [ˈālyən]
  инопланетянин
@@ -4994,7 +4968,7 @@ verb
 
  The movie was about an alien who needed help to return to his home planet.
 
-** Fiction                                                            :Study:
+* Fiction							      :Study:
  [2017-05-13 Sat 06:38]
  Фантастика
 
@@ -5021,7 +4995,7 @@ verb
  commonly known as alphabetical by author.
 
  She reads nothing but fiction.
-** whether                                                            :Study:
+* whether							      :Study:
  [2017-05-13 Sat 09:22]
  whether
 
@@ -5036,7 +5010,7 @@ verb
 
  She asked me whether I'd enjoyed the party.
  I wonder whether you understand.
-** affirmative                                                        :Study:
+* affirmative							      :Study:
  [2017-05-13 Sat 09:26]
  утвердительный
 
@@ -5063,7 +5037,7 @@ verb
 
  The word order is the same as in an affirmative sentence.
 
-** compatible                                                         :Study:
+* compatible							      :Study:
  [2017-05-14 Sun 09:32]
 
  совместимый
@@ -5075,10 +5049,7 @@ adjective
  To install a version that's 'compatible'
 
 
-
-* DONE 15_05_2017
-  CLOSED: [2017-05-15 Mon 17:15]
-** gain                                                               :Study:
+* gain								      :Study:
  [2017-05-15 Mon 07:25]
  [gān]
  усиление
@@ -5138,40 +5109,40 @@ adjective
  in the directory tree you would like those files to appear.
 
  Tom gained weight.
-** obscures                                                           :Study:
-   [2017-05-15 Mon 07:30]
+* obscures							      :Study:
+  [2017-05-15 Mon 07:30]
 
-   [əbˈskyo͝o]
+  [əbˈskyo͝o]
 
-   затемняет
+  затемняет
 
-   verb
-   1. затемнять (darken, obscure, dim, black out, obfuscate, dim out)
-   2. загораживать (block, obscure, fence, blank, shut in, shut out)
-   3. затушевывать (obscure, blur over)
-   4. застилать (cover, obscure, cloud)
-   5. делать неясным (obscure, blur)
-   6. затмевать (overshadow, obscure, outshine, blind, outmatch, efface)
+  verb
+  1. затемнять (darken, obscure, dim, black out, obfuscate, dim out)
+  2. загораживать (block, obscure, fence, blank, shut in, shut out)
+  3. затушевывать (obscure, blur over)
+  4. застилать (cover, obscure, cloud)
+  5. делать неясным (obscure, blur)
+  6. затмевать (overshadow, obscure, outshine, blind, outmatch, efface)
 
 
-   If something is obscure, it's vague and hard to see. Be careful if
-   you're driving in heavy rain — the painted lines can be obscure.
+  If something is obscure, it's vague and hard to see. Be careful if
+  you're driving in heavy rain — the painted lines can be obscure.
 
-   Obscure comes from Latin obscurus, which can mean "dark, dim,"
-   "unclear, hard to understand," or "insignificant, humble." We tend to
-   use obscure in the metaphorical senses: an obscure sound is unclear,
-   an obscure village is hidden away in the countryside, and an obscure
-   poet is little known and probably insignificant. Obscure can also be
-   used as a verb. If you get really nervous when you speak during a
-   debate, your embarrassing twitches and shaking hands can obscure your
-   argument.
+  Obscure comes from Latin obscurus, which can mean "dark, dim,"
+  "unclear, hard to understand," or "insignificant, humble." We tend to
+  use obscure in the metaphorical senses: an obscure sound is unclear,
+  an obscure village is hidden away in the countryside, and an obscure
+  poet is little known and probably insignificant. Obscure can also be
+  used as a verb. If you get really nervous when you speak during a
+  debate, your embarrassing twitches and shaking hands can obscure your
+  argument.
 
-   They
-   will still exist on disk, but you will be unable to access them
-   until the file system that obscures them is unmounted.
+  They
+  will still exist on disk, but you will be unable to access them
+  until the file system that obscures them is unmounted.
 
-   The meaning is still obscure to me.
-** myriad                                                             :Study:
+  The meaning is still obscure to me.
+* myriad							      :Study:
  [2017-05-15 Mon 07:57]
    мириады
 
@@ -5202,14 +5173,14 @@ adjective
    partitions sometimes recommended in these primers.
 
    Kelly and Clint discuss myriad topics on their talk show.
-** drawbacks                                                          :Study:
+* drawbacks							      :Study:
  [2017-05-15 Mon 16:29]
    недостатки
    Similar to Zurich, but the benefits and drawbacks are less
    amplified.
    The only drawback to the climate the prevalence of high cold winds
    in winter.
-** amplified                                                          :Study:
+* amplified							      :Study:
  [2017-05-15 Mon 16:29]
 
    amplified
@@ -5236,12 +5207,12 @@ adjective
    amplified.
 
    The cold winds amplifies in winter.
-** heatwaves                                                          :Study:
+* heatwaves							      :Study:
  [2017-05-15 Mon 16:30]
    Теплые волны
    2 Cons: heatwaves, droughts, forest fires, a very remote location (forget
     travelling anywhere beyond South Asia).
-** droughts                                                           :Study:
+* droughts							      :Study:
  [2017-05-15 Mon 16:30]
    [drout]
    droughts
@@ -5270,13 +5241,13 @@ adjective
     travelling anywhere beyond South Asia).
 
    Many trees died during the long drought.
-** unaffordable                                                       :Study:
+* unaffordable							      :Study:
  [2017-05-15 Mon 16:30]
    [ˌənəˈfôrdəbə]
    непозволительно
    Medical care is unaffordable in Dublin for many people.
 
-** lack                                                               :Study:
+* lack								      :Study:
  [2017-05-15 Mon 16:30]
    отсутствие
 
@@ -5307,7 +5278,7 @@ adjective
     transport outside San Francisco, droughts.
 
     He lacks motivation.
-** rash                                                               :Study:
+* rash								      :Study:
  [2017-05-15 Mon 16:32]
    сыпь
 
@@ -5343,7 +5314,7 @@ adjective
    happening in a short amount of time, like robberies or earthquakes.
 
    Don't make rash decisions.
-** dodgy                                                              :Study:
+* dodgy								      :Study:
  [2017-05-15 Mon 16:33]
    изворотливый
 
@@ -5369,7 +5340,7 @@ adjective
    dodgy, but probably less than quitting altogether.
 
    He is dodgy.
-** sake                                                               :Study:
+* sake								      :Study:
  [2017-05-15 Mon 16:33]
    ради
 
@@ -5391,7 +5362,7 @@ adjective
    for your career's sake if nothing else.
 
    Do it for my sake.
-** decent                                                             :Study:
+* decent							      :Study:
  [2017-05-15 Mon 16:33]
    [ˈdēsənt]
 
@@ -5428,10 +5399,7 @@ adjective
 
    He is very decent.
 
-
-* DONE 16_05_2017
-  CLOSED: [2017-05-16 Tue 17:12]
-** Measurement                                                        :Study:
+* Measurement							      :Study:
  [2017-05-16 Tue 08:59]
    измерение
 
@@ -5455,7 +5423,7 @@ adjective
    Performance Measurement
 
    Precise measurements are required.
-** Neither                                                            :Study:
+* Neither							      :Study:
  [2017-05-16 Tue 09:37]
 
  When offered a choice between two things you don't like, you might
@@ -5471,7 +5439,7 @@ adjective
  day.
 
  - "I don't want another drink" "Neither do I."
-** rude                                                               :Study:
+* rude								      :Study:
  [2017-05-16 Tue 16:23]
    [ro͞od]
    грубый
@@ -5508,7 +5476,7 @@ adjective
 
    Isabel had always been in rude health.
 
-** aired                                                              :Study:
+* aired								      :Study:
  [2017-05-16 Tue 16:29]
    эфир
 
@@ -5521,7 +5489,7 @@ adjective
     6. обнародовать (promulgate, manifest, proclaim, air, give forth, noise)
 
    Song was aired throughout the store.
-** innate                                                             :Study:
+* innate							      :Study:
  [2017-05-16 Tue 16:29]
    врожденный
 
@@ -5540,7 +5508,7 @@ adjective
    innate means inherent. There is an innate sadness in certain types of
    ceremonies.
 
-** wardrobe                                                           :Study:
+* wardrobe							      :Study:
  [2017-05-16 Tue 16:29]
    [ˈwôrˌdrōb]
    гардероб
@@ -5563,7 +5531,7 @@ adjective
    movie.
 
    All of the clothes in your closet make up your wardrobe.
-** sink                                                               :Study:
+* sink								      :Study:
  [2017-05-16 Tue 16:30]
    раковина
 
@@ -5642,7 +5610,7 @@ adjective
    source.
 
    I saw the boat sink.
-** gestures                                                           :Study:
+* gestures							      :Study:
  [2017-05-16 Tue 16:33]
    gestures
 
@@ -5672,7 +5640,7 @@ adjective
     stress their points
 
    I appreciate the gesture.
-** snail                                                              :Study:
+* snail								      :Study:
  [2017-05-16 Tue 16:34]
    улитка
 
@@ -5691,7 +5659,7 @@ adjective
    So many restaurants will open at the lunch-time, closed on the afternoon, and reopen at 7.30 PM
 
    A snail is a small mollusk with a spiral-shaped shell.
-** greasy                                                             :Study:
+* greasy							      :Study:
  [2017-05-16 Tue 16:35]
    [ˈgrēsē]
    сальный
@@ -5710,7 +5678,7 @@ adjective
    11. не очищенный от жира (greasy)
 
    He wiped his greasy fingers.
-** appearances                                                        :Study:
+* appearances							      :Study:
  [2017-05-16 Tue 16:35]
    Выступления
 
@@ -5744,7 +5712,7 @@ adjective
 
    They won’t eat too many greasy food and they care a lot about their weight and
    appearances.
-** stinky                                                             :Study:
+* stinky							      :Study:
  [2017-05-16 Tue 16:36]
    вонючий
 
@@ -5752,7 +5720,7 @@ adjective
     1. вонючий (smelly, stinking, stinky, stunk, fetid, foul)
 
    Many metro stations are stinky and you can find many graffitis on the wall.
-** mugged                                                             :Study:
+* mugged							      :Study:
  [2017-05-16 Tue 16:36]
    ограбленный
 
@@ -5775,7 +5743,7 @@ adjective
    earlier definition, "to strike someone in the face (or the mug)."
 
    I got mugged when I went to CHURCH (Montmartre)
-** yell                                                               :Study:
+* yell								      :Study:
  [2017-05-16 Tue 16:37]
    вопить
 
@@ -5797,10 +5765,7 @@ adjective
 
    You heard me yelling at her.
 
-
-* DONE 17_05_2017
-  CLOSED: [2017-05-17 Wed 18:00]
-** afterthought                                                       :Study:
+* afterthought							      :Study:
  [2017-05-17 Wed 14:06]
    [ˈaftərˌTHôt]
    раздумье
@@ -5825,7 +5790,7 @@ adjective
    feel to me more like an afterthought.
 
    She added, as an afterthought, that she was going to do some shopping.
-** bundles                                                            :Study:
+* bundles							      :Study:
  [2017-05-17 Wed 14:08]
    пучки
 
@@ -5864,7 +5829,7 @@ adjective
 
    Tom is a bundle of nerves.
 
-** immensely                                                          :Study:
+* immensely							      :Study:
  [2017-05-17 Wed 14:08]
    [iˈmenslē]
    очень
@@ -5893,7 +5858,7 @@ adjective
     installed.
 
    The president was immensely popular
-** wizard                                                             :Study:
+* wizard							      :Study:
  [2017-05-17 Wed 14:11]
 
    волшебник
@@ -5913,46 +5878,46 @@ adjective
    verb
     1. околдовать (cast a spell on, cast a spell over, witch, bedevil, glamor, wizard)
    The wizard waved his magic wand and disappeared into thin air. 
-** arise                                                              :Study:
-   [2017-05-17 Wed 14:11]
-   [əˈrīz]
-   возникать
+* arise								      :Study:
+  [2017-05-17 Wed 14:11]
+  [əˈrīz]
+  возникать
 
-   verb
-    1. возникать (arise, emerge, originate, rise, spring, crop up)
-    2. появляться (appear, show up, emerge, turn up, show, arise)
-    3. происходить (occur, happen, take place, be, come, arise)
-    4. являться (appear, come, arise, report, occur, show up)
-    5. вставать (get up, stand up, rise, stand, arise, emerge)
-    6. проистекать (arise, result, flow, emanate, accrue)
-    7. подниматься (lift, rise, climb, raise, get up, arise)
-    8. являться результатом (arise, wait on, eventuate, wait upon)
-    9. восставать (rebel, rise, revolt, arise, rise in revolt, uprise)
-   10. всплывать (float, emerge, surface, arise, bob up)
-   11. воскресать (resurrect, rise, arise, revive, resuscitate, resurge)
-   12. проклевываться (break the eggshell, arise)
-   13. нарождаться (come into being, arise)
-   14. воздвигаться (rear up, arise)
+  verb
+   1. возникать (arise, emerge, originate, rise, spring, crop up)
+   2. появляться (appear, show up, emerge, turn up, show, arise)
+   3. происходить (occur, happen, take place, be, come, arise)
+   4. являться (appear, come, arise, report, occur, show up)
+   5. вставать (get up, stand up, rise, stand, arise, emerge)
+   6. проистекать (arise, result, flow, emanate, accrue)
+   7. подниматься (lift, rise, climb, raise, get up, arise)
+   8. являться результатом (arise, wait on, eventuate, wait upon)
+   9. восставать (rebel, rise, revolt, arise, rise in revolt, uprise)
+  10. всплывать (float, emerge, surface, arise, bob up)
+  11. воскресать (resurrect, rise, arise, revive, resuscitate, resurge)
+  12. проклевываться (break the eggshell, arise)
+  13. нарождаться (come into being, arise)
+  14. воздвигаться (rear up, arise)
 
 
-   Arise is a verb that means to get up, maybe to stand or get out of
-   bed, like when you arise in the morning to get ready for the day.
+  Arise is a verb that means to get up, maybe to stand or get out of
+  bed, like when you arise in the morning to get ready for the day.
 
-   The verb arise can apply to people when they get up but it can also
-   apply to issues or situations that come up, like problems that arise
-   when a leader takes away people's rights. What happens next? People
-   might arise, meaning they rebel, protesting the leader's actions,
-   maybe even declaring that they are no longer under his or her rule. If
-   this happens, a new political party will likely arise, meaning "come
-   into existence."
+  The verb arise can apply to people when they get up but it can also
+  apply to issues or situations that come up, like problems that arise
+  when a leader takes away people's rights. What happens next? People
+  might arise, meaning they rebel, protesting the leader's actions,
+  maybe even declaring that they are no longer under his or her rule. If
+  this happens, a new political party will likely arise, meaning "come
+  into existence."
 
-   Once you get used to the idea that 95% of all opensource
-    software is available to be searched with something like “apt-cache search
-    ___”, You’ll find that software solutions to everyday problems that arise
-    are fast and easy to solve.
+  Once you get used to the idea that 95% of all opensource
+   software is available to be searched with something like “apt-cache search
+   ___”, You’ll find that software solutions to everyday problems that arise
+   are fast and easy to solve.
 
-   A new difficulty has arisen.
-** charge                                                             :Study:
+  A new difficulty has arisen.
+* charge							      :Study:
  [2017-05-17 Wed 14:11]
    [CHärj]
    заряд
@@ -6024,7 +5989,7 @@ adjective
     license to get a Linux version that supports multiuser logins.
 
    Charge this to my company.
-** spawning                                                           :Study:
+* spawning							      :Study:
  [2017-05-17 Wed 14:13]
    нерест
 
@@ -6047,7 +6012,7 @@ adjective
     practice, spawning a "software tools" movement.
 
    Bill Gates programming project spawned a multimillion-dollar industry.
-** influential                                                        :Study:
+* influential							      :Study:
  [2017-05-17 Wed 14:13]
    influential
 
@@ -6082,7 +6047,7 @@ adjective
 
    Money influences everything.
 
-** bizarre                                                            :Study:
+* bizarre							      :Study:
  [2017-05-17 Wed 14:14]
    [biˈzär]
    bizarre
@@ -6116,7 +6081,7 @@ adjective
    handle.
 
    This is one of the most bizarre things I've ever seen.
-** oddly                                                              :Study:
+* oddly								      :Study:
  [2017-05-17 Wed 14:14]
    oddly
 
@@ -6126,7 +6091,7 @@ adjective
    1. странно (strangely, oddly, curiously, peculiarly, queerly)
      
    The man's behavior was very odd.
-** lazy                                                               :Study:
+* lazy								      :Study:
  [2017-05-17 Wed 14:19]
    lazy
 
@@ -6152,10 +6117,7 @@ adjective
 
    Many peoples are very lazy by nature.
 
-
-* DONE 18_05_2017
-  CLOSED: [2017-05-18 Thu 17:27]
-** outdated                                                      :Study:
+* outdated							      :Study:
    CLOSED: [2017-05-18 Thu 17:27]
  [2017-05-18 Thu 09:18]
    устаревший
@@ -6177,7 +6139,7 @@ adjective
    the "mark as old fashioned" meaning of the verb date.
 
    The 'pip list --outdates' command to list outdated packages, and show the latest version.
-** worst                                                              :Study:
+* worst								      :Study:
  [2017-05-18 Thu 16:10]
    наихудший
 
@@ -6210,7 +6172,7 @@ adjective
    might be worse than your brother's but dad's is the worst of all.
 
    What is your worst experience in life?
-** nonetheless                                                        :Study:
+* nonetheless							      :Study:
  [2017-05-18 Thu 16:16]
    [ˌnənT͟Həˈles]
    тем не менее
@@ -6234,7 +6196,7 @@ adjective
    nonetheless.
 
    You may not believe it, but it is nonetheless true. 
-** divorced                                                           :Study:
+* divorced							      :Study:
  [2017-05-18 Thu 16:16]
    divorced
 
@@ -6244,7 +6206,7 @@ adjective
     1. разведенный (diluted, divorced, dilute, separated, thin)
 
    My parents got divorced.
-** toddler                                                            :Study:
+* toddler							      :Study:
  [2017-05-18 Thu 16:16]
    ребенок, начинающий ходить
 
@@ -6265,7 +6227,7 @@ adjective
    with a toddler-aged sister, it was earth-shattering to me.
 
    Toddler is a young child who is just beginning to walk.
-** shattering                                                         :Study:
+* shattering							      :Study:
  [2017-05-18 Thu 16:17]
 
    сокрушительный
@@ -6276,7 +6238,7 @@ adjective
 
    His hopes were shattered.
 
-** toughest                                                           :Study:
+* toughest							      :Study:
  [2017-05-18 Thu 16:19]
 
    The adjective tough is good for describing hard times. If you just got
@@ -6296,7 +6258,7 @@ adjective
    July 24, 2011.
 
    It was toughest time in my life.
-** gust                                                               :Study:
+* gust								      :Study:
  [2017-05-18 Thu 16:20]
    [gəst]
    порыв
@@ -6328,7 +6290,7 @@ adjective
    and that they weren't in pain and that it all happened so fast.
 
    A gust is a strong, short burst of air.
-** selfish                                                            :Study:
+* selfish							      :Study:
  [2017-05-18 Thu 16:22]
  эгоистичный
 
@@ -6353,7 +6315,7 @@ adjective
  then immediately felt selfish and therefore guilty.
 
  I joined them for selfish reasons.
-** hole                                                               :Study:
+* hole								      :Study:
  [2017-05-18 Thu 16:22]
  [hōl]
    дыра, отверстие
@@ -6375,7 +6337,7 @@ adjective
    the most immense pressure.
 
    I got a hole in my jeans
-** immense                                                            :Study:
+* immense							      :Study:
  [2017-05-18 Thu 16:22]
    [iˈmens]
    огромный
@@ -6404,7 +6366,7 @@ adjective
 
    The cost of restoration has been immense.
 
-** pressure                                                           :Study:
+* pressure							      :Study:
  [2017-05-18 Thu 16:22]
    [ˈpreSHər]
    давление
@@ -6443,7 +6405,7 @@ adjective
    the most immense pressure.
 
    I have low blood pressure.
-** felt                                                               :Study:
+* felt								      :Study:
  [2017-05-18 Thu 16:24]
 
    почувствовал
@@ -6466,7 +6428,7 @@ adjective
    of those connections that you felt and no one needed to say anything.
 
    Tom felt very lonely.
-** invincible                                                         :Study:
+* invincible							      :Study:
  [2017-05-18 Thu 16:26]
    непобедимый
 
@@ -6491,7 +6453,7 @@ adjective
    like this happening.
 
    Tom thinks he's invincible.
-** deserve                                                            :Study:
+* deserve							      :Study:
  [2017-05-18 Thu 16:26]
    [dəˈzərv]
    заслуживать
@@ -6515,7 +6477,7 @@ adjective
    There was nothing they did to deserve this.
 
    You deserve the prize.
-** fluke                                                              :Study:
+* fluke								      :Study:
  [2017-05-18 Thu 16:26]
    счастливая случайность
 
@@ -6553,7 +6515,7 @@ adjective
    call it.
 
    Their triumph was no fluke.
-** coincidence                                                        :Study:
+* coincidence							      :Study:
  [2017-05-18 Thu 16:26]
    [kōˈinsədəns]
    совпадение
@@ -6578,36 +6540,34 @@ adjective
    call it.
 
    What a happy coincidence!
-** jail                       тюремное заключение
+* jail                       тюремное заключение
 
-   noun
-    1. тюрьма (prison, jail, gaol, pokey, prison house, cage)
-    2. тюремное заключение (imprisonment, jail, confinement, gaol, constraint, bond)
+  noun
+   1. тюрьма (prison, jail, gaol, pokey, prison house, cage)
+   2. тюремное заключение (imprisonment, jail, confinement, gaol, constraint, bond)
 
-   verb
-    1. сажать в тюрьму (imprison, jail, lock up, put to prison, gaol, dungeon)
-    2. заключать в тюрьму (imprison, jail, incarcerate, prison, cage, confine)
+  verb
+   1. сажать в тюрьму (imprison, jail, lock up, put to prison, gaol, dungeon)
+   2. заключать в тюрьму (imprison, jail, incarcerate, prison, cage, confine)
 
-   A jail is a place where people are confined while they're being
-   punished for a crime. If you end up getting a mug shot and put behind
-   bars, chances are you are In jail.
+  A jail is a place where people are confined while they're being
+  punished for a crime. If you end up getting a mug shot and put behind
+  bars, chances are you are In jail.
 
-   To arrest someone and put them in a jail cell is to jail them. Jail
-   prisoners are often simply waiting for their trials — they've been
-   charged with a crime, but they haven't yet been found to be guilty (or
-   innocent). Jail was originally spelled gayhol, and in Britain it's
-   also spelled gaol. This can be traced back to the Medieval Latin
-   gabiola, from Late Latin caveola and the Latin cavea, "cage or
-   enclosure."
+  To arrest someone and put them in a jail cell is to jail them. Jail
+  prisoners are often simply waiting for their trials — they've been
+  charged with a crime, but they haven't yet been found to be guilty (or
+  innocent). Jail was originally spelled gayhol, and in Britain it's
+  also spelled gaol. This can be traced back to the Medieval Latin
+  gabiola, from Late Latin caveola and the Latin cavea, "cage or
+  enclosure."
 
-   After court I was whisked away to the county jail, and few days later to a
-   prison reception center.
+  After court I was whisked away to the county jail, and few days later to a
+  prison reception center.
 
-   The driver was jailed for two years
+  The driver was jailed for two years
 
-
-* 24_05_2017
-** elect                                                              :Study:
+* elect								      :Study:
  [2017-05-20 Sat 09:03]
    избранные
 
@@ -6641,7 +6601,7 @@ adjective
    format:
 
     A group of citizens may elect the next president.
-** batch                                                              :Study:
+* batch								      :Study:
  [2017-05-20 Sat 09:05]
    batch
 
@@ -6684,7 +6644,7 @@ adjective
    format:
 
    A batch of cakes was made yesterday.
-** arbitrary                                                          :Study:
+* arbitrary							      :Study:
  [2017-05-22 Mon 07:02]
    [ˈärbiˌtrerē]
    arbitrary
@@ -6710,7 +6670,7 @@ adjective
    picking names out of a hat.
 
    There is also a mechanism for an arbitrary number of keyword parameters.
-** simpleton                                                          :Study:
+* simpleton							      :Study:
  [2017-05-24 Wed 07:10]
    [ˈsimpəltən]
    простак
@@ -6736,45 +6696,44 @@ adjective
 
    The simpleton was so clueless, he didn’t realize that paper was made
    out of wood.
-** clueless
-     [ˈklo͞oləs]
-     невежественный
+* clueless
+    [ˈklo͞oləs]
+    невежественный
 
-     DEFINITION
+    DEFINITION
 
-     adjective
-    1. having no knowledge, understanding, or ability.
-       "you're clueless about how to deal with the world"
+    adjective
+   1. having no knowledge, understanding, or ability.
+      "you're clueless about how to deal with the world"
 
-    They were clueless about what to do.
+   They were clueless about what to do.
 
-** abandoned
-   заброшенный
+* abandoned
+  заброшенный
 
-   adjective
-    1. заброшенный (abandoned, neglected, deserted, desolate, forlorn, godforsaken)
-    2. брошенный (abandoned, slung, derelict, forsaken, outcast)
-    3. покинутый (abandoned, deserted, forsaken, derelict, lovelorn, desolate)
-    4. оставленный (abandoned, derelict, desert, waste)
-    5. распутный (dissolute, lewd, wanton, lecherous, immoral, abandoned)
+  adjective
+   1. заброшенный (abandoned, neglected, deserted, desolate, forlorn, godforsaken)
+   2. брошенный (abandoned, slung, derelict, forsaken, outcast)
+   3. покинутый (abandoned, deserted, forsaken, derelict, lovelorn, desolate)
+   4. оставленный (abandoned, derelict, desert, waste)
+   5. распутный (dissolute, lewd, wanton, lecherous, immoral, abandoned)
 
-    An abandoned repository.
+   An abandoned repository.
 
-** blizzard
-   [ˈblizərd]
+* blizzard
+  [ˈblizərd]
 
-   метель
+  метель
 
-   noun
-    1. метель (blizzard, snowstorm, windstorm)
-    2. пурга (blizzard, snowstorm)
-    3. снежная буря (blizzard, ice storm)
-    4. буран (blizzard, snowstorm)
+  noun
+   1. метель (blizzard, snowstorm, windstorm)
+   2. пурга (blizzard, snowstorm)
+   3. снежная буря (blizzard, ice storm)
+   4. буран (blizzard, snowstorm)
 
-   A blizzard is an example of extreme weather conditions.
+  A blizzard is an example of extreme weather conditions.
 
-
-** tremendous                                                         :Study:
+* tremendous							      :Study:
  [2017-05-25 Thu 15:02]
    [trəˈmendəs]
    tremendous
@@ -6805,7 +6764,7 @@ adjective
    commands and yet experience a tremendous boost in productivity.
 
    Tom did an absolutely tremendous job.
-** boost                                                              :Study:
+* boost								      :Study:
  [2017-05-25 Thu 15:05]
    увеличение
 
@@ -6854,7 +6813,7 @@ adjective
    commands and yet experience a tremendous boost in productivity.
 
    What can we do to boost production in the factory?
-** inevitably                                                         :Study:
+* inevitably							      :Study:
  [2017-05-25 Thu 17:34]
    [inˈevitəblē]
    неизбежно
@@ -6876,7 +6835,7 @@ adjective
 
 
    Its a question one inevitably asks himself at one point in his life.
-** pondering                                                          :Study:
+* pondering							      :Study:
  [2017-05-25 Thu 17:36]
 
    размышляют
@@ -6888,7 +6847,7 @@ adjective
 
 
    You may wonder why I am still pondering the question.
-** retreat                                                            :Study:
+* retreat							      :Study:
  [2017-05-25 Thu 17:37]
    [riˈtrēt]
    отступление
@@ -6930,7 +6889,7 @@ adjective
    opposing evidence is too convincing.
 
    I was using this time as a retreat more than anything.
-** sour                                                               :Study:
+* sour								      :Study:
  [2017-05-25 Thu 17:38]
    [ˈsou(ə)r]
    кислый
@@ -6972,7 +6931,7 @@ adjective
 
    She sampled the wine and found it was sour
 
-** luck                                                               :Study:
+* luck								      :Study:
  [2017-05-25 Thu 17:38]
    везение
 
@@ -7002,7 +6961,7 @@ adjective
    time were promising.
 
    He lucked into a disc-jockey job.
-** pillar                                                             :Study:
+* pillar							      :Study:
  [2017-05-25 Thu 17:46]
    [ˈpilə]
    столб
@@ -7037,7 +6996,7 @@ adjective
    pillar to the organization.
 
    She has been a pillar of support in my life through thick and thin.
-** aspirations                                                        :Study:
+* aspirations							      :Study:
  [2017-05-25 Thu 17:48]
    стремления
 
@@ -7069,9 +7028,7 @@ adjective
    better start training.
 
 
-
-* 04_06_2017   
-** cumbersome                                                         :Study:
+* cumbersome							      :Study:
  [2017-05-29 Mon 15:39]
 
    громоздкий
@@ -7100,7 +7057,7 @@ adjective
 
    Any programs are very cumbersome.
    Ancient animals was a cumbersome giants.
-** bespoke                                                            :Study:
+* bespoke							      :Study:
  [2017-05-31 Wed 16:44]
 
    сделанный на заказ
@@ -7138,7 +7095,7 @@ adjective
    James and Amy focused their business on the development of complex
    bespoke software.
 
-** retains                                                            :Study:
+* retains							      :Study:
  [2017-06-01 Thu 07:42]
    [riˈtān]
    сохраняет
@@ -7164,14 +7121,14 @@ adjective
    The Emacs register retains all necessary information that you need for
    further usage.
 
-** conveniently                                                       :Study:
+* conveniently							      :Study:
  [2017-06-01 Thu 08:32]
 
    удобно
 
    If you visit certain file names frequently, you can visit them more
    conveniently if you put their names in registers.
-** invocations                                                        :Study:
+* invocations							      :Study:
 [2017-06-01 Thu 08:48]
   вызовы
 
@@ -7203,7 +7160,7 @@ adjective
   A method invocation is represented by a message sent from a caller.
   The invocation will be offered by Bob.
 
-** concerning                                                         :Study:
+* concerning							      :Study:
  [2017-06-01 Thu 11:18]
  [kənˈsərniNG]
    относительно
@@ -7235,7 +7192,7 @@ adjective
 
    By “structure” we mean the decisions you make concerning how your project
    best meets its objective.
-** leverage                                                           :Study:
+* leverage							      :Study:
  [2017-06-01 Thu 11:18]
    левередж
 
@@ -7261,7 +7218,7 @@ adjective
 
    We need to consider how to best leverage Python’s
    features to create clean, effective code.
-** nook                                                               :Study:
+* nook								      :Study:
  [2017-06-01 Thu 11:20]
    закоулок
 
@@ -7294,7 +7251,7 @@ adjective
    A nook is a cozy little corner or a small, safe area. A nook in the
    library can be a nice place to sit and read.
 
-** cranny                                                             :Study:
+* cranny							      :Study:
  [2017-06-01 Thu 11:21]
    [ˈkranē]
    трещина
@@ -7318,7 +7275,7 @@ adjective
    intimately familiar with every nook and cranny.
 
    Our road to the city park usually lies through the cranny between the houses.
-** entity                                                             :Study:
+* entity							      :Study:
  [2017-06-02 Fri 17:36]
    организация
 
@@ -7348,7 +7305,7 @@ adjective
    Rows are also
    called records or tuples.[2] Generally, each table/relation represents one
    "entity type" (such as customer or product).
-** foreign                                                            :Study:
+* foreign							      :Study:
  [2017-06-02 Fri 17:45]
    иностранные
 
@@ -7376,7 +7333,7 @@ adjective
    Rows in a table can be linked to
    rows in other tables by adding a column for the unique key of the linked row
    (such columns are known as foreign keys).
-** investigation                                                      :Study:
+* investigation							      :Study:
  [2017-06-03 Sat 16:41]
    расследование
 
@@ -7406,7 +7363,7 @@ adjective
    software implementation.
 
    If something has gone missing, conduct an investigation to find it.
-** stakeholders                                                       :Study:
+* stakeholders							      :Study:
  [2017-06-03 Sat 16:41]
    заинтересованные стороны
 
@@ -7430,7 +7387,7 @@ adjective
    software implementation.
 
    I need informs stakeholders of my work progress.
-** intent                                                             :Study:
+* intent							      :Study:
  [2017-06-03 Sat 16:43]
    намерение
 
@@ -7464,7 +7421,7 @@ adjective
    use.
 
    If you have an intent, you have a motive or purpose.
-** feasible                                                           :Study:
+* feasible							      :Study:
  [2017-06-03 Sat 16:58]
    [ˈfēzəbəl]
    выполнимый
@@ -7494,7 +7451,7 @@ adjective
    tests that are feasible for the available time and resources.
 
    I promised to return to her as soon as it was feasible.
-** furnishes                                                          :Study:
+* furnishes							      :Study:
  [2017-06-03 Sat 16:59]
    [ˈfərniSH]
 
@@ -7515,7 +7472,7 @@ adjective
    might recognize a problem.
 
    We needs furnishes the mind with many nourishing and useful thoughts.
-** gaps                                                               :Study:
+* gaps								      :Study:
  [2017-06-03 Sat 17:00]
 
    A gap is the space between two things. It can be physical (like "the
@@ -7540,7 +7497,7 @@ adjective
    A gap is the space between two things. It can be physical (like "the
    gap between your two front teeth") or philosophical (like "the
    generation gap" between you and your parents).
-** omission                                                           :Study:
+* omission							      :Study:
  [2017-06-03 Sat 17:01]
    упущение
 
@@ -7571,52 +7528,50 @@ adjective
    maintainability, usability, performance, and security.
 
    Any omissions would later prove to be critical.
-** trace
-     след
+* trace
+    след
 
-   noun
-    1. след (track, trace, trail, mark, footprint, scent)
-    2. отпечаток (imprint, print, mark, stamp, impression, trace)
-    3. черта (feature, line, dash, stroke, trace, side)
-    4. незначительное количество (negligible quantity, trace, lick, shade)
-    5. исхоженная тропа (trace)
-    6. тропинка (path, footpath, trail, pathway, lane, trace)
-    7. чертеж на кальке (tracing, trace)
-    8. равнение в затылок (trace)
-    9. постромка (trace)
-   10. подкос (strut, shore, knee, trace, jib)
-   11. запись прибора-самописца (trace)
+  noun
+   1. след (track, trace, trail, mark, footprint, scent)
+   2. отпечаток (imprint, print, mark, stamp, impression, trace)
+   3. черта (feature, line, dash, stroke, trace, side)
+   4. незначительное количество (negligible quantity, trace, lick, shade)
+   5. исхоженная тропа (trace)
+   6. тропинка (path, footpath, trail, pathway, lane, trace)
+   7. чертеж на кальке (tracing, trace)
+   8. равнение в затылок (trace)
+   9. постромка (trace)
+  10. подкос (strut, shore, knee, trace, jib)
+  11. запись прибора-самописца (trace)
 
-   verb
-    1. прослеживать (trace, track, retrace)
-    2. следить (follow, track, watch, trace, look, attend)
-    3. начертать (trace)
-    4. калькировать (trace, calk, trace over)
-    5. с трудом рассмотреть (trace)
-    6. записывать (record, write, write down, save, note, trace)
-    7. тщательно выписывать (trace)
-    8. чертить (draw, plot, trace, draft, protract, draught)
-    9. намечать (schedule, target, chalk out, slate, trace, roughcast)
-   10. снимать копию (copy, duplicate, trace)
-   11. тщательно выводить (trace)
-   12. выслеживать (track down, hunt down, track, trace, trail, spoor)
-   13. набрасывать (throw, draw, draft, chalk out, throw on, trace)
-   14. усматривать (perceive, discern, observe, trace, notice)
-   15. устанавливать (install, set, establish, place, set up, trace)
-   16. находить (find, discover, detect, retrieve, see, trace)
-   17. обнаруживать (find, detect, discover, find out, reveal, trace)
-   18. восстанавливать размеры (trace)
-   19. восстанавливать расположение (trace)
-   20. с трудом различить (trace)
-   21. украшать узорами (trace)
-   22. фиксировать (fix, commit, fixate, immobilize, trace)
-   23. прослеживаться (trace)
+  verb
+   1. прослеживать (trace, track, retrace)
+   2. следить (follow, track, watch, trace, look, attend)
+   3. начертать (trace)
+   4. калькировать (trace, calk, trace over)
+   5. с трудом рассмотреть (trace)
+   6. записывать (record, write, write down, save, note, trace)
+   7. тщательно выписывать (trace)
+   8. чертить (draw, plot, trace, draft, protract, draught)
+   9. намечать (schedule, target, chalk out, slate, trace, roughcast)
+  10. снимать копию (copy, duplicate, trace)
+  11. тщательно выводить (trace)
+  12. выслеживать (track down, hunt down, track, trace, trail, spoor)
+  13. набрасывать (throw, draw, draft, chalk out, throw on, trace)
+  14. усматривать (perceive, discern, observe, trace, notice)
+  15. устанавливать (install, set, establish, place, set up, trace)
+  16. находить (find, discover, detect, retrieve, see, trace)
+  17. обнаруживать (find, detect, discover, find out, reveal, trace)
+  18. восстанавливать размеры (trace)
+  19. восстанавливать расположение (trace)
+  20. с трудом различить (trace)
+  21. украшать узорами (trace)
+  22. фиксировать (fix, commit, fixate, immobilize, trace)
+  23. прослеживаться (trace)
 
-   Tom says he can trace his ancestors back about 300 years.
+  Tom says he can trace his ancestors back about 300 years.
 
-
-* 07_06_2017
-** weird                                                              :Study:
+* weird								      :Study:
  [2017-06-07 Wed 14:58]
    [wi(ə)rd]
 
@@ -7649,7 +7604,7 @@ adjective
 
    Very strange and unusual, unexpected, or not natural.
    People are weird.
-** disservice                                                         :Study:
+* disservice							      :Study:
  [2017-06-07 Wed 14:58]
    /ˌdɪsˈsɜː.vɪs/
    вред
@@ -7664,7 +7619,7 @@ adjective
    An action that harms something or someone
    Her comments were a disservice to those volunteers.
 
-** janitor                                                            :Study:
+* janitor							      :Study:
  [2017-06-07 Wed 14:59]
    /ˈdʒæn.ɪ.tər/
    дворник
@@ -7696,7 +7651,7 @@ adjective
    A person employed to take care of a large building, such as a school,
    and who deals with the cleaning, repairs, etc.
    There was a period where people thought I was the janitor.
-** contradict                                                         :Study:
+* contradict							      :Study:
  [2017-06-07 Wed 15:00]
 
    противоречить
@@ -7726,7 +7681,7 @@ adjective
    Do I contradict myself?
    Recent evidence has contradicted established theories on this subject.
 
-** judgmental                                                         :Study:
+* judgmental							      :Study:
  [2017-06-07 Wed 15:00]
    /dʒʌdʒˈmen.təl/
    преднамеренный, осуждающий
@@ -7755,7 +7710,7 @@ adjective
    You must try not to be so judgmental about people.
    Be curious, not judgmental.
 
-** Behold                                                             :Study:
+* Behold							      :Study:
  [2017-06-07 Wed 15:01]
 
    вот
@@ -7782,7 +7737,7 @@ adjective
    Behold your king!
    The new bridge is an incredible sight to behold.
 
-** snap                                                               :Study:
+* snap								      :Study:
  [2017-06-07 Wed 15:03]
 
    щелчок
@@ -7864,7 +7819,7 @@ adjective
    Some vandal's snapped off my car aerial again.
    She snapped the carrot in two.
    But many people snap whenever poor people come and beg for money.
-** rude                                                               :Study:
+* rude								      :Study:
  [2017-06-07 Wed 15:03]
    грубый
 
@@ -7904,7 +7859,7 @@ adjective
    They are rude to the waiter, strict to their children, will kick/kill
    an animal.
    Isabel had always been in rude health
-** esteem                                                             :Study:
+* esteem							      :Study:
  [2017-06-07 Wed 15:05]
 
    почитать
@@ -7938,7 +7893,7 @@ adjective
    Respect for or a good opinion of someone.
    Her work is highly esteemed by all her colleagues.
 
-** inattentive                                                        :Study:
+* inattentive							      :Study:
  [2017-06-07 Wed 15:06]
 
    невнимательный
@@ -7963,9 +7918,7 @@ adjective
    He was wholly inattentive to the needs of his children
 
 
-
-* 14_06_2017
-** admission							      :Quora:
+* admission							      :Quora:
  [2017-06-14 Wed 12:02]
    [ədˈmiSHən]
    вход
@@ -8002,7 +7955,7 @@ adjective
    Her silence was taken as an admission of guilt/defeat.
    The admission of “I don’t know” creates an opportunity to learn.
 
-** Externalities						      :Quora:
+* Externalities							      :Quora:
  [2017-06-14 Wed 12:02]
    noun
     1. внешность (appearance, exterior, look, outside, externality, outward)
@@ -8026,7 +7979,7 @@ adjective
    something else.
    A snow storm for example, is an externality that can
    cause delays at the airport.
-** circumstances						      :Quora:
+* circumstances							      :Quora:
  [2017-06-14 Wed 12:02]
    обстоятельства
 
@@ -8052,7 +8005,7 @@ adjective
    Given the current economic circumstances, a lot of good candidates just
    can't find jobs.
    Some circumstances are out of our hands.
-** to Litter							      :Quora:
+* to Litter							      :Quora:
  [2017-06-14 Wed 12:34]
    verb
     1. мусорить (litter, litterbug)
@@ -8083,7 +8036,7 @@ adjective
 
    To drop rubbish on the ground in a public place.
    Clothes and newspapers littered the floor
-** fathom							      :Quora:
+* fathom							      :Quora:
 [2017-06-14 Wed 12:35]
   [ˈfaT͟Həm]
   вникать
@@ -8111,302 +8064,301 @@ adjective
   I can't fathom why he doesn't want to go along with us.
   The locals could not fathom out the reason behind his new-found prosperity’
 
-** selflessness							      :Quora:
-   самоотверженность
+* selflessness							      :Quora:
+  самоотверженность
 
-   Caring more for what other people need and want rather than for what
-   you yourself need and want.
+  Caring more for what other people need and want rather than for what
+  you yourself need and want.
 
-   Their actions, their selflessness poses a challenge to each of us.
+  Their actions, their selflessness poses a challenge to each of us.
 
-** encounters							      :Quora:
+* encounters							      :Quora:
 
-   встречи
+  встречи
+
+   noun
+   1. столкновение (collision, clash, encounter, conflict, impact, impingement)
+   2. схватка (bout, scramble, encounter, skirmish, grapple, run-in)
+   3. стычка (hassle, skirmish, encounter, engagement, brush, scrap)
+   4. неожиданная встреча (encounter)
+
+  verb
+   1. сталкиваться (face, encounter, collide, clash, interfere, impinge)
+   2. неожиданно встретить (encounter)
+   3. иметь столкновение (encounter)
+   4. неожиданно встретиться (encounter, knock against, run upon)
+   5. наталкиваться (encounter, face, barge into)
+
+   A meeting, especially one that happens by chance.
+
+   I had a strange encounter with a French man on my way to work.
+
+* sparingly							      :Quora:
+
+  скудно
+
+  adverb
+  1. скудно (scantily, poorly, sparingly, skimpily, baldly, meanly)
+
+  Using very little of something
+ 
+  Be sparing with the butter as there isn't much left.
+
+* straight							      :Quora:
+
+  Прямо
+
+  adjective
+   1. прямой (direct, right, straight, outright, straightforward, immediate)
+   2. гетеросексуальный (heterosexual, straight, hetero)
+   3. ровный (smooth, flat, level, even, straight, steady)
+   4. честный (honest, fair, honorable, upright, sincere, straight)
+   5. неразбавленный (neat, straight, sheer, solid)
+   6. искренний (sincere, genuine, candid, heartfelt, honest, straight)
+   7. надежный (reliable, secure, safe, solid, sound, straight)
+   8. достоверный (reliable, authentic, positive, veracious, straight)
+   9. классический (classical, classic, straight, attic)
+  10. поштучный (straight)
+  11. неизогнутый (straight)
+  12. невьющийся (lank, straight)
+  13. находящийся в порядке (straight)
+  14. правильный (correct, right, proper, regular, sound, straight)
+
+  adverb
+   1. прямо (direct, right, straight, directly, live, just)
+   2. сразу (at once, right away, straight, straight away, promptly, outright)
+   3. немедленно (immediately, instantly, forthwith, right away, straight, directly)
+   4. точно (exactly, precisely, accurately, just, for sure, straight)
+   5. правильно (properly, right, correctly, best, well, straight)
+   6. метко (straight)
+   7. честно (fair, honestly, fairly, faithfully, straight, in good faith)
+   8. по прямой линии (straight)
+
+  noun
+   1. стрит (straight)
+   2. прямая (straight)
+   3. прямая линия (straight, beeline, airline)
+   4. прямота (directness, straightforwardness, integrity, candor, rectitude, straight)
+   5. прямизна (straightness, straight)
+   6. нормальный человек (straight)
+
+   Continuing in one direction without bending or curving.
+   If you tell someone something straight out, you say it directly and
+   honestly, without trying to make what you are saying more pleasant:
+
+   Go straight along this road and turn left at the traffic lights.
+   I told her straight out that I didn't love her any more.
+
+* hectic							      :Quora:
+  беспокойный
+
+  adjective
+   1. беспокойный (restless, troubled, troublesome, hectic, anxious, turbulent)
+   2. лихорадочный (feverish, febrile, fever, hectic, fevered, feverous)
+   3. гектический (hectic)
+   4. чахоточный (consumptive, hectic, tuberculous, chesty, phthisic)
+   5. возбужденный (excited, agitated, energized, overwrought, thrilled, hectic)
+
+  noun
+   1. чахоточный больной (hectic)
+   2. чахоточный румянец (hectic)
+
+   Full of activity, or very busy and fast.
+   The teacher had a hectic workload.
+
+* anxiety							      :Quora:
+  [aNGˈzī-itē]
+  тревожность
+
+  noun
+   1. беспокойство (concern, anxiety, worry, trouble, disturbance, unrest)
+   2. тревога (anxiety, alarm, alert, trouble, dismay, worry)
+   3. тревожность (anxiety)
+   4. страх (fear, awe, terror, fright, dread, anxiety)
+   5. забота (care, concern, worry, attention, anxiety, solicitude)
+   6. боязнь (fear, phobia, dread, anxiety)
+   7. опасение (fear, apprehension, anxiety, misgiving, qualm)
+   8. страстное желание (craving, longing, ardent desire, hankering,
+      concupiscence, anxiety)
+
+   An uncomfortable feeling of nervousness or worry about something that
+   is happening or might happen in the future.
+
+   Children normally feel a lot of anxiety about their first day at school.
+
+* overwhelmed							      :Quora:
+
+  перегружены
+
+  adjective
+ 1. потрясенный (shocked, dazed, overwhelmed, slaphappy)
+ 2. ошеломленный (overwhelmed, bemused, dumbfounded, aghast, taken
+    aback, perplexed)
+
+    Bury or drown beneath a huge mass.
+
+    To defeat someone or something by using a lot of force.
+    Government troops have overwhelmed the rebels and seized control of the
+    capital.
+
+
+    To cause someone to feel sudden strong emotion.
+    I was overwhelmed by all the flowers and letters of support I received.
+
+    If water overwhelms a place, it covers it suddenly and completely.
+
+* treatment							      :Quora:
+
+    лечение
 
     noun
-    1. столкновение (collision, clash, encounter, conflict, impact, impingement)
-    2. схватка (bout, scramble, encounter, skirmish, grapple, run-in)
-    3. стычка (hassle, skirmish, encounter, engagement, brush, scrap)
-    4. неожиданная встреча (encounter)
+   1. лечение (treatment, therapy, medication, cure, healing, curing)
+   2. обработка (processing, treatment, handling, working, work, cultivation)
+   3. обращение (treatment, handling, circulation, appeal, address, conversion)
+   4. терапия (therapy, treatment, therapeutics)
+   5. уход (care, leave, leaving, departure, maintenance, treatment)
+   6. трактовка (treatment, handling)
+   7. подход (approach, treatment, touch, access, slant, side)
+   8. излечение (cure, treatment, healing)
+   9. пропитка (impregnation, treatment, steep, imbibition)
+  10. обхождение (treatment, usage, handling, deal, address, quarter)
+  11. обогащение (enrichment, dressing, preparation, benefication, separation, treatment)
+  12. пропитывание (impregnation, treatment)
+  13. дробление (crushing, fragmentation, breaking, milling, crush, treatment)
+  14. измельчение (grinding, milling, shredding, breakage,
+      disintegration, treatment)
+
+      The use of drugs, exercises, etc. to cure a person of an illness
+      or injury.
+      Perhaps it's time to try a new course of treatment.
+
+      The way you deal with or behave towards someone or something:
+      Peter gets special treatment because he knows the boss.
+
+* benefits							      :Quora:
+
+  выгоды
+
+  noun
+   1. пособие (benefit, pension, gratuity)
+   2. выгода (benefit, profit, advantage, gain, avail, catch)
+   3. польза (use, favor, benefit, good, advantage, profit)
+   4. бенефис (benefit, benefit performance)
+   5. прибыль (profit, income, earnings, gain, return, benefit)
+   6. пенсия (pension, benefit)
+
+  verb
+   1. извлекать (extract, retrieve, derive, recover, benefit, withdraw)
+   2. приносить пользу (benefit, profit, make oneself useful)
+   3. помогать (help, assist, succor, support, aid, serve)
+
+    A helpful or good effect, or something intended to help:
+    The discovery of oil brought many benefits to the town.
+
+    Our purpose in life is to boost your happiness and
+   benefit the lives of others, and often it requires money.
+* wealth							      :Quora:
+
+  богатство
+
+  noun
+   1. богатство (wealth, riches, richness, rich, fortune, abundance)
+   2. благосостояние (welfare, wealth, prosperity, well-being, health, weal)
+   3. изобилие (abundance, plenty, galore, fertility, wealth, exuberance)
+   4. сокровища (riches, wealth, gold)
+   5. материальные ценности (wealth, tangibles)
+   6. материальные богатства (wealth)
+
+   A large amount of money or valuable possessions that someone has:
+   During a successful business career, she accumulated a great amount
+   of wealth.
+
+* cohere							      :Quora:
+
+  членораздельным
+
+  verb
+   1. быть сцепленным (cohere)
+   2. быть связным (cohere)
+   3. быть объединенным (cohere)
+   4. быть членораздельным (cohere)
+   5. согласовываться (agree, accord, correspond, cohere, square, cotton)
+   6. соответствовать (correspond, match, meet, fit, conform, cohere)
+   7. скоординироваться (cohere)
+
+   To unite or to hold together as a unit.
+
+   The question is does wealth and happiness cohere with each other in anyway?
+
+* uplift							      :Quora:
+
+  подъем
+
+  noun
+   1. подъем (rise, lifting, lift, climb, ascent, uplift)
+   2. взброс (uplift, upthrow, upcast)
+   3. духовный подъем (uplift)
+   4. бюстгальтер (bra, brassiere, brasserie, uplift)
+
+  verb
+   1. поднимать (lift, raise, up, pick up, put up, uplift)
+
+    improvement of a person's moral or spiritual condition:
+    Money can uplift your confidence.
+
+* compel							      :Quora:
+
+  принуждать
 
    verb
-    1. сталкиваться (face, encounter, collide, clash, interfere, impinge)
-    2. неожиданно встретить (encounter)
-    3. иметь столкновение (encounter)
-    4. неожиданно встретиться (encounter, knock against, run upon)
-    5. наталкиваться (encounter, face, barge into)
+   1. принуждать (compel, force, coerce, enforce, oblige, constrain)
+   2. заставлять (force, make, cause, get, compel, lead)
+   3. вынуждать (force, compel, necessitate, drive, constrain, enforce)
+   4. добиваться (achieve, seek, get, obtain, press for, compel)
+   5. подчинять (subordinate, submit, subject, subdue, subjugate,
+      compel)
+
+   To force someone to do something: 
+   Money can compel one to find self-purpose
+
+   To produce a strong feeling or reaction:
+   Over the years her work has compelled universal admiration and trust.
+
+* fearful							      :Quora:
+
+  напуганный
+
+  adjective
+   1. страшный (terrible, fearful, horrible, frightful, frightening, dire)
+   2. ужасный (terrible, horrible, awful, appalling, dreadful, fearful)
+   3. напуганный (funky, frightened, fearful, afraid, pop-eyed)
+   4. испуганный (frightened, afraid, scared, startled, fearful, panicked)
+   5. пугливый (fearful, shy, skittish, timid, jittery, scary)
+   6. пугающий (frightening, scaring, fearful)
+   7. робкий (timid, shy, fearful, sheepish, gingerly, bashful)
+   8. полный страха (fearful, apprehensive)
+   9. огромный (huge, enormous, great, vast, immense, fearful)
+  10. исполненный благоговения (fearful)
+
+      Frightened or worried about something:
+      Being broke causes people to be fearful in looking upon another day.
+
+* miserable							      :Quora:
+
+  несчастный
+
+  adjective
+   1. несчастный (unhappy, miserable, unfortunate, poor, wretched, pitiable)
+   2. жалкий (pitiful, miserable, pathetic, sorry, wretched, pitiable)
+   3. убогий (poor, miserable, needy, squalid, shabby, poky)
+   4. печальный (sad, sorrowful, mournful, deplorable, dismal, miserable)
+   5. плохой (bad, poor, ill, low, inferior, miserable)
+   6. скудный (scarce, meager, scanty, scant, lean, miserable)
+
+   Unpleasant and causing unhappiness:
+   While some people claim to be miserable and unhappy with life when
+   they were broke, money is not what made them happy.
 
-    A meeting, especially one that happens by chance.
-
-    I had a strange encounter with a French man on my way to work.
-
-** sparingly							      :Quora:
-
-   скудно
-
-   adverb
-   1. скудно (scantily, poorly, sparingly, skimpily, baldly, meanly)
-
-   Using very little of something
-  
-   Be sparing with the butter as there isn't much left.
-
-** straight							      :Quora:
-
-   Прямо
-
-   adjective
-    1. прямой (direct, right, straight, outright, straightforward, immediate)
-    2. гетеросексуальный (heterosexual, straight, hetero)
-    3. ровный (smooth, flat, level, even, straight, steady)
-    4. честный (honest, fair, honorable, upright, sincere, straight)
-    5. неразбавленный (neat, straight, sheer, solid)
-    6. искренний (sincere, genuine, candid, heartfelt, honest, straight)
-    7. надежный (reliable, secure, safe, solid, sound, straight)
-    8. достоверный (reliable, authentic, positive, veracious, straight)
-    9. классический (classical, classic, straight, attic)
-   10. поштучный (straight)
-   11. неизогнутый (straight)
-   12. невьющийся (lank, straight)
-   13. находящийся в порядке (straight)
-   14. правильный (correct, right, proper, regular, sound, straight)
-
-   adverb
-    1. прямо (direct, right, straight, directly, live, just)
-    2. сразу (at once, right away, straight, straight away, promptly, outright)
-    3. немедленно (immediately, instantly, forthwith, right away, straight, directly)
-    4. точно (exactly, precisely, accurately, just, for sure, straight)
-    5. правильно (properly, right, correctly, best, well, straight)
-    6. метко (straight)
-    7. честно (fair, honestly, fairly, faithfully, straight, in good faith)
-    8. по прямой линии (straight)
-
-   noun
-    1. стрит (straight)
-    2. прямая (straight)
-    3. прямая линия (straight, beeline, airline)
-    4. прямота (directness, straightforwardness, integrity, candor, rectitude, straight)
-    5. прямизна (straightness, straight)
-    6. нормальный человек (straight)
-
-    Continuing in one direction without bending or curving.
-    If you tell someone something straight out, you say it directly and
-    honestly, without trying to make what you are saying more pleasant:
-
-    Go straight along this road and turn left at the traffic lights.
-    I told her straight out that I didn't love her any more.
-
-** hectic							      :Quora:
-   беспокойный
-
-   adjective
-    1. беспокойный (restless, troubled, troublesome, hectic, anxious, turbulent)
-    2. лихорадочный (feverish, febrile, fever, hectic, fevered, feverous)
-    3. гектический (hectic)
-    4. чахоточный (consumptive, hectic, tuberculous, chesty, phthisic)
-    5. возбужденный (excited, agitated, energized, overwrought, thrilled, hectic)
-
-   noun
-    1. чахоточный больной (hectic)
-    2. чахоточный румянец (hectic)
-
-    Full of activity, or very busy and fast.
-    The teacher had a hectic workload.
-
-** anxiety							      :Quora:
-   [aNGˈzī-itē]
-   тревожность
-
-   noun
-    1. беспокойство (concern, anxiety, worry, trouble, disturbance, unrest)
-    2. тревога (anxiety, alarm, alert, trouble, dismay, worry)
-    3. тревожность (anxiety)
-    4. страх (fear, awe, terror, fright, dread, anxiety)
-    5. забота (care, concern, worry, attention, anxiety, solicitude)
-    6. боязнь (fear, phobia, dread, anxiety)
-    7. опасение (fear, apprehension, anxiety, misgiving, qualm)
-    8. страстное желание (craving, longing, ardent desire, hankering,
-       concupiscence, anxiety)
-
-    An uncomfortable feeling of nervousness or worry about something that
-    is happening or might happen in the future.
-
-    Children normally feel a lot of anxiety about their first day at school.
-
-** overwhelmed							      :Quora:
-
-   перегружены
-
-   adjective
-  1. потрясенный (shocked, dazed, overwhelmed, slaphappy)
-  2. ошеломленный (overwhelmed, bemused, dumbfounded, aghast, taken
-     aback, perplexed)
-
-     Bury or drown beneath a huge mass.
-
-     To defeat someone or something by using a lot of force.
-     Government troops have overwhelmed the rebels and seized control of the
-     capital.
-
-
-     To cause someone to feel sudden strong emotion.
-     I was overwhelmed by all the flowers and letters of support I received.
-
-     If water overwhelms a place, it covers it suddenly and completely.
-
-** treatment							      :Quora:
-
-     лечение
-
-     noun
-    1. лечение (treatment, therapy, medication, cure, healing, curing)
-    2. обработка (processing, treatment, handling, working, work, cultivation)
-    3. обращение (treatment, handling, circulation, appeal, address, conversion)
-    4. терапия (therapy, treatment, therapeutics)
-    5. уход (care, leave, leaving, departure, maintenance, treatment)
-    6. трактовка (treatment, handling)
-    7. подход (approach, treatment, touch, access, slant, side)
-    8. излечение (cure, treatment, healing)
-    9. пропитка (impregnation, treatment, steep, imbibition)
-   10. обхождение (treatment, usage, handling, deal, address, quarter)
-   11. обогащение (enrichment, dressing, preparation, benefication, separation, treatment)
-   12. пропитывание (impregnation, treatment)
-   13. дробление (crushing, fragmentation, breaking, milling, crush, treatment)
-   14. измельчение (grinding, milling, shredding, breakage,
-       disintegration, treatment)
-
-       The use of drugs, exercises, etc. to cure a person of an illness
-       or injury.
-       Perhaps it's time to try a new course of treatment.
-
-       The way you deal with or behave towards someone or something:
-       Peter gets special treatment because he knows the boss.
-
-** benefits							      :Quora:
-
-   выгоды
-
-   noun
-    1. пособие (benefit, pension, gratuity)
-    2. выгода (benefit, profit, advantage, gain, avail, catch)
-    3. польза (use, favor, benefit, good, advantage, profit)
-    4. бенефис (benefit, benefit performance)
-    5. прибыль (profit, income, earnings, gain, return, benefit)
-    6. пенсия (pension, benefit)
-
-   verb
-    1. извлекать (extract, retrieve, derive, recover, benefit, withdraw)
-    2. приносить пользу (benefit, profit, make oneself useful)
-    3. помогать (help, assist, succor, support, aid, serve)
-
-     A helpful or good effect, or something intended to help:
-     The discovery of oil brought many benefits to the town.
-
-     Our purpose in life is to boost your happiness and
-    benefit the lives of others, and often it requires money.
-** wealth							      :Quora:
-
-   богатство
-
-   noun
-    1. богатство (wealth, riches, richness, rich, fortune, abundance)
-    2. благосостояние (welfare, wealth, prosperity, well-being, health, weal)
-    3. изобилие (abundance, plenty, galore, fertility, wealth, exuberance)
-    4. сокровища (riches, wealth, gold)
-    5. материальные ценности (wealth, tangibles)
-    6. материальные богатства (wealth)
-
-    A large amount of money or valuable possessions that someone has:
-    During a successful business career, she accumulated a great amount
-    of wealth.
-
-** cohere							      :Quora:
-
-   членораздельным
-
-   verb
-    1. быть сцепленным (cohere)
-    2. быть связным (cohere)
-    3. быть объединенным (cohere)
-    4. быть членораздельным (cohere)
-    5. согласовываться (agree, accord, correspond, cohere, square, cotton)
-    6. соответствовать (correspond, match, meet, fit, conform, cohere)
-    7. скоординироваться (cohere)
-
-    To unite or to hold together as a unit.
-
-    The question is does wealth and happiness cohere with each other in anyway?
-
-** uplift							      :Quora:
-
-   подъем
-
-   noun
-    1. подъем (rise, lifting, lift, climb, ascent, uplift)
-    2. взброс (uplift, upthrow, upcast)
-    3. духовный подъем (uplift)
-    4. бюстгальтер (bra, brassiere, brasserie, uplift)
-
-   verb
-    1. поднимать (lift, raise, up, pick up, put up, uplift)
-
-     improvement of a person's moral or spiritual condition:
-     Money can uplift your confidence.
-
-** compel							      :Quora:
-
-   принуждать
-
-    verb
-    1. принуждать (compel, force, coerce, enforce, oblige, constrain)
-    2. заставлять (force, make, cause, get, compel, lead)
-    3. вынуждать (force, compel, necessitate, drive, constrain, enforce)
-    4. добиваться (achieve, seek, get, obtain, press for, compel)
-    5. подчинять (subordinate, submit, subject, subdue, subjugate,
-       compel)
-
-    To force someone to do something: 
-    Money can compel one to find self-purpose
-
-    To produce a strong feeling or reaction:
-    Over the years her work has compelled universal admiration and trust.
-
-** fearful							      :Quora:
-
-   напуганный
-
-   adjective
-    1. страшный (terrible, fearful, horrible, frightful, frightening, dire)
-    2. ужасный (terrible, horrible, awful, appalling, dreadful, fearful)
-    3. напуганный (funky, frightened, fearful, afraid, pop-eyed)
-    4. испуганный (frightened, afraid, scared, startled, fearful, panicked)
-    5. пугливый (fearful, shy, skittish, timid, jittery, scary)
-    6. пугающий (frightening, scaring, fearful)
-    7. робкий (timid, shy, fearful, sheepish, gingerly, bashful)
-    8. полный страха (fearful, apprehensive)
-    9. огромный (huge, enormous, great, vast, immense, fearful)
-   10. исполненный благоговения (fearful)
-
-       Frightened or worried about something:
-       Being broke causes people to be fearful in looking upon another day.
-
-** miserable							      :Quora:
-
-   несчастный
-
-   adjective
-    1. несчастный (unhappy, miserable, unfortunate, poor, wretched, pitiable)
-    2. жалкий (pitiful, miserable, pathetic, sorry, wretched, pitiable)
-    3. убогий (poor, miserable, needy, squalid, shabby, poky)
-    4. печальный (sad, sorrowful, mournful, deplorable, dismal, miserable)
-    5. плохой (bad, poor, ill, low, inferior, miserable)
-    6. скудный (scarce, meager, scanty, scant, lean, miserable)
-
-    Unpleasant and causing unhappiness:
-    While some people claim to be miserable and unhappy with life when
-    they were broke, money is not what made them happy.
-
- 
 
 * grieved							   :Perrault:
  огорченный
@@ -8941,7 +8893,6 @@ adjective
 
  
 
- 
 * doubtful							   :Perrault:
 
   сомнительный
@@ -9911,7 +9862,6 @@ adjective
       "my legs are very feeble after the flu"
   
 
-
 * altogether						       :LewisCarroll:
   в целом 
 
@@ -10064,7 +10014,6 @@ adjective
   noun
    1. a thing that cannot be seen or heard clearly.
       "the pale blur of her face"
-
 
 
 * Procrastinate :Study:
