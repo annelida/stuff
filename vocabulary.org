@@ -1096,1386 +1096,1381 @@ brisk - юркий
   :END:
 [2017-03-30 Thu 06:45]
 
-Свет, индикатор
+** Свет, индикатор
 
-To lead means to go in front, or to serve as the leader of a group. If
-you’re on a group hiking trip and the navigator lost the map, you’ll
-want someone with a good sense of direction to lead the group back to
-the car.
+   To lead means to go in front, or to serve as the leader of a group. If
+   you’re on a group hiking trip and the navigator lost the map, you’ll
+   want someone with a good sense of direction to lead the group back to
+   the car.
 
-If you have done excellent, groundbreaking research into cancer
-treatment, someone might say you lead the field in finding a cure for
-cancer. If we say a football team has a strong lead, that means that
-they’re on the way to winning a game. If you are a detective and you
-discover a room full of evidence on a case, that might lead to its
-solution.
+   If you have done excellent, groundbreaking research into cancer
+   treatment, someone might say you lead the field in finding a cure for
+   cancer. If we say a football team has a strong lead, that means that
+   they’re on the way to winning a game. If you are a detective and you
+   discover a room full of evidence on a case, that might lead to its
+   solution.
 
-Text with RE 
-The aim of this chapter of our Python tutorial is to present a detailed led
-and descriptive introduction into regular expressions.
+   Text with RE 
+   The aim of this chapter of our Python tutorial is to present a detailed led
+   and descriptive introduction into regular expressions.
 * enough							      :drill:
 [2017-03-30 Thu 07:21]
 
-Достаточно
+** Достаточно
 
-When there's enough of something, you don't need or want anymore. When
-there's not enough, there's too little.
+   When there's enough of something, you don't need or want anymore. When
+   there's not enough, there's too little.
 
-If someone fills your glass almost to the top, that's enough. If you
-ate one slice of pizza but are still hungry, you haven't had enough.
-Although enough has to do with the amount of something, it isn't
-precise like a number. When someone is annoyed — like with a barking
-dog — they might say "That's enough!" When you've had enough, you've
-had as much as you want.
+   If someone fills your glass almost to the top, that's enough. If you
+   ate one slice of pizza but are still hungry, you haven't had enough.
+   Although enough has to do with the amount of something, it isn't
+   precise like a number. When someone is annoyed — like with a barking
+   dog — they might say "That's enough!" When you've had enough, you've
+   had as much as you want.
 
-This method is already enough to use regular expressions in
-Python programs: 
+   This method is already enough to use regular expressions in
+   Python programs: 
 * distinct							      :drill:
 [2017-03-31 Fri 07:33]
 
-Отчетливый
+** Отчетливый
 
-When something is distinct, it is easily identifiable or set apart
-from others of its kind. An eighth-grader who is six feet tall has a
-distinct advantage over the other kids on the basketball court.
+   When something is distinct, it is easily identifiable or set apart
+   from others of its kind. An eighth-grader who is six feet tall has a
+   distinct advantage over the other kids on the basketball court.
 
-A thing can be distinct if it is easy to see, either because it is
-different in some way from the things around it or if it is more clear
-and visible, as in: “The license number of the getaway car was more
-distinct once I cleaned my glasses.” The word distinct comes from “to
-distinguish,” which is when a person or thing is set apart from the
-pack: “The research that she did was distinct in its attention to
-detail.”
+   A thing can be distinct if it is easy to see, either because it is
+   different in some way from the things around it or if it is more clear
+   and visible, as in: “The license number of the getaway car was more
+   distinct once I cleaned my glasses.” The word distinct comes from “to
+   distinguish,” which is when a person or thing is set apart from the
+   pack: “The research that she did was distinct in its attention to
+   detail.”
 
-Part 1 - Creating a sorted list containing
-      distinct letters, - each taken only once - coming from s1 or s2.
+   Part 1 - Creating a sorted list containing
+	 distinct letters, - each taken only once - coming from s1 or s2.
 * pavement							      :drill:
 [2017-03-31 Fri 08:14]
 
-Тротуар
+** Тротуар
 
-Pavement is a hard surface that's covered in concrete or asphalt, like
-a road or a driveway. If you wipe out on your bike and land on the
-pavement, you may end up with skinned knees or scraped elbows.
+   Pavement is a hard surface that's covered in concrete or asphalt, like
+   a road or a driveway. If you wipe out on your bike and land on the
+   pavement, you may end up with skinned knees or scraped elbows.
 
-When pavement is newly surfaced or patched, it's smooth and even — but
-after a long, cold winter pavement is often full of potholes and
-cracks. In the US, pavement most often refers to a road or street, but
-it can also mean any paved surface, like a sidewalk or paved area in a
-park. The word has a Latin root, pavimentum, "level surface that's
-been beaten firm."
+   When pavement is newly surfaced or patched, it's smooth and even — but
+   after a long, cold winter pavement is often full of potholes and
+   cracks. In the US, pavement most often refers to a road or street, but
+   it can also mean any paved surface, like a sidewalk or paved area in a
+   park. The word has a Latin root, pavimentum, "level surface that's
+   been beaten firm."
 
-- There's some broken glass on the pavement.
+   - There's some broken glass on the pavement.
 * quiet								      :drill:
 [2017-04-02 Sun 10:50]
 
-Тихо
+** Тихо
 
-To be quiet means you don't make any noise. When you’re trying not to
-wake a sleeping lion, you will be quiet when you run by it.
+   To be quiet means you don't make any noise. When you’re trying not to
+   wake a sleeping lion, you will be quiet when you run by it.
 
-The versatile quiet, which can be a noun, adjective, or verb (to quiet
-others), is one of those words that is best understood through its
-antonyms — loud or hectic. Let a marching band practice in your
-apartment, and you will long for a little quiet. Quiet is one of those
-words that thankfully follow the "i" before "e," except after "c"
-spelling rule.
+   The versatile quiet, which can be a noun, adjective, or verb (to quiet
+   others), is one of those words that is best understood through its
+   antonyms — loud or hectic. Let a marching band practice in your
+   apartment, and you will long for a little quiet. Quiet is one of those
+   words that thankfully follow the "i" before "e," except after "c"
+   spelling rule.
 
-Be quiet!
+   Be quiet!
 * avoid								      :drill:
 [2017-04-03 Mon 07:08]
 
-Избегать
+** Избегать
 
-nil
+   nil
 
-avoid
+   avoid
 * core								      :drill:
 [2017-04-03 Mon 14:34]
 
-Ядро
+** Ядро
 
-If you're looking for the most essential part or the very center of
-something, you're looking for its core. Like the inedible middle of an
-apple or your inner circle of core friends.
+   If you're looking for the most essential part or the very center of
+   something, you're looking for its core. Like the inedible middle of an
+   apple or your inner circle of core friends.
 
-In the late 14th century, the noun core came about from the Old French
-coeur, meaning “core of fruit” and more literally, “heart.” So the
-core of something is its very heart, whether you're talking about the
-seed-containing center of a fruit, the central meaning of a book, or
-the core courses you need to take in order to graduate.
+   In the late 14th century, the noun core came about from the Old French
+   coeur, meaning “core of fruit” and more literally, “heart.” So the
+   core of something is its very heart, whether you're talking about the
+   seed-containing center of a fruit, the central meaning of a book, or
+   the core courses you need to take in order to graduate.
 * prominent							      :drill:
 
-Выдающийся
+** Выдающийся
 
 [2017-04-03 Mon 14:34]
 
-If you're looking for an adjective that means "sticking out above the
-rest; famous," consider prominent. A prominent person might be the big
-cheese, the head honcho, the top dog — not just any Joe Schmo.
+   If you're looking for an adjective that means "sticking out above the
+   rest; famous," consider prominent. A prominent person might be the big
+   cheese, the head honcho, the top dog — not just any Joe Schmo.
 
-A prominence is anything that juts out, like a bone or a mountain
-ridge. Prominent, then, means "sticking out" either in a literal sense
-("a prominent nose") or a figurative one ("a prominent figure in the
-industry"). The metaphorical sense of "famous" is the most common one
-today, though references to the "prominent posterior" of Jennifer
-Lopez might fit both definitions.
+   A prominence is anything that juts out, like a bone or a mountain
+   ridge. Prominent, then, means "sticking out" either in a literal sense
+   ("a prominent nose") or a figurative one ("a prominent figure in the
+   industry"). The metaphorical sense of "famous" is the most common one
+   today, though references to the "prominent posterior" of Jennifer
+   Lopez might fit both definitions.
 
 * devote							      :drill:
 [2017-04-03 Mon 14:35]
 
-Посвятить
+** Посвятить
 
-Devote means to give to. If you devote yourself to jump-roping, you
-might be found in your driveway every free moment of the day
-practicing.
+   Devote means to give to. If you devote yourself to jump-roping, you
+   might be found in your driveway every free moment of the day
+   practicing.
 
-Nuns and priests are said to devote their lives to God. A knight in
-shining armor devotes himself to his lady. If you devote as much
-energy to your school work as you do to your hair, your grades should
-improve. If our country devoted to education even half of the
-resources we pour into defense, we could eliminate poverty.
+   Nuns and priests are said to devote their lives to God. A knight in
+   shining armor devotes himself to his lady. If you devote as much
+   energy to your school work as you do to your hair, your grades should
+   improve. If our country devoted to education even half of the
+   resources we pour into defense, we could eliminate poverty.
 
 * shrink							      :drill:
 [2017-04-03 Mon 14:35]
 
-Сокращаться
+** Сокращаться
 
-Shrink is the informal word you can use to talk about a therapist.
-Talking about your problems with her can hopefully help you shrink
-them, or make them smaller.
+   Shrink is the informal word you can use to talk about a therapist.
+   Talking about your problems with her can hopefully help you shrink
+   them, or make them smaller.
 
-The word shrink is related to the Swedish skrynka meaning "to
-wrinkle." Think about what happens to a lone forgotten fruit at the
-bottom of your fridge drawer. After a while, it begins to wrinkle or
-shrink. Clothes washed in hot water tend to shrink, so be wary of the
-setting on your washing machine. The use of shrink as referring to
-therapists started as late as the 1960s — with the idea of a
-psychologist being a "head-shrinker."
+   The word shrink is related to the Swedish skrynka meaning "to
+   wrinkle." Think about what happens to a lone forgotten fruit at the
+   bottom of your fridge drawer. After a while, it begins to wrinkle or
+   shrink. Clothes washed in hot water tend to shrink, so be wary of the
+   setting on your washing machine. The use of shrink as referring to
+   therapists started as late as the 1960s — with the idea of a
+   psychologist being a "head-shrinker."
 
 * agile								      :drill:
 [2017-04-03 Mon 14:35]
 
-Подвижный
+** Подвижный
 
-On water skis she was agile and made sharp turns and long arcs cutting
-through the water, but she was a lot less agile on the snowboard,
-landing on her face and hands as she clunked down the slopes.
+   On water skis she was agile and made sharp turns and long arcs cutting
+   through the water, but she was a lot less agile on the snowboard,
+   landing on her face and hands as she clunked down the slopes.
 
-People and things can be agile, or quick and graceful. Car commercials
-talk of "agile handling," and nature-shows feature spry creatures who
-survive by being agile among more slow-footed and clumsy animals.
-Human and virtual minds also earn the description agile when they're
-sharp and grasp ideas or reason with speed and easy logic. Things that
-are agile often are thought to be light, but even heavy machines like
-trains and large people like sumo wrestlers can be agile.
+   People and things can be agile, or quick and graceful. Car commercials
+   talk of "agile handling," and nature-shows feature spry creatures who
+   survive by being agile among more slow-footed and clumsy animals.
+   Human and virtual minds also earn the description agile when they're
+   sharp and grasp ideas or reason with speed and easy logic. Things that
+   are agile often are thought to be light, but even heavy machines like
+   trains and large people like sumo wrestlers can be agile.
 
 * asset								      :drill:
 [2017-04-03 Mon 14:36]
 
-Актив
+** Актив
 
-An asset is something you have that is positive. It can mean a piece
-of property, a piece of equipment, an ability, or even a quality.
+   An asset is something you have that is positive. It can mean a piece
+   of property, a piece of equipment, an ability, or even a quality.
 
-"Her facility with math is an asset when it comes to figuring out the
-restaurant tab. She is an asset to the group." A person's overall
-financial picture is determined by lining up everything they own in
-the asset column, and everything they own in the liability (or debit)
-column.
+   "Her facility with math is an asset when it comes to figuring out the
+   restaurant tab. She is an asset to the group." A person's overall
+   financial picture is determined by lining up everything they own in
+   the asset column, and everything they own in the liability (or debit)
+   column.
 
 * pique								      :drill:
 [2017-04-03 Mon 14:36]
 
-Пике
+** Пике
 
-The verb pique means to make someone angry or annoyed. But when
-something piques your interest or curiosity, here the verb pique just
-means to arouse, stimulate, or excite.
+   The verb pique means to make someone angry or annoyed. But when
+   something piques your interest or curiosity, here the verb pique just
+   means to arouse, stimulate, or excite.
 
-Both the noun and verb are pronounced "pēk" and were borrowed from a
-French word meaning "a prick, irritation," from Old French, from
-piquer "to prick." So you can see how something that pricks you could
-make you both excited and angry. But it's frustrating––enough to make
-you want to storm away from learning vocab. That storming away, by the
-by, might be called a "fit of pique."
+   Both the noun and verb are pronounced "pēk" and were borrowed from a
+   French word meaning "a prick, irritation," from Old French, from
+   piquer "to prick." So you can see how something that pricks you could
+   make you both excited and angry. But it's frustrating––enough to make
+   you want to storm away from learning vocab. That storming away, by the
+   by, might be called a "fit of pique."
 
 * dig								      :drill:
 [2017-04-03 Mon 14:36]
 
-Копать
+** Копать
 
-When you dig, you scoop or shovel up dirt, sand, or some other
-material. Your dog might whine to go outside so she can dig a hole in
-your dad's garden.
+   When you dig, you scoop or shovel up dirt, sand, or some other
+   material. Your dog might whine to go outside so she can dig a hole in
+   your dad's garden.
 
-You can dig with your hands, a shovel, or even a tractor or backhoe.
-City crews dig up roads to repair water pipes, and gardeners dig small
-for planting bulbs. You can even say you dig your brother in the side
-when you jab him there. If someone says, "I dig you," they mean, "I
-understand," and if they say, "I dig your outfit," they like it. Both
-slang usages come from 1930s African American English.
+   You can dig with your hands, a shovel, or even a tractor or backhoe.
+   City crews dig up roads to repair water pipes, and gardeners dig small
+   for planting bulbs. You can even say you dig your brother in the side
+   when you jab him there. If someone says, "I dig you," they mean, "I
+   understand," and if they say, "I dig your outfit," they like it. Both
+   slang usages come from 1930s African American English.
 * sleeves							      :drill:
 [2017-04-03 Mon 14:37]
 
-Рукава
+** Рукава
 
-The part of your clothing that covers your arm (or part of your arm)
-is a sleeve. Some t-shirts have long sleeves, others have short
-sleeves, and your tank top doesn't have any sleeves at all.
+   The part of your clothing that covers your arm (or part of your arm)
+   is a sleeve. Some t-shirts have long sleeves, others have short
+   sleeves, and your tank top doesn't have any sleeves at all.
 
-On a hot day, you might roll up the sleeves of your shirt, or you
-might change into one with short sleeves (or no sleeves at all, also
-known as sleeveless). Another kind of sleeve is a container or
-protective covering, like a record sleeve or a sleeve of crackers. If
-you have something "up your sleeve," it means you're hiding something
-to use later in a surprising way.
+   On a hot day, you might roll up the sleeves of your shirt, or you
+   might change into one with short sleeves (or no sleeves at all, also
+   known as sleeveless). Another kind of sleeve is a container or
+   protective covering, like a record sleeve or a sleeve of crackers. If
+   you have something "up your sleeve," it means you're hiding something
+   to use later in a surprising way.
 * peek								      :drill:
 [2017-04-03 Mon 14:37]
 
-Заглянуть
+** Заглянуть
 
-When you peek, you take a quick glance at something. It's incredibly
-tempting when you're little to peek at your birthday presents, but you
-soon learn how disappointing it is to spoil the surprise.
+   When you peek, you take a quick glance at something. It's incredibly
+   tempting when you're little to peek at your birthday presents, but you
+   soon learn how disappointing it is to spoil the surprise.
 
-A sneaky look at something is a peek. You might peek at someone if
-you're shy or you don't want them to catch you looking. You can also
-describe a glance at a part of something as "a peek" — like when you
-take a peek at a napping child. Peek comes from piken, a 14th century
-word meaning "look quickly and slyly." Until the 15th century, the
-word peek was used interchangeably with keek and peep.
+   A sneaky look at something is a peek. You might peek at someone if
+   you're shy or you don't want them to catch you looking. You can also
+   describe a glance at a part of something as "a peek" — like when you
+   take a peek at a napping child. Peek comes from piken, a 14th century
+   word meaning "look quickly and slyly." Until the 15th century, the
+   word peek was used interchangeably with keek and peep.
 
 * persistence							      :drill:
 [2017-04-03 Mon 14:37]
 
-Упорство
+** Упорство
 
-Persistence is the ability to stick with something. If you practice
-the violin for over a year in order to play "Twinkle, Twinkle, Little
-Star" perfectly, that's persistence!
+   Persistence is the ability to stick with something. If you practice
+   the violin for over a year in order to play "Twinkle, Twinkle, Little
+   Star" perfectly, that's persistence!
 
-Persistence can also mean something that lasts for a very long time.
-The persistence of bullying, despite years of efforts by the school,
-has frustrated many parents. Bed bugs are known for their persistence.
-Despite near eradication in the 1950s, they are back and harder to
-eliminate than ever.
+   Persistence can also mean something that lasts for a very long time.
+   The persistence of bullying, despite years of efforts by the school,
+   has frustrated many parents. Bed bugs are known for their persistence.
+   Despite near eradication in the 1950s, they are back and harder to
+   eliminate than ever.
 
 * overlap							      :drill:
 [2017-04-03 Mon 14:38]
 
-Перекрывать
+** Перекрывать
 
-When things overlap, part or all of one thing covers part or all of
-the other, like roofing shingles or flat noodles in a lasagna dish.
+   When things overlap, part or all of one thing covers part or all of
+   the other, like roofing shingles or flat noodles in a lasagna dish.
 
-Not only can things overlap, but schedules can, too. If you
-accidentally schedule your doctor's appointment and your dentist
-appointment at the same time, they overlap, which is unfortunate
-because you can't be in two places at once. Philosophies and
-perspectives overlap when they share certain points or ideas in
-common.
+   Not only can things overlap, but schedules can, too. If you
+   accidentally schedule your doctor's appointment and your dentist
+   appointment at the same time, they overlap, which is unfortunate
+   because you can't be in two places at once. Philosophies and
+   perspectives overlap when they share certain points or ideas in
+   common.
 
 * demand							      :drill:
 [2017-04-04 Tue 06:46]
 
-Спрос
+** Спрос
 
-Demand means "an urgent request," like your demand that teachers give
-no homework on the weekend, or the act of making the request —
-teachers who demand that the work get done, even if it's the weekend.
+   Demand means "an urgent request," like your demand that teachers give
+   no homework on the weekend, or the act of making the request —
+   teachers who demand that the work get done, even if it's the weekend.
 
-Demand comes from the Old French word demander, meaning "ask, make
-inquiry." A demand is a lot stronger than that, however. When you
-demand something, you want action now. A demand can also mean "to
-require" like cold weather that demands warm coats and boots. Demand
-is also an economic term, meaning "the amount of an item that can be
-sold," like the demand for those snow boots: high in winter and
-nonexistent in summer.
+   Demand comes from the Old French word demander, meaning "ask, make
+   inquiry." A demand is a lot stronger than that, however. When you
+   demand something, you want action now. A demand can also mean "to
+   require" like cold weather that demands warm coats and boots. Demand
+   is also an economic term, meaning "the amount of an item that can be
+   sold," like the demand for those snow boots: high in winter and
+   nonexistent in summer.
 
-The lambda feature was added to Python due to
-the demand from Lisp programmers.
+   The lambda feature was added to Python due to
+   the demand from Lisp programmers.
 * impeccably							      :drill:
 [2017-04-04 Tue 10:02]
 
-Безукоризненно
+** Безукоризненно
 
 * reverting							      :drill:
 [2017-04-04 Tue 16:15]
 
-Возврат
+** Возврат
 
 * checkout							      :drill:
 [2017-04-04 Tue 16:15]
 
-проверка
+** проверка
 
 * spite								      :drill:
 [2017-04-06 Thu 09:13]
 
-Злоба
+** Злоба
 
-noun
- 1. злость (anger, spite, malice, dander)
- 2. злоба (malice, spite, rancor, venom, malevolence, despite)
- 3. озлобленность (spite, exasperation, rancor, rancour)
- 4. неприязнь (dislike, distaste, enmity, disaffection, objection, spite)
- 5. недоброжелательство (grudge, spite, jaundice)
- 6. враждебность (hostility, animosity, enmity, animus, ill will, spite)
- 7. недовольство (discontent, dissatisfaction, displeasure, complaint, grudge, spite)
- 8. зависть (envy, jealousy, grudge, jaundice, spite, heartburning)
+   noun
+    1. злость (anger, spite, malice, dander)
+    2. злоба (malice, spite, rancor, venom, malevolence, despite)
+    3. озлобленность (spite, exasperation, rancor, rancour)
+    4. неприязнь (dislike, distaste, enmity, disaffection, objection, spite)
+    5. недоброжелательство (grudge, spite, jaundice)
+    6. враждебность (hostility, animosity, enmity, animus, ill will, spite)
+    7. недовольство (discontent, dissatisfaction, displeasure, complaint, grudge, spite)
+    8. зависть (envy, jealousy, grudge, jaundice, spite, heartburning)
 
-verb
- 1. делать назло (spite)
- 2. насаливать (salt, spite)
- 3. досаждать (annoy, plague, molest, vex, torment, spite)
+   verb
+    1. делать назло (spite)
+    2. насаливать (salt, spite)
+    3. досаждать (annoy, plague, molest, vex, torment, spite)
 
 
-When your sister told you that you looked terrible in your new tube
-top, she may have been saying it out of spite, or in a deliberately
-mean or offensive way.
+   When your sister told you that you looked terrible in your new tube
+   top, she may have been saying it out of spite, or in a deliberately
+   mean or offensive way.
 
-The noun spite means "a desire to offend." The word spite can also
-take the form of a verb, when it's used like this: "He only became a
-vegetarian to spite his cattle rancher father." Either way, spite
-implies a grudge, a desire to offend or hurt the feelings of someone
-by actions or words.
+   The noun spite means "a desire to offend." The word spite can also
+   take the form of a verb, when it's used like this: "He only became a
+   vegetarian to spite his cattle rancher father." Either way, spite
+   implies a grudge, a desire to offend or hurt the feelings of someone
+   by actions or words.
 
-In spite of, despite and although are all used to show a contrast but there
-are differences in the structures used with them.
+   In spite of, despite and although are all used to show a contrast but there
+   are differences in the structures used with them.
 * despite							      :drill:
 [2017-04-06 Thu 09:35]
 
-несмотря
+** несмотря
 
-adverb
- 1. несмотря (despite)
- 2. вопреки (contrary, despite, against, in opposition)
+   adverb
+    1. несмотря (despite)
+    2. вопреки (contrary, despite, against, in opposition)
 
-preposition
- 1. несмотря на (despite, in spite of, notwithstanding, with, in despite of)
+   preposition
+    1. несмотря на (despite, in spite of, notwithstanding, with, in despite of)
 
-noun
- 1. злоба (malice, spite, rancor, venom, malevolence, despite)
- 2. презрение (contempt, scorn, disdain, despite)
+   noun
+    1. злоба (malice, spite, rancor, venom, malevolence, despite)
+    2. презрение (contempt, scorn, disdain, despite)
 
-Despite is used as a preposition when something happens even though it
-might have been prevented by something else. You might go see a movie
-despite hearing a review calling it worse than "Showgirls" and
-"Ishtar" combined.
+   Despite is used as a preposition when something happens even though it
+   might have been prevented by something else. You might go see a movie
+   despite hearing a review calling it worse than "Showgirls" and
+   "Ishtar" combined.
 
-Despite is just one letter away from despise, and they actually share
-a root: the Latin verb despicere, meaning "to look down on
-scornfully." Despite came to mean "contempt" or "scorn" in English,
-though that use as a noun has mostly dropped out of use. The phrase
-"in despite of" gradually got shortened to the preposition despite and
-lost its scornful quality. If you accomplish something despite the
-obstacles in your way, there's no need to feel spiteful about it.
+   Despite is just one letter away from despise, and they actually share
+   a root: the Latin verb despicere, meaning "to look down on
+   scornfully." Despite came to mean "contempt" or "scorn" in English,
+   though that use as a noun has mostly dropped out of use. The phrase
+   "in despite of" gradually got shortened to the preposition despite and
+   lost its scornful quality. If you accomplish something despite the
+   obstacles in your way, there's no need to feel spiteful about it.
 
 * crowd								      :drill:
 [2017-04-06 Thu 09:42]
-толпа
+** толпа
 
-noun
- 1. толпа (crowd, throng, mob, huddle, swarm, multitude)
- 2. народ (people, nation, folk, public, crowd, race)
- 3. множество (multiplicity, plurality, variety, multitude, plenty, crowd)
- 4. масса (mass, array, weight, lot, bulk, crowd)
- 5. давка (crush, crowding, crowd, jam, cram, throng)
- 6. группа людей (crowd, band, cohort, troop, lot, body)
- 7. толкотня (crush, hustle, crowd, crowding, cram, jostle)
- 8. гурьба (crowd)
- 9. простой люд (crowd)
-10. статисты (crowd)
-11. компания (company, bunch, party, partnership, gang, crowd)
+   noun
+    1. толпа (crowd, throng, mob, huddle, swarm, multitude)
+    2. народ (people, nation, folk, public, crowd, race)
+    3. множество (multiplicity, plurality, variety, multitude, plenty, crowd)
+    4. масса (mass, array, weight, lot, bulk, crowd)
+    5. давка (crush, crowding, crowd, jam, cram, throng)
+    6. группа людей (crowd, band, cohort, troop, lot, body)
+    7. толкотня (crush, hustle, crowd, crowding, cram, jostle)
+    8. гурьба (crowd)
+    9. простой люд (crowd)
+   10. статисты (crowd)
+   11. компания (company, bunch, party, partnership, gang, crowd)
 
-verb
- 1. толпиться (crowd, throng, mob, mill, swarm, mill about)
- 2. вытеснять (displace, crowd out, supplant, supersede, crowd, oust)
- 3. напирать (press, emphasize, crowd)
- 4. тесниться (crowd, press, jostle, hustle, cluster, press round)
- 5. теснить (narrow, crowd, press, jostle, hustle, press round)
- 6. сгрудиться (crowd)
- 7. торопить (rush, hurry, hasten, hurry up, haste, crowd)
- 8. собираться толпой (crowd, troop, troop together, troop up)
- 9. набиваться битком (jam, crowd)
-10. скапливать (accumulate, crowd)
-11. нагромождать (pile up, heap, heap up, stack, crowd, bulk)
-12. оказывать давление (pressurize, exert, enforce, lean on, crowd, screw)
-13. приставать (molest, adhere, accost, worry, tease, crowd)
+   verb
+    1. толпиться (crowd, throng, mob, mill, swarm, mill about)
+    2. вытеснять (displace, crowd out, supplant, supersede, crowd, oust)
+    3. напирать (press, emphasize, crowd)
+    4. тесниться (crowd, press, jostle, hustle, cluster, press round)
+    5. теснить (narrow, crowd, press, jostle, hustle, press round)
+    6. сгрудиться (crowd)
+    7. торопить (rush, hurry, hasten, hurry up, haste, crowd)
+    8. собираться толпой (crowd, troop, troop together, troop up)
+    9. набиваться битком (jam, crowd)
+   10. скапливать (accumulate, crowd)
+   11. нагромождать (pile up, heap, heap up, stack, crowd, bulk)
+   12. оказывать давление (pressurize, exert, enforce, lean on, crowd, screw)
+   13. приставать (molest, adhere, accost, worry, tease, crowd)
 
 
-A lot of people or things in a large group make up a crowd. The masses
-of performers with painted faces, big shoes, and squeaky noses filling
-up the streets during your town's annual clown parade can be described
-as a crowd of clowns.
+   A lot of people or things in a large group make up a crowd. The masses
+   of performers with painted faces, big shoes, and squeaky noses filling
+   up the streets during your town's annual clown parade can be described
+   as a crowd of clowns.
 
-A crowd of people might gather for a party, concert, or demonstration,
-with the word crowd implying that there's something a little
-disorderly — noisy or unruly — about the group. Crowd can also mean
-"the mass of ordinary people," which is the way you're using the word
-when you say you want to "stand out from the crowd." You want to be
-seen as a distinct, individual person, rather than part of a larger
-mass of regular folks.
+   A crowd of people might gather for a party, concert, or demonstration,
+   with the word crowd implying that there's something a little
+   disorderly — noisy or unruly — about the group. Crowd can also mean
+   "the mass of ordinary people," which is the way you're using the word
+   when you say you want to "stand out from the crowd." You want to be
+   seen as a distinct, individual person, rather than part of a larger
+   mass of regular folks.
 
 * auxiliary							      :drill:
 [2017-04-07 Fri 08:40]
 
-auxiliary
+** auxiliary
 
-Вспомогательный
+   Вспомогательный
 
-adjective
- 1. вспомогательный (auxiliary, subsidiary, supporting, secondary, accessory, ancillary)
- 2. дополнительный (additional, more, further, complementary, extra, auxiliary)
- 3. добавочный (additional, extra, surplus, supplementary, plus, auxiliary)
- 4. запасной (spare, reserve, emergency, standby, auxiliary, store)
+   adjective
+    1. вспомогательный (auxiliary, subsidiary, supporting, secondary, accessory, ancillary)
+    2. дополнительный (additional, more, further, complementary, extra, auxiliary)
+    3. добавочный (additional, extra, surplus, supplementary, plus, auxiliary)
+    4. запасной (spare, reserve, emergency, standby, auxiliary, store)
 
-noun
- 1. помощник (assistant, helper, mate, aide, help, auxiliary)
- 2. вспомогательный глагол (auxiliary)
- 3. вспомогательное устройство (auxiliary, slave)
- 4. вспомогательный механизм (assist, auxiliary, pilot, doctor)
- 5. иностранные наемные войска (auxiliary)
- 6. иностранные союзные войска (auxiliary)
+   noun
+    1. помощник (assistant, helper, mate, aide, help, auxiliary)
+    2. вспомогательный глагол (auxiliary)
+    3. вспомогательное устройство (auxiliary, slave)
+    4. вспомогательный механизм (assist, auxiliary, pilot, doctor)
+    5. иностранные наемные войска (auxiliary)
+    6. иностранные союзные войска (auxiliary)
 
-When you're offering something in support of an already existing
-thing, you're offering something auxiliary. The auxiliary police will
-help out the regular police with things like directing traffic and
-crowd control when there's a special event in town.
+   When you're offering something in support of an already existing
+   thing, you're offering something auxiliary. The auxiliary police will
+   help out the regular police with things like directing traffic and
+   crowd control when there's a special event in town.
 
-The Latin word auxilium means "help," and so auxiliary means something
-that "helps" by providing backup or support. Think of auxiliary verbs
-(sometimes called helper verbs), that provide support within a verb
-phrase, as "is" does in "Helen is playing." You can have an auxiliary
-engine in a car, an auxiliary cook at a restaurant, an auxiliary
-electrical network at a factory, or auxiliary troops standing by
-during battle. A "Ladies Auxiliary" functions as support for
-institutions such as churches, synagogues, or charities.
+   The Latin word auxilium means "help," and so auxiliary means something
+   that "helps" by providing backup or support. Think of auxiliary verbs
+   (sometimes called helper verbs), that provide support within a verb
+   phrase, as "is" does in "Helen is playing." You can have an auxiliary
+   engine in a car, an auxiliary cook at a restaurant, an auxiliary
+   electrical network at a factory, or auxiliary troops standing by
+   during battle. A "Ladies Auxiliary" functions as support for
+   institutions such as churches, synagogues, or charities.
 
-In the present perfect, 'just' comes between the auxiliary verb ('have')
+   In the present perfect, 'just' comes between the auxiliary verb ('have')
 * Prohibition							      :drill:
 [2017-04-08 Sat 09:00]
-Запрет
+** Запрет
 
-noun
- 1. запрет (ban, prohibition, taboo, embargo, interdict, forbiddance)
- 2. запрещение (prohibition, ban, inhibition, interdiction, taboo, interdict)
- 3. сухой закон (prohibition)
- 4. воспрещение (interdiction, prohibition, inhibition)
- 5. блокирование (prohibition)
- 6. запретительный судебный приказ (prohibition)
+   noun
+    1. запрет (ban, prohibition, taboo, embargo, interdict, forbiddance)
+    2. запрещение (prohibition, ban, inhibition, interdiction, taboo, interdict)
+    3. сухой закон (prohibition)
+    4. воспрещение (interdiction, prohibition, inhibition)
+    5. блокирование (prohibition)
+    6. запретительный судебный приказ (prohibition)
 
 
-Prohibition is the act of forbidding or outlawing something, like when
-my mom placed a prohibition on watching TV during dinner (causing
-everyone to skip dinner).
+   Prohibition is the act of forbidding or outlawing something, like when
+   my mom placed a prohibition on watching TV during dinner (causing
+   everyone to skip dinner).
 
-Prohibition can also refer to one of the most famous acts of
-prohibition in United States history: the outlawing of alcoholic
-beverages from 1920 to 1933. During this period, known as the
-"Prohibition Era" or just "Prohibition" for short, people continued to
-obtain alcohol via illegal means. As a result, the Prohibition Era is
-a perfect illustration of a major challenge associated with most acts
-of prohibition: enforcement.
+   Prohibition can also refer to one of the most famous acts of
+   prohibition in United States history: the outlawing of alcoholic
+   beverages from 1920 to 1933. During this period, known as the
+   "Prohibition Era" or just "Prohibition" for short, people continued to
+   obtain alcohol via illegal means. As a result, the Prohibition Era is
+   a perfect illustration of a major challenge associated with most acts
+   of prohibition: enforcement.
 
-Permission, Prohibition, Obligation, No obligation
+   Permission, Prohibition, Obligation, No obligation
 * evidence							      :drill:
 [2017-04-09 Sun 11:41]
-доказательства
+** доказательства
 
-noun
- 1. данные (data, information, evidence, records, facts, record)
- 2. свидетельство (certificate, evidence, testimony, witness, document, attestation)
- 3. доказательство (evidence, proof, testimony, argument, demonstration, witness)
- 4. признаки (evidence)
- 5. очевидность (evidence, obviousness, patency, plainness, openness)
- 6. улика (evidence, clue, piece of evidence)
- 7. основание (base, basis, reason, bottom, foundation, evidence)
- 8. свидетельское показание (evidence, attestation)
+   noun
+    1. данные (data, information, evidence, records, facts, record)
+    2. свидетельство (certificate, evidence, testimony, witness, document, attestation)
+    3. доказательство (evidence, proof, testimony, argument, demonstration, witness)
+    4. признаки (evidence)
+    5. очевидность (evidence, obviousness, patency, plainness, openness)
+    6. улика (evidence, clue, piece of evidence)
+    7. основание (base, basis, reason, bottom, foundation, evidence)
+    8. свидетельское показание (evidence, attestation)
 
-verb
- 1. свидетельствовать (testify, witness, evidence, bear witness to, attest, point)
- 2. служить доказательством (evidence, demonstrate, witness, manifest)
- 3. доказывать (prove, argue, demonstrate, show, establish, evidence)
+   verb
+    1. свидетельствовать (testify, witness, evidence, bear witness to, attest, point)
+    2. служить доказательством (evidence, demonstrate, witness, manifest)
+    3. доказывать (prove, argue, demonstrate, show, establish, evidence)
 
 
-Evidence is anything that can be used to prove something — like the
-evidence presented in a trial, or the trail of bread crumbs that is
-evidence of the path Hansel took through the woods.
+   Evidence is anything that can be used to prove something — like the
+   evidence presented in a trial, or the trail of bread crumbs that is
+   evidence of the path Hansel took through the woods.
 
-The word evidence is derived from the Latin ēvidēnt-, meaning
-"obvious." The word evidence shows up frequently in legal documents
-and dramas, because evidence is necessary proof in linking someone to
-a crime or crime scene. Evidence is used in many ways to show that
-something is true, as in "your enormous belly and blue 'Baby on board'
-T-shirt are evidence that you're due to give birth any day."
+   The word evidence is derived from the Latin ēvidēnt-, meaning
+   "obvious." The word evidence shows up frequently in legal documents
+   and dramas, because evidence is necessary proof in linking someone to
+   a crime or crime scene. Evidence is used in many ways to show that
+   something is true, as in "your enormous belly and blue 'Baby on board'
+   T-shirt are evidence that you're due to give birth any day."
 
-We use *must* when we feel sure that something is true because there's
-    very strong evidence.
-
+   We use *must* when we feel sure that something is true because there's
+   very strong evidence.
 * thieves							      :drill:
 [2017-04-10 Mon 09:32]
-thieves
 
-Воры
+** Воры
 
-adjective
- 1. воровской (thieves', larcenous, burglarious)
- 2. блатной (thieves', rogue)
+   adjective
+   1. воровской (thieves', larcenous, burglarious)
+   2. блатной (thieves', rogue)
 
-A thief is someone who steals something. A thief can be anything from
-a cyberspace criminal mastermind who steals credit card information
-around the world, to the petty thief who picks people's pockets on the
-subway.
+  A thief is someone who steals something. A thief can be anything from
+  a cyberspace criminal mastermind who steals credit card information
+  around the world, to the petty thief who picks people's pockets on the
+  subway.
 
-Some famous thieves (notice the -v- in the plural) include outlaws of
-the Old West, like Butch Cassidy and Jesse James, and those notorious
-bank robbers of the 1930s with the memorable names — "Baby Face"
-Nelson, "Pretty Boy" Floyd, Bonnie and Clyde, Ma Barker, "Machine Gun"
-Kelly, to name a few. They were so bold (and so brutal) that their
-activities became a major impetus for the beefing up of the FBI, under
-J. Edgar Hoover.
+  Some famous thieves (notice the -v- in the plural) include outlaws of
+  the Old West, like Butch Cassidy and Jesse James, and those notorious
+  bank robbers of the 1930s with the memorable names — "Baby Face"
+  Nelson, "Pretty Boy" Floyd, Bonnie and Clyde, Ma Barker, "Machine Gun"
+  Kelly, to name a few. They were so bold (and so brutal) that their
+  activities became a major impetus for the beefing up of the FBI, under
+  J. Edgar Hoover.
 
 * wrap								      :drill:
 [2017-04-12 Wed 06:52]
-заворачивать
+** заворачивать
 
-noun
- 1. обертка (wrapper, wrap, wrapping, cover, envelope, boot)
- 2. плед (plaid, rug, wrap)
- 3. шаль (shawl, wrap)
- 4. платок (shawl, wrap)
- 5. меховая пелерина (wrap)
- 6. одеяло (blanket, coverlet, covering, coverlid, wrap)
+   noun
+    1. обертка (wrapper, wrap, wrapping, cover, envelope, boot)
+    2. плед (plaid, rug, wrap)
+    3. шаль (shawl, wrap)
+    4. платок (shawl, wrap)
+    5. меховая пелерина (wrap)
+    6. одеяло (blanket, coverlet, covering, coverlid, wrap)
 
-verb
- 1. завертывать (wrap, roll up, roll, fold up, wrap up, fold)
- 2. обертывать (wrap, envelop)
- 3. заворачивать (wrap, wrap up, turn, screw tight, roll up, drop in)
- 4. упаковывать (pack, package, pack up, incase, wrap, encase)
- 5. сворачивать (turn off, curtail, wrap, wrap up, shunt, de-escalate)
- 6. окутывать (envelop, wrap, shroud, enwrap, muffle, close about)
- 7. закутывать (envelop, wrap, muffle, wrap up, enshroud, enfold)
- 8. складывать (fold, add up, add, add together, sum, wrap)
+   verb
+    1. завертывать (wrap, roll up, roll, fold up, wrap up, fold)
+    2. обертывать (wrap, envelop)
+    3. заворачивать (wrap, wrap up, turn, screw tight, roll up, drop in)
+    4. упаковывать (pack, package, pack up, incase, wrap, encase)
+    5. сворачивать (turn off, curtail, wrap, wrap up, shunt, de-escalate)
+    6. окутывать (envelop, wrap, shroud, enwrap, muffle, close about)
+    7. закутывать (envelop, wrap, muffle, wrap up, enshroud, enfold)
+    8. складывать (fold, add up, add, add together, sum, wrap)
 
 * root								      :drill:
 [2017-04-12 Wed 06:58]
-Корень
+** Корень
 
-noun
- 1. корень (root, radical, radix, base, race)
- 2. источник (source, spring, origin, fountain, fount, root)
- 3. причина (cause, reason, why, root, ground, account)
- 4. основа (warp, basis, base, foundation, framework, root)
- 5. корнеплоды (roots, root)
- 6. основание (base, basis, reason, bottom, foundation, root)
- 7. корнеплод (root, root-crop)
- 8. вершина (vertex, top, summit, peak, apex, root)
- 9. прародитель (progenitor, ancestor, father, root)
-10. отпрыск (offspring, scion, child, sprig, offset, root)
-11. предок (ancestor, parent, predecessor, forefather, forebear, root)
-12. саженец (seedling, plant, transplant, root, set, yearling)
-13. основатель рода (progenitor, root)
-14. потомок (descendant, child, offspring, descendent, scion, root)
+   noun
+    1. корень (root, radical, radix, base, race)
+    2. источник (source, spring, origin, fountain, fount, root)
+    3. причина (cause, reason, why, root, ground, account)
+    4. основа (warp, basis, base, foundation, framework, root)
+    5. корнеплоды (roots, root)
+    6. основание (base, basis, reason, bottom, foundation, root)
+    7. корнеплод (root, root-crop)
+    8. вершина (vertex, top, summit, peak, apex, root)
+    9. прародитель (progenitor, ancestor, father, root)
+   10. отпрыск (offspring, scion, child, sprig, offset, root)
+   11. предок (ancestor, parent, predecessor, forefather, forebear, root)
+   12. саженец (seedling, plant, transplant, root, set, yearling)
+   13. основатель рода (progenitor, root)
+   14. потомок (descendant, child, offspring, descendent, scion, root)
 
-adjective
- 1. коренной (root, radical, fundamental, aboriginal, drastic, molar)
- 2. основной (main, basic, base, primary, key, root)
+   adjective
+    1. коренной (root, radical, fundamental, aboriginal, drastic, molar)
+    2. основной (main, basic, base, primary, key, root)
 
-verb
- 1. укореняться (take root, root, strike root, root for)
- 2. корениться (root)
- 3. пускать корни (take root, root, strike root)
- 4. внедрять (embed, root, intrude, inculcate, implant, plant)
- 5. ободрять (encourage, cheer, embolden, cheer up, give encouragement, root)
- 6. укоренять (root, enroot, engrain, radicalize)
- 7. приковывать (arrest, rivet, enchain, nail, root)
- 8. пригвождать (pin, root)
- 9. подрывать корни (root)
-10. рыть землю рылом (root, nuzzle)
-11. поощрять (encourage, promote, foster, stimulate, countenance, root)
-12. поддерживать (support, maintain, endorse, sustain, encourage, root)
-13. болеть за кого-л. (root, root for)
+   verb
+    1. укореняться (take root, root, strike root, root for)
+    2. корениться (root)
+    3. пускать корни (take root, root, strike root)
+    4. внедрять (embed, root, intrude, inculcate, implant, plant)
+    5. ободрять (encourage, cheer, embolden, cheer up, give encouragement, root)
+    6. укоренять (root, enroot, engrain, radicalize)
+    7. приковывать (arrest, rivet, enchain, nail, root)
+    8. пригвождать (pin, root)
+    9. подрывать корни (root)
+   10. рыть землю рылом (root, nuzzle)
+   11. поощрять (encourage, promote, foster, stimulate, countenance, root)
+   12. поддерживать (support, maintain, endorse, sustain, encourage, root)
+   13. болеть за кого-л. (root, root for)
 
-The root is the part of the plant that's underground. Dig up a potato,
-and you will unearth its roots. Just pull them off before you cook the
-potato.
+   The root is the part of the plant that's underground. Dig up a potato,
+   and you will unearth its roots. Just pull them off before you cook the
+   potato.
 
-Root comes from the Latin word radix, which means "starting point,"
-and you can think of the root of something as the place it starts
-from, whether that's the root of a tree, or the root of a problem. The
-root of your fear of swimming might have been a scary shark attack
-movie. If your ancestors come from Guatemala, you have Guatemalan
-roots. If you dig through a pile of junk, you're "rooting around."
+   Root comes from the Latin word radix, which means "starting point,"
+   and you can think of the root of something as the place it starts
+   from, whether that's the root of a tree, or the root of a problem. The
+   root of your fear of swimming might have been a scary shark attack
+   movie. If your ancestors come from Guatemala, you have Guatemalan
+   roots. If you dig through a pile of junk, you're "rooting around."
 
-root = ET.fromstring(countrydata)
-* ascending							      :drill:
+   root = ET.fromstring(countrydata)
+* ascending 							      :drill:
 [2017-04-13 Thu 08:56]
-ascending
 
-Восходящий
+** Восходящий
 
-verb
- 1. взойти (ascend, rise, mount)
- 2. подниматься (lift, rise, climb, raise, get up, up)
- 3. восходить (ascend, rise, go up, go back, date back, mount)
- 4. всходить (rise, ascend, mount, come up, braird, spring)
- 5. набирать высоту (climb, ascend)
- 6. вести происхождение (ascend, come)
- 7. продвигаться (advance, push, get ahead, carry forward, rise, get along)
+   verb
+    1. взойти (ascend, rise, mount)
+    2. подниматься (lift, rise, climb, raise, get up, up)
+    3. восходить (ascend, rise, go up, go back, date back, mount)
+    4. всходить (rise, ascend, mount, come up, braird, spring)
+    5. набирать высоту (climb, ascend)
+    6. вести происхождение (ascend, come)
+    7. продвигаться (advance, push, get ahead, carry forward, rise, get along)
 
-If something is ascending, it's rising or moving up. At a hot air
-balloon race, you'll see dozens of ascending balloons.
+   If something is ascending, it's rising or moving up. At a hot air
+   balloon race, you'll see dozens of ascending balloons.
 
-An ascending road appears to rise in front of you as it curves up over
-a hill, and an ascending bird flies up into the sky. To ascend is to
-rise, and the adjective ascending describes a rising or growing thing.
-You can also use it figuratively: "She's an ascending queen, rising to
-the throne after the death of her father." In Latin, ascendere, "to
-climb up," and also "to rise" or "to reach."
+   An ascending road appears to rise in front of you as it curves up over
+   a hill, and an ascending bird flies up into the sky. To ascend is to
+   rise, and the adjective ascending describes a rising or growing thing.
+   You can also use it figuratively: "She's an ascending queen, rising to
+   the throne after the death of her father." In Latin, ascendere, "to
+   climb up," and also "to rise" or "to reach."
 
-Your task is to sort ascending odd numbers but even numbers must
-      be on their places.
+   Your task is to sort ascending odd numbers but even numbers must
+    be on their places.
 * Participle							      :drill:
 [2017-04-13 Thu 15:06]
 
-Причастие
+** Причастие
 
-noun
- 1. причастие (Communion, participle, Sacrament, Eucharist, element, Lord's Supper)
- 2. деепричастие (participle)
+   noun
+    1. причастие (Communion, participle, Sacrament, Eucharist, element, Lord's Supper)
+    2. деепричастие (participle)
 
 
-A participle is a verb that acts like an adjective, like a running
-leap, scorned lover, or boiled egg.
+   A participle is a verb that acts like an adjective, like a running
+   leap, scorned lover, or boiled egg.
 
-This is a technical word that will come up when you're studying
-grammar or linguistics. From a Greek root meaning “partaker,” a
-participle wants to partake of both the verb and adjective worlds. If
-you said, "I need a running start!" before a race, running is a
-participle. If you notice a trapped bear, trapped is the participle.
-This is a word that is a little confusing to understand, even though
-you use participles all the time.
+   This is a technical word that will come up when you're studying
+   grammar or linguistics. From a Greek root meaning “partaker,” a
+   participle wants to partake of both the verb and adjective worlds. If
+   you said, "I need a running start!" before a race, running is a
+   participle. If you notice a trapped bear, trapped is the participle.
+   This is a word that is a little confusing to understand, even though
+   you use participles all the time.
 
 * kettle							      :drill:
 [2017-04-13 Thu 15:11]
 
-чайник
+** чайник
 
-noun
- 1. чайник (kettle, teapot, pot, teakettle)
- 2. котел (boiler, pot, cauldron, caldron, kettle, copper)
- 3. котелок (bowler, pot, kettle, bowler hat, derby, cauldron)
- 4. металлический чайник (kettle)
- 5. бадья (tub, bucket, kibble, pail, skip, kettle)
- 6. коробка компаса (kettle)
+  noun
+   1. чайник (kettle, teapot, pot, teakettle)
+   2. котел (boiler, pot, cauldron, caldron, kettle, copper)
+   3. котелок (bowler, pot, kettle, bowler hat, derby, cauldron)
+   4. металлический чайник (kettle)
+   5. бадья (tub, bucket, kibble, pail, skip, kettle)
+   6. коробка компаса (kettle)
 
 
-A kettle is a pot made for boiling water. Most kettles are metal, with
-a lid and a spout. If you're in the mood for a cup of tea, it might be
-time to "put the kettle on."
+  A kettle is a pot made for boiling water. Most kettles are metal, with
+  a lid and a spout. If you're in the mood for a cup of tea, it might be
+  time to "put the kettle on."
 
-You can use the word kettle to mean "metal cooking pot," although it's
-mostly used for the kind you use to make your tea or instant soup. If
-you want to comment on the incredible awkwardness of a situation, you
-can use the colloquial phrase, "Well, this is a fine kettle of fish,"
-and if you criticize a friend for something you're also guilty of, she
-might say, "That's the pot calling the kettle black!"
+  You can use the word kettle to mean "metal cooking pot," although it's
+  mostly used for the kind you use to make your tea or instant soup. If
+  you want to comment on the incredible awkwardness of a situation, you
+  can use the colloquial phrase, "Well, this is a fine kettle of fish,"
+  and if you criticize a friend for something you're also guilty of, she
+  might say, "That's the pot calling the kettle black!"
 
-Waiting for John, the kettle boiled.
+  Waiting for John, the kettle boiled.
 * loudly							      :drill:
 [2017-04-13 Thu 15:16]
 
-громко
+** громко
 
-adverb
- 1. громко (loud, loudly, aloud, audibly, to the echo, at the top of one's voice)
- 2. громогласно (loudly, publicly, in a loud voice, at the top of one's voice)
- 3. шумно (noisily, loudly, tumultuously, clamorously, obstreperously, slam-bang)
- 4. кричаще (loudly, stridently, flashily)
+  adverb
+   1. громко (loud, loudly, aloud, audibly, to the echo, at the top of one's voice)
+   2. громогласно (loudly, publicly, in a loud voice, at the top of one's voice)
+   3. шумно (noisily, loudly, tumultuously, clamorously, obstreperously, slam-bang)
+   4. кричаще (loudly, stridently, flashily)
 
 * Shouting							      :drill:
 [2017-04-13 Thu 15:16]
-Кричать
+** Кричать
 
-noun
- 1. крики (shouting, clamor, hoot, vociferance, clamour)
- 2. возгласы одобрения (acclaim, shouting)
-
+   noun
+    1. крики (shouting, clamor, hoot, vociferance, clamour)
+    2. возгласы одобрения (acclaim, shouting)
 * arrange							      :drill:
 [2017-04-13 Thu 15:38]
-Устраивать
+** Устраивать
 
-verb
- 1. договориться (arrange, reach agreement, fix, fix up, understand each other)
- 2. устраивать (arrange, suit, organize, settle, hold, do)
- 3. аранжировать (arrange, transcribe, harmonize)
- 4. располагать (dispose, arrange, set, collocate, situate, incline)
- 5. договариваться (agree, negotiate, arrange, make arrangements, parley, treat)
- 6. выстраивать (line up, arrange, align, draw up, erect, marshal)
- 7. подстроить (arrange)
- 8. принимать меры (take measures, take steps, arrange, deal, provide, move)
- 9. улаживать (settle, arrange, sort out, adjust, reconcile, fix)
-10. классифицировать (classify, categorize, sort, class, rank, arrange)
-11. подготавливать (ready, prepare, arrange, get up)
-12. монтировать (mount, install, assemble, edit, fit, arrange)
-13. регулировать (regulate, adjust, control, govern, handle, arrange)
-14. приводить в порядок (put in order, settle, tidy, adjust, set in order, arrange)
-15. обделывать (arrange, manage, cut, polish, set)
-16. приспосабливать (fit, adapt, adjust, accommodate, fit in, arrange)
-17. уславливаться (agree, arrange, make arrangements, understand, settle)
-18. сговариваться (conspire, arrange, agree, concert, come to an agreement, arrange things)
-19. переделывать (alter, rework, remake, remodel, redo, arrange)
-20. приходить к соглашению (come to an agreement, come to terms, arrange, strike a bargain, close a bargain, come to an arrangement)
+   verb
+    1. договориться (arrange, reach agreement, fix, fix up, understand each other)
+    2. устраивать (arrange, suit, organize, settle, hold, do)
+    3. аранжировать (arrange, transcribe, harmonize)
+    4. располагать (dispose, arrange, set, collocate, situate, incline)
+    5. договариваться (agree, negotiate, arrange, make arrangements, parley, treat)
+    6. выстраивать (line up, arrange, align, draw up, erect, marshal)
+    7. подстроить (arrange)
+    8. принимать меры (take measures, take steps, arrange, deal, provide, move)
+    9. улаживать (settle, arrange, sort out, adjust, reconcile, fix)
+   10. классифицировать (classify, categorize, sort, class, rank, arrange)
+   11. подготавливать (ready, prepare, arrange, get up)
+   12. монтировать (mount, install, assemble, edit, fit, arrange)
+   13. регулировать (regulate, adjust, control, govern, handle, arrange)
+   14. приводить в порядок (put in order, settle, tidy, adjust, set in order, arrange)
+   15. обделывать (arrange, manage, cut, polish, set)
+   16. приспосабливать (fit, adapt, adjust, accommodate, fit in, arrange)
+   17. уславливаться (agree, arrange, make arrangements, understand, settle)
+   18. сговариваться (conspire, arrange, agree, concert, come to an agreement, arrange things)
+   19. переделывать (alter, rework, remake, remodel, redo, arrange)
+   20. приходить к соглашению (come to an agreement, come to terms, arrange, strike a bargain, close a bargain, come to an arrangement)
 
-Think it might be fun to be a party planner? These highly organized
-people arrange everything from invitations to music, food, even the
-lighting in the room, meaning they put everything in order.
+   Think it might be fun to be a party planner? These highly organized
+   people arrange everything from invitations to music, food, even the
+   lighting in the room, meaning they put everything in order.
 
-At a concert, you look in your program to see what piece is next.
-There's a title, followed by the composer's name. Under that is
-another name, preceded by "arranged by." What does that mean? Every
-piece was originally written with a certain instrument or instruments
-in mind. In order for that music to be played by other instruments, it
-first has to be adapted, meaning someone has to arrange it. A symphony
-for kazoos? You can arrange that.
+   At a concert, you look in your program to see what piece is next.
+   There's a title, followed by the composer's name. Under that is
+   another name, preceded by "arranged by." What does that mean? Every
+   piece was originally written with a certain instrument or instruments
+   in mind. In order for that music to be played by other instruments, it
+   first has to be adapted, meaning someone has to arrange it. A symphony
+   for kazoos? You can arrange that.
 
-Wanting to speak to him about the contract, I decided to arrange
+   Wanting to speak to him about the contract, I decided to arrange
 
 * genuine							      :drill:
 [2017-04-14 Fri 16:50]
-[ˈjenyo͞oin]
+** [ˈjenyo͞oin]
 
-adjective
- 1. подлинный (authentic, genuine, true, original, honest, actual)
- 2. неподдельный (genuine, unfeigned, inartificial, unaffected, native)
- 3. настоящий (present, real, true, actual, genuine, veritable)
- 4. истинный (true, genuine, veritable, very, proper, perfect)
- 5. искренний (sincere, genuine, candid, heartfelt, honest, earnest)
- 6. чистопородный (genuine, clean-bred)
+   adjective
+    1. подлинный (authentic, genuine, true, original, honest, actual)
+    2. неподдельный (genuine, unfeigned, inartificial, unaffected, native)
+    3. настоящий (present, real, true, actual, genuine, veritable)
+    4. истинный (true, genuine, veritable, very, proper, perfect)
+    5. искренний (sincere, genuine, candid, heartfelt, honest, earnest)
+    6. чистопородный (genuine, clean-bred)
 
-Genuine things are true or authentic. When you're talking about
-people, being genuine has to do with being sincere.
+   Genuine things are true or authentic. When you're talking about
+   people, being genuine has to do with being sincere.
 
-This word has to do with things and people that are true. A genuine
-blonde is a real blonde — no hair dye involved. A genuine friend is a
-real friend you can trust when the chips are down. Genuine feelings
-are real feelings — not fake feelings put on as a show. A genuine
-hundred dollar bill is the real McCoy, not a counterfeit bill. When
-something is the real thing, it's genuine.
+   This word has to do with things and people that are true. A genuine
+   blonde is a real blonde — no hair dye involved. A genuine friend is a
+   real friend you can trust when the chips are down. Genuine feelings
+   are real feelings — not fake feelings put on as a show. A genuine
+   hundred dollar bill is the real McCoy, not a counterfeit bill. When
+   something is the real thing, it's genuine.
 * heaven							      :drill:
 [2017-04-14 Fri 16:50]
-['hevən]
+** ['hevən]
 
-Небеса
+   Небеса
 
-noun
- 1. небо (sky, heaven, palate, blue, roof of the mouth, sphere)
- 2. небеса (heaven, sky, empyrean, ether, sphere)
- 3. бог (god, deity, heaven, divinity, almighty, king)
- 4. провидение (providence, heaven)
+   noun
+    1. небо (sky, heaven, palate, blue, roof of the mouth, sphere)
+    2. небеса (heaven, sky, empyrean, ether, sphere)
+    3. бог (god, deity, heaven, divinity, almighty, king)
+    4. провидение (providence, heaven)
 
-Heaven is a place that seems absolutely perfect in every way. You can
-think of it as the lofty heavens up above, or as a place of
-everlasting bliss.
+   Heaven is a place that seems absolutely perfect in every way. You can
+   think of it as the lofty heavens up above, or as a place of
+   everlasting bliss.
 
-The places you think of as heaven could also be called "paradise" or
-"Eden." All of these words are based on a religious idea of heaven as
-a perfect, blissful existence that's granted to good people after they
-die. This spiritual heaven is generally depicted as the place where
-God lives, and is commonly described as being high in the sky. In
-fact, the original meaning of the Old English heaven, heofon, was
-"sky."
+   The places you think of as heaven could also be called "paradise" or
+   "Eden." All of these words are based on a religious idea of heaven as
+   a perfect, blissful existence that's granted to good people after they
+   die. This spiritual heaven is generally depicted as the place where
+   God lives, and is commonly described as being high in the sky. In
+   fact, the original meaning of the Old English heaven, heofon, was
+   "sky."
 
 * intentionally							      :drill:
 [2017-04-14 Fri 16:51]
-[inˈtenCHənlē]
+** [inˈtenCHənlē]
 
-Намеренно
+   Намеренно
 
-adverb
- 1. умышленно (deliberately, intentionally, willfully, wittingly, by design, designedly)
+   adverb
+    1. умышленно (deliberately, intentionally, willfully, wittingly, by design, designedly)
 
 * flavors							      :drill:
 [2017-04-14 Fri 16:51]
 
-Ароматизаторы
+** Ароматизаторы
 
-noun
- 1. вкус (taste, flavor, liking, palate, style, savor)
- 2. аромат (aroma, flavor, fragrance, odor, perfume, bouquet)
- 3. привкус (flavor, smack, tinge, odor, spice, suspicion)
- 4. запах (smell, odor, scent, flavor, flavour, odour)
- 5. букет (bouquet, flavor, nose, flavour)
- 6. особенность (feature, peculiarity, singularity, characteristic, particularity, trait)
+   noun
+    1. вкус (taste, flavor, liking, palate, style, savor)
+    2. аромат (aroma, flavor, fragrance, odor, perfume, bouquet)
+    3. привкус (flavor, smack, tinge, odor, spice, suspicion)
+    4. запах (smell, odor, scent, flavor, flavour, odour)
+    5. букет (bouquet, flavor, nose, flavour)
+    6. особенность (feature, peculiarity, singularity, characteristic, particularity, trait)
 
-verb
- 1. сдабривать (flavor, flavour)
- 2. приправлять (spice, season, flavor, savor, relish, dress)
- 3. придавать вкус (flavor, relish, flavour)
- 4. придавать запах (flavor, tincture, flavour)
- 5. придавать интерес (flavor, season, zest, flavour)
- 6. придавать пикантность (flavor, sauce, spice, salt, season, zest)
+   verb
+    1. сдабривать (flavor, flavour)
+    2. приправлять (spice, season, flavor, savor, relish, dress)
+    3. придавать вкус (flavor, relish, flavour)
+    4. придавать запах (flavor, tincture, flavour)
+    5. придавать интерес (flavor, season, zest, flavour)
+    6. придавать пикантность (flavor, sauce, spice, salt, season, zest)
 
 
-Flavor is the way something tastes. If an ice cream shop offers 50
-flavors, each one of them will taste different.
+   Flavor is the way something tastes. If an ice cream shop offers 50
+   flavors, each one of them will taste different.
 
-The flavor of your soup can be adjusted by adding salt — and when you
-add ingredients to change a food's taste, you can say you flavor it.
-From the flavor of food comes the sense of flavor meaning "atmosphere"
-or "feeling." You could say, for example, that you're not crazy about
-a particular clothing shop because it has such a glitzy, expensive
-flavor. Flavor initially meant "smell," from the Vulgar Latin flator,
-"odor."
+   The flavor of your soup can be adjusted by adding salt — and when you
+   add ingredients to change a food's taste, you can say you flavor it.
+   From the flavor of food comes the sense of flavor meaning "atmosphere"
+   or "feeling." You could say, for example, that you're not crazy about
+   a particular clothing shop because it has such a glitzy, expensive
+   flavor. Flavor initially meant "smell," from the Vulgar Latin flator,
+   "odor."
 
 * impose							      :drill:
 [2017-04-14 Fri 16:51]
-[imˈpōz]
-Навязывать
+** [imˈpōz]
+   Навязывать
 
-verb
- 1. навязать (impose, stick, wish on)
- 2. навязывать (impose, force, intrude, enforce, thrust, obtrude)
- 3. налагать (impose, inflict, give, administer, clap, put on)
- 4. облагать (impose, levy, lay on, put on)
- 5. верстать (impose, make up, make up in pages)
- 6. обманывать (deceive, cheat, kid, fool, spoof, impose)
- 7. навязаться (impose, thrust oneself, inflict oneself upon, inflict one's company upon)
- 8. всучить (foist, shove, impose, stick)
- 9. облагаться (impose, assess)
-10. спускать (let down, down, lower, discharge, bleed, impose)
-11. заключать (conclude, enclose, infer, include, establish, impose)
-12. обманом продать (impose)
-13. впечатлять (impress, make an impression, impose)
+   verb
+    1. навязать (impose, stick, wish on)
+    2. навязывать (impose, force, intrude, enforce, thrust, obtrude)
+    3. налагать (impose, inflict, give, administer, clap, put on)
+    4. облагать (impose, levy, lay on, put on)
+    5. верстать (impose, make up, make up in pages)
+    6. обманывать (deceive, cheat, kid, fool, spoof, impose)
+    7. навязаться (impose, thrust oneself, inflict oneself upon, inflict one's company upon)
+    8. всучить (foist, shove, impose, stick)
+    9. облагаться (impose, assess)
+   10. спускать (let down, down, lower, discharge, bleed, impose)
+   11. заключать (conclude, enclose, infer, include, establish, impose)
+   12. обманом продать (impose)
+   13. впечатлять (impress, make an impression, impose)
 
-To impose means to force or inflict something on someone else. If you
-want to impose your musical taste on your parents, play your tunes all
-day at top volume.
+   To impose means to force or inflict something on someone else. If you
+   want to impose your musical taste on your parents, play your tunes all
+   day at top volume.
 
-The verb impose emerged in the 1580s, meaning "to lay on as a burden,"
-which is very similar to the modern meaning. Governments often impose
-taxes, legal restrictions, and other burdensome things on citizens,
-for example. But you should remember what Confucius once wisely said:
-"Do not impose on others what you yourself do not desire."
+   The verb impose emerged in the 1580s, meaning "to lay on as a burden,"
+   which is very similar to the modern meaning. Governments often impose
+   taxes, legal restrictions, and other burdensome things on citizens,
+   for example. But you should remember what Confucius once wisely said:
+   "Do not impose on others what you yourself do not desire."
 
 * clarification							      :drill:
 [2017-04-14 Fri 16:51]
-[ˌklarəfiˈkāSHən]
+** [ˌklarəfiˈkāSHən]
 
-Разъяснение
+   Разъяснение
 
-noun
- 1. прояснение (clearing, clarification)
- 2. пояснение (clarification, illustration)
- 3. осветление (clarification, defecation)
- 4. очищение (purification, purifying, clarification, refinement, purgation, purge)
- 5. очистка (cleaning, purification, clearing, clearance, refining, clarification)
+   noun
+    1. прояснение (clearing, clarification)
+    2. пояснение (clarification, illustration)
+    3. осветление (clarification, defecation)
+    4. очищение (purification, purifying, clarification, refinement, purgation, purge)
+    5. очистка (cleaning, purification, clearing, clearance, refining, clarification)
 
 
-Clarification is what you hope to achieve when you make an idea or
-concept less confusing and easier to understand. This often happens
-after a detailed or very clear explanation.
+   Clarification is what you hope to achieve when you make an idea or
+   concept less confusing and easier to understand. This often happens
+   after a detailed or very clear explanation.
 
-Loudspeaker announcements in bus terminals and train stations are
-always so muffled and difficult to understand that it would be nice if
-you could at least find someone afterward who could provide
-clarification. In the realm of science, clarification is also the act
-of removing solid particles from a liquid so that it is more pure and,
-in some cases, so that it is transparent.
+   Loudspeaker announcements in bus terminals and train stations are
+   always so muffled and difficult to understand that it would be nice if
+   you could at least find someone afterward who could provide
+   clarification. In the realm of science, clarification is also the act
+   of removing solid particles from a liquid so that it is more pure and,
+   in some cases, so that it is transparent.
 
 * flux								      :drill:
 [2017-04-14 Fri 16:51]
-fləks
+** fləks
 
-Флюс
+   Флюс
 
-noun
- 1. поток (flow, stream, flux, current, flood, torrent)
- 2. флюс (flux, gumboil)
- 3. плавень (flux)
- 4. течение (flow, current, stream, flowing, progress, flux)
- 5. прилив (rush, flow, high tide, flood, boss, flux)
- 6. постоянное движение (flux)
- 7. постоянная смена (flux)
- 8. истечение (expiration, expiry, outflow, issue, efflux, flux)
- 9. обильное выделение (flux, profluvium)
-10. дизентерия (dysentery, bloody flux, flux)
+   noun
+    1. поток (flow, stream, flux, current, flood, torrent)
+    2. флюс (flux, gumboil)
+    3. плавень (flux)
+    4. течение (flow, current, stream, flowing, progress, flux)
+    5. прилив (rush, flow, high tide, flood, boss, flux)
+    6. постоянное движение (flux)
+    7. постоянная смена (flux)
+    8. истечение (expiration, expiry, outflow, issue, efflux, flux)
+    9. обильное выделение (flux, profluvium)
+   10. дизентерия (dysentery, bloody flux, flux)
 
-verb
- 1. течь (flow, stream, run, course, flux, lapse)
- 2. истекать (expire, lapse, run out, emanate, outflow, flux)
- 3. плавить (melt, fuse, liquate, flux, run, found)
- 4. растоплять (flux)
- 5. обрабатывать флюсом (flux)
- 6. отшлаковать (flux)
- 7. очищать (clean, purify, cleanse, clear, peel, flux)
- 8. давать слабительное (purge, flux)
+   verb
+    1. течь (flow, stream, run, course, flux, lapse)
+    2. истекать (expire, lapse, run out, emanate, outflow, flux)
+    3. плавить (melt, fuse, liquate, flux, run, found)
+    4. растоплять (flux)
+    5. обрабатывать флюсом (flux)
+    6. отшлаковать (flux)
+    7. очищать (clean, purify, cleanse, clear, peel, flux)
+    8. давать слабительное (purge, flux)
 
-The noun flux describes something that constantly changes. If your
-likes, dislikes, attitudes, dreams, and even friends are changing all
-the time, you may be in flux.
+   The noun flux describes something that constantly changes. If your
+   likes, dislikes, attitudes, dreams, and even friends are changing all
+   the time, you may be in flux.
 
-Flux can also mean being unsure about a decision. Suppose you just had
-a great job interview and suddenly your friend invites you to go to
-Australia with her. You don't know what to do because you don't want
-to miss a call about the job — or Sydney! You're in flux until you
-hear from the potential employer. Another kind of flux is liquid
-moving or flowing, like the flux of water under a sheet of melting
-ice.
+   Flux can also mean being unsure about a decision. Suppose you just had
+   a great job interview and suddenly your friend invites you to go to
+   Australia with her. You don't know what to do because you don't want
+   to miss a call about the job — or Sydney! You're in flux until you
+   hear from the potential employer. Another kind of flux is liquid
+   moving or flowing, like the flux of water under a sheet of melting
+   ice.
 
 * crucial							      :drill:
 [2017-04-14 Fri 16:52]
 
-[kro͞oSHəl]
+** [kro͞oSHəl]
 
-ключевой
+   ключевой
 
-adjective
- 1. решающий (decisive, crucial, critical, final, winning, determinative)
- 2. критический (critical, crucial, critic, pointed, climacteric)
- 3. ключевой (key, crucial)
- 4. крестообразный (cruciate, cruciform, crucial)
+   adjective
+    1. решающий (decisive, crucial, critical, final, winning, determinative)
+    2. критический (critical, crucial, critic, pointed, climacteric)
+    3. ключевой (key, crucial)
+    4. крестообразный (cruciate, cruciform, crucial)
 
-The word crucial describes something that is important or essential to
-success, like the crucial dress rehearsals that ensure everything will
-run smoothly on your play's opening night.
+   The word crucial describes something that is important or essential to
+   success, like the crucial dress rehearsals that ensure everything will
+   run smoothly on your play's opening night.
 
-Usage experts insist that the word crucial should be used only to
-describe something that is truly critical for solving a problem or for
-resolving a situation, such as a crucial vote that determines a final
-outcome. In this case the crucial vote is decisive: it determines the
-outcome. But the word has gained popularity as a way to say that
-something is important. You might hear someone say, for example, that
-it is crucial to allow employees to vote on the new schedule to make
-them feel like they’re part of the process. In this case the sense is
-“important”: nothing decisive is taking place.
+   Usage experts insist that the word crucial should be used only to
+   describe something that is truly critical for solving a problem or for
+   resolving a situation, such as a crucial vote that determines a final
+   outcome. In this case the crucial vote is decisive: it determines the
+   outcome. But the word has gained popularity as a way to say that
+   something is important. You might hear someone say, for example, that
+   it is crucial to allow employees to vote on the new schedule to make
+   them feel like they’re part of the process. In this case the sense is
+   “important”: nothing decisive is taking place.
 
 * curve								      :drill:
 [2017-04-14 Fri 16:52]
-[kərv]
+** [kərv]
 
-Кривая
+   Кривая
 
-noun
- 1. кривая (curve, graph)
- 2. изгиб (bend, curve, curvature, bent, flexure, twist)
- 3. характеристика (characteristic, feature, characterization, performance, specification, curve)
- 4. дуга (arc, arch, bow, curve, circular arc)
- 5. кривизна (curvature, curve, camber, crookedness, tortuosity, flexure)
- 6. кривая линия (curve)
- 7. лекало (pattern, curve, template, mold, templet, sweep)
- 8. закругление (curve)
- 9. выгиб (curve, hogging, bump, bend, flexure, incurvation)
+   noun
+    1. кривая (curve, graph)
+    2. изгиб (bend, curve, curvature, bent, flexure, twist)
+    3. характеристика (characteristic, feature, characterization, performance, specification, curve)
+    4. дуга (arc, arch, bow, curve, circular arc)
+    5. кривизна (curvature, curve, camber, crookedness, tortuosity, flexure)
+    6. кривая линия (curve)
+    7. лекало (pattern, curve, template, mold, templet, sweep)
+    8. закругление (curve)
+    9. выгиб (curve, hogging, bump, bend, flexure, incurvation)
 
-verb
- 1. изгибаться (bend, curve, twist, wriggle, sweep, wriggle oneself)
- 2. изгибать (bend, curve, twist, sweep, crook)
- 3. сгибать (bend, flex, fold, bow, buckle, curve)
- 4. закругляться (curve, become round)
- 5. гнуть (bend, flex, bow, curve, inflect, buckle)
- 6. сгибаться (bend, double up, bow, buckle, curve, bow down)
+   verb
+    1. изгибаться (bend, curve, twist, wriggle, sweep, wriggle oneself)
+    2. изгибать (bend, curve, twist, sweep, crook)
+    3. сгибать (bend, flex, fold, bow, buckle, curve)
+    4. закругляться (curve, become round)
+    5. гнуть (bend, flex, bow, curve, inflect, buckle)
+    6. сгибаться (bend, double up, bow, buckle, curve, bow down)
 
 * vastly							      :drill:
 [2017-04-14 Fri 16:52]
 
-Значительно
+** Значительно
 
-adverb
- 1. значительно (much, greatly, well, vastly, more, noticeably)
- 2. очень (very, very much, extremely, so, highly, vastly)
- 3. крайне (extremely, utterly, exceedingly, sorely, enormously, vastly)
- 4. в значительной степени (largely, substantially, to a great extent, to a large degree, vastly, pretty)
+   adverb
+    1. значительно (much, greatly, well, vastly, more, noticeably)
+    2. очень (very, very much, extremely, so, highly, vastly)
+    3. крайне (extremely, utterly, exceedingly, sorely, enormously, vastly)
+    4. в значительной степени (largely, substantially, to a great extent, to a large degree, vastly, pretty)
 
 * hindering							      :drill:
 [2017-04-14 Fri 16:52]
 
-Мешающий
+** Мешающий
 
-adjective
- 1. мешающий (hindering, obstructing, obstructive, encumbering)
+   adjective
+    1. мешающий (hindering, obstructing, obstructive, encumbering)
 
 * presume							      :drill:
 [2017-04-14 Fri 16:52]
-Предполагать
+** Предполагать
 
-verb
- 1. полагать (believe, think, suppose, guess, consider, presume)
- 2. предполагать (assume, guess, suppose, expect, suspect, presume)
- 3. допускать (admit, allow, assume, suppose, concede, presume)
- 4. позволять себе (presume, venture, take liberties, pretend, take the liberty of doing so-and-so, take the liberty to do so-and-so)
- 5. считать доказанным (presume)
- 6. осмеливаться (presume, hazard, adventure)
+   verb
+    1. полагать (believe, think, suppose, guess, consider, presume)
+    2. предполагать (assume, guess, suppose, expect, suspect, presume)
+    3. допускать (admit, allow, assume, suppose, concede, presume)
+    4. позволять себе (presume, venture, take liberties, pretend, take the liberty of doing so-and-so, take the liberty to do so-and-so)
+    5. считать доказанным (presume)
+    6. осмеливаться (presume, hazard, adventure)
 
-If you presume something, it means you act as though it's true before
-all the evidence is in. If you are presumed to be the fastest runner,
-don't get too cocky — that word implies that you haven't actually
-raced yet.
+   If you presume something, it means you act as though it's true before
+   all the evidence is in. If you are presumed to be the fastest runner,
+   don't get too cocky — that word implies that you haven't actually
+   raced yet.
 
-To presume is to take something for granted. The famous quote “Dr.
-Livingstone, I presume?” comes from the explorer Henry Morton Stanley,
-who ran into the explorer David Livingstone in the wilds of Africa in
-1871. It’s funny because these were the only two white men known to be
-in that part of Africa at the time.
+   To presume is to take something for granted. The famous quote “Dr.
+   Livingstone, I presume?” comes from the explorer Henry Morton Stanley,
+   who ran into the explorer David Livingstone in the wilds of Africa in
+   1871. It’s funny because these were the only two white men known to be
+   in that part of Africa at the time.
 
 * ability							      :drill:
 
 [2017-04-15 Sat 09:28]
 
-ability
+** [əˈbilitē]
 
-[əˈbilitē]
+   Способность
 
-Способность
+   noun
+    1. способность (ability, capacity, power, capability, faculty, aptitude)
+    2. возможность (opportunity, possibility, potential, capacity, ability, chance)
+    3. умение (skill, ability, knack, art, proficiency, capability)
+    4. ловкость (agility, dexterity, skill, knack, sleight, ability)
+    5. дарование (gift, endowment, ability, faculty)
+    6. компетенция (competence, competency, expertise, terms of reference, scope, ability)
 
-noun
- 1. способность (ability, capacity, power, capability, faculty, aptitude)
- 2. возможность (opportunity, possibility, potential, capacity, ability, chance)
- 3. умение (skill, ability, knack, art, proficiency, capability)
- 4. ловкость (agility, dexterity, skill, knack, sleight, ability)
- 5. дарование (gift, endowment, ability, faculty)
- 6. компетенция (competence, competency, expertise, terms of reference, scope, ability)
+   Ability is skill or talent. You might have the ability to blow
+   bubbles, or sing in a falsetto, or dance the waltz. Or, just maybe,
+   you have the ability to do all three things at once. Impressive!
 
-Ability is skill or talent. You might have the ability to blow
-bubbles, or sing in a falsetto, or dance the waltz. Or, just maybe,
-you have the ability to do all three things at once. Impressive!
-
-From the Old French ablate "expert at handling (something)," and that
-from the Latin habilitatem, "aptitude," comes the English ability, a
-noun indicating the power to act, perform, or accomplish. Capacity is
-similar in meaning to ability, but note that people have a capacity
-for doing something, and an ability to do something.
+   From the Old French ablate "expert at handling (something)," and that
+   from the Latin habilitatem, "aptitude," comes the English ability, a
+   noun indicating the power to act, perform, or accomplish. Capacity is
+   similar in meaning to ability, but note that people have a capacity
+   for doing something, and an ability to do something.
 
 * possibility							      :drill:
 [2017-04-15 Sat 09:28]
 
-[ˌpäsəˈbilətē]
+** [ˌpäsəˈbilətē]
 
-возможность
+   возможность
 
-noun
- 1. возможность (opportunity, possibility, potential, capacity, ability, chance)
- 2. вероятность (probability, likelihood, chance, possibility, credibility, likeliness)
- 3. перспектива (prospect, perspective, outlook, vista, possibility, promise)
+   noun
+    1. возможность (opportunity, possibility, potential, capacity, ability, chance)
+    2. вероятность (probability, likelihood, chance, possibility, credibility, likeliness)
+    3. перспектива (prospect, perspective, outlook, vista, possibility, promise)
 
-If something could realistically happen, it's a possibility. So
-winning the lottery is a slight possibility, but becoming king of the
-world is not even a remote possibility.
+   If something could realistically happen, it's a possibility. So
+   winning the lottery is a slight possibility, but becoming king of the
+   world is not even a remote possibility.
 
-In one sense, a possibility is an option: "One possibility is that the
-UFO is just a shooting star." It can also mean more of a potential:
-"This house might look like an abandoned shack, but it's got so much
-possibility!" All meanings of possibility share the sense that
-something is able to happen, or is possible. The Latin root is
-possibilis, "that can be done."
+   In one sense, a possibility is an option: "One possibility is that the
+   UFO is just a shooting star." It can also mean more of a potential:
+   "This house might look like an abandoned shack, but it's got so much
+   possibility!" All meanings of possibility share the sense that
+   something is able to happen, or is possible. The Latin root is
+   possibilis, "that can be done."
 
 * fluent							      :drill:
 [2017-04-15 Sat 09:33]
 
-[ˈflo͞oənt]
+** [ˈflo͞oənt]
 
-Плавный
+   Плавный
 
-adjective
- 1. беглый (fluent, runaway, cursory, fugitive, escaped, passing)
- 2. плавный (smooth, flowing, fluent, liquid, running, round)
- 3. текучий (fluid, fluent, runny, running, streaming)
- 4. жидкий (liquid, fluid, runny, thin, watery, fluent)
- 5. гладкий (smooth, sleek, plain, slick, polished, fluent)
- 6. владеющий речью (fluent)
+   adjective
+    1. беглый (fluent, runaway, cursory, fugitive, escaped, passing)
+    2. плавный (smooth, flowing, fluent, liquid, running, round)
+    3. текучий (fluid, fluent, runny, running, streaming)
+    4. жидкий (liquid, fluid, runny, thin, watery, fluent)
+    5. гладкий (smooth, sleek, plain, slick, polished, fluent)
+    6. владеющий речью (fluent)
 
-To be fluent in something — like a language or an instrument — is to
-be able to use it smoothly and effortlessly.
+   To be fluent in something — like a language or an instrument — is to
+   be able to use it smoothly and effortlessly.
 
-It takes many years and lots of practice to become fluent in a second
-language. But when you're finally fluent, you can understand it, speak
-it, and write easily in it. One French class won't make you fluent —
-gaining fluency takes years. You can also be fluent in other things
-that you've practiced and mastered, like cello or computer
-programming. If you're doing something in a way that makes it look
-easy, you're fluent.
+   It takes many years and lots of practice to become fluent in a second
+   language. But when you're finally fluent, you can understand it, speak
+   it, and write easily in it. One French class won't make you fluent —
+   gaining fluency takes years. You can also be fluent in other things
+   that you've practiced and mastered, like cello or computer
+   programming. If you're doing something in a way that makes it look
+   easy, you're fluent.
 
 * occasion							      :drill:
 [2017-04-15 Sat 09:34]
-occasion
-[əˈkāZHən]
-повод
 
-noun
- 1. повод (occasion, reason, cause, rein, bridle, halter)
- 2. случай (happening, case, occasion, event, incident, chance)
- 3. раз (time, occasion, bout)
- 4. событие (event, occasion, development, happening, fact, passage)
- 5. возможность (opportunity, possibility, potential, capacity, ability, occasion)
- 6. причина (cause, reason, why, root, ground, occasion)
- 7. обстоятельство (circumstance, fact, thing, case, development, occasion)
- 8. оказия (occasion)
- 9. благоприятный случай (occasion)
-10. основание (base, basis, reason, bottom, foundation, occasion)
+** [əˈkāZHən]
+   повод
 
-verb
- 1. вызывать (call, cause, induce, call forth, summon, occasion)
- 2. служить поводом (occasion)
- 3. давать повод (occasion)
- 4. причинять (cause, give, bring, deal, occasion, kill)
+   noun
+    1. повод (occasion, reason, cause, rein, bridle, halter)
+    2. случай (happening, case, occasion, event, incident, chance)
+    3. раз (time, occasion, bout)
+    4. событие (event, occasion, development, happening, fact, passage)
+    5. возможность (opportunity, possibility, potential, capacity, ability, occasion)
+    6. причина (cause, reason, why, root, ground, occasion)
+    7. обстоятельство (circumstance, fact, thing, case, development, occasion)
+    8. оказия (occasion)
+    9. благоприятный случай (occasion)
+   10. основание (base, basis, reason, bottom, foundation, occasion)
+
+   verb
+    1. вызывать (call, cause, induce, call forth, summon, occasion)
+    2. служить поводом (occasion)
+    3. давать повод (occasion)
+    4. причинять (cause, give, bring, deal, occasion, kill)
 
 
-Occasion means something special––that happens seldom or is notable
-when it does. On occasion, we sit down together as a family, but not
-every day, and never for dinner. When Great Aunt Mabel visits,
-however, we rise to the occasion and stage a large family meal.
+   Occasion means something special––that happens seldom or is notable
+   when it does. On occasion, we sit down together as a family, but not
+   every day, and never for dinner. When Great Aunt Mabel visits,
+   however, we rise to the occasion and stage a large family meal.
 
-Occasion can also mean a designated time or reason something happens,
-or it can be an event in itself. I'm giving you your grandmother's
-ring on the occasion of your graduation from high school. I haven't
-had occasion to look at it since she died. It's valuable, so only wear
-it on special occasions.
+   Occasion can also mean a designated time or reason something happens,
+   or it can be an event in itself. I'm giving you your grandmother's
+   ring on the occasion of your graduation from high school. I haven't
+   had occasion to look at it since she died. It's valuable, so only wear
+   it on special occasions.
 
-Ability on one occasion
+   Ability on one occasion
 * burglar							      :drill:
 [2017-04-15 Sat 09:37]
-[ˈbərglər]
+** [ˈbərglər]
 
-Грабитель
+   Грабитель
 
-noun
- 1. грабитель (robber, burglar, mugger, plunderer, looter, snatcher)
- 2. взломщик (burglar, housebreaker, breaker, cracksman, picklock, yegg)
- 3. вор (thief, burglar, prowler, drummer, gunsmith, hook)
- 4. ночной грабитель (burglar)
- 5. вор-взломщик (burglar, passkey man)
+   noun
+    1. грабитель (robber, burglar, mugger, plunderer, looter, snatcher)
+    2. взломщик (burglar, housebreaker, breaker, cracksman, picklock, yegg)
+    3. вор (thief, burglar, prowler, drummer, gunsmith, hook)
+    4. ночной грабитель (burglar)
+    5. вор-взломщик (burglar, passkey man)
 
-Use the word burglar when you're talking about someone who steals
-things from inside a house or a building.
+   Use the word burglar when you're talking about someone who steals
+   things from inside a house or a building.
 
-A burglar often breaks a window or forces a lock, intending to take
-valuable items. The act of doing this is burglary, and to do it is to
-burglarize in the United States, or to burgle in Britain. In the
-1540's, burglar was a short form of the word burglator, from the Latin
-burgare, "to break open."
+   A burglar often breaks a window or forces a lock, intending to take
+   valuable items. The act of doing this is burglary, and to do it is to
+   burglarize in the United States, or to burgle in Britain. In the
+   1540's, burglar was a short form of the word burglator, from the Latin
+   burgare, "to break open."
 
 * habit								      :drill:
 [2017-04-16 Sun 11:48]
-[ˈhabit]
+** [ˈhabit]
 
-Привычка
+    Привычка
 
-noun
- 1. привычка (habit, wont, custom, practice, way, knack)
- 2. габитус (habit)
- 3. обыкновение (habit, wont, usage, tradition, habitude, convention)
- 4. обычай (custom, practice, habit, usage, way, convention)
- 5. особенность (feature, peculiarity, singularity, characteristic, particularity, habit)
- 6. одеяние (apparel, garment, robe, dress, garb, habit)
- 7. облачение (vestment, habit, investiture, pall, vest, investment)
- 8. повадка (habit)
- 9. черта (feature, line, dash, stroke, trace, habit)
-10. сложение (addition, shape, habit, make)
-11. характер произрастания (habit)
-12. характерная черта (characteristic, feature, trait, peculiarity, attribute, habit)
-13. пристрастие к наркотикам (habit)
-14. телосложение (physique, constitution, build, frame, habit)
-15. характер развития (habit)
-16. костюм для верховой езды (habit)
-17. свойство (property, characteristic, feature, attribute, affinity, habit)
+    noun
+     1. привычка (habit, wont, custom, practice, way, knack)
+     2. габитус (habit)
+     3. обыкновение (habit, wont, usage, tradition, habitude, convention)
+     4. обычай (custom, practice, habit, usage, way, convention)
+     5. особенность (feature, peculiarity, singularity, characteristic, particularity, habit)
+     6. одеяние (apparel, garment, robe, dress, garb, habit)
+     7. облачение (vestment, habit, investiture, pall, vest, investment)
+     8. повадка (habit)
+     9. черта (feature, line, dash, stroke, trace, habit)
+    10. сложение (addition, shape, habit, make)
+    11. характер произрастания (habit)
+    12. характерная черта (characteristic, feature, trait, peculiarity, attribute, habit)
+    13. пристрастие к наркотикам (habit)
+    14. телосложение (physique, constitution, build, frame, habit)
+    15. характер развития (habit)
+    16. костюм для верховой езды (habit)
+    17. свойство (property, characteristic, feature, attribute, affinity, habit)
 
-verb
- 1. облачать (vest, invest, enrobe, garb, array, habit)
- 2. одевать (dress, wear, clothe, tog, clad, habit)
+    verb
+     1. облачать (vest, invest, enrobe, garb, array, habit)
+     2. одевать (dress, wear, clothe, tog, clad, habit)
 
-Any action that you perform regularly as part of your routine can be
-called a habit. Flossing your teeth would be considered a good habit.
-Sucking your thumb would be considered a bad habit, especially as an
-adult.
+    Any action that you perform regularly as part of your routine can be
+    called a habit. Flossing your teeth would be considered a good habit.
+    Sucking your thumb would be considered a bad habit, especially as an
+    adult.
 
-On New Year's people always vow to break their bad habits, but bad
-habits die hard. The noun habit can also refer to an established
-custom — like the habit of breaking bread with your family every
-holiday. On a completely different note, clothing that is worn for
-horseback riding, or by a nun or monk, can also be called a habit. All
-good nuns should be in the habit of washing their habits.
+    On New Year's people always vow to break their bad habits, but bad
+    habits die hard. The noun habit can also refer to an established
+    custom — like the habit of breaking bread with your family every
+    holiday. On a completely different note, clothing that is worn for
+    horseback riding, or by a nun or monk, can also be called a habit. All
+    good nuns should be in the habit of washing their habits.
 
 * bound								      :drill:
 [2017-04-18 Tue 15:27]
-[bound]
+** [bound]
 
-Связанный
+   Связанный
 
-adjective
- 1. связанный (connected, bound, related, tied, associated, linked)
- 2. направляющийся (bound)
- 3. переплетенный (bound, intertwined, interwoven, plaited)
- 4. ограниченный (limited, bounded, restricted, confined, finite, bound)
- 5. обязанный (obliged, liable, bound, due, indebted, beholden)
- 6. в переплете (bound)
- 7. обязательный (mandatory, obligatory, compulsory, binding, bound, required)
- 8. непременный (bound, irremissible)
- 9. решившийся (determined, bound)
-10. готовый (ready, prepared, willing, made, ripe, bound)
-11. вынужденный (compelled, forced, induced, compulsory, necessary, bound)
-12. уверенный (sure, confident, certain, assured, positive, bound)
-13. страдающий запором (constipated, costive, bound, confined)
+   adjective
+    1. связанный (connected, bound, related, tied, associated, linked)
+    2. направляющийся (bound)
+    3. переплетенный (bound, intertwined, interwoven, plaited)
+    4. ограниченный (limited, bounded, restricted, confined, finite, bound)
+    5. обязанный (obliged, liable, bound, due, indebted, beholden)
+    6. в переплете (bound)
+    7. обязательный (mandatory, obligatory, compulsory, binding, bound, required)
+    8. непременный (bound, irremissible)
+    9. решившийся (determined, bound)
+   10. готовый (ready, prepared, willing, made, ripe, bound)
+   11. вынужденный (compelled, forced, induced, compulsory, necessary, bound)
+   12. уверенный (sure, confident, certain, assured, positive, bound)
+   13. страдающий запором (constipated, costive, bound, confined)
 
-noun
- 1. граница (border, boundary, limit, bound, frontier, line)
- 2. предел (limit, range, scope, bound, margin, threshold)
- 3. ограничение (limitation, restriction, restraint, bound, stint, confinement)
- 4. прыжок (bounce, jump, leap, hop, spring, bound)
- 5. скачок (jump, leap, hop, bounce, caper, bound)
- 6. отскок (rebound, bounce, recoil, bound)
- 7. сильный удар сердца (bound)
+   noun
+    1. граница (border, boundary, limit, bound, frontier, line)
+    2. предел (limit, range, scope, bound, margin, threshold)
+    3. ограничение (limitation, restriction, restraint, bound, stint, confinement)
+    4. прыжок (bounce, jump, leap, hop, spring, bound)
+    5. скачок (jump, leap, hop, bounce, caper, bound)
+    6. отскок (rebound, bounce, recoil, bound)
+    7. сильный удар сердца (bound)
 
-verb
- 1. связывать (bind, associate, connect, bound, link, tie)
- 2. ограничивать (limit, restrict, confine, constrain, restrain, bound)
- 3. прыгать (jump, leap, hop, skip, spring, bound)
- 4. граничить (border, abut, neighbor, adjoin, march, bound)
- 5. скакать (jump, skip, leap, dance, cavort, bound)
- 6. привязывать (tie, bind, tether, bound, attach, tie down)
- 7. быстро бежать (bound, spank)
- 8. вызывать запор (constipate, bind, bound, obstruct)
- 9. вязать (knit, bind, bound, bend)
-10. задерживать (delay, detain, stay, hold, retard, bound)
-11. зажимать (pinch, clamp, grip, jam, clench, bound)
-12. затвердевать (harden, solidify, set, freeze, bind, bound)
-13. обвязывать (lace, bound)
-14. обшивать (sheathe, bind, welt, edge, border, bound)
-15. обязывать (oblige, bind, obligate, bound, engage, bind over)
-16. переплетать (bind, intertwine, interlace, interweave, bound, intertwist)
-17. сдерживать (hold back, restrain, constrain, curb, contain, bound)
-18. скреплять (fasten, bind, brace, staple, bond, bound)
-19. отскакивать (bounce, rebound, recoil, carom, fly off, bound)
-20. служить границей (limit, bound)
+   verb
+    1. связывать (bind, associate, connect, bound, link, tie)
+    2. ограничивать (limit, restrict, confine, constrain, restrain, bound)
+    3. прыгать (jump, leap, hop, skip, spring, bound)
+    4. граничить (border, abut, neighbor, adjoin, march, bound)
+    5. скакать (jump, skip, leap, dance, cavort, bound)
+    6. привязывать (tie, bind, tether, bound, attach, tie down)
+    7. быстро бежать (bound, spank)
+    8. вызывать запор (constipate, bind, bound, obstruct)
+    9. вязать (knit, bind, bound, bend)
+   10. задерживать (delay, detain, stay, hold, retard, bound)
+   11. зажимать (pinch, clamp, grip, jam, clench, bound)
+   12. затвердевать (harden, solidify, set, freeze, bind, bound)
+   13. обвязывать (lace, bound)
+   14. обшивать (sheathe, bind, welt, edge, border, bound)
+   15. обязывать (oblige, bind, obligate, bound, engage, bind over)
+   16. переплетать (bind, intertwine, interlace, interweave, bound, intertwist)
+   17. сдерживать (hold back, restrain, constrain, curb, contain, bound)
+   18. скреплять (fasten, bind, brace, staple, bond, bound)
+   19. отскакивать (bounce, rebound, recoil, carom, fly off, bound)
+   20. служить границей (limit, bound)
 
-To bound is to jump or hop — usually as you run. Bound can also mean
-to go or to plan to go, especially to a certain destination, as in
-being bound for New York or homeward-bound.
+   To bound is to jump or hop — usually as you run. Bound can also mean
+   to go or to plan to go, especially to a certain destination, as in
+   being bound for New York or homeward-bound.
 
-Superman can "leap tall buildings in a single bound," but the word
-bound is usually about boundaries. When you're playing soccer or
-football, the ball goes "out of bounds." Someone can also be bound
-with rope — tied up. Commitments are another kind of tie. When you get
-married, you're bound to your partner. If you make a promise, you're
-bound to your word. On a less pleasant note, if you're constipated,
-you're bound up.
+   Superman can "leap tall buildings in a single bound," but the word
+   bound is usually about boundaries. When you're playing soccer or
+   football, the ball goes "out of bounds." Someone can also be bound
+   with rope — tied up. Commitments are another kind of tie. When you get
+   married, you're bound to your partner. If you make a promise, you're
+   bound to your word. On a less pleasant note, if you're constipated,
+   you're bound up.
 
 * doubt								      :drill:
 [2017-04-18 Tue 15:41]
-[dout]
+** [dout]
 
-Сомнение
+   Сомнение
 
-verb
- 1. сомневаться (doubt, question, distrust, challenge, disbelieve, mistrust)
- 2. усомниться (doubt, stumble at)
- 3. колебаться (hesitate, fluctuate, sway, oscillate, vibrate, doubt)
- 4. подозревать (suspect, think, doubt, surmise, mistrust, distrust)
- 5. иметь сомнения (doubt)
- 6. быть неуверенным (doubt)
- 7. не доверять (distrust, mistrust, doubt, disbelieve, discredit, suspect)
+   verb
+    1. сомневаться (doubt, question, distrust, challenge, disbelieve, mistrust)
+    2. усомниться (doubt, stumble at)
+    3. колебаться (hesitate, fluctuate, sway, oscillate, vibrate, doubt)
+    4. подозревать (suspect, think, doubt, surmise, mistrust, distrust)
+    5. иметь сомнения (doubt)
+    6. быть неуверенным (doubt)
+    7. не доверять (distrust, mistrust, doubt, disbelieve, discredit, suspect)
 
-noun
- 1. сомнение (doubt, question, challenge, hesitation, discredit, query)
+   noun
+    1. сомнение (doubt, question, challenge, hesitation, discredit, query)
 
 
-Doubt is distrust or suspicion. When your kid sister explains that a
-robber broke in and ate your entire chocolate stash, most likely you
-feel doubt.
+   Doubt is distrust or suspicion. When your kid sister explains that a
+   robber broke in and ate your entire chocolate stash, most likely you
+   feel doubt.
 
-When you're in doubt, you really can't tell what's true and what's
-false, whether that's a news story or whether you want to marry
-someone or whether you'll survive Med school. The Latin root of doubt
-is dubitāre, "to hesitate, waver," and when you doubt something you're
-wavering: I think I believe you, but maybe I don't. But maybe I do.
-But maybe not? One thing not to doubt is the silent b. Pronounce:
-DOWT.
+   When you're in doubt, you really can't tell what's true and what's
+   false, whether that's a news story or whether you want to marry
+   someone or whether you'll survive Med school. The Latin root of doubt
+   is dubitāre, "to hesitate, waver," and when you doubt something you're
+   wavering: I think I believe you, but maybe I don't. But maybe I do.
+   But maybe not? One thing not to doubt is the silent b. Pronounce:
+   DOWT.
 
-- I doubt if Juraj will pass.
+   - I doubt if Juraj will pass.
 * predicting							      :drill:
 [2017-04-18 Tue 15:45]
 
-Прогнозирования
+** Прогнозирования
 
-verb
- 1. предсказывать (predict, prophesy, forecast, foretell, divine, soothsay)
+   verb
+    1. предсказывать (predict, prophesy, forecast, foretell, divine, soothsay)
 
-To predict is to say what you think is going to happen in the future.
-If you predict that you'll win the poker championship, you're either
-really confident in your poker skills or you're cheating.
+   To predict is to say what you think is going to happen in the future.
+   If you predict that you'll win the poker championship, you're either
+   really confident in your poker skills or you're cheating.
 
-The prefix pre means "before." Dict comes from the Latin dicere, which
-means "to say", yet you can use predict to refer to things that can't
-say anything at all. Darkening skies can predict a coming storm, for
-example, and a runny nose can predict a cold. You can predict
-something based on factual evidence, or on a crystal-ball reading, or
-just on plain intuition.
+   The prefix pre means "before." Dict comes from the Latin dicere, which
+   means "to say", yet you can use predict to refer to things that can't
+   say anything at all. Darkening skies can predict a coming storm, for
+   example, and a runny nose can predict a cold. You can predict
+   something based on factual evidence, or on a crystal-ball reading, or
+   just on plain intuition.
 
-EG - predicting the future
+   EG - predicting the future
 
 * lent								      :drill:
 [2017-04-19 Wed 16:26]
-Оказанный, одолжить
+** Оказанный, одолжить
 
-noun
- 1. великий пост (lent, Quadragesima)
+   noun
+    1. великий пост (lent, Quadragesima)
 
-DEFINITION
+   DEFINITION
 
-suffix
- 1. (forming adjectives) full of; characterized by.
-    "pestilent"
+   suffix
+    1. (forming adjectives) full of; characterized by.
+       "pestilent"
 
 
-When you lend something, you loan it or let someone borrow it. You
-might, for example, lend your bike to your brother — if he promises to
-be careful with it.
+   When you lend something, you loan it or let someone borrow it. You
+   might, for example, lend your bike to your brother — if he promises to
+   be careful with it.
 
-Libraries lend people books, and car rental companies lend people cars
-— in both cases, the item that's been borrowed is supposed to be
-returned eventually. Another way to lend is to "add a quality to," or
-"be suitable for." You could say that you think your hat lends you a
-mysterious quality, or that your trench coat lends itself to walking
-through a foggy city at dusk.
+   Libraries lend people books, and car rental companies lend people cars
+   — in both cases, the item that's been borrowed is supposed to be
+   returned eventually. Another way to lend is to "add a quality to," or
+   "be suitable for." You could say that you think your hat lends you a
+   mysterious quality, or that your trench coat lends itself to walking
+   through a foggy city at dusk.
 
 * harvest							      :drill:
 [2017-04-20 Thu 06:59]
-уборка урожая
+** уборка урожая
 
-noun
- 1. урожай (harvest, crop, yield, plant, gather)
- 2. сбор (collection, assembly, collecting, gathering, fee, harvest)
- 3. жатва (harvest, reaping, crop, harvest time)
- 4. плоды (fruit, harvest, fruitage, product, garden stuff, green-stuff)
- 5. праздник урожая (harvest, Lammas, harvest home, kirn)
- 6. уборка хлеба (harvest)
- 7. результат (result, outcome, effect, output, product, harvest)
- 8. уборка хлебов (harvest)
- 9. песнь жнецов (harvest)
+   noun
+    1. урожай (harvest, crop, yield, plant, gather)
+    2. сбор (collection, assembly, collecting, gathering, fee, harvest)
+    3. жатва (harvest, reaping, crop, harvest time)
+    4. плоды (fruit, harvest, fruitage, product, garden stuff, green-stuff)
+    5. праздник урожая (harvest, Lammas, harvest home, kirn)
+    6. уборка хлеба (harvest)
+    7. результат (result, outcome, effect, output, product, harvest)
+    8. уборка хлебов (harvest)
+    9. песнь жнецов (harvest)
 
-verb
- 1. собирать урожай (harvest, crop)
- 2. жать (press, reap, harvest, cut, pinch, mow)
- 3. убирать урожай (harvest, cut)
- 4. расплачиваться (pay off, settle, pony up, disburse, stump up, harvest)
- 5. пожинать плоды (reap, harvest)
+   verb
+    1. собирать урожай (harvest, crop)
+    2. жать (press, reap, harvest, cut, pinch, mow)
+    3. убирать урожай (harvest, cut)
+    4. расплачиваться (pay off, settle, pony up, disburse, stump up, harvest)
+    5. пожинать плоды (reap, harvest)
 
-adjective
- 1. связанный с урожаем (harvest)
+   adjective
+    1. связанный с урожаем (harvest)
 
-The harvest is the time when you reap what you sow. As a verb, to
-harvest something means that you pick or gather it. You might harvest
-your sweet corn late in the summer.
+   The harvest is the time when you reap what you sow. As a verb, to
+   harvest something means that you pick or gather it. You might harvest
+   your sweet corn late in the summer.
 
-As a noun, harvest means the time of year when crops are ripe and
-ready to be gathered. The picked crop is also called a harvest: a
-bumper crop is a plentiful harvest, and a poor harvest is when things
-didn’t grow as well as expected. As a verb, to harvest something is to
-gather, trap, or cull it. You can harvest a soybean crop, you can
-harvest beaver pelts, or you can harvest tissues or organs for
-transplants.
+   As a noun, harvest means the time of year when crops are ripe and
+   ready to be gathered. The picked crop is also called a harvest: a
+   bumper crop is a plentiful harvest, and a poor harvest is when things
+   didn’t grow as well as expected. As a verb, to harvest something is to
+   gather, trap, or cull it. You can harvest a soybean crop, you can
+   harvest beaver pelts, or you can harvest tissues or organs for
+   transplants.
 
-I'm looking for someone to design code/program to harvest data from multiple sources and present the data in a format that adds value from the information.
+   I'm looking for someone to design code/program to harvest data from multiple sources
+   and present the data in a format that adds value from the information.
 * denoted							      :drill:
 [2017-04-20 Thu 09:29]
 
