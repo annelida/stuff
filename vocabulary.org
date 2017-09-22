@@ -2769,9 +2769,9 @@ brisk - юркий
 [2017-04-21 Fri 10:19]
 appreciate
 
-** [əˈprēSHēˌāt]
 
-  Ценить
+** Ценить
+  [əˈprēSHēˌāt]
 
   verb
    1. ценить (appreciate, value, estimate, give, dig)
@@ -2903,8 +2903,9 @@ appreciate
   :ID:       4355b7c9-7e43-4ce6-b7c8-e77e097c8c98
   :END:
 [2017-04-22 Sat 10:04]
-** [ˌōvərˈ(h)welm]
-   Сокрушить
+  
+** Сокрушить
+   [ˌōvərˈ(h)welm]
 
    verb
     1. подавлять (suppress, repress, inhibit, put down, overwhelm, depress)
@@ -3343,8 +3344,9 @@ appreciate
   :ID:       dc58ca6e-0e4e-4dba-910c-14dd4d88a753
   :END:
 [2017-04-24 Mon 09:32]
-** [ˌintəˈrəpt]
-   Прерывания
+
+** Прерывания
+   [ˌintəˈrəpt]
 
    noun
     1. прерывание (interrupt, interruption, breaking)
@@ -3758,8 +3760,9 @@ appreciate
   :ID:       6043fb90-afe6-4a8a-bc89-62e3c33e3d49
   :END:
   [2017-05-03 Wed 09:53]
-** [ˌənriˈlīəbəl]
-   Ненадежный
+  
+** Ненадежный
+   [ˌənriˈlīəbəl]
 
    adjective
     1. ненадежный (unreliable, precarious, insecure, untrustworthy, unsafe, iffy)
@@ -5573,8 +5576,9 @@ appreciate
   :ID:       4bfef23f-d905-4aca-96e9-d6bcf36bea57
   :END:
  [2017-05-15 Mon 07:25]
-** [gān]
-   усиление
+  
+** усиление
+   [gān]
 
    noun
     1. усиление (gain, strengthening, amplification, intensification, reinforcement, magnification)
@@ -5636,9 +5640,9 @@ appreciate
   :ID:       ed15adb2-18f7-42f8-9c33-819747eccb0e
   :END:
   [2017-05-15 Mon 07:30]
-**  [əbˈskyo͝o]
 
-    затемняет
+** затемняет
+    [əbˈskyo͝o]
 
     verb
     1. затемнять (darken, obscure, dim, black out, obfuscate, dim out)
@@ -5750,8 +5754,9 @@ appreciate
   :ID:       83d95888-6fc2-4547-a223-45acbdb8b9b9
   :END:
  [2017-05-15 Mon 16:30]
-** [drout]
-   засух
+
+** засуха
+   [drout]
 
    noun
     1. засуха (drought, dry, drouth)
@@ -5780,8 +5785,9 @@ appreciate
   :ID:       764a3328-cac9-47e7-8fcb-3b7df5ed4fae
   :END:
  [2017-05-15 Mon 16:30]
-** [ˌənəˈfôrdəbə]
-   непозволительно
+
+** непозволительно
+   [ˌənəˈfôrdəbə]
    Medical care is unaffordable in Dublin for many people.
 
 * lack								      :drill:
@@ -5916,9 +5922,9 @@ appreciate
   :ID:       6f113d26-b2d5-4a9f-b62d-5261833a4ebf
   :END:
  [2017-05-15 Mon 16:33]
-** [ˈdēsənt]
 
-   порядочный
+** порядочный
+   [ˈdēsənt]
 
    adjective
     1. приличный (decent, respectable, seemly, proper, decorous, comfortable)
@@ -5983,8 +5989,9 @@ appreciate
   :ID:       47a9be48-8898-4e92-885e-59d9184f1369
   :END:
  [2017-05-16 Tue 16:23]
-** [ro͞od]
-   грубый
+
+** грубый
+   [ro͞od]
 
    adjective
     1. грубый (rude, rough, gross, coarse, crude, tough)
@@ -6061,8 +6068,9 @@ appreciate
   :ID:       12f40466-4126-4d24-9faa-523de742f4d9
   :END:
  [2017-05-16 Tue 16:29]
-** [ˈwôrˌdrōb]
-   гардероб
+  
+** гардероб
+   [ˈwôrˌdrōb]
 
    noun
     1. гардероб (wardrobe, cloakroom, dressing room, checkroom, checking room, hat-check room)
@@ -6232,8 +6240,9 @@ appreciate
   :DRILL_LAST_REVIEWED: [2017-09-18 Mon 15:51]
   :END:
  [2017-05-16 Tue 16:35]
-** [ˈgrēsē]
-   сальный
+  
+** сальный
+   [ˈgrēsē]
 
    adjective
     1. жирный (fatty, fat, oily, greasy, rich, thick)
@@ -6343,8 +6352,9 @@ appreciate
     5. штуковина (contraption, thingummy, doodad, hickey, widget, yell)
 
    They will yell at you and ask you to go to information because French people think
-    that everyone have their own job and responsibilities, so if it’s not their job to provide information, they won’t do it (and I think they’re getting sick
-    of tourists considering it’s the most popular city for tourism in the world)
+   that everyone have their own job and responsibilities, so if it’s not their job to provide information,
+   they won’t do it (and I think they’re getting sick of tourists considering it’s the most popular city
+   for tourism in the world).
 
    You heard me yelling at her.
 
@@ -6353,8 +6363,9 @@ appreciate
   :ID:       d611ab5c-7b6f-4eff-8476-05943741bd76
   :END:
  [2017-05-17 Wed 14:06]
-** [ˈaftərˌTHôt]
-   раздумье
+  
+** раздумье
+  [ˈaftərˌTHôt]
 
    noun
     1. запоздалая мысль (afterthought)
@@ -6431,8 +6442,9 @@ appreciate
   :DRILL_LAST_REVIEWED: [2017-09-18 Mon 15:51]
   :END:
  [2017-05-17 Wed 14:08]
-** [iˈmenslē]
-   очень
+  
+** очень
+  [iˈmenslē]
 
    adverb
     1. безмерно (immensely, excessively, no end)
@@ -6485,8 +6497,9 @@ appreciate
   :ID:       c363397d-1e16-4c5a-b8dd-7742252e9033
   :END:
   [2017-05-17 Wed 14:11]
-** [əˈrīz]
-  возникать
+
+** возникать
+  [əˈrīz]
 
   verb
    1. возникать (arise, emerge, originate, rise, spring, crop up)
@@ -6527,8 +6540,9 @@ appreciate
   :ID:       25391b54-91ad-4d03-9a77-f89a57f27305
   :END:
  [2017-05-17 Wed 14:11]
-** [CHärj]
-   заряд
+  
+** заряд
+   [CHärj]
 
    noun
     1. заряд (charge, recharge, load, cartridge, filling, filler)
@@ -6666,9 +6680,9 @@ appreciate
   :ID:       ca224fd6-0dab-4844-bb2c-4c3b790f6bd9
   :END:
  [2017-05-17 Wed 14:14]
-** [biˈzär]
-  
-   эксцентричный
+    
+** эксцентричный
+   [biˈzär]
 
    adjective
     1. странный (strange, weird, odd, bizarre, curious, queer)
@@ -6800,8 +6814,9 @@ appreciate
   :ID:       a27cebb0-d129-40db-ace1-89adf3203ed8
   :END:
  [2017-05-18 Thu 16:16]
-** [ˌnənT͟Həˈles]
-   тем не менее
+
+** тем не менее
+   [ˌnənT͟Həˈles]
 
    adverb
     1. тем не менее (nevertheless, nonetheless, yet, still, notwithstanding, all the same)
@@ -6899,8 +6914,9 @@ appreciate
   :ID:       1114fa42-81da-49f7-8c2d-4cc3867c90ee
   :END:
  [2017-05-18 Thu 16:20]
-** [gəst]
-   порыв
+
+** порыв
+   [gəst]
 
    noun
     1. порыв (impulse, gust, fit, burst, puff, elan)
@@ -6962,8 +6978,9 @@ appreciate
   :ID:       3a5579fa-539b-4327-bf98-15e75db8e6d0
   :END:
  [2017-05-18 Thu 16:22]
-** [hōl]
+
    дыра, отверстие
+   [hōl]
 
    A hole isn't just a hollow space dug out of the ground or punched out
    of something. When you're talking casually with friends, you can also
@@ -6987,8 +7004,9 @@ appreciate
   :ID:       5bd4e495-edcf-40e5-9438-4499057eb13b
   :END:
  [2017-05-18 Thu 16:22]
-** [iˈmens]
-   огромный
+  
+** огромный
+   [iˈmens]
 
    adjective
     1. огромный (huge, enormous, great, vast, immense, tremendous)
@@ -7019,8 +7037,9 @@ appreciate
   :ID:       bf94ea8e-be96-4787-b535-31538bdef313
   :END:
  [2017-05-18 Thu 16:22]
-** [ˈpreSHər]
-   давление
+  
+** давление
+   [ˈpreSHər]
 
    noun
     1. давление (pressure, stress, tension, push, squeeze, enforcement)
@@ -7114,8 +7133,9 @@ appreciate
   :ID:       a06ba214-49c9-4c5e-8b29-f968d4503625
   :END:
  [2017-05-18 Thu 16:26]
-** [dəˈzərv]
-   заслуживать
+  
+** заслуживать
+   [dəˈzərv]
 
    verb
     1. заслуживать (deserve, earn, be worth)
@@ -7182,8 +7202,9 @@ appreciate
   :ID:       56be9dd1-5d58-43d5-9fa0-eaef0a9b2160
   :END:
  [2017-05-18 Thu 16:26]
-** [kōˈinsədəns]
-   совпадение
+  
+** совпадение
+   [kōˈinsədəns]
 
    noun
     1. совпадение (coincidence, overlap, concurrence, alignment, congruence, conjunction)
@@ -7321,8 +7342,9 @@ appreciate
   :ID:       2183b48d-04cd-46a2-8af1-9acc38cd6ca8
   :END:
  [2017-05-22 Mon 07:02]
-** [ˈärbiˌtrerē]
-   arbitrary
+
+** arbitrary
+   [ˈärbiˌtrerē]
 
    произвольный
 
@@ -7350,8 +7372,9 @@ appreciate
   :ID:       716f90db-9418-4e2f-96aa-c90a3244dd04
   :END:
  [2017-05-24 Wed 07:10]
-** [ˈsimpəltən]
-   простак
+  
+** простак
+   [ˈsimpəltən]
 
    noun
     1. простак (simpleton, simple, sucker, coot, noddy, innocent)
@@ -7378,8 +7401,9 @@ appreciate
   :PROPERTIES:
   :ID:       391bcc5c-9fdc-489c-8c21-d35150d574d6
   :END:
-**  [ˈklo͞oləs]
-    невежественный
+  
+** невежественный
+   [ˈklo͞oləs]
 
     DEFINITION
 
@@ -7408,8 +7432,9 @@ appreciate
   :PROPERTIES:
   :ID:       316b5a3d-2ef4-48ae-b17c-f386fcd4736b
   :END:
-** [ˈblizərd]
-  метель
+ 
+**  метель
+  [ˈblizərd]
 
   noun
    1. метель (blizzard, snowstorm, windstorm)
@@ -7424,8 +7449,9 @@ appreciate
   :ID:       0da4a9b5-86ca-4eea-b127-801ca3389ef6
   :END:
  [2017-05-25 Thu 15:02]
-** [trəˈmendəs]
-   огромный
+
+** огромный
+   [trəˈmendəs]
 
    adjective
     1. огромный (huge, enormous, great, vast, immense, tremendous)
@@ -7508,8 +7534,9 @@ appreciate
   :ID:       6120c342-c995-4126-9174-eec00784992a
   :END:
  [2017-05-25 Thu 17:34]
-** [inˈevitəblē]
-   неизбежно
+ 
+** неизбежно
+   [inˈevitəblē]
 
    adverb
     1. неизбежно (inevitably, necessarily, fatally, by the nature of the case, by the nature of things, from the nature of the case)
@@ -7554,8 +7581,9 @@ appreciate
   :ID:       c7997eb0-4372-4859-92b9-d5cc33b7f891
   :END:
  [2017-05-25 Thu 17:37]
-** [riˈtrēt]
-   отступление
+  
+** отступление
+   [riˈtrēt]
 
    noun
     1. отступление (retreat, deviation, departure, digression, fallback, retirement)
@@ -7599,8 +7627,9 @@ appreciate
   :ID:       a01d31c4-7d6b-4eff-b9c5-8013187312d8
   :END:
  [2017-05-25 Thu 17:38]
-** [ˈsou(ə)r]
-   кислый
+  
+** кислый
+   [ˈsou(ə)r]
 
    adjective
     1. кислый (sour, acidic, acid, tart, vinegary, acidy)
@@ -7676,8 +7705,9 @@ appreciate
   :ID:       0d1ef669-1726-463a-a96e-b7d4f85de47c
   :END:
  [2017-05-25 Thu 17:46]
-** [ˈpilə]
-   столб
+  
+** столб
+   [ˈpilə]
 
    noun
     1. столб (column, post, pillar, pole, stake, pile)
@@ -7818,8 +7848,9 @@ appreciate
   :ID:       bcde75df-9f34-4bc1-9750-edcbec8b93c4
   :END:
  [2017-06-01 Thu 07:42]
-** [riˈtān]
-   сохраняет
+  
+** сохраняет
+   [riˈtān]
 
    verb
     1. удерживать (hold, hold back, refrain, restrain, retain, hold down)
@@ -7890,8 +7921,9 @@ appreciate
   :ID:       87e598ee-0e53-49b7-ba9a-c9aa77b817ed
   :END:
  [2017-06-01 Thu 11:18]
-** [kənˈsərniNG]
-   относительно
+  
+** относительно
+   [kənˈsərniNG]
 
      adverb
       1. относительно (relatively, about, concerning, over, comparatively, in reference to)
@@ -7989,8 +8021,9 @@ appreciate
   :ID:       d0509c47-217f-41ff-9088-a68dcfedf7a2
   :END:
  [2017-06-01 Thu 11:21]
-** [ˈkranē]
-   трещина
+   
+** трещина
+   [ˈkranē]
 
    noun
     1. трещина (crack, fissure, fracture, rift, break, cranny)
@@ -8210,8 +8243,9 @@ appreciate
   :ID:       edf9316c-6152-4f09-8651-7aa8690b7420
   :END:
  [2017-06-03 Sat 16:59]
-** [ˈfərniSH]
-   снабжает
+  
+** снабжает
+   [ˈfərniSH]
 
    If you provide something needed, you furnish it. You can furnish an
    answer to a question in an interview, furnish the snacks at a party,
