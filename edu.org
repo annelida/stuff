@@ -27377,6 +27377,45 @@ console.log(min(0, -10));
  section for a complete list of event types.
 
   handler − If provided, identifies the specific listener that's to be removed.
+** The event attributes
+
+   The following event properties/attributes are available and safe to
+   access in a platform independent manner
+
+   | Property      | Description                                                     |
+   |               |                                                                 |
+   |---------------+-----------------------------------------------------------------|
+   | altKey        | Set to true if the Alt key was pressed                          |
+   |               | when the event was triggered, false if not.                     |
+   | ctrlKey       | Set to true if the Ctrl key was pressed                         |
+   |               | when the event was triggered, false if not.                     |
+   | data          | The value, if any, passed as the second parameter to the bind() |
+   |               | command when the handler was established.                       |
+   | keyCode       | For keyup and keydown events, this returns the                  |
+   |               | key that was pressed.                                           |
+   | metaKey       | Set to true if the Meta key was pressed when the event          |
+   |               | was triggered, false if not.                                    |
+   | pageX         | For mouse events, specifies the horizontal coordinate           |
+   |               | of the event relative from the page origin.                     |
+   | pageY         | For mouse events, specifies the vertical coordinate of the      |
+   |               | event relative from the page origin.                            |
+   | relatedTarget | For some mouse events, identifies the element that the          |
+   |               | cursor left or entered when the event was triggered.            |
+   | screenX       | For mouse events, specifies the horizontal coordinate of the    |
+   |               | event relative from the screen origin.                          |
+   | screenY       | For mouse events, specifies the vertical coordinate of the      |
+   |               | event relative from the screen origin.                          |
+   | shiftKey      | Set to true if the Shift key was pressed when the event was     |
+   |               | triggered, false if not.                                        |
+   | target        | Identifies the element for which the event was triggered        |
+   | timeStamp     | The timestamp (in milliseconds) when the event was created.     |
+   | type          | For all events, specifies the type of event that was triggered  |
+   |               | (for example, click)                                            |
+   | which         | For keyboard events, specifies the numeric code for             |
+   |               | specifies the numeric code for the key that caused the event,   |
+   |               | and for mouse events, specifies which button was pressed        |
+   |               | (1 for left, 2 for middle, 3 for right).                        |
+   |               |                                                                 |
 
 
    
