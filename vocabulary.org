@@ -1960,7 +1960,8 @@ brisk - юркий
   :ID:       fb768512-1e64-4ba4-a22c-bdb3cb77a333
   :END:
 [2017-04-14 Fri 16:50]
-** [ˈjenyo͞oin]
+** подлинный
+   [ˈjenyo͞oin]
 
    adjective
     1. подлинный (authentic, genuine, true, original, honest, actual)
@@ -1984,9 +1985,9 @@ brisk - юркий
   :ID:       c489648d-3cd3-42c4-8aed-e89b9c094ac4
   :END:
 [2017-04-14 Fri 16:50]
-** ['hevən]
+** Небеса
 
-   Небеса
+   [ˈhevən]
 
    noun
     1. небо (sky, heaven, palate, blue, roof of the mouth, sphere)
@@ -2011,9 +2012,9 @@ brisk - юркий
   :ID:       132ce67e-843d-4e79-917b-7ecffa6b7cd5
   :END:
 [2017-04-14 Fri 16:51]
-** [inˈtenCHənlē]
 
-   Намеренно
+**   Намеренно
+     [inˈtenCHənlē]
 
    adverb
     1. умышленно (deliberately, intentionally, willfully, wittingly, by design, designedly)
@@ -2059,8 +2060,9 @@ brisk - юркий
   :ID:       d3744454-4db7-482c-9ce9-6dc3389184dc
   :END:
 [2017-04-14 Fri 16:51]
-** [imˈpōz]
-   Навязывать
+   
+** Навязывать
+   [imˈpōz]
 
    verb
     1. навязать (impose, stick, wish on)
@@ -2092,9 +2094,10 @@ brisk - юркий
   :ID:       51a8b1a6-2f24-4576-9bc6-635de8dbd38b
   :END:
 [2017-04-14 Fri 16:51]
-** [ˌklarəfiˈkāSHən]
+  
+** Разъяснение
 
-   Разъяснение
+   [ˌklarəfiˈkāSHən]
 
    noun
     1. прояснение (clearing, clarification)
@@ -2120,10 +2123,10 @@ brisk - юркий
   :ID:       70131e8d-fcf5-49c8-bb68-2c0374a0229b
   :END:
 [2017-04-14 Fri 16:51]
-** fləks
+   
+** Флюс
 
-   Флюс
-
+   [fləks]
    noun
     1. поток (flow, stream, flux, current, flood, torrent)
     2. флюс (flux, gumboil)
@@ -2164,9 +2167,9 @@ brisk - юркий
   :END:
 [2017-04-14 Fri 16:52]
 
-** [kro͞oSHəl]
 
-   ключевой
+** ключевой
+   [kro͞oSHəl]
 
    adjective
     1. решающий (decisive, crucial, critical, final, winning, determinative)
@@ -2193,9 +2196,9 @@ brisk - юркий
   :ID:       27e18900-57bc-44f7-b19e-9673fdce73cc
   :END:
 [2017-04-14 Fri 16:52]
-** [kərv]
 
-   Кривая
+** Кривая
+   [kərv]
 
    noun
     1. кривая (curve, graph)
@@ -2302,9 +2305,8 @@ brisk - юркий
   :END:
 [2017-04-15 Sat 09:28]
 
-** [ˌpäsəˈbilətē]
-
-   возможность
+** возможность
+   [ˌpäsəˈbilətē]
 
    noun
     1. возможность (opportunity, possibility, potential, capacity, ability, chance)
@@ -2328,9 +2330,9 @@ brisk - юркий
   :END:
 [2017-04-15 Sat 09:33]
 
-** [ˈflo͞oənt]
-
+  
    Плавный
+   [ˈflo͞oənt]
 
    adjective
     1. беглый (fluent, runaway, cursory, fugitive, escaped, passing)
@@ -2357,8 +2359,9 @@ brisk - юркий
   :END:
 [2017-04-15 Sat 09:34]
 
-** [əˈkāZHən]
+  
    повод
+   [əˈkāZHən]
 
    noun
     1. повод (occasion, reason, cause, rein, bridle, halter)
@@ -2396,9 +2399,9 @@ brisk - юркий
   :ID:       3b7fa5e7-c16f-46b1-be3d-5fa6b9fb7572
   :END:
 [2017-04-15 Sat 09:37]
-** [ˈbərglər]
-
-   Грабитель
+  
+** Грабитель
+   [ˈbərglər]
 
    noun
     1. грабитель (robber, burglar, mugger, plunderer, looter, snatcher)
@@ -2421,9 +2424,9 @@ brisk - юркий
   :ID:       785c358c-d5e6-4696-8b7d-5af19203dccb
   :END:
 [2017-04-16 Sun 11:48]
-** [ˈhabit]
-
-    Привычка
+ 
+** Привычка
+    [ˈhabit]
 
     noun
      1. привычка (habit, wont, custom, practice, way, knack)
@@ -2465,9 +2468,8 @@ brisk - юркий
   :ID:       cb361afe-6501-4f5b-b57c-9ea70f00be33
   :END:
 [2017-04-18 Tue 15:27]
-** [bound]
-
-   Связанный
+** Связанный
+   [bound]
 
    adjective
     1. связанный (connected, bound, related, tied, associated, linked)
@@ -2532,9 +2534,8 @@ brisk - юркий
   :ID:       9a84156d-d87a-4fa9-bf62-4aa56284e24f
   :END:
 [2017-04-18 Tue 15:41]
-** [dout]
-
-   Сомнение
+** Сомнение
+   [dout]
 
    verb
     1. сомневаться (doubt, question, distrust, challenge, disbelieve, mistrust)
@@ -2744,8 +2745,9 @@ brisk - юркий
   :ID:       dfe2c2da-fae7-4204-b873-4ede647c6176
   :END:
 [2017-04-21 Fri 10:18]
-** [ˈēgər]
-   нетерпеливый
+
+** нетерпеливый
+   [ˈēgər]
 
    With eager, think "ready," "excited," "can't wait." An eager beaver is
    someone who, like the hard working beaver, is up at dawn and ready to
@@ -3087,9 +3089,9 @@ appreciate
   :ID:       158050e4-cb5e-4ea8-b923-6730fbb9bc98
   :END:
 [2017-04-23 Sun 10:04]
-** [ˈvəln(ə)rəbəl]
 
-   Уязвимый
+** Уязвимый
+   [ˈvəln(ə)rəbəl]
 
    adjective
     1. уязвимый (vulnerable, assailable, defenseless, pregnable, attackable, tender)
@@ -3111,9 +3113,10 @@ appreciate
   :ID:       f6623f17-5435-49fb-86ad-56c1bc680fde
   :END:
 [2017-04-23 Sun 10:05]
-** [ˈst(y)o͞opid]
+  
+** глупый
 
-   глупый
+   [ˈst(y)o͞opid]
 
    adjective
     1. глупый (stupid, silly, foolish, fool, dumb, dull)
@@ -3148,8 +3151,9 @@ appreciate
   :ID:       e6a47096-0cb6-4202-92c7-87a551b82fab
   :END:
 [2017-04-23 Sun 10:06]
-** [əˈkin]
-   похожий
+
+** похожий
+   [əˈkin]
 
    adverb
     1. сродни (akin)
@@ -3178,9 +3182,9 @@ appreciate
   :ID:       5ae1402f-e444-47e4-bba1-fbd0adb722e3
   :END:
 [2017-04-23 Sun 10:09]
-** [ˌəndərˈgō]
-
-   Подвергаться
+  
+** Подвергаться
+   [ˌəndərˈgō]
 
    verb
     1. подвергаться (undergo, incur, have, go through, meet with, fall under)
@@ -3205,9 +3209,9 @@ appreciate
   :ID:       93cbd355-0742-4594-90cd-eeb69f8e3f73
   :END:
 [2017-04-23 Sun 10:09]
-** [ˈfäsəl]
-
-   Окаменелость
+  
+** Окаменелость
+   [ˈfäsəl]
 
    noun
     1. окаменелость (fossil, petrification, petrifaction)
@@ -3238,9 +3242,9 @@ appreciate
   :ID:       e6203c6c-479b-474e-a023-c223ccf6c9c3
   :END:
 [2017-04-23 Sun 10:09]
-** [fuels]
-
-   Топлива
+  
+** Топлива
+   [fuels]
 
    noun
     1. топливо (fuel, firewood, combustible, firing)
@@ -3272,9 +3276,9 @@ appreciate
   :ID:       2b23d1ec-92fc-4b8e-973e-51234542cb3c
   :END:
 [2017-04-23 Sun 10:10]
-** [ˈpräfit]
-
-   Прибыль
+  
+** Прибыль
+   [ˈpräfit]
 
    noun
     1. прибыль (profit, income, earnings, gain, return, benefit)
@@ -3435,9 +3439,9 @@ appreciate
   :ID:       16535106-103e-42bc-aac4-1faf50239b13
   :END:
 [2017-04-25 Tue 06:40]
-** [ˈdəmē]
-
-   Манекен
+  
+** Манекен
+   [ˈdəmē]
 
    noun
     1. манекен (dummy, mannequin, manikin, model, mannikin, layman)
@@ -3484,8 +3488,9 @@ appreciate
   :ID:       00401b4d-9d34-47fb-804f-a09276a6e157
   :END:
 [2017-04-25 Tue 06:47]
-** [kəmˈpetətər]
-   Конкурент
+  
+** Конкурент
+   [kəmˈpetətər]
 
    noun
     1. конкурент (competitor, rival, contestant)
@@ -3503,7 +3508,7 @@ appreciate
    are out to win.
 
    Scrape competitor prices daily
-   4.
+   
 * Threshold							      :drill:
   :PROPERTIES:
   :ID:       c6b0f0e9-639a-48fc-9862-1d9b2c333c3b
@@ -3679,8 +3684,9 @@ appreciate
   :ID:       2360ea2e-724e-4a14-9377-3d1639e37d0b
   :END:
 [2017-04-27 Thu 09:08]
-** [ˈlän-,ˌlôndrē]
-   прачечная
+   
+** прачечная
+   [ˈlän-,ˌlôndrē]
 
    noun
     1. прачечная (laundry, washhouse, washing house)
@@ -3738,8 +3744,9 @@ appreciate
   :ID:       1f001fc5-3ccc-43a0-9aab-17caf1e67e4b
   :END:
 [2017-04-27 Thu 09:50]
-** [ˈstrik(t)lē]
-   строго
+   
+** строго
+   [ˈstrik(t)lē]
 
    adverb
     1. строго (strictly)
@@ -3750,7 +3757,7 @@ appreciate
   :PROPERTIES:
   :ID:       6043fb90-afe6-4a8a-bc89-62e3c33e3d49
   :END:
-[2017-05-03 Wed 09:53]
+  [2017-05-03 Wed 09:53]
 ** [ˌənriˈlīəbəl]
    Ненадежный
 
@@ -3813,9 +3820,9 @@ appreciate
   :ID:       55e9c42d-3b14-4a4d-9c9b-731c829990d9
   :END:
  [2017-05-03 Wed 10:23]
-** [riˈsiprəkəl]
 
- Взаимный
+** Взаимный
+   [riˈsiprəkəl]
 
     adjective
      1. ответный (retaliatory, reciprocal, responding, responsive, sympathetic)
@@ -4339,8 +4346,9 @@ appreciate
   :ID:       6dc866bc-9c8f-4739-b4a2-c46269270d52
   :END:
  [2017-05-08 Mon 13:42]
-** [əˈlejidlē]
-   якобы
+  
+** якобы
+   [əˈlejidlē]
 
    adverb
     1. якобы (allegedly, ostensibly, quasi)
@@ -4368,8 +4376,10 @@ appreciate
   :ID:       8be8d694-43c1-4cff-94bb-b8d60df0f44a
   :END:
  [2017-05-08 Mon 13:43]
-** [ˈwikid]
-    злой
+  
+** злой
+
+   [ˈwikid]
 
     adjective
      1. злой (evil, wicked, ill, vicious, unkind, sinister)
@@ -4474,8 +4484,9 @@ appreciate
   :ID:       d497f676-2b53-4c71-9c51-c975928f986b
   :END:
  [2017-05-08 Mon 13:49]
-** [ˈärgyo͞oəbəl]
-   спорный
+  
+** спорный
+   [ˈärgyo͞oəbəl]
 
    adjective
     1. спорный (controversial, debatable, disputable, contentious, arguable, moot)
@@ -4741,8 +4752,8 @@ appreciate
   :ID:       695d317e-0a3b-4e6f-aa27-00c25485aad6
   :END:
  [2017-05-09 Tue 11:12]
-** [ˈmyo͞otn-ē]
-    бунт
+   
+** бунт
 
     noun
      1. мятеж (rebellion, mutiny, revolt, insurgency, insurrection, riot)
@@ -4774,8 +4785,10 @@ appreciate
   :ID:       d8d302c3-930a-4e5e-ad85-8d5870b39f70
   :END:
  [2017-05-09 Tue 11:13]
-** [bəˈräZH]
-   заграждений
+  
+** заграждений
+
+   [bəˈräZH]
 
    noun
     1. заграждение (barrage, boom, fencing, entanglement, obstruction, blockage)
@@ -4854,8 +4867,9 @@ appreciate
   :ID:       a2f7779e-2eec-46f4-a296-874e444626f7
   :END:
  [2017-05-09 Tue 11:18]
-** [ri(ə)r]
-    задний
+   
+** задний
+   [ri(ə)r]
 
     adjective
      1. задний (rear, back, posterior, hind, tail, rearward)
@@ -4911,8 +4925,9 @@ appreciate
   :ID:       54a23d69-f657-40b4-8112-cfc2657fe286
   :END:
  [2017-05-09 Tue 11:19]
-** [ˈfabyələs]
-    невероятный
+ 
+** невероятный
+   [ˈfabyələs]
 
     adjective
      1. невероятный (incredible, improbable, fabulous, unbelievable, unlikely, unthinkable)
@@ -4942,8 +4957,9 @@ appreciate
   :ID:       3c2f3b74-95ca-4b50-840e-53304fcbebfd
   :END:
  [2017-05-09 Tue 11:19]
-** [ˈvivid]
-   яркий
+  
+** яркий
+   [ˈvivid]
 
    adjective
     1. яркий (bright, vivid, colorful, shining, flamboyant, glaring)
@@ -5003,8 +5019,9 @@ appreciate
   :ID:       fccb8e8e-da43-4991-af3b-ca9a39292191
   :END:
  [2017-05-09 Tue 11:21]
-** [ˈsīləns]
-    тишина
+ 
+** тишина
+   [ˈsīləns]
 
     noun
      1. молчание (silence, hush, mum)
@@ -5052,8 +5069,9 @@ appreciate
   :ID:       79e14299-1fab-491c-9ae7-85e1c37fd01b
   :END:
  [2017-05-10 Wed 09:19]
-** [klām]
-    Запрос
+  
+** Запрос
+   [klām]
 
     verb
      1. требовать (require, demand, claim, ask, take, call for)
@@ -5093,8 +5111,9 @@ appreciate
   :ID:       36ec99b8-dd34-459e-beeb-9ce4b0b6e19e
   :END:
  [2017-05-10 Wed 09:20]
-** [ədˈvīz]
-   консультировать
+ 
+** консультировать
+   [ədˈvīz]
 
    verb
     1. консультировать (consult, advise, educate)
@@ -5222,8 +5241,9 @@ appreciate
   :ID:       6ce6c95f-c671-4ec6-9016-5159134788d1
   :END:
  [2017-05-10 Wed 16:58]
-** [məlɪʃəs]
-    злонамеренный
+  
+** злонамеренный
+   [məlɪʃəs]
 
     adjective
      1. злонамеренный (malicious, evil, evil-minded)
@@ -5268,9 +5288,9 @@ appreciate
   :ID:       5bac7069-a96f-4915-9144-743403a12826
   :END:
  [2017-05-11 Thu 07:00]
-** [əˈkʌmpənɪɪŋ]
-
-   сопровождая
+  
+** сопровождая
+   [əˈkʌmpənɪɪŋ]
 
    adjective
     1. сопровождающий (accompanying, attendant, concomitant)
