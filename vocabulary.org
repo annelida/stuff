@@ -8376,11 +8376,11 @@ appreciate
 * weird								      :drill:
   :PROPERTIES:
   :ID:       1bd8af68-d936-4ed2-9113-6550241d14f5
-  :END:
+  :END:      
  [2017-06-07 Wed 14:58]
-** [wi(ə)rd]
-
-   странный
+  
+** странный
+   [wi(ə)rd]
 
    adjective
     1. странный (strange, weird, odd, bizarre, curious, queer)
@@ -8414,8 +8414,8 @@ appreciate
   :ID:       7ed9140a-b52e-4f56-aa5d-ae09b988fba6
   :END:
  [2017-06-07 Wed 14:58]
-** /ˌdɪsˈsɜː.vɪs/
-   вред
+** вред
+   /ˌdɪsˈsɜː.vɪs/
 
    noun
     1. плохая услуга (disservice, ill office)
@@ -8432,7 +8432,8 @@ appreciate
   :ID:       fdb9626f-15a7-42da-bb9f-eed12278ccac
   :END:
  [2017-06-07 Wed 14:59]
-** /ˈdʒæn.ɪ.tər/
+** дворник
+   /ˈdʒæn.ɪ.tər/
    дворник
 
    noun
@@ -8507,8 +8508,9 @@ appreciate
   :DRILL_LAST_REVIEWED: [2017-09-18 Mon 15:51]
   :END:
  [2017-06-07 Wed 15:00]
-** /dʒʌdʒˈmen.təl/
-   преднамеренный, осуждающий
+   
+** преднамеренный, осуждающий
+   /dʒʌdʒˈmen.təl/
 
    DEFINITION
 
@@ -8755,8 +8757,9 @@ appreciate
   :ID:       4d686eab-912b-4b06-914a-cce41ec91efe
   :END:
  [2017-06-14 Wed 12:02]
-** [ədˈmiSHən]
-   вход
+
+** вход
+   [ədˈmiSHən]
 
    noun
     1. вход (entry, entrance, inlet, login, admission, door)
@@ -8885,8 +8888,9 @@ appreciate
   :ID:       4c2572ef-e5f0-421f-94cc-9393485e360a
   :END:
 [2017-06-14 Wed 12:35]
-** [ˈfaT͟Həm]
-  вникать
+  
+** вникать
+   [ˈfaT͟Həm]
 
   noun
    1. морская сажень (fathom)
@@ -9033,8 +9037,9 @@ appreciate
   :PROPERTIES:
   :ID:       fed188a9-db58-4305-bb52-619b5147d932
   :END:
-** [aNGˈzī-itē]
-  тревожность
+
+** тревожность
+   [aNGˈzī-itē]
 
   noun
    1. беспокойство (concern, anxiety, worry, trouble, disturbance, unrest)
@@ -9397,8 +9402,8 @@ appreciate
   :ID:       0dd044e3-7b1a-4617-823a-9ddf4ba40f34
   :END:
 
-** [ˈnītiNG-,ˈnītnˌgāl]
-  соловей
+** соловей
+   [ˈnītiNG-,ˈnītnˌgāl]
 
   A small, brown European bird known especially for the beautiful song
   of the male, usually heard during the night
@@ -9408,8 +9413,8 @@ appreciate
   :PROPERTIES:
   :ID:       72dea8db-e5d3-48b9-99d8-4c204b13361e
   :END:
-** [inˈfərmitē]
-  немощь
+** немощь
+   [inˈfərmitē]
 
   noun
    1. немощь (infirmity, debility, invalidity)
@@ -9533,9 +9538,8 @@ appreciate
   :ID:       0695ce95-3ad3-45fb-9c6c-76385ab57187
   :END:
 
-** [əˈkwāntns]
-
-  знакомство
+** знакомство
+   [əˈkwāntns]
 
   noun
    1. знакомство (acquaintance, familiarity, knowledge, acquaintanceship, knowing)
@@ -9554,9 +9558,8 @@ appreciate
   :ID:       7bceb08f-584a-4fc1-a3cf-1c102b7ee16c
   :END:
 
-** [mərTH]
-
-  веселье
+** веселье
+   [mərTH]
 
   noun
   1. веселье (fun, gladness, gaiety, joy, cheer, mirth)
@@ -9594,8 +9597,8 @@ appreciate
   :ID:       07469a7e-55e1-460b-adc8-f3d974344011
   :END:
 
-** [kənˈklo͞od]
-  заключать
+** заключать
+   [kənˈklo͞od]
 
   verb
    1. заключать (conclude, enclose, infer, include, establish, close)
@@ -9619,9 +9622,8 @@ appreciate
   :ID:       6ad14c7b-8e03-4137-a226-999619ca8ee8
   :END:
 
-** [imˈpāSHənt]
-
-  нетерпеливый
+** нетерпеливый
+   [imˈpāSHənt]
 
   adjective
    1. нетерпеливый (impatient, eager, petulant)
@@ -9638,8 +9640,8 @@ appreciate
   :ID:       a1186509-6fc9-4557-9728-cc706a7ddfb8
   :END:
 
-** [ˌdisəˈbēdēənt]
-  непослушный
+** непослушный
+   [ˌdisəˈbēdēənt]
 
   adjective
    1. непослушный (naughty, disobedient, unruly, rebellious, recalcitrant, mischievous)
@@ -9780,8 +9782,8 @@ appreciate
   :ID:       5b1c828d-581e-4332-86ee-87c3e86c9e28
   :END:
 
-** [ˈarəgənt]
-  высокомерный
+** высокомерный
+   [ˈarəgənt]
 
   adjective
    1. высокомерный (arrogant, haughty, contemptuous, lofty, supercilious, snooty)
@@ -10047,8 +10049,8 @@ appreciate
   :ID:       0d9e7585-f4e8-4860-94ab-38b61485adbe
   :END:
 
-** ['wiliNGlē]
-  охотно
+** охотно
+   ['wiliNGlē]
 
   adverb
    1. охотно (willingly, readily, gladly, fain, heartily, soon)
@@ -10062,8 +10064,8 @@ appreciate
   :ID:       d7cede0e-e9bd-47e0-84c4-8a29b4680bed
   :END:
 
-**  [bōst]
-  хвастовство
+** хвастовство
+   [bōst]
 
   verb
    1. похвастать (boast, brag)
@@ -10086,8 +10088,8 @@ appreciate
   :ID:       1ac4cb05-032f-4ed3-8f17-eb00c3bc1e7a
   :END:
 [2017-07-17 Mon 09:04]
-**  [ˈtrī(ə)l]
-  испытание
+** испытание
+   [ˈtrī(ə)l]
 
   adjective
    1. пробный (trial, test, pilot, tentative, experimental, specimen)
@@ -10128,8 +10130,8 @@ appreciate
   :ID:       bc1dd6cd-5e86-40b8-8a69-3eb216bfbee3
   :END:
 
-** [riˈdikyələs]
-  смешной 
+** смешной
+   [riˈdikyələs]
 
   adjective
    1. смешной (funny, ridiculous, ludicrous, comical, laughable, amusing)
@@ -10170,8 +10172,8 @@ appreciate
   :ID:       cb1d9d38-c5a8-4683-85d9-3768b452ca06
   :END:
 
-** [ləˈment]
-  сокрушаться
+** сокрушаться
+   [ləˈment]
 
   verb
    1. оплакивать (mourn, weep, bemoan, lament, bewail, deplore)
@@ -10191,8 +10193,8 @@ appreciate
   :ID:       eb6a4f6f-19ee-4223-8eb7-0a740f4bb5bd
   :END:
 
-** [fāt]
-  судьба
+** судьба
+   [fāt]
 
   noun
    1. судьба (fate, destiny, fortune, lot, luck, doom)
@@ -10216,8 +10218,8 @@ appreciate
   :ID:       2a19fa7b-728f-4dca-a6a2-131711f69894
   :END:
 
-** [präˈsperitē]
-  процветание 
+** процветание
+   [präˈsperitē]
 
    1. процветание (prosperity, flourish, bonanza, thrift, well-being)
    2. благосостояние (welfare, wealth, prosperity, well-being, health, weal)
@@ -10237,8 +10239,8 @@ appreciate
   :ID:       fc86fa8c-2e0e-464c-9492-9c5d35979236
   :END:
 
-** [ˈpro͞odns]
-  предусмотрительность
+** предусмотрительность
+   [ˈpro͞odns]
 
   noun
    1. благоразумие (prudence, discretion, reason, reasonableness, policy)
@@ -10257,8 +10259,9 @@ appreciate
   :ID:       64049f45-e6b1-4a04-a56f-98f29861dbf2
   :END:
 
-** [ˌsərkəmˈspekSHən]
-  осмотрительность 
+** осмотрительность
+   [ˌsərkəmˈspekSHən]
+
    1. осмотрительность (discretion, care, circumspection, prudence, deliberation, wariness)
    2. осторожность (caution, care, prudence, discretion, wariness, circumspection)
    3. настороженность (alertness, circumspection, look-out)
@@ -10291,7 +10294,7 @@ appreciate
   :ID:       d7fddfbe-a6c2-4d9d-9101-c15b27ee1c37
   :END:
 
-** пасть [Listen]
+** пасть
 
   noun
    1. пасть (jaws, maw, trap, yap, chap, chops)
@@ -10307,7 +10310,7 @@ appreciate
   :ID:       9de0edfa-ea14-444e-b542-0b8effef960f
   :END:
 
-** перья [Listen]
+** перья 
 
   noun
    1. перо (pen, feather, nib, plume, blade, style)
@@ -10533,8 +10536,8 @@ appreciate
   :ID:       505803ec-8d40-4ae8-940a-39dd43ba71f1
   :END:
 
-** [ˈpräsiˌkyo͞ot]
-  преследовать в судебном порядке
+** преследовать в судебном порядке
+   [ˈpräsiˌkyo͞ot]
   
   verb
    1. преследовать в судебном порядке (prosecute)
@@ -10557,8 +10560,8 @@ appreciate
   :ID:       f4c5d5b4-fb27-4dce-97ac-51205a8102d8
   :END:
 
-** [diˈnīəl]
-  отказ
+** отказ
+   [diˈnīəl]
 
   noun
    1. отказ (renouncement, refusal, failure, denial, rejection, refusing)
@@ -10609,7 +10612,8 @@ appreciate
   :ID:       54ca0024-811a-4d75-a7a6-d8edcbb93de7
   :END:
 
-** [ˈvenCHər]
+** рисковать
+   [ˈvenCHər]
 
     verb
    1. рисковать (risk, take risks, venture, gamble, jeopardize, take a chance)
@@ -11295,8 +11299,8 @@ appreciate
   :ID:       ea8eede4-3c45-4141-9af0-470151a0f01b
   :END:
 [2017-09-11 Mon 14:48]
-** [gilt]
-   вина 
+** вина
+   [gilt]
 
    noun
     1. вина (fault, guilt, blame, vina)
@@ -11394,8 +11398,8 @@ appreciate
   :ID:       65a23b98-2d87-4a7f-8dab-8c90b28e4798
   :END:
 [2017-09-11 Mon 15:52]
-** [pərˈvāsiv]
-   распространяющийся
+** распространяющийся
+   [pərˈvāsiv]
 
    adjective
     1. распространяющийся (pervasive)
