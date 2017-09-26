@@ -8470,9 +8470,24 @@ My name is Viktoriia Kosinova. I recently in Upwork. But I am very interested in
 
 *** Search::              
 *** Fixit::               
-*** Keyboard Macros::     
-                        
-Major Structures of Emac
+*** DONE Keyboard Macros::
+    CLOSED: [2017-09-26 Tue 09:22]
+    `C-x (’ or <f3>– start defining a keyboard macro
+    `C-x )’ or <f4>– stop defining the keyboard macro
+
+    You want to add the text “– foobar was here” at the end of each of
+    the lines in a file.
+
+    1. Place the TextCursor at the beginning of the first line.
+    2. `C-x (’ or <f3> to start recording a keyboard macro.
+    3. ‘C-e’ (or ‘M-x end-of-line’) to move the cursor to the end of the line.
+    4. Type “-- foobar was here”
+    5. ‘C-a’ (or ‘M-x beginning-of-line’) to move the cursor to the beginning of the line.
+    6. ‘C-n’ (or ‘M-x next-line’) to move the cursor to the beginning of the next line.
+    7. `C-x )’ or <f4> to stop recording the keyboard macro.
+    8. ‘C-u 0 C-x e’ to execute the macro an infinite number of times
+       until the end of the file is reached.
+    
 *** DONE Checking spelling
     CLOSED: [2017-05-28 Sun 12:58]
     Ispell
