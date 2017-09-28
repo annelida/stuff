@@ -17049,6 +17049,52 @@ D.3 The Linux kernel's version n
     #+RESULTS:
     : example1
 
+    Copy hidden file
+
+    #+BEGIN_SRC sh :results output
+    cd ~/practice
+    touch .myhiddenfile
+    ls -la
+    #+END_SRC
+
+    #+RESULTS:
+    #+begin_example
+    total 20940
+    drwxr-xr-x  3 vikky vikky    4096 Sep 28 09:56 .
+    drwxr-xr-x 24 vikky vikky    4096 Sep  6 07:24 ..
+    -rw-r--r--  1 vikky vikky      11 Aug 21 09:19 bob.txt
+    -rw-r--r--  1 vikky vikky    1852 Aug 25 10:06 GPL
+    -rw-r--r--  1 vikky vikky 5349582 Aug 26 08:47 How Linux Works 2nd Edition.pdf
+    -rw-r--r--  1 vikky vikky       6 Aug 21 09:09 myfile
+    -rw-r--r--  1 vikky vikky       0 Sep 28 09:49 .myfile
+    -rw-r--r--  1 vikky vikky 5349582 Aug 26 08:17 myfile.pdf
+    -rw-r--r--  1 vikky vikky       0 Sep 28 09:56 .myhiddenfile
+    -rw-r--r--  1 vikky vikky 5349582 Aug 26 08:47 mynewfile.pdf
+    -rw-r--r--  1 vikky vikky 1048576 Aug 26 08:27 myprefixaa
+    -rw-r--r--  1 vikky vikky 1048576 Aug 26 08:27 myprefixab
+    -rw-r--r--  1 vikky vikky 1048576 Aug 26 08:27 myprefixac
+    -rw-r--r--  1 vikky vikky 1048576 Aug 26 08:27 myprefixad
+    -rw-r--r--  1 vikky vikky 1048576 Aug 26 08:27 myprefixae
+    -rw-r--r--  1 vikky vikky  106702 Aug 26 08:27 myprefixaf
+    -rw-r--r--  1 vikky vikky     767 Aug 18 14:15 myprofile
+    drwxr-xr-x  3 vikky vikky    4096 Sep 28 09:52 mysubdirectory
+#+end_example
+
+    #+BEGIN_SRC sh :results output
+    cd ~/practice
+    cp -r .myhiddenfile mysubdirectory/
+    cd ~/practice/mysubdirectory
+    ls -la
+    #+END_SRC
+
+    #+RESULTS:
+    : total 16
+    : drwxr-xr-x 4 vikky vikky 4096 Sep 28 11:34 .
+    : drwxr-xr-x 3 vikky vikky 4096 Sep 28 09:56 ..
+    : -rw-r--r-- 1 vikky vikky    0 Sep 28 11:36 .myhiddenfile
+    : drwxr-xr-x 3 vikky vikky 4096 Sep 28 11:33 mysubdirectory
+    : drwxr-xr-x 2 vikky vikky 4096 Aug 18 14:36 mysubdirectory2
+
 *** 6. VI - Text Editor
 *** 7. Wildcards
     Wildcards are a set of building blocks that allow you to create a
