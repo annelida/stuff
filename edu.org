@@ -17095,6 +17095,43 @@ D.3 The Linux kernel's version n
     : drwxr-xr-x 3 vikky vikky 4096 Sep 28 11:33 mysubdirectory
     : drwxr-xr-x 2 vikky vikky 4096 Aug 18 14:36 mysubdirectory2
 
+    Define folder's size including hidden files and sub folders
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky
+    du practice/
+    #+END_SRC
+
+    #+RESULTS:
+    : 4	practice/mysubdirectory/mysubdirectory/mysubdirectory2
+    : 8	practice/mysubdirectory/mysubdirectory
+    : 4	practice/mysubdirectory/mysubdirectory2
+    : 16	practice/mysubdirectory
+    : 20948	practice/
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky
+    du -h practice/
+    #+END_SRC
+
+    #+RESULTS:
+    : 4.0K	practice/mysubdirectory/mysubdirectory/mysubdirectory2
+    : 8.0K	practice/mysubdirectory/mysubdirectory
+    : 4.0K	practice/mysubdirectory/mysubdirectory2
+    : 16K	practice/mysubdirectory
+    : 21M	practice/
+
+    List and size hidden directories and files only
+
+    #+BEGIN_SRC sh :results output
+    cd ~/practice
+    du -hs .[!.]*
+    #+END_SRC
+
+    #+RESULTS:
+    : 0	.myfile
+    : 0	.myhiddenfile
+
 *** 6. VI - Text Editor
 *** 7. Wildcards
     Wildcards are a set of building blocks that allow you to create a
