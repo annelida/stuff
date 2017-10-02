@@ -14225,7 +14225,92 @@ C Appendix C: Booting the system
 D Miscellaneous
 D.1 Unix History
 D.2 GNU/Linux History
-D.3 The Linux kernel's version n
+D.3 The Linux kernel's version 
+
+*** Deleting mistakenly copied directories and files from Acer Aspire
+
+    1. Сheck the amount of available disk space
+
+       #+BEGIN_SRC sh :results output
+       df -h
+       #+END_SRC
+
+    2. Backup making
+
+       Define the directory size, including a hidden files and
+       directories
+
+       #+BEGIN_SRC sh :results output
+       du -hs .[^.]* *
+       #+END_SRC
+
+       #+RESULTS:
+=66M	.git
+4.0K	.gitignore
+8.0K	#spanish.org#
+4.0K	#test.org#
+16K	Emacs
+4.0K	LICENSE
+18M	Scrapy
+164K	Scripts
+1.1M	edu.org
+100K	projects
+4.0K	schedule.org
+4.0K	schedule.org~
+8.0K	spanish.org
+4.0K	spanish.org~
+44K	test-sqlite.db
+4.0K	test.org
+4.0K	test.org~
+4.0K	test.txt
+4.0K	test.txt~
+12K	tribute_page.html
+464K	vocabulary.org
+=
+    Check available free space on USB flash
+
+    #+BEGIN_SRC sh :results output
+    df -h
+    #+END_SRC
+
+    Copy one file to USB flash
+
+    #+BEGIN_SRC sh :results output
+    cd /mnt/sda1
+    cp debug.txt /mnt/sdc3/Accer_backup
+    cd /mnt/sdc3/Accer_backup
+    ls -la
+    #+END_SRC
+
+    #+RESULTS:
+    : debug.txt
+
+    Backup /home directories including hidden files
+
+    #+BEGIN_SRC sh :results output
+    cd /mnt/sda1/home
+    cp -r /antony /mnt/sdc3/Accer_backup
+    cp -r /tony  /mnt/sdc3/Accer_backup
+    #+END_SRC
+
+    3. Removing mistakenly copied directories and files
+
+       #+BEGIN_SRC sh :results output
+       cd /mnt/sda1
+       ls -lt
+       rm 21386023_60825thumb650.jpg
+       rm -rf Calibre\Library
+       rm -rf Desktop/
+       rm -rf Documents/
+       rm -rf Downloads/
+       rm -rf Music/
+       rm -rf Pictures/
+       rm -rf Public/
+       rm -rf Templates/
+       rm -rf Videos/
+       rm -rf sqlite-autoconf-3190300
+       #+END_SRC
+
 ** TODO Introduction to Linux:
 1.1. History
 1.1.1. UNIX
