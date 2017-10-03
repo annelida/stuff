@@ -13861,7 +13861,8 @@ Chapter 4 Disks and Filesystems
        and parameters (for example, to enter single-user mode);
      - Provide support for booting other operating systems.
 
-**** TODO 5.5 GRUB Introduction
+**** DONE 5.5 GRUB Introduction
+     CLOSED: [2017-10-03 Tue 08:14]
 
      GRUB stands for Grand Unified Boot Loader. One of GRUB’s most
      important capabilities is filesystem navigation that allows for
@@ -13989,13 +13990,18 @@ Chapter 4 Disks and Filesystems
      8. In the course of executing the configuration, GRUB may load
 	additional code (modules) in the boot partition.
      9. GRUB executes a boot command to load and execute the kernel as
-	specified by the configuration’s linux command.
+        specified by the configuration’s linux command.
 
+**** How User Space Starts
 
-5.6 UEFI Secure Boot Problems
-5.7 Chainloading Other Operating Systems
-5.8 Boot Loader Details
-Chapter 6 How User Space Starts
+     User space starts in roughly this order:
+
+     1. init
+     2. Essential low-level services such as udevd and syslogd
+     3. Network configuration
+     4. Mid- and high-level services (cron, printing, and so on)
+     5. Login prompts, GUIs, and other high-level applications
+	
 6.1 Introduction to init
 6.2 System V Runlevels
 6.3 Identifying Your init
