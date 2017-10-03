@@ -14273,6 +14273,19 @@ D.3 The Linux kernel's version
 12K	tribute_page.html
 464K	vocabulary.org
 =
+
+    #+BEGIN_SRC sh :results output
+    du -hd1
+    #+END_SRC
+
+    #+RESULTS:
+    : 67M	./.git
+    : 100K	./projects
+    : 164K	./Scripts
+    : 16K	./Emacs
+    : 18M	./Scrapy
+    : 86M	.
+
     Check available free space on USB flash
 
     #+BEGIN_SRC sh :results output
