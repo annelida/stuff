@@ -41,6 +41,9 @@
     (key-chord-mode 1)
     (key-chord-define-global "QQ"     'voca-builder/search-popup)
     (key-chord-define-global "FF"     'other-frame)
+    (key-chord-define org-mode-map "DD"     'org-drill)
+    (key-chord-define org-mode-map "AA"     'org-drill-again)
+    (key-chord-define org-mode-map "RR"     'org-drill-resume)
 ;;
 ;;
 ;; (setq org-default-notes-file (concat org-directory "/notes.org"))
