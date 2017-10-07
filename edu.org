@@ -17617,7 +17617,41 @@ D.3 The Linux kernel's version n
 
     tac
     Print the data in reverse order.
+*** The du command
+    The du (i.e., disk usage) command report the sizes of directory
+    trees inclusive of all of their contents and the size of individual files.
 
+    Syntax
+
+    du [options] [directories and/or files]
+
+    The following will report the names and sizes for
+    each directory in the directory tree that begins with
+    a directory named practice/:
+
+    #+BEGIN_SRC sh :results output
+    cd /home/vikky
+    du practice/
+    #+END_SRC
+
+    #+RESULTS:
+    : 4	practice/mysubdirectory/mysubdirectory/mysubdirectory2
+    : 8	practice/mysubdirectory/mysubdirectory
+    : 4	practice/mysubdirectory/mysubdirectory2
+    : 16	practice/mysubdirectory
+    : 20948	practice/
+
+    Likewise, the following will report the sizes of the two files
+    named myfile.pdf and mynewfile.pdf that are located in the
+    /practice directory.
+
+    #+BEGIN_SRC sh :results output
+    du ~/practice/myfile.pdf ~/practice/mynewfile.pdf
+    #+END_SRC
+
+    #+RESULTS:
+    : 5228	/home/vikky/practice/myfile.pdf
+    : 5228	/home/vikky/practice/mynewfile.pdf
 
 *** 10. Grep and Regular Expressions
 
