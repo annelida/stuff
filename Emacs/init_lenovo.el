@@ -22,6 +22,7 @@
    (emacs-lisp . t)
    (sh . t)
    (js . t)
+   (C . t)
    (ditaa . t)
    (plantuml . t)
    (sqlite . t)
