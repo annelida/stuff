@@ -25201,8 +25201,20 @@ ls -l images.jpg
     5. The return statement.
     The return statement return 0; inside the main() function ends
     the program. This statement isn't mandatory.
+*** C identifiers
 
+    Identifier refers to name given to entities such as variables,
+    functions, structures etc.
 
+    Identifier must be unique. They are created to give unique name
+    to a entity to identify it during the execution of the program.
+
+    #+BEGIN_EXAMPLE
+    int money;
+    double accountBalance;
+    #+END_EXAMPLE
+
+    Here, money and acoountBalance are identifiers.
 
 * Git
 ** Cloning and fetch remote repository                                :STUDY:
