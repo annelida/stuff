@@ -25215,6 +25215,22 @@ ls -l images.jpg
     #+END_EXAMPLE
 
     Here, money and acoountBalance are identifiers.
+*** C Variables
+
+    In programming, a variable is a container (storage area) to hold
+    data. To indicate the storage area, rach variable should be
+    a unique name (identifier).
+
+    #+BEGIN_EXAMPLE
+    int playerScore = 95
+    #+END_EXAMPLE
+
+    Here, playerScore is a variable of integer type. The variable
+    is assigned value: 95.
+
+    The value of a variable can be changed, hence the name "variable".
+    In C programming, you have to declare a variable before you can
+    use it.
 
 * Git
 ** Cloning and fetch remote repository                                :STUDY:
