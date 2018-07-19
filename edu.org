@@ -25169,6 +25169,40 @@ ls -l images.jpg
     : Hello world
 
     #+END_SRC
+*** How "Hello, World" program works?
+
+    1. Include stdio.h file in your program.
+    You need to use libraries that are necessary to run the program.
+    The stdio.h is a header file and C compiler knows the location of
+    that file. To use the file, you need to include it in your program
+    using #include preprocessor.
+
+    2. Why do you need stdio.h file in this program?
+    In this program, we have used printf() function. Since printf()
+    is defined in stdio.h, you need to include stdio.h.
+
+    3. The main() function
+    In C programming, the code execution begins from the start
+    of main() function.
+    The code inside the curly braces {} is the body of main()
+    function. The main() function is mandatory in every C program.
+
+    #+BEGIN_SRC C :results output
+    int main() {
+    }
+    #+END_SRC
+
+    This program doesn't do anything but, it's a valid C program.
+
+    4. The printf() function
+    The printf() is a library function that sends formatted output to
+    the screen.
+
+    5. The return statement.
+    The return statement return 0; inside the main() function ends
+    the program. This statement isn't mandatory.
+
+
 
 * Git
 ** Cloning and fetch remote repository                                :STUDY:
