@@ -25231,6 +25231,15 @@ ls -l images.jpg
     The value of a variable can be changed, hence the name "variable".
     In C programming, you have to declare a variable before you can
     use it.
+*** Enumeration constants
+
+    Keyword enum is used to define enumeration types.
+
+    #+BEGIN_EXAMPLE
+    enum color {yellow, green, black, white};
+    #+END_EXAMPLE
+
+    Here, color is a variable and yellow, green, black and white are the enumeration constants having value 0, 1, 2 and 3 respectively.
 
 * Git
 ** Cloning and fetch remote repository                                :STUDY:
