@@ -25240,6 +25240,22 @@ ls -l images.jpg
     #+END_EXAMPLE
 
     Here, color is a variable and yellow, green, black and white are the enumeration constants having value 0, 1, 2 and 3 respectively.
+*** Program to Print an Integer
+
+    #+BEGIN_SRC C :results output
+    #include <stdio.h>
+    int main()
+    {
+        int number;
+        printf("Enter an integer: ");
+        scanf("d", &number);
+        printf("You entered: %d", number);
+        return 0;
+    }
+    #+END_SRC
+
+    #+RESULTS:
+    : Enter an integer: You entered: 4494977
 
 * Git
 ** Cloning and fetch remote repository                                :STUDY:
