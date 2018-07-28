@@ -25231,6 +25231,59 @@ ls -l images.jpg
     The value of a variable can be changed, hence the name "variable".
     In C programming, you have to declare a variable before you can
     use it.
+*** Data types in C
+
+    1. Fundamental Data types
+       - Integer types
+       - Floating type
+       - Character type
+    2. Derived Data Types
+       - Arrays
+       - Pointers
+       - Structures
+       - Enumeration
+    int - Integer data types
+
+    Integers are whole numbers that can have both positive and
+    negative values but no decimal values. Example: 0, -5, 10
+
+    In C programming, keyword int is used for declaring integer
+    variable. For example:
+
+    #+BEGIN_EXAMPLE
+    int id;
+    #+END_EXAMPLE
+
+    You can declare multiple variable at once in C programming.
+    For example:
+
+    #+BEGIN_EXAMPLE
+    int id, age;
+    #+END_EXAMPLE
+
+    float - floating types
+
+    Floating type variable can hold real numbers such as: 2.34,
+    -9.382, 5.0 etc.
+    You can declare a floating point variable in C by using
+    either float or double keyword.
+
+    #+BEGIN_EXAMPLE
+    float accountBalance;
+    double bookPrice;
+    #+END_EXAMPLE
+
+    The size of float (single precision float data type) is 4 bytes. And the size of double (double precision float data type) is 8 bytes.
+    char - Character types
+
+    Keyword char is used for declaring character type variables.
+
+    #+BEGIN_EXAMPLE
+    char test = 'h';
+    #+END_EXAMPLE
+
+
+	 
 *** Enumeration constants
 
     Keyword enum is used to define enumeration types.
