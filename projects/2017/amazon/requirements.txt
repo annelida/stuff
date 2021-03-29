@@ -1,4 +1,4 @@
-Pygments==2.2.0
+Pygments==2.7.4
 amazon-scraper==0.3.3
 appdirs==1.4.3
 argparse==1.2.1
